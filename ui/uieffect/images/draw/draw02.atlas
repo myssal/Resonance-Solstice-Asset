@@ -1,0 +1,174 @@
+
+draw02.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SSRgaoguang
+  rotate: false
+  xy: 2, 263
+  size: 818, 150
+  orig: 900, 180
+  offset: 39, 17
+  index: -1
+SSRguangsu
+  rotate: false
+  xy: 1450, 48
+  size: 374, 71
+  orig: 379, 81
+  offset: 5, 5
+  index: -1
+baidi
+  rotate: false
+  xy: 1669, 289
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+caihong
+  rotate: true
+  xy: 2, 2
+  size: 259, 262
+  orig: 264, 264
+  offset: 1, 1
+  index: -1
+dianguang
+  rotate: false
+  xy: 822, 307
+  size: 217, 216
+  orig: 230, 230
+  offset: 7, 7
+  index: -1
+diwen
+  rotate: false
+  xy: 484, 52
+  size: 209, 209
+  orig: 209, 209
+  offset: 0, 0
+  index: -1
+fashan
+  rotate: false
+  xy: 266, 45
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+guangquan_00003
+  rotate: true
+  xy: 603, 1013
+  size: 487, 486
+  orig: 540, 540
+  offset: 26, 27
+  index: -1
+guangquan_00004
+  rotate: true
+  xy: 1091, 1013
+  size: 487, 486
+  orig: 540, 540
+  offset: 26, 27
+  index: -1
+guangquan_00005
+  rotate: false
+  xy: 603, 525
+  size: 486, 486
+  orig: 540, 540
+  offset: 27, 27
+  index: -1
+guangquan_00006
+  rotate: false
+  xy: 2, 415
+  size: 484, 484
+  orig: 540, 540
+  offset: 28, 28
+  index: -1
+guangquan_00007
+  rotate: false
+  xy: 1091, 526
+  size: 486, 485
+  orig: 540, 540
+  offset: 27, 27
+  index: -1
+guangquan_00008
+  rotate: false
+  xy: 1579, 1022
+  size: 453, 478
+  orig: 540, 540
+  offset: 43, 30
+  index: -1
+guangquan_00009
+  rotate: false
+  xy: 1579, 561
+  size: 456, 459
+  orig: 540, 540
+  offset: 43, 44
+  index: -1
+guangxian3
+  rotate: false
+  xy: 2, 901
+  size: 599, 599
+  orig: 599, 599
+  offset: 0, 0
+  index: -1
+guangxiao
+  rotate: false
+  xy: 1091, 289
+  size: 576, 235
+  orig: 653, 302
+  offset: 77, 35
+  index: -1
+guangxiao02
+  rotate: false
+  xy: 822, 108
+  size: 626, 179
+  orig: 645, 184
+  offset: 5, 0
+  index: -1
+guangyun
+  rotate: true
+  xy: 1884, 17
+  size: 270, 128
+  orig: 270, 152
+  offset: 0, 12
+  index: -1
+lizi_sanjiao1_1
+  rotate: false
+  xy: 509, 745
+  size: 71, 67
+  orig: 90, 90
+  offset: 10, 9
+  index: -1
+lizi_sanjiao2_1
+  rotate: false
+  xy: 509, 676
+  size: 71, 67
+  orig: 90, 90
+  offset: 10, 9
+  index: -1
+lizi_xian
+  rotate: false
+  xy: 488, 457
+  size: 19, 442
+  orig: 29, 670
+  offset: 5, 113
+  index: -1
+lizi_xiaoyu
+  rotate: false
+  xy: 509, 814
+  size: 67, 85
+  orig: 90, 90
+  offset: 12, 2
+  index: -1
+suduxian
+  rotate: false
+  xy: 1450, 121
+  size: 432, 166
+  orig: 432, 170
+  offset: 0, 2
+  index: -1
+yuandian
+  rotate: false
+  xy: 509, 636
+  size: 38, 38
+  orig: 45, 45
+  offset: 4, 3
+  index: -1

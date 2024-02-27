@@ -1,0 +1,146 @@
+
+pilaozhi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+IconBig1
+  rotate: false
+  xy: 411, 440
+  size: 277, 277
+  orig: 407, 299
+  offset: 65, 11
+  index: -1
+IconBig1_1
+  rotate: true
+  xy: 690, 237
+  size: 244, 245
+  orig: 407, 299
+  offset: 98, 11
+  index: -1
+IconBig1_2
+  rotate: false
+  xy: 321, 460
+  size: 26, 54
+  orig: 26, 54
+  offset: 0, 0
+  index: -1
+IconBig3
+  rotate: false
+  xy: 2, 227
+  size: 244, 244
+  orig: 407, 299
+  offset: 82, 27
+  index: -1
+IconBig4
+  rotate: false
+  xy: 2, 473
+  size: 317, 242
+  orig: 407, 299
+  offset: 45, 29
+  index: -1
+IconBig4_1
+  rotate: false
+  xy: 690, 483
+  size: 290, 223
+  orig: 290, 223
+  offset: 0, 0
+  index: -1
+IconBig4_2
+  rotate: false
+  xy: 226, 7
+  size: 89, 110
+  orig: 89, 110
+  offset: 0, 0
+  index: -1
+IconBig5
+  rotate: false
+  xy: 411, 719
+  size: 307, 297
+  orig: 407, 299
+  offset: 50, 1
+  index: -1
+IconBig5_1
+  rotate: false
+  xy: 226, 119
+  size: 105, 95
+  orig: 105, 95
+  offset: 0, 0
+  index: -1
+IconBig5_2
+  rotate: false
+  xy: 2, 3
+  size: 223, 222
+  orig: 223, 222
+  offset: 0, 0
+  index: -1
+IconBig5_3
+  rotate: false
+  xy: 321, 516
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+IconBig5_4
+  rotate: false
+  xy: 321, 648
+  size: 71, 67
+  orig: 71, 67
+  offset: 0, 0
+  index: -1
+IconBig6
+  rotate: true
+  xy: 720, 707
+  size: 309, 279
+  orig: 407, 299
+  offset: 49, 10
+  index: -1
+IconBig6_1
+  rotate: false
+  xy: 248, 216
+  size: 224, 223
+  orig: 224, 223
+  offset: 0, 0
+  index: -1
+IconBig6_2
+  rotate: false
+  xy: 321, 559
+  size: 48, 87
+  orig: 48, 87
+  offset: 0, 0
+  index: -1
+IconBig6_3
+  rotate: false
+  xy: 349, 489
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IconBig6_4
+  rotate: false
+  xy: 367, 532
+  size: 24, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IconBig6_5
+  rotate: false
+  xy: 349, 462
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IconBig6_6
+  rotate: false
+  xy: 371, 629
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+IconBig_bai
+  rotate: false
+  xy: 2, 717
+  size: 407, 299
+  orig: 407, 299
+  offset: 0, 0
+  index: -1

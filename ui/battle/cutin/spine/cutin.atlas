@@ -1,0 +1,97 @@
+
+cutin.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 846, 36
+  size: 162, 166
+  orig: 180, 180
+  offset: 9, 7
+  index: -1
+heidi
+  rotate: false
+  xy: 2, 2
+  size: 770, 49
+  orig: 828, 51
+  offset: 0, 2
+  index: -1
+hong_00000
+  rotate: false
+  xy: 2, 350
+  size: 649, 147
+  orig: 673, 147
+  offset: 0, 0
+  index: -1
+hong_00001
+  rotate: false
+  xy: 2, 648
+  size: 653, 147
+  orig: 673, 147
+  offset: 0, 0
+  index: -1
+hong_00002
+  rotate: false
+  xy: 2, 946
+  size: 654, 147
+  orig: 673, 147
+  offset: 0, 0
+  index: -1
+hong_00003
+  rotate: false
+  xy: 2, 797
+  size: 654, 147
+  orig: 673, 147
+  offset: 0, 0
+  index: -1
+hong_00004
+  rotate: false
+  xy: 2, 499
+  size: 653, 147
+  orig: 673, 147
+  offset: 0, 0
+  index: -1
+suduxian0000
+  rotate: false
+  xy: 2, 134
+  size: 767, 90
+  orig: 1002, 106
+  offset: 0, 10
+  index: -1
+suduxian0001
+  rotate: true
+  xy: 761, 226
+  size: 867, 94
+  orig: 1002, 106
+  offset: 0, 4
+  index: -1
+suduxian0002
+  rotate: false
+  xy: 2, 53
+  size: 842, 79
+  orig: 1002, 106
+  offset: 0, 7
+  index: -1
+suduxian0003
+  rotate: true
+  xy: 857, 204
+  size: 889, 80
+  orig: 1002, 106
+  offset: 0, 4
+  index: -1
+suduxian0004
+  rotate: true
+  xy: 658, 230
+  size: 863, 101
+  orig: 1002, 106
+  offset: 0, 2
+  index: -1
+xian
+  rotate: false
+  xy: 2, 273
+  size: 456, 75
+  orig: 537, 95
+  offset: 0, 0
+  index: -1

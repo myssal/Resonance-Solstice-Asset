@@ -1,0 +1,34 @@
+
+Role of choice_BG.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yun01
+  rotate: false
+  xy: 2, 1375
+  size: 800, 605
+  orig: 800, 616
+  offset: 0, 0
+  index: -1
+yun02
+  rotate: false
+  xy: 2, 889
+  size: 741, 484
+  orig: 854, 551
+  offset: 42, 29
+  index: -1
+yun03
+  rotate: false
+  xy: 2, 2
+  size: 623, 501
+  orig: 628, 501
+  offset: 4, 0
+  index: -1
+yun04
+  rotate: false
+  xy: 2, 505
+  size: 844, 382
+  orig: 845, 384
+  offset: 0, 1
+  index: -1

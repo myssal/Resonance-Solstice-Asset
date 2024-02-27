@@ -1,0 +1,104 @@
+
+Rubedo.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 699, 328
+  size: 398, 144
+  orig: 398, 144
+  offset: 0, 0
+  index: -1
+foot_b
+  rotate: 180
+  xy: 420, 295
+  size: 283, 572
+  orig: 283, 572
+  offset: 0, 0
+  index: -1
+foot_f
+  rotate: false
+  xy: 2, 233
+  size: 294, 634
+  orig: 294, 634
+  offset: 0, 0
+  index: -1
+foot_l
+  rotate: true
+  xy: 106, 132
+  size: 151, 544
+  orig: 151, 544
+  offset: 0, 0
+  index: -1
+foot_r
+  rotate: 180
+  xy: 257, 254
+  size: 186, 613
+  orig: 186, 614
+  offset: 0, 0
+  index: -1
+q1
+  rotate: false
+  xy: 2, 586
+  size: 156, 155
+  orig: 156, 155
+  offset: 0, 0
+  index: -1
+q1_1
+  rotate: false
+  xy: 2, 456
+  size: 79, 128
+  orig: 79, 128
+  offset: 0, 0
+  index: -1
+q1_1_1
+  rotate: false
+  xy: 2, 811
+  size: 15, 57
+  orig: 15, 57
+  offset: 0, 0
+  index: -1
+q1_1_2
+  rotate: false
+  xy: 65, 744
+  size: 40, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+q1_1_3
+  rotate: false
+  xy: 59, 790
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+q2
+  rotate: false
+  xy: 652, 121
+  size: 174, 172
+  orig: 174, 172
+  offset: 0, 0
+  index: -1
+q2_1
+  rotate: false
+  xy: 212, 282
+  size: 71, 158
+  orig: 71, 158
+  offset: 0, 0
+  index: -1
+q3
+  rotate: false
+  xy: 2, 3
+  size: 156, 155
+  orig: 156, 155
+  offset: 0, 0
+  index: -1
+q3_1
+  rotate: false
+  xy: 2, 714
+  size: 64, 154
+  orig: 64, 154
+  offset: 0, 0
+  index: -1

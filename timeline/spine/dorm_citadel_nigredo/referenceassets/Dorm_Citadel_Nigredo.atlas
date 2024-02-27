@@ -1,0 +1,195 @@
+
+Dorm_Citadel_Nigredo.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pifeng01
+  rotate: true
+  xy: 2, 250
+  size: 171, 331
+  orig: 171, 331
+  offset: 0, 0
+  index: -1
+pifeng02
+  rotate: false
+  xy: 2, 308
+  size: 376, 594
+  orig: 376, 594
+  offset: 0, 0
+  index: -1
+pifeng03
+  rotate: false
+  xy: 406, 26
+  size: 103, 142
+  orig: 103, 142
+  offset: 0, 0
+  index: -1
+qunbai
+  rotate: true
+  xy: 670, 456
+  size: 216, 291
+  orig: 216, 291
+  offset: 0, 0
+  index: -1
+shengti01
+  rotate: false
+  xy: 582, 315
+  size: 208, 182
+  orig: 208, 182
+  offset: 0, 0
+  index: -1
+shengti02
+  rotate: false
+  xy: 473, 334
+  size: 108, 99
+  orig: 108, 99
+  offset: 0, 0
+  index: -1
+toubu01
+  rotate: false
+  xy: 116, 97
+  size: 266, 156
+  orig: 266, 156
+  offset: 0, 0
+  index: -1
+toubu02
+  rotate: false
+  xy: 336, 245
+  size: 302, 216
+  orig: 302, 216
+  offset: 0, 0
+  index: -1
+toubu03
+  rotate: false
+  xy: 123, 29
+  size: 101, 92
+  orig: 101, 92
+  offset: 0, 0
+  index: -1
+toubu04
+  rotate: true
+  xy: 792, 293
+  size: 162, 216
+  orig: 162, 216
+  offset: 0, 0
+  index: -1
+toubu05
+  rotate: true
+  xy: 355, 426
+  size: 184, 242
+  orig: 184, 242
+  offset: 0, 0
+  index: -1
+toubu06
+  rotate: false
+  xy: 226, 71
+  size: 223, 133
+  orig: 223, 133
+  offset: 0, 0
+  index: -1
+toubu07
+  rotate: false
+  xy: 538, 647
+  size: 261, 254
+  orig: 261, 254
+  offset: 0, 0
+  index: -1
+wuqi01
+  rotate: 180
+  xy: 366, 537
+  size: 302, 364
+  orig: 302, 364
+  offset: 0, 0
+  index: -1
+wuqi02
+  rotate: false
+  xy: 305, 4
+  size: 407, 347
+  orig: 407, 347
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: false
+  xy: 625, 54
+  size: 212, 154
+  orig: 212, 154
+  offset: 0, 0
+  index: -1
+yiao02
+  rotate: false
+  xy: 940, 620
+  size: 82, 116
+  orig: 82, 116
+  offset: 0, 0
+  index: -1
+yiao03
+  rotate: false
+  xy: 2, 407
+  size: 79, 95
+  orig: 79, 95
+  offset: 0, 0
+  index: -1
+yjiao01
+  rotate: false
+  xy: 788, 652
+  size: 153, 250
+  orig: 153, 250
+  offset: 0, 0
+  index: -1
+yshoubi01
+  rotate: false
+  xy: 819, 127
+  size: 154, 166
+  orig: 154, 166
+  offset: 0, 0
+  index: -1
+yshoubi02
+  rotate: 270
+  xy: 839, 8
+  size: 129, 146
+  orig: 129, 146
+  offset: 0, 0
+  index: -1
+yshoubi03
+  rotate: true
+  xy: 368, 579
+  size: 93, 110
+  orig: 93, 110
+  offset: 0, 0
+  index: -1
+yshoubi04
+  rotate: false
+  xy: 930, 416
+  size: 91, 81
+  orig: 91, 81
+  offset: 0, 0
+  index: -1
+zjiao01
+  rotate: false
+  xy: 723, 137
+  size: 118, 233
+  orig: 118, 233
+  offset: 0, 0
+  index: -1
+zjiao02
+  rotate: false
+  xy: 569, 187
+  size: 129, 81
+  orig: 129, 81
+  offset: 0, 0
+  index: -1
+zshou01
+  rotate: false
+  xy: 20, 85
+  size: 137, 172
+  orig: 137, 172
+  offset: 0, 0
+  index: -1
+zshou02
+  rotate: 180
+  xy: 924, 806
+  size: 96, 95
+  orig: 96, 95
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+UI_jiazai.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LD_hong
+  rotate: false
+  xy: 2, 1302
+  size: 1402, 648
+  orig: 1402, 648
+  offset: 0, 0
+  index: -1
+LD_huang
+  rotate: false
+  xy: 2, 652
+  size: 1402, 648
+  orig: 1402, 648
+  offset: 0, 0
+  index: -1
+LD_lv
+  rotate: false
+  xy: 2, 2
+  size: 1402, 648
+  orig: 1402, 648
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 1406, 1810
+  size: 138, 140
+  orig: 150, 150
+  offset: 6, 5
+  index: -1
+hei
+  rotate: false
+  xy: 1406, 1688
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1

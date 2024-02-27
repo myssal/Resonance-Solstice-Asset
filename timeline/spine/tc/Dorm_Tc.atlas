@@ -1,0 +1,41 @@
+
+Dorm_Tc.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l1
+  rotate: false
+  xy: 222, 155
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+l2
+  rotate: false
+  xy: 222, 121
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+l3
+  rotate: false
+  xy: 222, 87
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+l4
+  rotate: false
+  xy: 222, 53
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tc
+  rotate: false
+  xy: 2, 2
+  size: 218, 185
+  orig: 218, 186
+  offset: 0, 1
+  index: -1

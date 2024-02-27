@@ -1,0 +1,83 @@
+
+CameraClick.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai
+  rotate: false
+  xy: 790, 34
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+hei
+  rotate: false
+  xy: 2, 2
+  size: 234, 108
+  orig: 234, 108
+  offset: 0, 0
+  index: -1
+kuaimen
+  rotate: false
+  xy: 2, 236
+  size: 767, 720
+  orig: 832, 720
+  offset: 65, 0
+  index: -1
+kuaimen02
+  rotate: false
+  xy: 771, 236
+  size: 508, 720
+  orig: 832, 720
+  offset: 324, 0
+  index: -1
+xiangjikuang01
+  rotate: false
+  xy: 238, 45
+  size: 80, 21
+  orig: 80, 21
+  offset: 0, 0
+  index: -1
+xiangjikuang02
+  rotate: false
+  xy: 992, 62
+  size: 172, 172
+  orig: 173, 173
+  offset: 1, 1
+  index: -1
+you01
+  rotate: false
+  xy: 238, 68
+  size: 42, 42
+  orig: 50, 50
+  offset: 4, 4
+  index: -1
+you02
+  rotate: false
+  xy: 260, 33
+  size: 42, 10
+  orig: 50, 50
+  offset: 4, 20
+  index: -1
+you03
+  rotate: false
+  xy: 238, 3
+  size: 20, 40
+  orig: 50, 50
+  offset: 15, 5
+  index: -1
+you04
+  rotate: true
+  xy: 2, 112
+  size: 42, 609
+  orig: 42, 609
+  offset: 0, 0
+  index: -1
+zuo
+  rotate: true
+  xy: 2, 156
+  size: 78, 786
+  orig: 78, 786
+  offset: 0, 0
+  index: -1

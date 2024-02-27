@@ -1,0 +1,195 @@
+
+jiaoyitubiao.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cheng01
+  rotate: true
+  xy: 978, 75
+  size: 59, 191
+  orig: 61, 191
+  offset: 1, 0
+  index: -1
+cheng02
+  rotate: true
+  xy: 2005, 192
+  size: 200, 21
+  orig: 230, 42
+  offset: 15, 10
+  index: -1
+cheng03
+  rotate: true
+  xy: 1511, 33
+  size: 80, 129
+  orig: 80, 129
+  offset: 0, 0
+  index: -1
+jiantou/jiantou_00022
+  rotate: false
+  xy: 1511, 115
+  size: 111, 113
+  orig: 800, 800
+  offset: 300, 307
+  index: -1
+jiantou/jiantou_00023
+  rotate: false
+  xy: 1701, 98
+  size: 143, 137
+  orig: 800, 800
+  offset: 303, 314
+  index: -1
+jiantou/jiantou_00024
+  rotate: true
+  xy: 1546, 230
+  size: 162, 153
+  orig: 800, 800
+  offset: 311, 323
+  index: -1
+jiantou/jiantou_00025
+  rotate: true
+  xy: 1384, 230
+  size: 162, 160
+  orig: 800, 800
+  offset: 331, 340
+  index: -1
+jiantou/jiantou_00026
+  rotate: false
+  xy: 1701, 237
+  size: 150, 155
+  orig: 800, 800
+  offset: 361, 365
+  index: -1
+jiantou/jiantou_00027
+  rotate: false
+  xy: 1384, 94
+  size: 125, 134
+  orig: 800, 800
+  offset: 397, 396
+  index: -1
+jiantou/jiantou_00028
+  rotate: true
+  xy: 1279, 10
+  size: 89, 102
+  orig: 800, 800
+  offset: 433, 428
+  index: -1
+jiantou/jiantou_00029
+  rotate: false
+  xy: 1624, 159
+  size: 64, 69
+  orig: 800, 800
+  offset: 453, 453
+  index: -1
+jiantou/jiantou_00030
+  rotate: true
+  xy: 1990, 138
+  size: 52, 43
+  orig: 800, 800
+  offset: 459, 460
+  index: -1
+jiantou/jiantou_00031
+  rotate: false
+  xy: 1624, 120
+  size: 41, 37
+  orig: 800, 800
+  offset: 464, 454
+  index: -1
+jiantou/jiantou_00032
+  rotate: true
+  xy: 1349, 191
+  size: 18, 23
+  orig: 800, 800
+  offset: 480, 466
+  index: -1
+jiantou/jiantou_00033
+  rotate: false
+  xy: 2028, 380
+  size: 12, 12
+  orig: 800, 800
+  offset: 327, 317
+  index: -1
+jiantou/jiantou_00034
+  rotate: false
+  xy: 1990, 100
+  size: 37, 36
+  orig: 800, 800
+  offset: 327, 317
+  index: -1
+jiantou/jiantou_00036
+  rotate: true
+  xy: 1642, 9
+  size: 87, 98
+  orig: 800, 800
+  offset: 327, 317
+  index: -1
+jiantou/jiantou_00038
+  rotate: false
+  xy: 1853, 76
+  size: 135, 164
+  orig: 800, 800
+  offset: 327, 317
+  index: -1
+jiantou/jiantou_00040
+  rotate: false
+  xy: 1234, 211
+  size: 148, 181
+  orig: 800, 800
+  offset: 327, 317
+  index: -1
+jiaoyishibai
+  rotate: false
+  xy: 328, 69
+  size: 323, 323
+  orig: 800, 800
+  offset: 240, 241
+  index: -1
+jiaoyishibai02
+  rotate: false
+  xy: 978, 136
+  size: 254, 256
+  orig: 510, 402
+  offset: 129, 72
+  index: -1
+kanjia01
+  rotate: false
+  xy: 1853, 242
+  size: 150, 150
+  orig: 510, 402
+  offset: 173, 118
+  index: -1
+kanjia02
+  rotate: true
+  xy: 1171, 2
+  size: 97, 106
+  orig: 510, 402
+  offset: 241, 194
+  index: -1
+kanjia03
+  rotate: false
+  xy: 1234, 101
+  size: 113, 108
+  orig: 510, 402
+  offset: 173, 118
+  index: -1
+kanjia04
+  rotate: false
+  xy: 1742, 3
+  size: 88, 93
+  orig: 510, 402
+  offset: 202, 179
+  index: -1
+kanjiachenggong
+  rotate: false
+  xy: 2, 64
+  size: 324, 328
+  orig: 800, 800
+  offset: 239, 237
+  index: -1
+taijiachenggong
+  rotate: false
+  xy: 653, 69
+  size: 323, 323
+  orig: 800, 800
+  offset: 239, 241
+  index: -1

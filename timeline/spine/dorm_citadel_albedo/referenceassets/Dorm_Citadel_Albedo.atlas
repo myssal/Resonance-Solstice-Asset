@@ -1,0 +1,160 @@
+
+Dorm_Citadel_Albedo.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+st00
+  rotate: false
+  xy: 895, 597
+  size: 112, 154
+  orig: 112, 154
+  offset: 0, 0
+  index: -1
+st01
+  rotate: false
+  xy: 2, 311
+  size: 282, 439
+  orig: 282, 439
+  offset: 0, 0
+  index: -1
+tou00
+  rotate: 180
+  xy: 334, 3
+  size: 164, 110
+  orig: 164, 110
+  offset: 0, 0
+  index: -1
+tou01
+  rotate: true
+  xy: 694, 548
+  size: 203, 201
+  orig: 203, 201
+  offset: 0, 0
+  index: -1
+youbi01
+  rotate: true
+  xy: 147, 73
+  size: 131, 181
+  orig: 131, 181
+  offset: 0, 0
+  index: -1
+youbi02
+  rotate: 180
+  xy: 270, 139
+  size: 170, 611
+  orig: 193, 611
+  offset: 0, 0
+  index: -1
+youbi03
+  rotate: false
+  xy: 765, 63
+  size: 250, 112
+  orig: 250, 112
+  offset: 0, 0
+  index: -1
+youjiao01
+  rotate: 270
+  xy: 690, 160
+  size: 122, 332
+  orig: 122, 332
+  offset: 0, 0
+  index: -1
+youjiao02
+  rotate: true
+  xy: 43, 202
+  size: 114, 278
+  orig: 114, 278
+  offset: 0, 0
+  index: -1
+youshou00
+  rotate: false
+  xy: 748, 3
+  size: 134, 100
+  orig: 134, 100
+  offset: 0, 0
+  index: -1
+youshou01
+  rotate: false
+  xy: 186, 609
+  size: 82, 78
+  orig: 82, 78
+  offset: 0, 0
+  index: -1
+youshou02
+  rotate: false
+  xy: 656, 37
+  size: 144, 131
+  orig: 144, 131
+  offset: 0, 0
+  index: -1
+youshou03
+  rotate: true
+  xy: 578, 381
+  size: 370, 138
+  orig: 370, 138
+  offset: 0, 0
+  index: -1
+zuobi01
+  rotate: false
+  xy: 432, 160
+  size: 148, 590
+  orig: 148, 590
+  offset: 0, 0
+  index: -1
+zuobi02
+  rotate: false
+  xy: 110, 658
+  size: 201, 92
+  orig: 201, 92
+  offset: 0, 0
+  index: -1
+zuojiao01
+  rotate: 270
+  xy: 376, 60
+  size: 155, 311
+  orig: 155, 311
+  offset: 0, 0
+  index: -1
+zuojiao02
+  rotate: 270
+  xy: 712, 386
+  size: 162, 266
+  orig: 162, 266
+  offset: 0, 0
+  index: -1
+zuoshou01
+  rotate: 180
+  xy: 2, 11
+  size: 167, 173
+  orig: 167, 173
+  offset: 0, 0
+  index: -1
+zuoshou02
+  rotate: false
+  xy: 573, 229
+  size: 264, 198
+  orig: 264, 198
+  offset: 0, 0
+  index: -1
+zuoshou03
+  rotate: true
+  xy: 820, 270
+  size: 119, 102
+  orig: 119, 102
+  offset: 0, 0
+  index: -1
+zuoshou04
+  rotate: false
+  xy: 926, 306
+  size: 96, 94
+  orig: 96, 94
+  offset: 0, 0
+  index: -1
+zuoshou05
+  rotate: false
+  xy: 417, 683
+  size: 46, 67
+  orig: 46, 67
+  offset: 0, 0
+  index: -1

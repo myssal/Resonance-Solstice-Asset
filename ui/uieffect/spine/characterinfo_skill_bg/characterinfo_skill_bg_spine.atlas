@@ -1,0 +1,55 @@
+
+characterinfo_skill_bg_spine.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+characterinfo_skill_bg2
+  rotate: false
+  xy: 2, 935
+  size: 528, 1083
+  orig: 532, 1088
+  offset: 2, 3
+  index: -1
+dianguang
+  rotate: false
+  xy: 532, 1777
+  size: 241, 241
+  orig: 256, 256
+  offset: 8, 7
+  index: -1
+fanye_00000
+  rotate: false
+  xy: 2, 676
+  size: 577, 257
+  orig: 582, 481
+  offset: 5, 222
+  index: -1
+fanye_00001
+  rotate: false
+  xy: 2, 443
+  size: 576, 231
+  orig: 582, 481
+  offset: 6, 159
+  index: -1
+fanye_00002
+  rotate: false
+  xy: 2, 221
+  size: 556, 220
+  orig: 582, 481
+  offset: 20, 89
+  index: -1
+fanye_00003
+  rotate: false
+  xy: 2, 2
+  size: 530, 217
+  orig: 582, 481
+  offset: 49, 13
+  index: -1
+fanye_00004
+  rotate: true
+  xy: 532, 1441
+  size: 334, 159
+  orig: 582, 481
+  offset: 246, 1
+  index: -1

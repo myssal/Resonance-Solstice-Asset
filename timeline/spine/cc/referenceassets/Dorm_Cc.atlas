@@ -1,0 +1,62 @@
+
+Dorm_Cc.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cc1
+  rotate: true
+  xy: 2, 81
+  size: 381, 397
+  orig: 381, 397
+  offset: 0, 0
+  index: -1
+cc2
+  rotate: false
+  xy: 651, 252
+  size: 128, 290
+  orig: 128, 290
+  offset: 0, 0
+  index: -1
+cc3
+  rotate: false
+  xy: 401, 2
+  size: 248, 540
+  orig: 248, 540
+  offset: 0, 0
+  index: -1
+cc4
+  rotate: false
+  xy: 2, 464
+  size: 397, 508
+  orig: 397, 508
+  offset: 0, 0
+  index: -1
+cc5
+  rotate: false
+  xy: 401, 544
+  size: 314, 428
+  orig: 314, 428
+  offset: 0, 0
+  index: -1
+ccql01
+  rotate: false
+  xy: 651, 129
+  size: 126, 121
+  orig: 126, 121
+  offset: 0, 0
+  index: -1
+ccql02
+  rotate: true
+  xy: 717, 846
+  size: 126, 120
+  orig: 126, 120
+  offset: 0, 0
+  index: -1
+ccql03
+  rotate: false
+  xy: 651, 6
+  size: 126, 121
+  orig: 126, 121
+  offset: 0, 0
+  index: -1

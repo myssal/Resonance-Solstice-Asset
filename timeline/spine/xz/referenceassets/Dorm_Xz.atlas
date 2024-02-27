@@ -1,0 +1,13 @@
+
+Dorm_Xz.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zx
+  rotate: false
+  xy: 2, 2
+  size: 261, 250
+  orig: 900, 900
+  offset: 300, 309
+  index: -1
