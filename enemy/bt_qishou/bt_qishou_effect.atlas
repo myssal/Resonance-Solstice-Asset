@@ -1,0 +1,139 @@
+
+bt_qishou_effect.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SZguang_00000
+  rotate: false
+  xy: 235, 188
+  size: 319, 147
+  orig: 595, 386
+  offset: 29, 205
+  index: -1
+SZguang_00001
+  rotate: false
+  xy: 2, 339
+  size: 483, 325
+  orig: 595, 386
+  offset: 87, 25
+  index: -1
+SZguang_00002
+  rotate: false
+  xy: 487, 337
+  size: 415, 327
+  orig: 595, 386
+  offset: 160, 19
+  index: -1
+SZguang_00003
+  rotate: false
+  xy: 904, 349
+  size: 340, 315
+  orig: 595, 386
+  offset: 239, 15
+  index: -1
+SZguang_00004
+  rotate: false
+  xy: 1246, 382
+  size: 269, 282
+  orig: 595, 386
+  offset: 312, 13
+  index: -1
+SZguang_00005
+  rotate: true
+  xy: 2, 133
+  size: 204, 231
+  orig: 595, 386
+  offset: 375, 15
+  index: -1
+dianbohuan
+  rotate: false
+  xy: 556, 144
+  size: 187, 191
+  orig: 200, 200
+  offset: 5, 3
+  index: -1
+dianguang01
+  rotate: false
+  xy: 1140, 246
+  size: 102, 101
+  orig: 128, 128
+  offset: 14, 15
+  index: -1
+dianguang02
+  rotate: false
+  xy: 745, 216
+  size: 119, 119
+  orig: 128, 128
+  offset: 5, 4
+  index: -1
+guangxian
+  rotate: false
+  xy: 423, 112
+  size: 360, 30
+  orig: 360, 30
+  offset: 0, 0
+  index: -1
+quanguang
+  rotate: false
+  xy: 1756, 6
+  size: 198, 168
+  orig: 260, 260
+  offset: 50, 4
+  index: -1
+shizi
+  rotate: false
+  xy: 1140, 164
+  size: 80, 80
+  orig: 128, 128
+  offset: 24, 24
+  index: -1
+shouji_00000
+  rotate: true
+  xy: 1517, 394
+  size: 270, 242
+  orig: 320, 320
+  offset: 28, 36
+  index: -1
+shouji_00001
+  rotate: true
+  xy: 1517, 144
+  size: 248, 237
+  orig: 320, 320
+  offset: 42, 39
+  index: -1
+shouji_00002
+  rotate: false
+  xy: 1761, 176
+  size: 250, 236
+  orig: 320, 320
+  offset: 42, 37
+  index: -1
+shouji_00003
+  rotate: true
+  xy: 1761, 414
+  size: 250, 241
+  orig: 320, 320
+  offset: 45, 34
+  index: -1
+shouji_00004
+  rotate: false
+  xy: 1246, 142
+  size: 240, 238
+  orig: 320, 320
+  offset: 43, 36
+  index: -1
+shouji_00005
+  rotate: true
+  xy: 904, 131
+  size: 216, 234
+  orig: 320, 320
+  offset: 53, 39
+  index: -1
+shouji_00006
+  rotate: true
+  xy: 234, 2
+  size: 184, 186
+  orig: 320, 320
+  offset: 74, 62
+  index: -1

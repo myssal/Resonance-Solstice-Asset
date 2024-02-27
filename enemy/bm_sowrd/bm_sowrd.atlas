@@ -1,0 +1,146 @@
+
+bm_sowrd.png
+size: 256,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11
+  rotate: false
+  xy: 2, 689
+  size: 205, 321
+  orig: 320, 371
+  offset: 114, 46
+  index: -1
+1_0
+  rotate: false
+  xy: 39, 209
+  size: 168, 89
+  orig: 168, 89
+  offset: 0, 0
+  index: -1
+1_1
+  rotate: true
+  xy: 2, 3
+  size: 80, 93
+  orig: 82, 95
+  offset: 1, 1
+  index: -1
+1_10
+  rotate: true
+  xy: 209, 858
+  size: 70, 24
+  orig: 70, 24
+  offset: 0, 0
+  index: -1
+1_11
+  rotate: true
+  xy: 62, 288
+  size: 96, 145
+  orig: 96, 145
+  offset: 0, 0
+  index: -1
+1_12
+  rotate: 270
+  xy: 2, 139
+  size: 77, 139
+  orig: 77, 139
+  offset: 0, 0
+  index: -1
+1_13
+  rotate: false
+  xy: 181, 6
+  size: 55, 85
+  orig: 57, 85
+  offset: 2, 0
+  index: -1
+1_14
+  rotate: true
+  xy: 95, 46
+  size: 63, 98
+  orig: 63, 98
+  offset: 0, 0
+  index: -1
+1_15
+  rotate: false
+  xy: 209, 971
+  size: 39, 39
+  orig: 41, 41
+  offset: 1, 1
+  index: -1
+1_16
+  rotate: 180
+  xy: 208, 648
+  size: 44, 58
+  orig: 44, 58
+  offset: 0, 0
+  index: -1
+1_17
+  rotate: false
+  xy: 188, 482
+  size: 47, 82
+  orig: 47, 82
+  offset: 0, 0
+  index: -1
+1_18
+  rotate: false
+  xy: 2, 583
+  size: 187, 104
+  orig: 187, 104
+  offset: 0, 0
+  index: -1
+1_19
+  rotate: true
+  xy: 62, 462
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+1_2
+  rotate: false
+  xy: 178, 179
+  size: 39, 67
+  orig: 39, 67
+  offset: 0, 0
+  index: -1
+1_3
+  rotate: false
+  xy: 185, 566
+  size: 49, 88
+  orig: 49, 88
+  offset: 0, 0
+  index: -1
+1_4
+  rotate: false
+  xy: 209, 930
+  size: 35, 39
+  orig: 37, 41
+  offset: 1, 1
+  index: -1
+1_5_1
+  rotate: 270
+  xy: 175, 290
+  size: 170, 69
+  orig: 170, 69
+  offset: 0, 0
+  index: -1
+1_7
+  rotate: false
+  xy: 2, 85
+  size: 233, 95
+  orig: 233, 95
+  offset: 0, 0
+  index: -1
+1_8
+  rotate: true
+  xy: 2, 367
+  size: 118, 134
+  orig: 118, 134
+  offset: 0, 0
+  index: -1
+1_9
+  rotate: false
+  xy: 194, 93
+  size: 12, 31
+  orig: 12, 31
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,167 @@
+
+treetrolls2_effect.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/bo_00016
+  rotate: false
+  xy: 537, 1074
+  size: 148, 179
+  orig: 194, 214
+  offset: 23, 0
+  index: -1
+effect/diguang_00013
+  rotate: false
+  xy: 2, 1707
+  size: 309, 308
+  orig: 324, 322
+  offset: 11, 0
+  index: -1
+effect/dilie_00026
+  rotate: true
+  xy: 683, 155
+  size: 744, 18
+  orig: 904, 115
+  offset: 84, 43
+  index: -1
+effect/dilieguang_00026
+  rotate: true
+  xy: 703, 152
+  size: 747, 12
+  orig: 904, 115
+  offset: 82, 43
+  index: -1
+effect/glow2_00017
+  rotate: false
+  xy: 300, 280
+  size: 269, 270
+  orig: 305, 305
+  offset: 17, 14
+  index: -1
+effect/glow_00015
+  rotate: false
+  xy: 559, 156
+  size: 122, 122
+  orig: 153, 155
+  offset: 14, 17
+  index: -1
+effect/jiguang_00014
+  rotate: true
+  xy: 528, 1432
+  size: 335, 100
+  orig: 360, 305
+  offset: 25, 100
+  index: -1
+effect/kuosan/kuosan_00014
+  rotate: false
+  xy: 323, 1423
+  size: 134, 136
+  orig: 324, 322
+  offset: 95, 85
+  index: -1
+effect/kuosan/kuosan_00015
+  rotate: false
+  xy: 531, 1255
+  size: 172, 175
+  orig: 324, 322
+  offset: 76, 66
+  index: -1
+effect/kuosan/kuosan_00016
+  rotate: false
+  xy: 321, 1203
+  size: 208, 211
+  orig: 324, 322
+  offset: 58, 48
+  index: -1
+effect/kuosan/kuosan_00017
+  rotate: false
+  xy: 313, 1769
+  size: 245, 246
+  orig: 324, 322
+  offset: 40, 31
+  index: -1
+effect/kuosan/kuosan_00018
+  rotate: true
+  xy: 2, 2
+  size: 275, 278
+  orig: 324, 322
+  offset: 25, 15
+  index: -1
+effect/kuosan/kuosan_00019
+  rotate: false
+  xy: 323, 1561
+  size: 203, 206
+  orig: 324, 322
+  offset: 61, 51
+  index: -1
+effect/quan_00008
+  rotate: false
+  xy: 282, 2
+  size: 275, 275
+  orig: 324, 322
+  offset: 25, 25
+  index: -1
+effect/xian/xian_00012
+  rotate: false
+  xy: 559, 69
+  size: 63, 85
+  orig: 324, 322
+  offset: 141, 106
+  index: -1
+effect/xian/xian_00013
+  rotate: false
+  xy: 537, 901
+  size: 149, 171
+  orig: 324, 322
+  offset: 100, 71
+  index: -1
+effect/xian/xian_00014
+  rotate: false
+  xy: 317, 874
+  size: 218, 250
+  orig: 324, 322
+  offset: 65, 43
+  index: -1
+effect/xian/xian_00015
+  rotate: false
+  xy: 312, 558
+  size: 249, 278
+  orig: 324, 322
+  offset: 54, 31
+  index: -1
+effect/xian/xian_00016
+  rotate: true
+  xy: 2, 279
+  size: 271, 296
+  orig: 324, 322
+  offset: 46, 21
+  index: -1
+effect/xian/xian_00017
+  rotate: true
+  xy: 2, 552
+  size: 284, 308
+  orig: 324, 322
+  offset: 40, 14
+  index: -1
+effect/xian/xian_00018
+  rotate: true
+  xy: 2, 838
+  size: 286, 313
+  orig: 324, 322
+  offset: 38, 9
+  index: -1
+effect/xian/xian_00019
+  rotate: true
+  xy: 2, 1126
+  size: 288, 317
+  orig: 324, 322
+  offset: 36, 5
+  index: -1
+effect/xian/xian_00020
+  rotate: true
+  xy: 2, 1416
+  size: 289, 319
+  orig: 324, 322
+  offset: 35, 3
+  index: -1

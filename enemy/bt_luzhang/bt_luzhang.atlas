@@ -1,0 +1,27 @@
+
+bt_luzhang.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 10
+  size: 241, 291
+  orig: 241, 291
+  offset: 0, 0
+  index: -1
+d
+  rotate: true
+  xy: 245, 2
+  size: 299, 215
+  orig: 299, 215
+  offset: 0, 0
+  index: -1
+heiying
+  rotate: true
+  xy: 462, 2
+  size: 292, 220
+  orig: 292, 220
+  offset: 0, 0
+  index: -1

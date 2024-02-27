@@ -1,0 +1,174 @@
+
+Tree_vulture.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cjhs_0
+  rotate: false
+  xy: 419, 107
+  size: 69, 101
+  orig: 71, 103
+  offset: 1, 1
+  index: -1
+cjhs_0_1
+  rotate: true
+  xy: 334, 71
+  size: 43, 82
+  orig: 45, 86
+  offset: 1, 2
+  index: -1
+cjhs_1
+  rotate: false
+  xy: 829, 114
+  size: 45, 94
+  orig: 48, 96
+  offset: 1, 1
+  index: -1
+cjhs_10
+  rotate: false
+  xy: 334, 116
+  size: 83, 92
+  orig: 85, 94
+  offset: 1, 1
+  index: -1
+cjhs_11
+  rotate: false
+  xy: 469, 26
+  size: 87, 182
+  orig: 87, 182
+  offset: 0, 0
+  index: -1
+cjhs_12
+  rotate: false
+  xy: 490, 167
+  size: 18, 41
+  orig: 20, 43
+  offset: 1, 1
+  index: -1
+cjhs_13
+  rotate: false
+  xy: 558, 106
+  size: 63, 102
+  orig: 65, 104
+  offset: 1, 1
+  index: -1
+cjhs_14
+  rotate: true
+  xy: 823, 74
+  size: 29, 86
+  orig: 66, 88
+  offset: 23, 1
+  index: -1
+cjhs_15
+  rotate: 180
+  xy: 955, 10
+  size: 59, 101
+  orig: 59, 101
+  offset: 0, 0
+  index: -1
+cjhs_16
+  rotate: false
+  xy: 641, 18
+  size: 88, 84
+  orig: 88, 84
+  offset: 0, 0
+  index: -1
+cjhs_17
+  rotate: false
+  xy: 251, 2
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+cjhs_18
+  rotate: 180
+  xy: 875, 17
+  size: 110, 107
+  orig: 110, 107
+  offset: 0, 0
+  index: -1
+cjhs_19
+  rotate: true
+  xy: 524, 37
+  size: 70, 120
+  orig: 70, 120
+  offset: 0, 0
+  index: -1
+cjhs_2
+  rotate: false
+  xy: 623, 109
+  size: 59, 99
+  orig: 61, 101
+  offset: 1, 1
+  index: -1
+cjhs_20
+  rotate: true
+  xy: 361, 8
+  size: 61, 117
+  orig: 61, 124
+  offset: 0, 7
+  index: -1
+cjhs_21
+  rotate: false
+  xy: 970, 159
+  size: 49, 49
+  orig: 51, 51
+  offset: 1, 1
+  index: -1
+cjhs_3
+  rotate: false
+  xy: 251, 113
+  size: 81, 95
+  orig: 83, 97
+  offset: 1, 1
+  index: -1
+cjhs_4
+  rotate: false
+  xy: 738, 103
+  size: 89, 105
+  orig: 89, 105
+  offset: 0, 0
+  index: -1
+cjhs_5
+  rotate: false
+  xy: 684, 104
+  size: 52, 104
+  orig: 54, 106
+  offset: 1, 1
+  index: -1
+cjhs_6
+  rotate: 270
+  xy: 738, 29
+  size: 105, 83
+  orig: 105, 83
+  offset: 0, 0
+  index: -1
+cjhs_7
+  rotate: true
+  xy: 918, 126
+  size: 82, 50
+  orig: 84, 52
+  offset: 1, 1
+  index: -1
+cjhs_8
+  rotate: false
+  xy: 876, 105
+  size: 40, 103
+  orig: 42, 105
+  offset: 1, 1
+  index: -1
+cjhs_9
+  rotate: false
+  xy: 970, 112
+  size: 49, 45
+  orig: 51, 47
+  offset: 1, 1
+  index: -1
+dead
+  rotate: false
+  xy: 2, 13
+  size: 247, 195
+  orig: 249, 201
+  offset: 2, 4
+  index: -1

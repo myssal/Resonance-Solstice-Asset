@@ -1,0 +1,195 @@
+
+Tree_crab.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A1
+  rotate: false
+  xy: 466, 8
+  size: 28, 45
+  orig: 30, 47
+  offset: 1, 1
+  index: -1
+A2
+  rotate: false
+  xy: 634, 3
+  size: 50, 59
+  orig: 52, 61
+  offset: 1, 1
+  index: -1
+A3
+  rotate: false
+  xy: 198, 6
+  size: 100, 70
+  orig: 102, 72
+  offset: 1, 1
+  index: -1
+B1
+  rotate: false
+  xy: 77, 265
+  size: 27, 35
+  orig: 29, 37
+  offset: 1, 1
+  index: -1
+B2
+  rotate: false
+  xy: 920, 102
+  size: 33, 42
+  orig: 35, 44
+  offset: 1, 1
+  index: -1
+B3
+  rotate: false
+  xy: 106, 271
+  size: 27, 29
+  orig: 29, 31
+  offset: 1, 1
+  index: -1
+C1
+  rotate: false
+  xy: 889, 7
+  size: 27, 35
+  orig: 29, 37
+  offset: 1, 1
+  index: -1
+C2
+  rotate: false
+  xy: 428, 7
+  size: 36, 42
+  orig: 38, 44
+  offset: 1, 1
+  index: -1
+C3
+  rotate: false
+  xy: 686, 8
+  size: 26, 29
+  orig: 28, 31
+  offset: 1, 1
+  index: -1
+D1
+  rotate: false
+  xy: 920, 55
+  size: 28, 45
+  orig: 30, 47
+  offset: 1, 1
+  index: -1
+D2
+  rotate: true
+  xy: 788, 3
+  size: 50, 58
+  orig: 52, 60
+  offset: 1, 1
+  index: -1
+D3
+  rotate: true
+  xy: 848, 44
+  size: 100, 70
+  orig: 102, 73
+  offset: 1, 2
+  index: -1
+dian
+  rotate: false
+  xy: 510, 64
+  size: 175, 175
+  orig: 247, 247
+  offset: 33, 37
+  index: -1
+dun1
+  rotate: false
+  xy: 687, 128
+  size: 122, 172
+  orig: 124, 174
+  offset: 1, 1
+  index: -1
+dun2
+  rotate: false
+  xy: 566, 8
+  size: 66, 54
+  orig: 68, 56
+  offset: 1, 1
+  index: -1
+dun3
+  rotate: true
+  xy: 687, 39
+  size: 87, 99
+  orig: 89, 101
+  offset: 1, 1
+  index: -1
+piaodai1_guang
+  rotate: 180
+  xy: 2, 57
+  size: 441, 133
+  orig: 441, 133
+  offset: 0, 0
+  index: -1
+piaodai2_guang
+  rotate: false
+  xy: 2, 163
+  size: 506, 138
+  orig: 506, 138
+  offset: 0, 0
+  index: -1
+qiu
+  rotate: false
+  xy: 884, 240
+  size: 55, 55
+  orig: 57, 57
+  offset: 1, 1
+  index: -1
+shenti1
+  rotate: false
+  xy: 500, 4
+  size: 64, 58
+  orig: 66, 61
+  offset: 1, 1
+  index: -1
+shenti2
+  rotate: false
+  xy: 2, 263
+  size: 73, 37
+  orig: 75, 39
+  offset: 1, 1
+  index: -1
+touke
+  rotate: true
+  xy: 884, 146
+  size: 92, 76
+  orig: 92, 76
+  offset: 0, 0
+  index: -1
+weiba1
+  rotate: false
+  xy: 300, 10
+  size: 208, 107
+  orig: 208, 107
+  offset: 0, 0
+  index: -1
+weiba2
+  rotate: 270
+  xy: 811, 55
+  size: 245, 72
+  orig: 245, 77
+  offset: 0, 5
+  index: -1
+wuqi1
+  rotate: false
+  xy: 106, 12
+  size: 90, 50
+  orig: 92, 52
+  offset: 1, 1
+  index: -1
+wuqi2
+  rotate: false
+  xy: 2, 12
+  size: 85, 43
+  orig: 87, 45
+  offset: 1, 1
+  index: -1
+wuqi3
+  rotate: false
+  xy: 848, 5
+  size: 39, 37
+  orig: 41, 39
+  offset: 1, 1
+  index: -1

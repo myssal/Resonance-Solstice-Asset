@@ -1,0 +1,558 @@
+
+BOSS_Shire_bot_effect.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/DDdaodan
+  rotate: false
+  xy: 2, 52
+  size: 149, 39
+  orig: 149, 39
+  offset: 0, 0
+  index: -1
+effect/baiyan/baiyan_00063
+  rotate: false
+  xy: 1301, 1466
+  size: 392, 286
+  orig: 487, 375
+  offset: 49, 39
+  index: -1
+effect/baiyan/baiyan_00064
+  rotate: true
+  xy: 1695, 1255
+  size: 391, 286
+  orig: 487, 375
+  offset: 49, 38
+  index: -1
+effect/baiyan/baiyan_00065
+  rotate: false
+  xy: 395, 1147
+  size: 389, 287
+  orig: 487, 375
+  offset: 50, 37
+  index: -1
+effect/baiyan/baiyan_00066
+  rotate: false
+  xy: 1576, 890
+  size: 389, 286
+  orig: 487, 375
+  offset: 50, 37
+  index: -1
+effect/baiyan/baiyan_00067
+  rotate: false
+  xy: 786, 881
+  size: 388, 286
+  orig: 487, 375
+  offset: 50, 36
+  index: -1
+effect/baiyan/baiyan_00068
+  rotate: false
+  xy: 2, 865
+  size: 389, 285
+  orig: 487, 375
+  offset: 49, 36
+  index: -1
+effect/baiyan/baiyan_00069
+  rotate: false
+  xy: 1176, 605
+  size: 389, 284
+  orig: 487, 375
+  offset: 49, 36
+  index: -1
+effect/baiyan/baiyan_00070
+  rotate: false
+  xy: 2, 576
+  size: 389, 283
+  orig: 487, 375
+  offset: 50, 36
+  index: -1
+effect/baiyan/baiyan_00071
+  rotate: false
+  xy: 393, 576
+  size: 389, 283
+  orig: 487, 375
+  offset: 50, 36
+  index: -1
+effect/baiyan/baiyan_00072
+  rotate: false
+  xy: 1567, 605
+  size: 390, 283
+  orig: 487, 375
+  offset: 50, 36
+  index: -1
+effect/baiyan/baiyan_00073
+  rotate: false
+  xy: 393, 861
+  size: 390, 284
+  orig: 487, 375
+  offset: 50, 36
+  index: -1
+effect/baiyan/baiyan_00074
+  rotate: false
+  xy: 1183, 891
+  size: 391, 285
+  orig: 487, 375
+  offset: 50, 36
+  index: -1
+effect/baiyan/baiyan_00075
+  rotate: false
+  xy: 1301, 1178
+  size: 391, 286
+  orig: 487, 375
+  offset: 50, 36
+  index: -1
+effect/baiyan/baiyan_00076
+  rotate: false
+  xy: 790, 1169
+  size: 391, 286
+  orig: 487, 375
+  offset: 50, 36
+  index: -1
+effect/baiyan/baiyan_00077
+  rotate: false
+  xy: 2, 1152
+  size: 391, 286
+  orig: 487, 375
+  offset: 50, 37
+  index: -1
+effect/baiyan/baiyan_00078
+  rotate: false
+  xy: 906, 1457
+  size: 393, 286
+  orig: 487, 375
+  offset: 48, 37
+  index: -1
+effect/baiyan/baiyan_00079
+  rotate: false
+  xy: 1301, 1754
+  size: 393, 287
+  orig: 487, 375
+  offset: 48, 37
+  index: -1
+effect/baiyan/baiyan_00080
+  rotate: true
+  xy: 1696, 1648
+  size: 393, 287
+  orig: 487, 375
+  offset: 48, 37
+  index: -1
+effect/baiyan/baiyan_00081
+  rotate: false
+  xy: 2, 1440
+  size: 392, 286
+  orig: 487, 375
+  offset: 49, 38
+  index: -1
+effect/baiyan/baiyan_00082
+  rotate: false
+  xy: 396, 1436
+  size: 392, 286
+  orig: 487, 375
+  offset: 49, 38
+  index: -1
+effect/baozha/baozha_00063
+  rotate: true
+  xy: 1754, 311
+  size: 292, 263
+  orig: 560, 367
+  offset: 132, 13
+  index: -1
+effect/baozha/baozha_00065
+  rotate: false
+  xy: 1068, 307
+  size: 338, 296
+  orig: 560, 367
+  offset: 118, 13
+  index: -1
+effect/baozha/baozha_00066
+  rotate: false
+  xy: 906, 1745
+  size: 393, 296
+  orig: 560, 367
+  offset: 93, 13
+  index: -1
+effect/baozha/baozha_00067
+  rotate: true
+  xy: 785, 488
+  size: 391, 281
+  orig: 560, 367
+  offset: 94, 13
+  index: -1
+effect/baozha/baozha_00068
+  rotate: false
+  xy: 463, 1724
+  size: 441, 317
+  orig: 560, 367
+  offset: 57, 13
+  index: -1
+effect/baozha/baozha_00069
+  rotate: false
+  xy: 2, 1728
+  size: 459, 313
+  orig: 560, 367
+  offset: 51, 14
+  index: -1
+effect/baozha/baozha_00070
+  rotate: false
+  xy: 1408, 314
+  size: 344, 289
+  orig: 560, 367
+  offset: 104, 14
+  index: -1
+effect/ciji/ciji_00125
+  rotate: false
+  xy: 760, 419
+  size: 177, 67
+  orig: 1377, 454
+  offset: 710, 162
+  index: -1
+effect/shanxian_00074
+  rotate: false
+  xy: 622, 452
+  size: 136, 122
+  orig: 171, 144
+  offset: 22, 12
+  index: -1
+effect/smoke/smoke_00020
+  rotate: false
+  xy: 790, 1517
+  size: 99, 98
+  orig: 141, 144
+  offset: 20, 20
+  index: -1
+effect/smoke/smoke_00021
+  rotate: false
+  xy: 1183, 1358
+  size: 100, 97
+  orig: 141, 144
+  offset: 19, 21
+  index: -1
+effect/smoke/smoke_00022
+  rotate: false
+  xy: 1183, 1259
+  size: 100, 97
+  orig: 141, 144
+  offset: 19, 21
+  index: -1
+effect/smoke/smoke_00023
+  rotate: false
+  xy: 1068, 605
+  size: 100, 97
+  orig: 141, 144
+  offset: 19, 21
+  index: -1
+effect/smoke/smoke_00024
+  rotate: false
+  xy: 1068, 704
+  size: 98, 97
+  orig: 141, 144
+  offset: 20, 21
+  index: -1
+effect/smoke/smoke_00025
+  rotate: true
+  xy: 2, 178
+  size: 98, 96
+  orig: 141, 144
+  offset: 20, 21
+  index: -1
+effect/tuowei/tuowei_00080
+  rotate: true
+  xy: 2, 414
+  size: 162, 618
+  orig: 241, 618
+  offset: 41, 0
+  index: -1
+effect/tuowei/tuowei_00082
+  rotate: 270
+  xy: 447, 257
+  size: 162, 618
+  orig: 241, 618
+  offset: 41, 0
+  index: -1
+effect/tuowei/tuowei_00084
+  rotate: 270
+  xy: 1339, 148
+  size: 162, 618
+  orig: 241, 618
+  offset: 41, 0
+  index: -1
+effect/tuowei/tuowei_00086
+  rotate: 270
+  xy: 718, 96
+  size: 162, 618
+  orig: 241, 618
+  offset: 41, 0
+  index: -1
+effect/tuowei/tuowei_00088
+  rotate: true
+  xy: 98, 94
+  size: 162, 618
+  orig: 241, 618
+  offset: 41, 0
+  index: -1
+effect/xingxing_00000
+  rotate: false
+  xy: 790, 1617
+  size: 105, 105
+  orig: 135, 122
+  offset: 14, 10
+  index: -1
+effect/yan3/yan_00
+  rotate: false
+  xy: 1694, 1182
+  size: 251, 71
+  orig: 481, 163
+  offset: 117, 30
+  index: -1
+effect/yan3/yan_01
+  rotate: false
+  xy: 1255, 3
+  size: 311, 91
+  orig: 481, 163
+  offset: 87, 26
+  index: -1
+effect/yan3/yan_04
+  rotate: false
+  xy: 1568, 12
+  size: 437, 134
+  orig: 481, 163
+  offset: 22, 17
+  index: -1
+effect/yan3/yan_05
+  rotate: false
+  xy: 2, 278
+  size: 439, 134
+  orig: 481, 163
+  offset: 21, 18
+  index: -1
+effect/yezi_00000
+  rotate: false
+  xy: 790, 1485
+  size: 104, 30
+  orig: 135, 122
+  offset: 14, 42
+  index: -1
+
+BOSS_Shire_bot_effect2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/baozha/baozha_00064
+  rotate: false
+  xy: 1639, 294
+  size: 305, 288
+  orig: 560, 367
+  offset: 134, 13
+  index: -1
+effect/baozha/baozha_00071
+  rotate: false
+  xy: 1299, 583
+  size: 338, 289
+  orig: 560, 367
+  offset: 110, 14
+  index: -1
+effect/baozha/baozha_00072
+  rotate: false
+  xy: 1639, 584
+  size: 338, 288
+  orig: 560, 367
+  offset: 110, 14
+  index: -1
+effect/baozha/baozha_00073
+  rotate: false
+  xy: 960, 433
+  size: 337, 277
+  orig: 560, 367
+  offset: 111, 24
+  index: -1
+effect/baozha/baozha_00075
+  rotate: true
+  xy: 693, 373
+  size: 336, 265
+  orig: 560, 367
+  offset: 111, 37
+  index: -1
+effect/ciji/ciji_00118
+  rotate: false
+  xy: 960, 274
+  size: 427, 157
+  orig: 1377, 454
+  offset: 388, 157
+  index: -1
+effect/ciji/ciji_00119
+  rotate: false
+  xy: 146, 530
+  size: 530, 180
+  orig: 1377, 454
+  offset: 452, 134
+  index: -1
+effect/ciji/ciji_00121
+  rotate: false
+  xy: 2, 358
+  size: 505, 170
+  orig: 1377, 454
+  offset: 474, 142
+  index: -1
+effect/ciji/ciji_00123
+  rotate: false
+  xy: 444, 133
+  size: 495, 103
+  orig: 1377, 454
+  offset: 482, 150
+  index: -1
+effect/dianguang_00068
+  rotate: false
+  xy: 1541, 5
+  size: 158, 160
+  orig: 452, 452
+  offset: 145, 145
+  index: -1
+effect/tuowei/tuowei_00090
+  rotate: false
+  xy: 2, 874
+  size: 162, 618
+  orig: 241, 618
+  offset: 41, 0
+  index: -1
+effect/tuowei/tuowei_00092
+  rotate: 180
+  xy: 161, 874
+  size: 162, 618
+  orig: 241, 618
+  offset: 41, 0
+  index: -1
+effect/tuowei/tuowei_00094
+  rotate: 180
+  xy: 324, 874
+  size: 162, 618
+  orig: 241, 618
+  offset: 41, 0
+  index: -1
+effect/tuowei/tuowei_00096
+  rotate: 180
+  xy: 486, 874
+  size: 162, 618
+  orig: 241, 618
+  offset: 41, 0
+  index: -1
+effect/tuowei/tuowei_00098
+  rotate: 180
+  xy: 648, 874
+  size: 162, 618
+  orig: 241, 618
+  offset: 41, 0
+  index: -1
+effect/tuowei/tuowei_00100
+  rotate: 180
+  xy: 810, 874
+  size: 162, 618
+  orig: 241, 618
+  offset: 41, 0
+  index: -1
+effect/tuowei/tuowei_00102
+  rotate: 180
+  xy: 972, 874
+  size: 162, 618
+  orig: 241, 618
+  offset: 41, 0
+  index: -1
+effect/tuowei/tuowei_00104
+  rotate: 180
+  xy: 1134, 874
+  size: 162, 618
+  orig: 241, 618
+  offset: 41, 0
+  index: -1
+effect/tuowei/tuowei_00106
+  rotate: 180
+  xy: 1296, 874
+  size: 162, 618
+  orig: 241, 618
+  offset: 41, 0
+  index: -1
+effect/tuowei/tuowei_00108
+  rotate: 180
+  xy: 1458, 874
+  size: 162, 618
+  orig: 241, 618
+  offset: 41, 0
+  index: -1
+effect/tuowei/tuowei_00110
+  rotate: 180
+  xy: 1620, 874
+  size: 162, 618
+  orig: 241, 618
+  offset: 41, 0
+  index: -1
+effect/tuowei/tuowei_00112
+  rotate: 180
+  xy: 1782, 874
+  size: 162, 618
+  orig: 241, 618
+  offset: 41, 0
+  index: -1
+effect/tuowei/tuowei_00114
+  rotate: 270
+  xy: 30, 712
+  size: 162, 618
+  orig: 241, 618
+  offset: 41, 0
+  index: -1
+effect/tuowei/tuowei_00116
+  rotate: 270
+  xy: 678, 712
+  size: 162, 618
+  orig: 241, 618
+  offset: 41, 0
+  index: -1
+effect/yan3/yan_02
+  rotate: false
+  xy: 1176, 59
+  size: 363, 106
+  orig: 481, 163
+  offset: 60, 22
+  index: -1
+effect/yan3/yan_03
+  rotate: false
+  xy: 229, 10
+  size: 402, 121
+  orig: 481, 163
+  offset: 40, 19
+  index: -1
+effect/yan3/yan_06
+  rotate: false
+  xy: 509, 238
+  size: 438, 133
+  orig: 481, 163
+  offset: 21, 21
+  index: -1
+effect/yan3/yan_08
+  rotate: false
+  xy: 2, 225
+  size: 440, 131
+  orig: 481, 163
+  offset: 20, 26
+  index: -1
+effect/yan3/yan_10
+  rotate: false
+  xy: 1389, 167
+  size: 438, 125
+  orig: 481, 163
+  offset: 21, 29
+  index: -1
+effect/yun2_00000
+  rotate: true
+  xy: 949, 52
+  size: 220, 225
+  orig: 450, 450
+  offset: 118, 115
+  index: -1
+effect/yun3_00154
+  rotate: true
+  xy: 2, 3
+  size: 220, 225
+  orig: 452, 452
+  offset: 119, 116
+  index: -1

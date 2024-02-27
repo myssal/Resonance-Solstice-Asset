@@ -1,0 +1,55 @@
+
+bz_liudan_effect.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daodan
+  rotate: true
+  xy: 109, 227
+  size: 72, 25
+  orig: 73, 37
+  offset: 1, 6
+  index: -1
+dianguang
+  rotate: false
+  xy: 2, 190
+  size: 105, 109
+  orig: 113, 113
+  offset: 4, 2
+  index: -1
+fashe_00000
+  rotate: true
+  xy: 155, 167
+  size: 134, 148
+  orig: 162, 180
+  offset: 8, 5
+  index: -1
+fashe_00001
+  rotate: false
+  xy: 155, 303
+  size: 149, 153
+  orig: 162, 180
+  offset: 0, 9
+  index: -1
+fashe_00002
+  rotate: false
+  xy: 2, 301
+  size: 151, 155
+  orig: 162, 180
+  offset: 2, 13
+  index: -1
+fashe_00003
+  rotate: false
+  xy: 306, 301
+  size: 138, 155
+  orig: 162, 180
+  offset: 13, 18
+  index: -1
+fashe_00004
+  rotate: true
+  xy: 305, 170
+  size: 129, 151
+  orig: 162, 180
+  offset: 26, 23
+  index: -1

@@ -1,0 +1,153 @@
+
+bt_fuzi.png
+size: 256,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Y_arm1
+  rotate: true
+  xy: 41, 55
+  size: 41, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+Y_arm2
+  rotate: true
+  xy: 134, 178
+  size: 44, 63
+  orig: 44, 63
+  offset: 0, 0
+  index: -1
+Y_arm_shou
+  rotate: false
+  xy: 31, 19
+  size: 34, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+Y_tui
+  rotate: true
+  xy: 11, 176
+  size: 59, 121
+  orig: 59, 121
+  offset: 0, 0
+  index: -1
+Z_arm1
+  rotate: true
+  xy: 99, 42
+  size: 40, 53
+  orig: 40, 53
+  offset: 0, 0
+  index: -1
+Z_arm2_01
+  rotate: false
+  xy: 154, 35
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+Z_arm2_02
+  rotate: true
+  xy: 117, 84
+  size: 45, 56
+  orig: 45, 56
+  offset: 0, 0
+  index: -1
+Z_arm_shou01
+  rotate: true
+  xy: 134, 3
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+Z_arm_shou02
+  rotate: false
+  xy: 169, 6
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+Z_tui
+  rotate: true
+  xy: 80, 129
+  size: 51, 116
+  orig: 51, 116
+  offset: 0, 0
+  index: -1
+beibao
+  rotate: false
+  xy: 110, 236
+  size: 75, 94
+  orig: 75, 94
+  offset: 0, 0
+  index: -1
+beibaodai
+  rotate: false
+  xy: 2, 23
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+beidai
+  rotate: false
+  xy: 41, 98
+  size: 36, 75
+  orig: 36, 75
+  offset: 0, 0
+  index: -1
+body
+  rotate: 270
+  xy: 2, 233
+  size: 100, 106
+  orig: 100, 106
+  offset: 0, 0
+  index: -1
+dang
+  rotate: true
+  xy: 2, 91
+  size: 82, 37
+  orig: 82, 37
+  offset: 0, 0
+  index: -1
+duihuaji
+  rotate: false
+  xy: 67, 14
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 329
+  size: 144, 149
+  orig: 144, 149
+  offset: 0, 0
+  index: -1
+heiying
+  rotate: false
+  xy: 2, 475
+  size: 173, 244
+  orig: 173, 244
+  offset: 0, 0
+  index: -1
+lingzi
+  rotate: true
+  xy: 2, 36
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+weaponn
+  rotate: false
+  xy: 153, 332
+  size: 44, 135
+  orig: 44, 135
+  offset: 0, 0
+  index: -1
+yaobao
+  rotate: true
+  xy: 98, 7
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1

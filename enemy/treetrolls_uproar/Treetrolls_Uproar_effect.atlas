@@ -1,0 +1,174 @@
+
+Treetrolls_Uproar_effect.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a/a_11
+  rotate: false
+  xy: 2, 559
+  size: 540, 335
+  orig: 712, 600
+  offset: 60, 181
+  index: -1
+a/a_12
+  rotate: false
+  xy: 2, 896
+  size: 536, 452
+  orig: 712, 600
+  offset: 84, 61
+  index: -1
+a/a_13
+  rotate: false
+  xy: 540, 904
+  size: 510, 444
+  orig: 712, 600
+  offset: 106, 51
+  index: -1
+a/a_14
+  rotate: true
+  xy: 1535, 881
+  size: 467, 426
+  orig: 712, 600
+  offset: 144, 51
+  index: -1
+a/a_15
+  rotate: false
+  xy: 544, 495
+  size: 409, 407
+  orig: 712, 600
+  offset: 194, 66
+  index: -1
+glow1_16
+  rotate: false
+  xy: 1915, 126
+  size: 122, 122
+  orig: 142, 142
+  offset: 10, 10
+  index: -1
+glow2_16
+  rotate: false
+  xy: 1915, 2
+  size: 122, 122
+  orig: 183, 176
+  offset: 30, 25
+  index: -1
+lizi/lizi_16
+  rotate: false
+  xy: 771, 56
+  size: 148, 147
+  orig: 519, 514
+  offset: 190, 168
+  index: -1
+lizi/lizi_17
+  rotate: false
+  xy: 1734, 73
+  size: 179, 175
+  orig: 519, 514
+  offset: 170, 153
+  index: -1
+lizi/lizi_18
+  rotate: false
+  xy: 938, 15
+  size: 207, 201
+  orig: 519, 514
+  offset: 152, 139
+  index: -1
+lizi/lizi_19
+  rotate: false
+  xy: 1500, 25
+  size: 232, 223
+  orig: 519, 514
+  offset: 136, 127
+  index: -1
+lizi/lizi_20
+  rotate: false
+  xy: 2, 7
+  size: 253, 243
+  orig: 519, 514
+  offset: 123, 116
+  index: -1
+lizi/lizi_21
+  rotate: false
+  xy: 1227, 11
+  size: 271, 261
+  orig: 519, 514
+  offset: 111, 106
+  index: -1
+lizi/lizi_22
+  rotate: false
+  xy: 938, 218
+  size: 287, 275
+  orig: 519, 514
+  offset: 101, 98
+  index: -1
+lizi/lizi_23
+  rotate: false
+  xy: 635, 205
+  size: 301, 288
+  orig: 519, 514
+  offset: 92, 91
+  index: -1
+lizi/lizi_24
+  rotate: false
+  xy: 1713, 250
+  size: 312, 297
+  orig: 519, 514
+  offset: 85, 85
+  index: -1
+lizi/lizi_25
+  rotate: false
+  xy: 2, 252
+  size: 323, 305
+  orig: 519, 514
+  offset: 78, 80
+  index: -1
+lizi/lizi_26
+  rotate: true
+  xy: 1719, 549
+  size: 330, 314
+  orig: 519, 514
+  offset: 74, 75
+  index: -1
+lizi/lizi_27
+  rotate: false
+  xy: 1376, 274
+  size: 335, 299
+  orig: 519, 514
+  offset: 71, 71
+  index: -1
+lizi/lizi_28
+  rotate: false
+  xy: 1376, 575
+  size: 341, 304
+  orig: 519, 514
+  offset: 67, 68
+  index: -1
+lizi/lizi_29
+  rotate: true
+  xy: 327, 199
+  size: 294, 306
+  orig: 519, 514
+  offset: 114, 66
+  index: -1
+sanguang2_18
+  rotate: false
+  xy: 1052, 886
+  size: 481, 462
+  orig: 519, 514
+  offset: 10, 15
+  index: -1
+sanguang_16
+  rotate: true
+  xy: 955, 495
+  size: 384, 419
+  orig: 519, 514
+  offset: 79, 63
+  index: -1
+yinbo_16
+  rotate: false
+  xy: 257, 103
+  size: 512, 94
+  orig: 601, 189
+  offset: 41, 45
+  index: -1

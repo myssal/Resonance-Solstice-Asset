@@ -1,0 +1,125 @@
+
+GATE4_effect.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/DDdaodan
+  rotate: false
+  xy: 1031, 69
+  size: 163, 41
+  orig: 165, 43
+  offset: 1, 1
+  index: -1
+effect/biaoji1_00010
+  rotate: false
+  xy: 564, 2
+  size: 195, 195
+  orig: 262, 266
+  offset: 34, 36
+  index: -1
+effect/fashe/fashe_00045
+  rotate: false
+  xy: 1616, 222
+  size: 274, 183
+  orig: 556, 374
+  offset: 169, 82
+  index: -1
+effect/fashe/fashe_00046
+  rotate: false
+  xy: 564, 199
+  size: 295, 206
+  orig: 556, 374
+  offset: 139, 64
+  index: -1
+effect/fashe/fashe_00047
+  rotate: false
+  xy: 2, 188
+  size: 302, 217
+  orig: 556, 374
+  offset: 122, 57
+  index: -1
+effect/fashe/fashe_00048
+  rotate: false
+  xy: 861, 185
+  size: 271, 220
+  orig: 556, 374
+  offset: 119, 54
+  index: -1
+effect/fashe/fashe_00049
+  rotate: false
+  xy: 1134, 188
+  size: 267, 217
+  orig: 556, 374
+  offset: 116, 57
+  index: -1
+effect/fashe/fashe_00050
+  rotate: true
+  xy: 1403, 149
+  size: 256, 211
+  orig: 556, 374
+  offset: 118, 61
+  index: -1
+effect/fashe/fashe_00051
+  rotate: false
+  xy: 1616, 61
+  size: 252, 159
+  orig: 556, 374
+  offset: 121, 99
+  index: -1
+effect/fashe/fashe_00052
+  rotate: false
+  xy: 2, 31
+  size: 245, 155
+  orig: 556, 374
+  offset: 128, 100
+  index: -1
+effect/fashe/fashe_00053
+  rotate: false
+  xy: 249, 5
+  size: 229, 142
+  orig: 556, 374
+  offset: 137, 104
+  index: -1
+effect/fashe/fashe_00054
+  rotate: false
+  xy: 761, 73
+  size: 176, 110
+  orig: 556, 374
+  offset: 175, 104
+  index: -1
+effect/fashe/fashe_00055
+  rotate: false
+  xy: 939, 8
+  size: 90, 102
+  orig: 556, 374
+  offset: 177, 104
+  index: -1
+effect/fashe/fashe_00056
+  rotate: false
+  xy: 480, 54
+  size: 74, 93
+  orig: 556, 374
+  offset: 182, 105
+  index: -1
+effect/glow_00000
+  rotate: false
+  xy: 306, 149
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+effect/pao_00045
+  rotate: false
+  xy: 939, 112
+  size: 189, 71
+  orig: 241, 126
+  offset: 25, 26
+  index: -1
+effect/sao1_00020
+  rotate: false
+  xy: 761, 17
+  size: 170, 54
+  orig: 202, 163
+  offset: 16, 91
+  index: -1

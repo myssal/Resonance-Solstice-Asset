@@ -1,0 +1,300 @@
+
+Tree_shrimp.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 785, 140
+  size: 166, 74
+  orig: 191, 74
+  offset: 25, 0
+  index: -1
+02
+  rotate: true
+  xy: 426, 3
+  size: 143, 154
+  orig: 143, 154
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 189, 52
+  size: 182, 81
+  orig: 182, 81
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 817, 19
+  size: 136, 144
+  orig: 136, 144
+  offset: 0, 0
+  index: -1
+05
+  rotate: true
+  xy: 577, 57
+  size: 86, 135
+  orig: 86, 135
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 609, 193
+  size: 293, 113
+  orig: 293, 113
+  offset: 0, 0
+  index: -1
+07
+  rotate: 270
+  xy: 941, 202
+  size: 117, 81
+  orig: 117, 81
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 565, 109
+  size: 149, 114
+  orig: 158, 114
+  offset: 0, 0
+  index: -1
+09
+  rotate: true
+  xy: 2, 110
+  size: 61, 144
+  orig: 61, 210
+  offset: 0, 66
+  index: -1
+10
+  rotate: false
+  xy: 2, 39
+  size: 57, 73
+  orig: 57, 73
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 189, 21
+  size: 116, 70
+  orig: 116, 70
+  offset: 0, 0
+  index: -1
+12
+  rotate: 180
+  xy: 609, 105
+  size: 207, 175
+  orig: 207, 175
+  offset: 0, 0
+  index: -1
+9_1
+  rotate: false
+  xy: 100, 19
+  size: 45, 91
+  orig: 45, 91
+  offset: 0, 0
+  index: -1
+9_2
+  rotate: false
+  xy: 61, 54
+  size: 26, 55
+  orig: 26, 55
+  offset: 0, 0
+  index: -1
+9_3
+  rotate: false
+  xy: 756, 38
+  size: 57, 90
+  orig: 57, 90
+  offset: 0, 0
+  index: -1
+ball/fanguang_00000
+  rotate: false
+  xy: 476, 143
+  size: 87, 87
+  orig: 89, 89
+  offset: 1, 1
+  index: -1
+ball/glow_00000
+  rotate: false
+  xy: 432, 232
+  size: 175, 175
+  orig: 247, 247
+  offset: 33, 37
+  index: -1
+ball/heidi_00000
+  rotate: false
+  xy: 385, 141
+  size: 89, 89
+  orig: 91, 91
+  offset: 1, 1
+  index: -1
+ball/wenli_00000
+  rotate: false
+  xy: 609, 308
+  size: 308, 99
+  orig: 308, 100
+  offset: 0, 0
+  index: -1
+ball/yinying_00000
+  rotate: false
+  xy: 276, 142
+  size: 86, 87
+  orig: 88, 88
+  offset: 1, 0
+  index: -1
+dead
+  rotate: false
+  xy: 2, 327
+  size: 428, 80
+  orig: 447, 93
+  offset: 12, 5
+  index: -1
+dian
+  rotate: false
+  xy: 157, 208
+  size: 117, 117
+  orig: 125, 125
+  offset: 4, 3
+  index: -1
+guang
+  rotate: false
+  xy: 855, 72
+  size: 118, 50
+  orig: 118, 50
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: 180
+  xy: 157, 104
+  size: 202, 102
+  orig: 202, 102
+  offset: 0, 0
+  index: -1
+guang3
+  rotate: false
+  xy: 996, 325
+  size: 26, 24
+  orig: 28, 26
+  offset: 1, 1
+  index: -1
+guang4
+  rotate: false
+  xy: 919, 375
+  size: 31, 32
+  orig: 33, 34
+  offset: 1, 1
+  index: -1
+head_down
+  rotate: false
+  xy: 276, 231
+  size: 107, 94
+  orig: 109, 96
+  offset: 1, 1
+  index: -1
+head_up
+  rotate: false
+  xy: 2, 172
+  size: 153, 153
+  orig: 155, 155
+  offset: 1, 1
+  index: -1
+jizhu
+  rotate: false
+  xy: 361, 79
+  size: 124, 69
+  orig: 124, 80
+  offset: 0, 11
+  index: -1
+jizhu2
+  rotate: false
+  xy: 889, 107
+  size: 132, 73
+  orig: 132, 73
+  offset: 0, 0
+  index: -1
+jizhui1
+  rotate: false
+  xy: 339, 74
+  size: 34, 28
+  orig: 36, 30
+  offset: 1, 1
+  index: -1
+jizhui10
+  rotate: false
+  xy: 385, 247
+  size: 34, 78
+  orig: 36, 80
+  offset: 1, 1
+  index: -1
+jizhui11
+  rotate: false
+  xy: 537, 25
+  size: 38, 63
+  orig: 40, 65
+  offset: 1, 1
+  index: -1
+jizhui2
+  rotate: false
+  xy: 610, 158
+  size: 37, 39
+  orig: 39, 41
+  offset: 1, 1
+  index: -1
+jizhui3
+  rotate: false
+  xy: 485, 110
+  size: 38, 31
+  orig: 40, 33
+  offset: 1, 1
+  index: -1
+jizhui4
+  rotate: false
+  xy: 672, 53
+  size: 40, 29
+  orig: 42, 31
+  offset: 1, 1
+  index: -1
+jizhui5
+  rotate: false
+  xy: 209, 173
+  size: 46, 33
+  orig: 48, 35
+  offset: 1, 1
+  index: -1
+jizhui6
+  rotate: false
+  xy: 740, 270
+  size: 48, 36
+  orig: 51, 38
+  offset: 1, 1
+  index: -1
+jizhui7
+  rotate: false
+  xy: 986, 17
+  size: 36, 96
+  orig: 38, 98
+  offset: 1, 1
+  index: -1
+jizhui8
+  rotate: false
+  xy: 714, 39
+  size: 40, 105
+  orig: 42, 107
+  offset: 1, 1
+  index: -1
+jizhui9
+  rotate: false
+  xy: 147, 42
+  size: 40, 101
+  orig: 46, 103
+  offset: 5, 1
+  index: -1
+weizhui
+  rotate: 270
+  xy: 894, 175
+  size: 232, 117
+  orig: 232, 117
+  offset: 0, 0
+  index: -1

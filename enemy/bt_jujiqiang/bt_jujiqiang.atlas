@@ -1,0 +1,132 @@
+
+bt_jujiqiang.png
+size: 256,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feetl
+  rotate: 180
+  xy: 110, 205
+  size: 54, 115
+  orig: 54, 115
+  offset: 0, 0
+  index: -1
+feetr
+  rotate: true
+  xy: 2, 111
+  size: 61, 112
+  orig: 61, 112
+  offset: 0, 0
+  index: -1
+handl
+  rotate: false
+  xy: 166, 262
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+handl02
+  rotate: false
+  xy: 159, 148
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+handr
+  rotate: false
+  xy: 160, 3
+  size: 35, 35
+  orig: 35, 36
+  offset: 0, 1
+  index: -1
+handr02
+  rotate: false
+  xy: 66, 6
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+heiying
+  rotate: false
+  xy: 2, 562
+  size: 175, 252
+  orig: 175, 252
+  offset: 0, 0
+  index: -1
+kua
+  rotate: false
+  xy: 90, 100
+  size: 88, 55
+  orig: 88, 55
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 216
+  size: 107, 109
+  orig: 107, 109
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 2, 437
+  size: 123, 135
+  orig: 123, 135
+  offset: 0, 0
+  index: -1
+weaponn
+  rotate: false
+  xy: 139, 321
+  size: 52, 239
+  orig: 52, 239
+  offset: 0, 0
+  index: -1
+wp1
+  rotate: true
+  xy: 2, 174
+  size: 29, 164
+  orig: 30, 174
+  offset: 1, 10
+  index: -1
+wp2
+  rotate: true
+  xy: 2, 325
+  size: 110, 130
+  orig: 123, 135
+  offset: 13, 5
+  index: -1
+yaobao
+  rotate: 180
+  xy: 69, 16
+  size: 90, 93
+  orig: 90, 93
+  offset: 0, 0
+  index: -1
+yous1
+  rotate: true
+  xy: 2, 65
+  size: 44, 65
+  orig: 44, 65
+  offset: 0, 0
+  index: -1
+yous2
+  rotate: false
+  xy: 151, 40
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: -1
+zuos1
+  rotate: false
+  xy: 159, 205
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+zuos2
+  rotate: true
+  xy: 2, 23
+  size: 40, 62
+  orig: 40, 62
+  offset: 0, 0
+  index: -1

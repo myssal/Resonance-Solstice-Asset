@@ -1,0 +1,34 @@
+
+treetrolls3_effect.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/glow2_00054
+  rotate: false
+  xy: 2, 126
+  size: 269, 270
+  orig: 284, 294
+  offset: 6, 9
+  index: -1
+effect/glow_00015
+  rotate: false
+  xy: 2, 2
+  size: 122, 122
+  orig: 172, 172
+  offset: 24, 22
+  index: -1
+effect/jiguang_00014
+  rotate: true
+  xy: 273, 61
+  size: 335, 100
+  orig: 360, 305
+  offset: 25, 100
+  index: -1
+effect/jiguang_zi_00014
+  rotate: true
+  xy: 375, 61
+  size: 334, 98
+  orig: 360, 305
+  offset: 26, 101
+  index: -1

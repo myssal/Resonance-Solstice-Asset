@@ -1,0 +1,160 @@
+
+BOSS_BS2_Conor.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: false
+  xy: 2, 2
+  size: 316, 291
+  orig: 318, 303
+  offset: 1, 10
+  index: -1
+b_shenti
+  rotate: false
+  xy: 855, 184
+  size: 83, 109
+  orig: 85, 111
+  offset: 1, 1
+  index: -1
+b_tou
+  rotate: true
+  xy: 320, 105
+  size: 188, 171
+  orig: 190, 173
+  offset: 1, 1
+  index: -1
+guang2
+  rotate: false
+  xy: 983, 235
+  size: 29, 59
+  orig: 30, 59
+  offset: 0, 0
+  index: -1
+houbei
+  rotate: 270
+  xy: 759, 111
+  size: 182, 94
+  orig: 182, 94
+  offset: 0, 0
+  index: -1
+mianju_1
+  rotate: true
+  xy: 664, 95
+  size: 198, 107
+  orig: 198, 107
+  offset: 0, 0
+  index: -1
+mianju_2
+  rotate: false
+  xy: 552, 14
+  size: 86, 93
+  orig: 86, 93
+  offset: 0, 0
+  index: -1
+mianju_guang
+  rotate: false
+  xy: 320, 49
+  size: 128, 54
+  orig: 132, 56
+  offset: 2, 1
+  index: -1
+shenti
+  rotate: true
+  xy: 842, 97
+  size: 85, 111
+  orig: 85, 111
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 493, 103
+  size: 190, 173
+  orig: 190, 173
+  offset: 0, 0
+  index: -1
+y_datui
+  rotate: true
+  xy: 849, 44
+  size: 51, 106
+  orig: 53, 109
+  offset: 1, 2
+  index: -1
+y_soubi
+  rotate: 270
+  xy: 640, 12
+  size: 83, 173
+  orig: 83, 173
+  offset: 0, 0
+  index: -1
+y_tengman
+  rotate: true
+  xy: 955, 76
+  size: 52, 42
+  orig: 53, 54
+  offset: 1, 0
+  index: -1
+y_tengman_2
+  rotate: true
+  xy: 957, 33
+  size: 48, 47
+  orig: 49, 48
+  offset: 1, 1
+  index: -1
+y_tengman_3
+  rotate: false
+  xy: 518, 9
+  size: 46, 53
+  orig: 47, 53
+  offset: 1, 0
+  index: -1
+y_xiaotui
+  rotate: false
+  xy: 940, 230
+  size: 41, 63
+  orig: 43, 65
+  offset: 1, 1
+  index: -1
+z_datui
+  rotate: true
+  xy: 742, 51
+  size: 58, 105
+  orig: 60, 107
+  offset: 1, 1
+  index: -1
+z_soubi
+  rotate: true
+  xy: 379, 6
+  size: 94, 171
+  orig: 94, 171
+  offset: 0, 0
+  index: -1
+z_tengman
+  rotate: true
+  xy: 454, 55
+  size: 53, 75
+  orig: 54, 75
+  offset: 0, 0
+  index: -1
+z_tengman_2
+  rotate: false
+  xy: 630, 237
+  size: 42, 56
+  orig: 42, 56
+  offset: 0, 0
+  index: -1
+z_tengman_3
+  rotate: 180
+  xy: 955, 107
+  size: 66, 56
+  orig: 66, 56
+  offset: 0, 0
+  index: -1
+z_xiaotui
+  rotate: false
+  xy: 953, 165
+  size: 39, 63
+  orig: 42, 65
+  offset: 1, 1
+  index: -1

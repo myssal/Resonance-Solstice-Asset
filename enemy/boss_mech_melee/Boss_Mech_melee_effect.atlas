@@ -1,0 +1,335 @@
+
+Boss_Mech_melee_effect.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/chongji/chongji_00011
+  rotate: true
+  xy: 1431, 2
+  size: 153, 159
+  orig: 244, 329
+  offset: 44, 44
+  index: -1
+effect/chongji/chongji_00012
+  rotate: false
+  xy: 749, 2
+  size: 158, 174
+  orig: 244, 329
+  offset: 43, 44
+  index: -1
+effect/chongji/chongji_00013
+  rotate: true
+  xy: 212, 111
+  size: 159, 186
+  orig: 244, 329
+  offset: 43, 50
+  index: -1
+effect/chongji/chongji_00014
+  rotate: false
+  xy: 1807, 120
+  size: 159, 197
+  orig: 244, 329
+  offset: 43, 53
+  index: -1
+effect/chongji/chongji_00015
+  rotate: false
+  xy: 400, 92
+  size: 158, 178
+  orig: 244, 329
+  offset: 43, 94
+  index: -1
+effect/chongji/chongji_00016
+  rotate: false
+  xy: 1975, 1905
+  size: 41, 71
+  orig: 244, 329
+  offset: 128, 196
+  index: -1
+effect/chongji/chongji_00017
+  rotate: false
+  xy: 2018, 1975
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+effect/chuiji/chuiji_00050
+  rotate: false
+  xy: 890, 1318
+  size: 367, 658
+  orig: 550, 730
+  offset: 113, 49
+  index: -1
+effect/chuiji/chuiji_00051
+  rotate: false
+  xy: 2, 1294
+  size: 434, 682
+  orig: 550, 730
+  offset: 60, 32
+  index: -1
+effect/chuiji/chuiji_00052
+  rotate: false
+  xy: 438, 1378
+  size: 450, 598
+  orig: 550, 730
+  offset: 47, 30
+  index: -1
+effect/chuiji/chuiji_00053
+  rotate: false
+  xy: 1259, 1463
+  size: 467, 513
+  orig: 550, 730
+  offset: 36, 28
+  index: -1
+effect/chuiji/chuiji_00054
+  rotate: false
+  xy: 1259, 1014
+  size: 466, 447
+  orig: 550, 730
+  offset: 37, 28
+  index: -1
+effect/chuiji/chuiji_00055
+  rotate: true
+  xy: 437, 917
+  size: 459, 438
+  orig: 550, 730
+  offset: 38, 37
+  index: -1
+effect/chuiji/chuiji_00056
+  rotate: true
+  xy: 2, 848
+  size: 444, 412
+  orig: 550, 730
+  offset: 46, 46
+  index: -1
+effect/chuiji/chuiji_00058
+  rotate: false
+  xy: 1728, 1220
+  size: 309, 333
+  orig: 550, 730
+  offset: 149, 29
+  index: -1
+effect/chuiji/chuiji_00060
+  rotate: true
+  xy: 1641, 697
+  size: 315, 340
+  orig: 550, 730
+  offset: 144, 11
+  index: -1
+effect/chuiji/chuiji_00062
+  rotate: false
+  xy: 1727, 1031
+  size: 199, 187
+  orig: 550, 730
+  offset: 145, 147
+  index: -1
+effect/chuiji/chuiji_00064
+  rotate: false
+  xy: 1592, 10
+  size: 161, 145
+  orig: 550, 730
+  offset: 158, 164
+  index: -1
+effect/dilie2_00051
+  rotate: false
+  xy: 2, 378
+  size: 256, 255
+  orig: 319, 305
+  offset: 32, 22
+  index: -1
+effect/dilie3_00053
+  rotate: false
+  xy: 2, 635
+  size: 396, 211
+  orig: 457, 281
+  offset: 34, 24
+  index: -1
+effect/dilie4_00044
+  rotate: false
+  xy: 1755, 79
+  size: 228, 39
+  orig: 276, 78
+  offset: 24, 20
+  index: -1
+effect/dilie5_00018
+  rotate: false
+  xy: 1100, 92
+  size: 329, 88
+  orig: 354, 128
+  offset: 12, 18
+  index: -1
+effect/dilie_00013
+  rotate: false
+  xy: 1173, 346
+  size: 239, 88
+  orig: 329, 180
+  offset: 42, 35
+  index: -1
+effect/guang_00045
+  rotate: false
+  xy: 1447, 507
+  size: 177, 177
+  orig: 222, 217
+  offset: 22, 18
+  index: -1
+effect/hui/hui_00028
+  rotate: true
+  xy: 807, 486
+  size: 256, 321
+  orig: 351, 442
+  offset: 38, 87
+  index: -1
+effect/hui/hui_00030
+  rotate: true
+  xy: 878, 1048
+  size: 268, 336
+  orig: 351, 442
+  offset: 40, 69
+  index: -1
+effect/hui/hui_00032
+  rotate: true
+  xy: 400, 429
+  size: 227, 341
+  orig: 351, 442
+  offset: 57, 55
+  index: -1
+effect/huoguang_00044
+  rotate: false
+  xy: 743, 438
+  size: 238, 46
+  orig: 276, 106
+  offset: 27, 27
+  index: -1
+effect/kuosan/kuosan_00009
+  rotate: false
+  xy: 624, 178
+  size: 296, 111
+  orig: 679, 331
+  offset: 181, 93
+  index: -1
+effect/kuosan/kuosan_00010
+  rotate: false
+  xy: 1173, 182
+  size: 402, 135
+  orig: 679, 331
+  offset: 137, 88
+  index: -1
+effect/kuosan/kuosan_00011
+  rotate: false
+  xy: 743, 291
+  size: 428, 143
+  orig: 679, 331
+  offset: 123, 85
+  index: -1
+effect/kuosan/kuosan_00012
+  rotate: false
+  xy: 1447, 319
+  size: 454, 150
+  orig: 679, 331
+  offset: 113, 84
+  index: -1
+effect/quan_00052
+  rotate: true
+  xy: 1309, 686
+  size: 326, 330
+  orig: 384, 386
+  offset: 28, 26
+  index: -1
+effect/shi/shi_00000
+  rotate: true
+  xy: 560, 27
+  size: 149, 187
+  orig: 183, 271
+  offset: 18, 41
+  index: -1
+effect/shi/shi_00006
+  rotate: false
+  xy: 1975, 1854
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+effect/shi/shi_00015
+  rotate: false
+  xy: 1975, 1803
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+effect/shi/shi_00025
+  rotate: false
+  xy: 260, 544
+  size: 105, 89
+  orig: 116, 114
+  offset: 6, 10
+  index: -1
+effect/shi/shi_00045
+  rotate: false
+  xy: 922, 114
+  size: 176, 175
+  orig: 183, 271
+  offset: 0, 46
+  index: -1
+effect/shi/shi_00063
+  rotate: true
+  xy: 1577, 157
+  size: 160, 228
+  orig: 183, 271
+  offset: 13, 17
+  index: -1
+effect/yan_00050
+  rotate: true
+  xy: 2, 119
+  size: 257, 208
+  orig: 310, 246
+  offset: 23, 19
+  index: -1
+effect/zha/zha_00045
+  rotate: false
+  xy: 1928, 1041
+  size: 101, 177
+  orig: 504, 548
+  offset: 210, 0
+  index: -1
+effect/zha/zha_00046
+  rotate: true
+  xy: 260, 272
+  size: 155, 362
+  orig: 504, 548
+  offset: 185, 0
+  index: -1
+effect/zha/zha_00047
+  rotate: true
+  xy: 1641, 471
+  size: 224, 356
+  orig: 504, 548
+  offset: 155, 0
+  index: -1
+effect/zha/zha_00048
+  rotate: true
+  xy: 416, 658
+  size: 257, 389
+  orig: 504, 548
+  offset: 141, 32
+  index: -1
+effect/zha/zha_00049
+  rotate: false
+  xy: 1728, 1555
+  size: 245, 421
+  orig: 504, 548
+  offset: 144, 46
+  index: -1
+effect/zha/zha_00050
+  rotate: true
+  xy: 878, 744
+  size: 268, 429
+  orig: 504, 548
+  offset: 140, 51
+  index: -1
+effect/zha/zha_00051
+  rotate: true
+  xy: 1130, 436
+  size: 248, 315
+  orig: 504, 548
+  offset: 167, 165
+  index: -1

@@ -1,0 +1,195 @@
+
+bt_dajian_effect.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/chenai/chenai_00058
+  rotate: false
+  xy: 2, 10
+  size: 70, 64
+  orig: 170, 140
+  offset: 47, 15
+  index: -1
+effect/chenai/chenai_00060
+  rotate: false
+  xy: 684, 2
+  size: 125, 84
+  orig: 170, 140
+  offset: 30, 13
+  index: -1
+effect/chenai/chenai_00062
+  rotate: false
+  xy: 1054, 17
+  size: 143, 98
+  orig: 170, 140
+  offset: 17, 13
+  index: -1
+effect/chenai/chenai_00064
+  rotate: false
+  xy: 1372, 20
+  size: 151, 105
+  orig: 170, 140
+  offset: 9, 13
+  index: -1
+effect/chenai/chenai_00066
+  rotate: false
+  xy: 1632, 17
+  size: 152, 110
+  orig: 170, 140
+  offset: 8, 14
+  index: -1
+effect/chenai/chenai_00068
+  rotate: false
+  xy: 1220, 18
+  size: 150, 114
+  orig: 170, 140
+  offset: 8, 16
+  index: -1
+effect/chenai/chenai_00070
+  rotate: false
+  xy: 1786, 16
+  size: 149, 88
+  orig: 170, 140
+  offset: 8, 20
+  index: -1
+effect/chongji/chongji_00059
+  rotate: true
+  xy: 1861, 106
+  size: 157, 117
+  orig: 300, 276
+  offset: 70, 51
+  index: -1
+effect/chongji/chongji_00061
+  rotate: false
+  xy: 2, 76
+  size: 193, 140
+  orig: 300, 276
+  offset: 56, 68
+  index: -1
+effect/chongji/chongji_00063
+  rotate: true
+  xy: 1786, 265
+  size: 202, 143
+  orig: 300, 276
+  offset: 51, 74
+  index: -1
+effect/chongji/chongji_00065
+  rotate: false
+  xy: 718, 88
+  size: 199, 143
+  orig: 300, 276
+  offset: 52, 74
+  index: -1
+effect/dao1/dao1_00017
+  rotate: true
+  xy: 441, 187
+  size: 387, 275
+  orig: 512, 396
+  offset: 71, 41
+  index: -1
+effect/dao1/dao1_00018
+  rotate: true
+  xy: 1220, 293
+  size: 281, 266
+  orig: 512, 396
+  offset: 170, 38
+  index: -1
+effect/dao1/dao1_00019
+  rotate: true
+  xy: 1220, 134
+  size: 157, 249
+  orig: 512, 396
+  offset: 286, 35
+  index: -1
+effect/dao1/dao1_00020
+  rotate: true
+  xy: 362, 20
+  size: 67, 202
+  orig: 512, 396
+  offset: 374, 34
+  index: -1
+effect/dao1/dao1_00021
+  rotate: false
+  xy: 1931, 265
+  size: 47, 127
+  orig: 512, 396
+  offset: 390, 34
+  index: -1
+effect/dao2/dao2_00063
+  rotate: true
+  xy: 1019, 117
+  size: 457, 199
+  orig: 512, 396
+  offset: 29, 86
+  index: -1
+effect/dao2/dao2_00064
+  rotate: true
+  xy: 1488, 127
+  size: 447, 142
+  orig: 512, 396
+  offset: 29, 90
+  index: -1
+effect/dao2/dao2_00065
+  rotate: false
+  xy: 1632, 129
+  size: 227, 134
+  orig: 512, 396
+  offset: 32, 104
+  index: -1
+effect/dao2/dao2_00066
+  rotate: false
+  xy: 919, 6
+  size: 133, 109
+  orig: 512, 396
+  offset: 27, 134
+  index: -1
+effect/dao3/dao3_00057
+  rotate: false
+  xy: 2, 218
+  size: 437, 356
+  orig: 529, 415
+  offset: 40, 22
+  index: -1
+effect/dao3/dao3_00058
+  rotate: false
+  xy: 718, 233
+  size: 299, 341
+  orig: 529, 415
+  offset: 169, 19
+  index: -1
+effect/dao3/dao3_00059
+  rotate: false
+  xy: 1632, 265
+  size: 152, 309
+  orig: 529, 415
+  offset: 305, 17
+  index: -1
+effect/dao3/dao3_00060
+  rotate: true
+  xy: 362, 89
+  size: 96, 247
+  orig: 529, 415
+  offset: 357, 16
+  index: -1
+effect/dao3/dao3_00061
+  rotate: false
+  xy: 611, 34
+  size: 71, 151
+  orig: 529, 415
+  offset: 372, 14
+  index: -1
+effect/dao3/dao3_00062
+  rotate: false
+  xy: 1525, 27
+  size: 54, 98
+  orig: 529, 415
+  offset: 379, 14
+  index: -1
+effect/kuosan_00060
+  rotate: false
+  xy: 197, 54
+  size: 163, 162
+  orig: 262, 263
+  offset: 50, 51
+  index: -1

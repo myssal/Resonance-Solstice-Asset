@@ -1,0 +1,138 @@
+
+GATE3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paota2
+  rotate: false
+  xy: 2, 14
+  size: 448, 96
+  orig: 450, 98
+  offset: 1, 1
+  index: -1
+poyangtai3
+  rotate: false
+  xy: 2, 556
+  size: 634, 442
+  orig: 638, 444
+  offset: 2, 1
+  index: -1
+yangtai2
+  rotate: true
+  xy: 638, 45
+  size: 318, 324
+  orig: 321, 327
+  offset: 2, 2
+  index: -1
+yangtai3
+  rotate: false
+  xy: 2, 112
+  size: 634, 442
+  orig: 638, 444
+  offset: 2, 1
+  index: -1
+yangtai4
+  rotate: false
+  xy: 638, 365
+  size: 350, 633
+  orig: 354, 635
+  offset: 1, 1
+  index: -1
+yangtai5
+  rotate: false
+  xy: 452, 2
+  size: 176, 108
+  orig: 178, 110
+  offset: 1, 1
+  index: -1
+
+GATE32.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chongji_00008
+  rotate: false
+  xy: 2, 2
+  size: 234, 409
+  orig: 427, 498
+  offset: 83, 37
+  index: -1
+faguang_00100
+  rotate: false
+  xy: 487, 9
+  size: 207, 189
+  orig: 242, 210
+  offset: 11, 9
+  index: -1
+gaoguang_00006
+  rotate: false
+  xy: 696, 63
+  size: 141, 127
+  orig: 286, 194
+  offset: 72, 18
+  index: -1
+heiying
+  rotate: true
+  xy: 238, 12
+  size: 186, 247
+  orig: 192, 251
+  offset: 0, 4
+  index: -1
+paota1
+  rotate: true
+  xy: 324, 413
+  size: 445, 213
+  orig: 447, 216
+  offset: 1, 2
+  index: -1
+paota3
+  rotate: false
+  xy: 238, 200
+  size: 446, 211
+  orig: 448, 213
+  offset: 1, 1
+  index: -1
+poyangtai1
+  rotate: false
+  xy: 539, 716
+  size: 280, 305
+  orig: 283, 308
+  offset: 2, 1
+  index: -1
+poyangtai2
+  rotate: false
+  xy: 2, 718
+  size: 320, 303
+  orig: 322, 306
+  offset: 1, 2
+  index: -1
+yangtai1
+  rotate: false
+  xy: 2, 413
+  size: 320, 303
+  orig: 322, 306
+  offset: 1, 2
+  index: -1
+yangtai6
+  rotate: true
+  xy: 696, 192
+  size: 240, 145
+  orig: 242, 147
+  offset: 1, 1
+  index: -1
+yangtai7
+  rotate: false
+  xy: 324, 894
+  size: 192, 127
+  orig: 194, 129
+  offset: 1, 1
+  index: -1
+yangtai8
+  rotate: true
+  xy: 539, 434
+  size: 280, 305
+  orig: 283, 308
+  offset: 2, 1
+  index: -1

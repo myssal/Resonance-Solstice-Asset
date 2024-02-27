@@ -1,0 +1,370 @@
+
+Boss_Mech_shooter_effect.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/baozha/baozha_00060
+  rotate: true
+  xy: 2, 44
+  size: 148, 265
+  orig: 494, 514
+  offset: 156, 130
+  index: -1
+effect/baozha/baozha_00062
+  rotate: true
+  xy: 2, 1107
+  size: 391, 400
+  orig: 494, 514
+  offset: 39, 70
+  index: -1
+effect/baozha/baozha_00064
+  rotate: true
+  xy: 898, 1495
+  size: 417, 447
+  orig: 494, 514
+  offset: 30, 37
+  index: -1
+effect/baozha/baozha_00065
+  rotate: true
+  xy: 454, 1495
+  size: 430, 442
+  orig: 494, 514
+  offset: 25, 37
+  index: -1
+effect/baozha/baozha_00067
+  rotate: true
+  xy: 1347, 1491
+  size: 434, 407
+  orig: 494, 514
+  offset: 26, 37
+  index: -1
+effect/baozha/baozha_00069
+  rotate: false
+  xy: 2, 809
+  size: 384, 296
+  orig: 494, 514
+  offset: 71, 96
+  index: -1
+effect/baozha/baozha_00070
+  rotate: false
+  xy: 682, 1040
+  size: 91, 67
+  orig: 494, 514
+  offset: 93, 190
+  index: -1
+effect/baozha2/baozha_00085
+  rotate: false
+  xy: 404, 1109
+  size: 380, 384
+  orig: 495, 479
+  offset: 68, 13
+  index: -1
+effect/baozha2/baozha_00086
+  rotate: false
+  xy: 786, 1121
+  size: 374, 372
+  orig: 495, 479
+  offset: 68, 18
+  index: -1
+effect/baozha2/baozha_00088
+  rotate: false
+  xy: 1162, 1118
+  size: 365, 371
+  orig: 495, 479
+  offset: 70, 26
+  index: -1
+effect/baozha2/baozha_00089
+  rotate: false
+  xy: 1529, 1116
+  size: 350, 373
+  orig: 495, 479
+  offset: 78, 29
+  index: -1
+effect/baozha2/baozha_00091
+  rotate: true
+  xy: 786, 791
+  size: 328, 370
+  orig: 495, 479
+  offset: 86, 34
+  index: -1
+effect/baozha2/baozha_00092
+  rotate: false
+  xy: 1441, 687
+  size: 281, 276
+  orig: 495, 479
+  offset: 92, 35
+  index: -1
+effect/baozha2/baozha_00094
+  rotate: true
+  xy: 981, 450
+  size: 231, 278
+  orig: 495, 479
+  offset: 144, 33
+  index: -1
+effect/baozha2/baozha_00095
+  rotate: true
+  xy: 693, 555
+  size: 234, 286
+  orig: 495, 479
+  offset: 141, 32
+  index: -1
+effect/baozha2/baozha_00097
+  rotate: false
+  xy: 1724, 663
+  size: 232, 300
+  orig: 495, 479
+  offset: 140, 25
+  index: -1
+effect/baozha2/baozha_00099
+  rotate: true
+  xy: 388, 582
+  size: 229, 303
+  orig: 495, 479
+  offset: 139, 29
+  index: -1
+effect/baozha2/baozha_00101
+  rotate: true
+  xy: 2, 380
+  size: 219, 282
+  orig: 495, 479
+  offset: 139, 55
+  index: -1
+effect/bo_00061
+  rotate: false
+  xy: 388, 813
+  size: 292, 292
+  orig: 349, 346
+  offset: 27, 26
+  index: -1
+effect/dian_00023
+  rotate: false
+  xy: 682, 910
+  size: 70, 70
+  orig: 156, 157
+  offset: 42, 44
+  index: -1
+effect/glow_00016
+  rotate: false
+  xy: 1699, 409
+  size: 252, 252
+  orig: 389, 371
+  offset: 67, 55
+  index: -1
+effect/guangbiao_00039
+  rotate: true
+  xy: 1158, 683
+  size: 280, 281
+  orig: 430, 430
+  offset: 74, 73
+  index: -1
+effect/kaihuo/kaihuo_00032
+  rotate: false
+  xy: 682, 982
+  size: 93, 56
+  orig: 529, 355
+  offset: 104, 131
+  index: -1
+effect/kaihuo/kaihuo_00033
+  rotate: true
+  xy: 1811, 134
+  size: 273, 170
+  orig: 529, 355
+  offset: 69, 72
+  index: -1
+effect/kaihuo/kaihuo_00034
+  rotate: false
+  xy: 307, 226
+  size: 304, 171
+  orig: 529, 355
+  offset: 75, 72
+  index: -1
+effect/kaihuo/kaihuo_00035
+  rotate: false
+  xy: 624, 371
+  size: 334, 182
+  orig: 529, 355
+  offset: 81, 71
+  index: -1
+effect/kaihuo/kaihuo_00036
+  rotate: false
+  xy: 286, 399
+  size: 336, 181
+  orig: 529, 355
+  offset: 84, 71
+  index: -1
+effect/kaihuo/kaihuo_00037
+  rotate: false
+  xy: 960, 267
+  size: 331, 181
+  orig: 529, 355
+  offset: 84, 71
+  index: -1
+effect/kaihuo/kaihuo_00038
+  rotate: false
+  xy: 2, 601
+  size: 335, 206
+  orig: 529, 355
+  offset: 85, 70
+  index: -1
+effect/kaihuo/kaihuo_00039
+  rotate: false
+  xy: 2, 194
+  size: 303, 184
+  orig: 529, 355
+  offset: 103, 66
+  index: -1
+effect/kaihuo/kaihuo_00040
+  rotate: false
+  xy: 1536, 222
+  size: 273, 185
+  orig: 529, 355
+  offset: 139, 67
+  index: -1
+effect/kaihuo/kaihuo_00041
+  rotate: false
+  xy: 613, 184
+  size: 268, 185
+  orig: 529, 355
+  offset: 144, 67
+  index: -1
+effect/kaihuo/kaihuo_00042
+  rotate: false
+  xy: 1478, 57
+  size: 185, 135
+  orig: 529, 355
+  offset: 166, 89
+  index: -1
+effect/light_00060
+  rotate: false
+  xy: 2, 1500
+  size: 450, 425
+  orig: 664, 583
+  offset: 101, 81
+  index: -1
+effect/paodan_00059
+  rotate: false
+  xy: 339, 652
+  size: 29, 155
+  orig: 217, 271
+  offset: 92, 53
+  index: -1
+effect/qianghuo_00018
+  rotate: false
+  xy: 1441, 433
+  size: 256, 252
+  orig: 385, 343
+  offset: 29, 39
+  index: -1
+effect/shouji2_00024
+  rotate: true
+  xy: 1293, 194
+  size: 237, 241
+  orig: 267, 276
+  offset: 16, 11
+  index: -1
+effect/shouji_00023
+  rotate: true
+  xy: 883, 67
+  size: 198, 207
+  orig: 267, 276
+  offset: 35, 35
+  index: -1
+effect/suoding_00039
+  rotate: false
+  xy: 307, 24
+  size: 200, 200
+  orig: 430, 430
+  offset: 113, 114
+  index: -1
+effect/tuowei_00059
+  rotate: true
+  xy: 1158, 965
+  size: 149, 682
+  orig: 217, 888
+  offset: 30, 65
+  index: -1
+effect/yan/yan_00060
+  rotate: false
+  xy: 729, 108
+  size: 105, 74
+  orig: 322, 337
+  offset: 180, 106
+  index: -1
+effect/yan/yan_00062
+  rotate: false
+  xy: 981, 693
+  size: 143, 96
+  orig: 322, 337
+  offset: 146, 100
+  index: -1
+effect/yan/yan_00063
+  rotate: false
+  xy: 1665, 18
+  size: 176, 114
+  orig: 322, 337
+  offset: 115, 96
+  index: -1
+effect/yan/yan_00065
+  rotate: false
+  xy: 1092, 137
+  size: 198, 128
+  orig: 322, 337
+  offset: 92, 93
+  index: -1
+effect/yan/yan_00066
+  rotate: false
+  xy: 509, 39
+  size: 218, 143
+  orig: 322, 337
+  offset: 71, 91
+  index: -1
+effect/yan/yan_00068
+  rotate: false
+  xy: 1756, 1636
+  size: 221, 144
+  orig: 322, 337
+  offset: 71, 91
+  index: -1
+effect/yan/yan_00069
+  rotate: false
+  xy: 1756, 1491
+  size: 223, 143
+  orig: 322, 337
+  offset: 71, 95
+  index: -1
+effect/yan/yan_00071
+  rotate: false
+  xy: 1756, 1782
+  size: 220, 143
+  orig: 322, 337
+  offset: 71, 97
+  index: -1
+effect/yan/yan_00072
+  rotate: true
+  xy: 1261, 463
+  size: 218, 141
+  orig: 322, 337
+  offset: 70, 101
+  index: -1
+effect/yan/yan_00074
+  rotate: false
+  xy: 1292, 56
+  size: 184, 136
+  orig: 322, 337
+  offset: 71, 104
+  index: -1
+effect/yan/yan_00075
+  rotate: false
+  xy: 1092, 2
+  size: 159, 133
+  orig: 322, 337
+  offset: 74, 105
+  index: -1
+effect/zidan_00017
+  rotate: false
+  xy: 2, 17
+  size: 147, 25
+  orig: 389, 371
+  offset: 123, 167
+  index: -1

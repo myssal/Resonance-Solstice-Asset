@@ -1,0 +1,153 @@
+
+Tree_sdragon.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 82, 564
+  size: 23, 21
+  orig: 25, 23
+  offset: 1, 1
+  index: -1
+10
+  rotate: false
+  xy: 382, 529
+  size: 29, 56
+  orig: 31, 58
+  offset: 1, 1
+  index: -1
+11
+  rotate: false
+  xy: 839, 536
+  size: 60, 49
+  orig: 62, 51
+  offset: 1, 1
+  index: -1
+12
+  rotate: false
+  xy: 914, 312
+  size: 87, 137
+  orig: 91, 139
+  offset: 1, 1
+  index: -1
+13
+  rotate: false
+  xy: 489, 431
+  size: 146, 154
+  orig: 148, 156
+  offset: 1, 1
+  index: -1
+14
+  rotate: false
+  xy: 719, 422
+  size: 80, 45
+  orig: 80, 45
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 296, 146
+  size: 439, 191
+  orig: 439, 191
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 2, 507
+  size: 78, 78
+  orig: 80, 80
+  offset: 1, 1
+  index: -1
+17
+  rotate: true
+  xy: 241, 20
+  size: 284, 126
+  orig: 284, 126
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 696, 3
+  size: 235, 167
+  orig: 235, 167
+  offset: 0, 0
+  index: -1
+19
+  rotate: 270
+  xy: 411, 23
+  size: 149, 283
+  orig: 149, 283
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 200, 339
+  size: 180, 246
+  orig: 182, 248
+  offset: 1, 1
+  index: -1
+20
+  rotate: 180
+  xy: 457, 208
+  size: 325, 377
+  orig: 325, 377
+  offset: 0, 0
+  index: -1
+21
+  rotate: 270
+  xy: 763, 172
+  size: 413, 149
+  orig: 413, 149
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 904, 172
+  size: 118, 119
+  orig: 120, 122
+  offset: 1, 1
+  index: -1
+4
+  rotate: false
+  xy: 546, 106
+  size: 87, 110
+  orig: 89, 112
+  offset: 1, 1
+  index: -1
+5
+  rotate: false
+  xy: 2, 36
+  size: 237, 549
+  orig: 237, 549
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 669, 80
+  size: 147, 151
+  orig: 149, 153
+  offset: 1, 1
+  index: -1
+7
+  rotate: false
+  xy: 329, 66
+  size: 76, 79
+  orig: 78, 81
+  offset: 1, 1
+  index: -1
+8
+  rotate: false
+  xy: 926, 5
+  size: 96, 94
+  orig: 98, 96
+  offset: 1, 1
+  index: -1
+9
+  rotate: false
+  xy: 912, 451
+  size: 109, 134
+  orig: 111, 136
+  offset: 1, 1
+  index: -1

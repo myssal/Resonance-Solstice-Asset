@@ -1,0 +1,188 @@
+
+BOSS_Shire_bot.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang1
+  rotate: false
+  xy: 2, 1726
+  size: 41, 28
+  orig: 41, 28
+  offset: 0, 0
+  index: -1
+dae
+  rotate: true
+  xy: 2, 322
+  size: 608, 794
+  orig: 614, 800
+  offset: 3, 3
+  index: -1
+eshenti
+  rotate: false
+  xy: 2, 1149
+  size: 75, 77
+  orig: 75, 77
+  offset: 0, 0
+  index: -1
+etou
+  rotate: false
+  xy: 2, 1696
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+ewuqi1
+  rotate: false
+  xy: 2, 12
+  size: 81, 28
+  orig: 83, 30
+  offset: 1, 1
+  index: -1
+ewuqi2
+  rotate: false
+  xy: 410, 29
+  size: 81, 25
+  orig: 83, 27
+  offset: 1, 1
+  index: -1
+eyoujiao
+  rotate: false
+  xy: 2, 1226
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+ezuojiao
+  rotate: false
+  xy: 2, 1261
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+hongyan_00024
+  rotate: true
+  xy: 748, 63
+  size: 257, 100
+  orig: 317, 157
+  offset: 29, 28
+  index: -1
+pigu
+  rotate: false
+  xy: 2, 932
+  size: 759, 1024
+  orig: 759, 1024
+  offset: 0, 0
+  index: -1
+yan/diyan_01
+  rotate: false
+  xy: 76, 1829
+  size: 27, 37
+  orig: 80, 68
+  offset: 27, 6
+  index: -1
+yan/diyan_02
+  rotate: false
+  xy: 363, 17
+  size: 45, 47
+  orig: 80, 68
+  offset: 16, 4
+  index: -1
+yan/diyan_03
+  rotate: false
+  xy: 2, 1755
+  size: 59, 53
+  orig: 80, 68
+  offset: 8, 2
+  index: -1
+yan/diyan_04
+  rotate: false
+  xy: 819, 5
+  size: 64, 56
+  orig: 80, 68
+  offset: 6, 2
+  index: -1
+yan/diyan_05
+  rotate: false
+  xy: 386, 1898
+  size: 68, 58
+  orig: 80, 68
+  offset: 4, 3
+  index: -1
+yan/diyan_06
+  rotate: false
+  xy: 313, 1900
+  size: 71, 56
+  orig: 80, 68
+  offset: 4, 5
+  index: -1
+yan/diyan_07
+  rotate: false
+  xy: 2, 1810
+  size: 72, 56
+  orig: 80, 68
+  offset: 5, 7
+  index: -1
+yan/diyan_08
+  rotate: false
+  xy: 625, 1900
+  size: 70, 56
+  orig: 80, 68
+  offset: 5, 8
+  index: -1
+yan/diyan_09
+  rotate: false
+  xy: 748, 9
+  size: 69, 52
+  orig: 80, 68
+  offset: 5, 13
+  index: -1
+yan/diyan_10
+  rotate: false
+  xy: 660, 1848
+  size: 47, 50
+  orig: 80, 68
+  offset: 5, 14
+  index: -1
+yan/diyan_11
+  rotate: false
+  xy: 120, 1907
+  size: 32, 49
+  orig: 80, 68
+  offset: 7, 14
+  index: -1
+yayinying
+  rotate: false
+  xy: 2, 1868
+  size: 116, 88
+  orig: 124, 94
+  offset: 2, 1
+  index: -1
+yingzi_00000
+  rotate: false
+  xy: 2, 3
+  size: 409, 318
+  orig: 470, 374
+  offset: 40, 20
+  index: -1
+yumao1
+  rotate: true
+  xy: 412, 56
+  size: 177, 334
+  orig: 177, 334
+  offset: 0, 0
+  index: -1
+yumao2
+  rotate: false
+  xy: 701, 932
+  size: 174, 312
+  orig: 176, 313
+  offset: 1, 0
+  index: -1
+yumao3
+  rotate: false
+  xy: 719, 1731
+  size: 188, 225
+  orig: 189, 227
+  offset: 1, 1
+  index: -1

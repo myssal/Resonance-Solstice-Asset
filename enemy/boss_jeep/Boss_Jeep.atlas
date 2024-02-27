@@ -1,0 +1,363 @@
+
+Boss_Jeep.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Box
+  rotate: false
+  xy: 572, 64
+  size: 79, 80
+  orig: 81, 82
+  offset: 1, 1
+  index: -1
+Interior
+  rotate: true
+  xy: 625, 463
+  size: 412, 237
+  orig: 414, 250
+  offset: 1, 1
+  index: -1
+back
+  rotate: false
+  xy: 2, 343
+  size: 528, 153
+  orig: 530, 155
+  offset: 1, 1
+  index: -1
+barrel1_1
+  rotate: false
+  xy: 393, 95
+  size: 177, 48
+  orig: 179, 50
+  offset: 1, 1
+  index: -1
+barrel1_2
+  rotate: false
+  xy: 114, 70
+  size: 177, 48
+  orig: 179, 50
+  offset: 1, 1
+  index: -1
+barrel1_3
+  rotate: true
+  xy: 864, 601
+  size: 274, 79
+  orig: 277, 81
+  offset: 0, 2
+  index: -1
+body
+  rotate: false
+  xy: 2, 498
+  size: 589, 176
+  orig: 591, 179
+  offset: 1, 1
+  index: -1
+boy01_arm1
+  rotate: true
+  xy: 173, 19
+  size: 49, 90
+  orig: 49, 90
+  offset: 0, 0
+  index: -1
+boy01_arm2
+  rotate: true
+  xy: 557, 19
+  size: 44, 84
+  orig: 44, 84
+  offset: 0, 0
+  index: -1
+boy01_beibao
+  rotate: false
+  xy: 945, 682
+  size: 61, 100
+  orig: 63, 102
+  offset: 1, 1
+  index: -1
+boy01_beidai
+  rotate: true
+  xy: 467, 53
+  size: 40, 88
+  orig: 42, 94
+  offset: 1, 1
+  index: -1
+boy01_handl
+  rotate: false
+  xy: 643, 25
+  size: 30, 30
+  orig: 32, 32
+  offset: 1, 1
+  index: -1
+boy01_handr
+  rotate: false
+  xy: 532, 464
+  size: 33, 32
+  orig: 35, 34
+  offset: 1, 1
+  index: -1
+boy01_head
+  rotate: true
+  xy: 711, 332
+  size: 129, 148
+  orig: 131, 150
+  offset: 1, 1
+  index: -1
+boy01_kuzi
+  rotate: false
+  xy: 912, 62
+  size: 85, 43
+  orig: 87, 46
+  offset: 1, 2
+  index: -1
+boy01_legl
+  rotate: false
+  xy: 971, 211
+  size: 51, 111
+  orig: 51, 111
+  offset: 0, 0
+  index: -1
+boy01_legr
+  rotate: false
+  xy: 850, 50
+  size: 60, 108
+  orig: 60, 108
+  offset: 0, 0
+  index: -1
+boy01_shenti
+  rotate: false
+  xy: 945, 784
+  size: 77, 91
+  orig: 79, 93
+  offset: 1, 1
+  index: -1
+boy01_toufa
+  rotate: true
+  xy: 743, 3
+  size: 61, 71
+  orig: 61, 71
+  offset: 0, 0
+  index: -1
+boy01_waitao
+  rotate: true
+  xy: 2, 110
+  size: 101, 110
+  orig: 103, 112
+  offset: 1, 1
+  index: -1
+boy01_yaobao
+  rotate: false
+  xy: 664, 211
+  size: 33, 31
+  orig: 35, 33
+  offset: 1, 1
+  index: -1
+boy02_arm1
+  rotate: true
+  xy: 81, 20
+  size: 49, 90
+  orig: 49, 90
+  offset: 0, 0
+  index: -1
+boy02_arm2
+  rotate: true
+  xy: 894, 16
+  size: 45, 84
+  orig: 45, 84
+  offset: 0, 0
+  index: -1
+boy02_handl
+  rotate: false
+  xy: 593, 644
+  size: 29, 30
+  orig: 31, 32
+  offset: 1, 1
+  index: -1
+boy02_handr
+  rotate: false
+  xy: 567, 464
+  size: 33, 32
+  orig: 35, 34
+  offset: 1, 1
+  index: -1
+boy02_head
+  rotate: false
+  xy: 864, 451
+  size: 144, 148
+  orig: 146, 150
+  offset: 1, 1
+  index: -1
+boy02_kuzi
+  rotate: false
+  xy: 380, 50
+  size: 85, 43
+  orig: 87, 45
+  offset: 1, 1
+  index: -1
+boy02_shenti
+  rotate: false
+  xy: 770, 65
+  size: 78, 91
+  orig: 80, 93
+  offset: 1, 1
+  index: -1
+boy02_waitao
+  rotate: true
+  xy: 281, 120
+  size: 102, 110
+  orig: 104, 112
+  offset: 1, 1
+  index: -1
+boy02_yaobao
+  rotate: false
+  xy: 980, 29
+  size: 33, 31
+  orig: 35, 33
+  offset: 1, 1
+  index: -1
+bullet
+  rotate: false
+  xy: 1008, 759
+  size: 8, 23
+  orig: 10, 25
+  offset: 1, 1
+  index: -1
+bumper1
+  rotate: false
+  xy: 420, 262
+  size: 217, 65
+  orig: 219, 67
+  offset: 1, 1
+  index: -1
+bumper2
+  rotate: false
+  xy: 664, 158
+  size: 240, 49
+  orig: 242, 51
+  offset: 1, 1
+  index: -1
+dead
+  rotate: false
+  xy: 2, 676
+  size: 621, 199
+  orig: 630, 217
+  offset: 8, 3
+  index: -1
+engine
+  rotate: false
+  xy: 532, 329
+  size: 177, 132
+  orig: 179, 134
+  offset: 1, 1
+  index: -1
+front tire1
+  rotate: false
+  xy: 542, 146
+  size: 120, 114
+  orig: 122, 116
+  offset: 1, 1
+  index: -1
+front tire1_1
+  rotate: false
+  xy: 420, 145
+  size: 120, 115
+  orig: 122, 117
+  offset: 1, 1
+  index: -1
+front tire2
+  rotate: false
+  xy: 664, 57
+  size: 104, 99
+  orig: 106, 101
+  offset: 1, 1
+  index: -1
+front tire2_1
+  rotate: false
+  xy: 906, 107
+  size: 104, 100
+  orig: 106, 102
+  offset: 1, 1
+  index: -1
+gun barrel
+  rotate: false
+  xy: 835, 209
+  size: 128, 110
+  orig: 130, 112
+  offset: 1, 1
+  index: -1
+gun barrel_2
+  rotate: false
+  xy: 138, 243
+  size: 156, 98
+  orig: 158, 101
+  offset: 1, 1
+  index: -1
+ranshaoping
+  rotate: false
+  xy: 293, 48
+  size: 85, 70
+  orig: 85, 70
+  offset: 0, 0
+  index: -1
+rear tire1
+  rotate: false
+  xy: 861, 321
+  size: 134, 128
+  orig: 136, 130
+  offset: 1, 1
+  index: -1
+rear tire1_1
+  rotate: false
+  xy: 2, 213
+  size: 134, 128
+  orig: 136, 130
+  offset: 1, 1
+  index: -1
+rear tire2
+  rotate: false
+  xy: 296, 224
+  size: 122, 117
+  orig: 124, 119
+  offset: 1, 1
+  index: -1
+rear tire2_1
+  rotate: false
+  xy: 711, 213
+  size: 122, 117
+  orig: 124, 119
+  offset: 1, 1
+  index: -1
+shock absorber1
+  rotate: true
+  xy: 2, 45
+  size: 63, 80
+  orig: 65, 82
+  offset: 1, 1
+  index: -1
+shock absorber2
+  rotate: false
+  xy: 816, 15
+  size: 42, 48
+  orig: 44, 50
+  offset: 1, 1
+  index: -1
+shock absorber3
+  rotate: false
+  xy: 664, 244
+  size: 43, 83
+  orig: 45, 85
+  offset: 1, 1
+  index: -1
+shock absorber4
+  rotate: false
+  xy: 945, 619
+  size: 60, 61
+  orig: 62, 64
+  offset: 1, 1
+  index: -1
+wheel axle
+  rotate: false
+  xy: 138, 147
+  size: 141, 94
+  orig: 143, 99
+  offset: 1, 2
+  index: -1

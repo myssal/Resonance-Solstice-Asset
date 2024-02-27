@@ -1,0 +1,146 @@
+
+bt_leidian.png
+size: 256,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+face
+  rotate: true
+  xy: 2, 477
+  size: 129, 133
+  orig: 129, 133
+  offset: 0, 0
+  index: -1
+feetl
+  rotate: false
+  xy: 130, 280
+  size: 54, 116
+  orig: 54, 116
+  offset: 0, 0
+  index: -1
+feetr
+  rotate: true
+  xy: 2, 91
+  size: 61, 113
+  orig: 61, 113
+  offset: 0, 0
+  index: -1
+handl
+  rotate: false
+  xy: 138, 11
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+handl02
+  rotate: false
+  xy: 2, 18
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+handr
+  rotate: false
+  xy: 101, 10
+  size: 35, 35
+  orig: 35, 36
+  offset: 0, 1
+  index: -1
+handr02
+  rotate: true
+  xy: 63, 11
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+heiying
+  rotate: false
+  xy: 2, 608
+  size: 171, 243
+  orig: 172, 243
+  offset: 1, 0
+  index: -1
+kua
+  rotate: false
+  xy: 86, 88
+  size: 89, 44
+  orig: 89, 44
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 80, 201
+  size: 78, 86
+  orig: 79, 86
+  offset: 1, 0
+  index: -1
+shoudai
+  rotate: true
+  xy: 39, 3
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+weaponn
+  rotate: false
+  xy: 2, 276
+  size: 116, 71
+  orig: 116, 71
+  offset: 0, 0
+  index: -1
+wp1
+  rotate: false
+  xy: 57, 154
+  size: 116, 45
+  orig: 116, 57
+  offset: 0, 12
+  index: -1
+wp2
+  rotate: true
+  xy: 2, 349
+  size: 126, 133
+  orig: 129, 133
+  offset: 3, 0
+  index: -1
+youb1
+  rotate: true
+  xy: 2, 44
+  size: 45, 59
+  orig: 45, 59
+  offset: 0, 0
+  index: -1
+youb2
+  rotate: false
+  xy: 137, 522
+  size: 45, 63
+  orig: 45, 63
+  offset: 0, 0
+  index: -1
+youwt
+  rotate: false
+  xy: 2, 155
+  size: 53, 119
+  orig: 53, 119
+  offset: 0, 0
+  index: -1
+zuob1
+  rotate: true
+  xy: 124, 47
+  size: 39, 54
+  orig: 39, 54
+  offset: 0, 0
+  index: -1
+zuob2
+  rotate: true
+  xy: 63, 48
+  size: 38, 59
+  orig: 38, 59
+  offset: 0, 0
+  index: -1
+zuowt
+  rotate: false
+  xy: 137, 397
+  size: 48, 123
+  orig: 48, 123
+  offset: 0, 0
+  index: -1

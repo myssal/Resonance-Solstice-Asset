@@ -1,0 +1,279 @@
+
+Boss_Mech.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bibu
+  rotate: false
+  xy: 800, 197
+  size: 27, 74
+  orig: 29, 76
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 264, 21
+  size: 82, 49
+  orig: 85, 52
+  offset: 1, 2
+  index: -1
+dan
+  rotate: true
+  xy: 685, 174
+  size: 97, 113
+  orig: 99, 115
+  offset: 1, 1
+  index: -1
+dangba
+  rotate: false
+  xy: 854, 7
+  size: 54, 39
+  orig: 56, 41
+  offset: 1, 1
+  index: -1
+dead
+  rotate: false
+  xy: 2, 72
+  size: 461, 362
+  orig: 481, 411
+  offset: 18, 33
+  index: -1
+hand
+  rotate: true
+  xy: 685, 273
+  size: 161, 154
+  orig: 163, 163
+  offset: 1, 8
+  index: -1
+hand_1
+  rotate: true
+  xy: 772, 42
+  size: 53, 121
+  orig: 62, 121
+  offset: 0, 0
+  index: -1
+hand_2
+  rotate: true
+  xy: 157, 16
+  size: 54, 106
+  orig: 54, 106
+  offset: 0, 0
+  index: -1
+jianbang_l
+  rotate: true
+  xy: 465, 46
+  size: 68, 96
+  orig: 70, 98
+  offset: 1, 1
+  index: -1
+jianbang_r
+  rotate: true
+  xy: 680, 37
+  size: 65, 90
+  orig: 67, 92
+  offset: 1, 1
+  index: -1
+jianbu
+  rotate: false
+  xy: 627, 16
+  size: 37, 39
+  orig: 39, 41
+  offset: 1, 1
+  index: -1
+jiao01_1_l
+  rotate: true
+  xy: 78, 13
+  size: 57, 77
+  orig: 59, 79
+  offset: 1, 1
+  index: -1
+jiao01_1_r
+  rotate: false
+  xy: 348, 16
+  size: 51, 54
+  orig: 53, 56
+  offset: 1, 1
+  index: -1
+jiao01_2_l
+  rotate: false
+  xy: 995, 58
+  size: 19, 45
+  orig: 21, 47
+  offset: 1, 1
+  index: -1
+jiao01_2_r
+  rotate: true
+  xy: 969, 105
+  size: 31, 45
+  orig: 33, 47
+  offset: 1, 1
+  index: -1
+jq_datui_l
+  rotate: false
+  xy: 2, 2
+  size: 74, 68
+  orig: 76, 70
+  offset: 1, 1
+  index: -1
+jq_datui_r
+  rotate: false
+  xy: 910, 40
+  size: 83, 61
+  orig: 85, 63
+  offset: 1, 1
+  index: -1
+jq_xiaotui01_2_l
+  rotate: true
+  xy: 596, 113
+  size: 59, 129
+  orig: 61, 131
+  offset: 1, 1
+  index: -1
+jq_xiaotui01_2_r
+  rotate: false
+  xy: 972, 324
+  size: 46, 110
+  orig: 48, 112
+  offset: 1, 1
+  index: -1
+jq_xiaotui01_l
+  rotate: true
+  xy: 465, 116
+  size: 84, 129
+  orig: 86, 131
+  offset: 1, 1
+  index: -1
+jq_xiaotui01_r
+  rotate: true
+  xy: 727, 104
+  size: 68, 110
+  orig: 70, 112
+  offset: 1, 1
+  index: -1
+jqb_l
+  rotate: false
+  xy: 972, 212
+  size: 40, 110
+  orig: 42, 112
+  offset: 1, 1
+  index: -1
+jqb_r
+  rotate: true
+  xy: 563, 57
+  size: 54, 115
+  orig: 56, 117
+  offset: 1, 1
+  index: -1
+jqs_l
+  rotate: false
+  xy: 841, 94
+  size: 67, 186
+  orig: 69, 188
+  offset: 1, 1
+  index: -1
+jqs_r
+  rotate: false
+  xy: 910, 103
+  size: 57, 177
+  orig: 59, 179
+  offset: 1, 1
+  index: -1
+kaobei
+  rotate: true
+  xy: 465, 202
+  size: 232, 218
+  orig: 234, 220
+  offset: 1, 1
+  index: -1
+shenti
+  rotate: false
+  xy: 841, 282
+  size: 129, 152
+  orig: 131, 154
+  offset: 1, 1
+  index: -1
+shoubu
+  rotate: false
+  xy: 563, 21
+  size: 62, 34
+  orig: 64, 36
+  offset: 1, 1
+  index: -1
+tun_l
+  rotate: false
+  xy: 401, 18
+  size: 44, 52
+  orig: 46, 54
+  offset: 1, 1
+  index: -1
+zhou_l
+  rotate: true
+  xy: 447, 16
+  size: 28, 63
+  orig: 30, 65
+  offset: 1, 1
+  index: -1
+zhou_r
+  rotate: false
+  xy: 969, 138
+  size: 45, 72
+  orig: 47, 74
+  offset: 1, 1
+  index: -1
+zhua_l
+  rotate: false
+  xy: 512, 12
+  size: 28, 32
+  orig: 30, 34
+  offset: 1, 1
+  index: -1
+zhua_l_01
+  rotate: false
+  xy: 995, 30
+  size: 22, 26
+  orig: 24, 28
+  offset: 1, 1
+  index: -1
+zhua_l_02
+  rotate: false
+  xy: 648, 179
+  size: 16, 21
+  orig: 18, 23
+  offset: 1, 1
+  index: -1
+zhua_l_03
+  rotate: false
+  xy: 627, 182
+  size: 19, 18
+  orig: 21, 20
+  offset: 1, 1
+  index: -1
+zhua_r
+  rotate: true
+  xy: 596, 175
+  size: 25, 29
+  orig: 27, 31
+  offset: 1, 1
+  index: -1
+zhua_r_01
+  rotate: false
+  xy: 542, 15
+  size: 17, 29
+  orig: 19, 31
+  offset: 1, 1
+  index: -1
+zhua_r_02
+  rotate: false
+  xy: 666, 177
+  size: 13, 23
+  orig: 15, 25
+  offset: 1, 1
+  index: -1
+zhua_r_03
+  rotate: false
+  xy: 800, 175
+  size: 15, 20
+  orig: 17, 22
+  offset: 1, 1
+  index: -1

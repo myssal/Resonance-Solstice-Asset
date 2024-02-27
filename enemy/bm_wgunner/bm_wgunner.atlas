@@ -1,0 +1,97 @@
+
+bm_wgunner.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bm_wgunner-dead3
+  rotate: false
+  xy: 2, 340
+  size: 286, 388
+  orig: 286, 388
+  offset: 0, 0
+  index: -1
+hybqs_0
+  rotate: 180
+  xy: 88, 48
+  size: 152, 53
+  orig: 152, 53
+  offset: 0, 0
+  index: -1
+hybqs_1
+  rotate: false
+  xy: 212, 150
+  size: 74, 90
+  orig: 74, 90
+  offset: 0, 0
+  index: -1
+hybqs_10
+  rotate: false
+  xy: 152, 102
+  size: 77, 157
+  orig: 77, 157
+  offset: 0, 0
+  index: -1
+hybqs_11
+  rotate: 270
+  xy: 2, 87
+  size: 66, 135
+  orig: 66, 135
+  offset: 0, 0
+  index: -1
+hybqs_2
+  rotate: true
+  xy: 251, 242
+  size: 71, 43
+  orig: 71, 43
+  offset: 0, 0
+  index: -1
+hybqs_3
+  rotate: false
+  xy: 2, 10
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+hybqs_4
+  rotate: false
+  xy: 47, 19
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+hybqs_5
+  rotate: false
+  xy: 2, 260
+  size: 247, 78
+  orig: 247, 79
+  offset: 0, 1
+  index: -1
+hybqs_6
+  rotate: false
+  xy: 234, 49
+  size: 50, 97
+  orig: 50, 97
+  offset: 0, 0
+  index: -1
+hybqs_7
+  rotate: true
+  xy: 2, 141
+  size: 117, 159
+  orig: 117, 159
+  offset: 0, 0
+  index: -1
+hybqs_8
+  rotate: true
+  xy: 227, 4
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+hybqs_9
+  rotate: true
+  xy: 2, 49
+  size: 39, 84
+  orig: 39, 84
+  offset: 0, 0
+  index: -1

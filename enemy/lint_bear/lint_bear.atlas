@@ -1,0 +1,153 @@
+
+lint_bear.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bshenti
+  rotate: false
+  xy: 2, 105
+  size: 199, 139
+  orig: 199, 139
+  offset: 0, 0
+  index: -1
+Byoujiao
+  rotate: true
+  xy: 202, 88
+  size: 156, 196
+  orig: 156, 196
+  offset: 0, 0
+  index: -1
+Byoushou
+  rotate: 270
+  xy: 217, 3
+  size: 86, 173
+  orig: 86, 173
+  offset: 0, 0
+  index: -1
+Bzuojiao
+  rotate: 180
+  xy: 869, 284
+  size: 123, 197
+  orig: 123, 197
+  offset: 0, 0
+  index: -1
+Bzuoshou
+  rotate: true
+  xy: 435, 659
+  size: 74, 175
+  orig: 74, 175
+  offset: 0, 0
+  index: -1
+beitou
+  rotate: true
+  xy: 435, 396
+  size: 236, 216
+  orig: 238, 218
+  offset: 1, 1
+  index: -1
+daizi
+  rotate: false
+  xy: 572, 8
+  size: 305, 48
+  orig: 305, 48
+  offset: 0, 0
+  index: -1
+dantou
+  rotate: false
+  xy: 392, 8
+  size: 178, 51
+  orig: 180, 53
+  offset: 1, 1
+  index: -1
+huojiantong
+  rotate: false
+  xy: 2, 246
+  size: 476, 148
+  orig: 480, 151
+  offset: 2, 1
+  index: -1
+qiang1
+  rotate: false
+  xy: 653, 396
+  size: 214, 232
+  orig: 216, 234
+  offset: 1, 1
+  index: -1
+qiang2
+  rotate: false
+  xy: 400, 61
+  size: 192, 115
+  orig: 194, 117
+  offset: 1, 1
+  index: -1
+shenti
+  rotate: true
+  xy: 718, 212
+  size: 182, 154
+  orig: 182, 154
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 480, 178
+  size: 236, 216
+  orig: 238, 218
+  offset: 1, 1
+  index: -1
+touhuan1
+  rotate: false
+  xy: 334, 194
+  size: 115, 50
+  orig: 117, 52
+  offset: 1, 1
+  index: -1
+touhuan2
+  rotate: false
+  xy: 2, 52
+  size: 43, 68
+  orig: 46, 68
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: false
+  xy: 2, 396
+  size: 431, 336
+  orig: 457, 393
+  offset: 6, 27
+  index: -1
+youjiao
+  rotate: false
+  xy: 834, 83
+  size: 122, 199
+  orig: 122, 199
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 609, 655
+  size: 77, 174
+  orig: 77, 174
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: 270
+  xy: 619, 72
+  size: 138, 204
+  orig: 138, 204
+  offset: 0, 0
+  index: -1
+zuojiao1
+  rotate: 180
+  xy: 838, 533
+  size: 138, 199
+  orig: 138, 199
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 38, 32
+  size: 76, 177
+  orig: 76, 177
+  offset: 0, 0
+  index: -1

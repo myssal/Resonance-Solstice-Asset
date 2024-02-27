@@ -1,0 +1,111 @@
+
+bt_dadun.png
+size: 256,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dun
+  rotate: true
+  xy: 2, 250
+  size: 75, 181
+  orig: 75, 181
+  offset: 0, 0
+  index: -1
+feetl
+  rotate: false
+  xy: 112, 140
+  size: 50, 109
+  orig: 50, 109
+  offset: 0, 0
+  index: -1
+feetr
+  rotate: true
+  xy: 5, 92
+  size: 57, 105
+  orig: 57, 105
+  offset: 0, 0
+  index: -1
+handl
+  rotate: true
+  xy: 107, 3
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+handr
+  rotate: false
+  xy: 151, 372
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+heiying
+  rotate: false
+  xy: 2, 458
+  size: 159, 256
+  orig: 160, 256
+  offset: 0, 0
+  index: -1
+kua
+  rotate: false
+  xy: 33, 61
+  size: 84, 42
+  orig: 84, 42
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 148
+  size: 100, 109
+  orig: 100, 109
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 2, 327
+  size: 129, 147
+  orig: 129, 147
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: true
+  xy: 107, 79
+  size: 59, 68
+  orig: 59, 68
+  offset: 0, 0
+  index: -1
+yaobao
+  rotate: false
+  xy: 151, 407
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+youdb
+  rotate: true
+  xy: 119, 34
+  size: 43, 54
+  orig: 43, 54
+  offset: 0, 0
+  index: -1
+youxb
+  rotate: true
+  xy: 55, 25
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+zuodb
+  rotate: true
+  xy: 2, 19
+  size: 40, 51
+  orig: 40, 51
+  offset: 0, 0
+  index: -1
+zuoxb
+  rotate: false
+  xy: 151, 328
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1

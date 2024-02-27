@@ -1,0 +1,76 @@
+
+bz_fuzi_effect.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feifu
+  rotate: true
+  xy: 252, 159
+  size: 121, 126
+  orig: 130, 130
+  offset: 4, 4
+  index: -1
+quanguang_00000
+  rotate: false
+  xy: 2, 380
+  size: 400, 110
+  orig: 430, 150
+  offset: 20, 0
+  index: -1
+quanguang_00001
+  rotate: false
+  xy: 2, 282
+  size: 412, 96
+  orig: 430, 150
+  offset: 18, 0
+  index: -1
+quanguang_00002
+  rotate: false
+  xy: 2, 182
+  size: 248, 98
+  orig: 430, 150
+  offset: 182, 7
+  index: -1
+quanguang_00003
+  rotate: true
+  xy: 416, 223
+  size: 135, 70
+  orig: 430, 150
+  offset: 295, 47
+  index: -1
+toushe_00000
+  rotate: false
+  xy: 2, 22
+  size: 140, 64
+  orig: 230, 125
+  offset: 85, 25
+  index: -1
+toushe_00001
+  rotate: true
+  xy: 416, 360
+  size: 130, 74
+  orig: 230, 125
+  offset: 67, 21
+  index: -1
+toushe_00002
+  rotate: false
+  xy: 307, 72
+  size: 149, 85
+  orig: 230, 125
+  offset: 41, 19
+  index: -1
+toushe_00003
+  rotate: false
+  xy: 153, 68
+  size: 152, 89
+  orig: 230, 125
+  offset: 29, 18
+  index: -1
+toushe_00004
+  rotate: false
+  xy: 2, 88
+  size: 149, 92
+  orig: 230, 125
+  offset: 17, 19
+  index: -1

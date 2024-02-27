@@ -1,0 +1,111 @@
+
+Tree_orchid.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+8
+  rotate: false
+  xy: 2, 397
+  size: 284, 498
+  orig: 284, 498
+  offset: 0, 0
+  index: -1
+TL_0
+  rotate: false
+  xy: 362, 59
+  size: 58, 138
+  orig: 60, 140
+  offset: 1, 1
+  index: -1
+TL_1
+  rotate: false
+  xy: 212, 45
+  size: 148, 152
+  orig: 150, 154
+  offset: 1, 1
+  index: -1
+TL_10
+  rotate: false
+  xy: 2, 2
+  size: 208, 195
+  orig: 210, 197
+  offset: 1, 1
+  index: -1
+TL_11
+  rotate: true
+  xy: 250, 199
+  size: 130, 129
+  orig: 132, 131
+  offset: 1, 1
+  index: -1
+TL_12
+  rotate: false
+  xy: 371, 536
+  size: 65, 131
+  orig: 65, 131
+  offset: 0, 0
+  index: -1
+TL_13
+  rotate: false
+  xy: 2, 199
+  size: 246, 196
+  orig: 246, 196
+  offset: 0, 0
+  index: -1
+TL_2
+  rotate: false
+  xy: 287, 331
+  size: 150, 235
+  orig: 150, 235
+  offset: 0, 0
+  index: -1
+TL_3
+  rotate: false
+  xy: 288, 786
+  size: 62, 109
+  orig: 62, 109
+  offset: 0, 0
+  index: -1
+TL_4
+  rotate: false
+  xy: 352, 323
+  size: 84, 131
+  orig: 84, 131
+  offset: 0, 0
+  index: -1
+TL_5
+  rotate: false
+  xy: 354, 753
+  size: 80, 96
+  orig: 80, 96
+  offset: 0, 0
+  index: -1
+TL_6
+  rotate: false
+  xy: 367, 658
+  size: 63, 123
+  orig: 63, 123
+  offset: 0, 0
+  index: -1
+TL_7
+  rotate: false
+  xy: 288, 652
+  size: 76, 69
+  orig: 76, 69
+  offset: 0, 0
+  index: -1
+TL_8
+  rotate: false
+  xy: 288, 556
+  size: 80, 124
+  orig: 80, 124
+  offset: 0, 0
+  index: -1
+TL_9
+  rotate: false
+  xy: 288, 722
+  size: 48, 62
+  orig: 50, 65
+  offset: 1, 2
+  index: -1

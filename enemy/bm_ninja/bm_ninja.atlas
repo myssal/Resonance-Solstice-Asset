@@ -1,0 +1,202 @@
+
+bm_ninja.png
+size: 256,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_42
+  rotate: false
+  xy: 2, 640
+  size: 151, 125
+  orig: 159, 130
+  offset: 5, 0
+  index: -1
+bm_ninja-skill_02_22
+  rotate: false
+  xy: 2, 767
+  size: 143, 206
+  orig: 143, 210
+  offset: 0, 3
+  index: -1
+ninja_0
+  rotate: true
+  xy: 32, 438
+  size: 82, 114
+  orig: 82, 114
+  offset: 0, 0
+  index: -1
+ninja_1
+  rotate: true
+  xy: 72, 28
+  size: 26, 80
+  orig: 26, 80
+  offset: 0, 0
+  index: -1
+ninja_10
+  rotate: true
+  xy: 2, 46
+  size: 34, 36
+  orig: 36, 38
+  offset: 1, 1
+  index: -1
+ninja_11
+  rotate: false
+  xy: 25, 204
+  size: 60, 48
+  orig: 60, 48
+  offset: 0, 0
+  index: -1
+ninja_12
+  rotate: false
+  xy: 71, 254
+  size: 81, 62
+  orig: 83, 62
+  offset: 2, 0
+  index: -1
+ninja_13
+  rotate: 180
+  xy: 2, 362
+  size: 67, 76
+  orig: 67, 76
+  offset: 0, 0
+  index: -1
+ninja_14
+  rotate: true
+  xy: 22, 163
+  size: 46, 64
+  orig: 46, 64
+  offset: 0, 0
+  index: -1
+ninja_15
+  rotate: 270
+  xy: 6, 303
+  size: 57, 72
+  orig: 57, 72
+  offset: 0, 0
+  index: -1
+ninja_16
+  rotate: true
+  xy: 88, 121
+  size: 40, 56
+  orig: 43, 56
+  offset: 3, 0
+  index: -1
+ninja_17
+  rotate: 180
+  xy: 2, 108
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+ninja_18
+  rotate: true
+  xy: 79, 311
+  size: 61, 73
+  orig: 61, 73
+  offset: 0, 0
+  index: -1
+ninja_19
+  rotate: true
+  xy: 88, 48
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+ninja_2
+  rotate: false
+  xy: 128, 487
+  size: 23, 87
+  orig: 23, 87
+  offset: 0, 0
+  index: -1
+ninja_20
+  rotate: true
+  xy: 88, 87
+  size: 35, 40
+  orig: 37, 42
+  offset: 1, 1
+  index: -1
+ninja_21
+  rotate: true
+  xy: 88, 161
+  size: 40, 44
+  orig: 42, 47
+  offset: 1, 1
+  index: -1
+ninja_22
+  rotate: true
+  xy: 122, 615
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+ninja_23
+  rotate: true
+  xy: 87, 203
+  size: 49, 51
+  orig: 51, 53
+  offset: 1, 1
+  index: -1
+ninja_24
+  rotate: true
+  xy: 118, 3
+  size: 23, 30
+  orig: 25, 32
+  offset: 1, 1
+  index: -1
+ninja_25
+  rotate: true
+  xy: 2, 251
+  size: 50, 51
+  orig: 52, 53
+  offset: 1, 1
+  index: -1
+ninja_3
+  rotate: 270
+  xy: 2, 4
+  size: 35, 72
+  orig: 35, 72
+  offset: 0, 0
+  index: -1
+ninja_4
+  rotate: 180
+  xy: 19, 82
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+ninja_5
+  rotate: false
+  xy: 70, 367
+  size: 83, 74
+  orig: 83, 74
+  offset: 0, 0
+  index: -1
+ninja_6
+  rotate: false
+  xy: 71, 3
+  size: 30, 23
+  orig: 32, 25
+  offset: 1, 1
+  index: -1
+ninja_7
+  rotate: false
+  xy: 2, 519
+  size: 143, 119
+  orig: 143, 119
+  offset: 0, 0
+  index: -1
+ninja_8
+  rotate: false
+  xy: 49, 48
+  size: 37, 37
+  orig: 39, 39
+  offset: 1, 1
+  index: -1
+ninja_9
+  rotate: true
+  xy: 43, 121
+  size: 40, 43
+  orig: 43, 45
+  offset: 1, 1
+  index: -1

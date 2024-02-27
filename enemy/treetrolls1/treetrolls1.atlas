@@ -1,0 +1,195 @@
+
+treetrolls1.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball/fanguang_00000
+  rotate: false
+  xy: 498, 98
+  size: 87, 87
+  orig: 89, 89
+  offset: 1, 1
+  index: -1
+ball/glow_00000
+  rotate: false
+  xy: 2, 176
+  size: 175, 175
+  orig: 247, 247
+  offset: 33, 37
+  index: -1
+ball/heidi_00000
+  rotate: false
+  xy: 179, 262
+  size: 89, 89
+  orig: 91, 91
+  offset: 1, 1
+  index: -1
+ball/wenli_00000
+  rotate: false
+  xy: 2, 75
+  size: 308, 99
+  orig: 308, 100
+  offset: 0, 0
+  index: -1
+ball/yinying_00000
+  rotate: false
+  xy: 498, 187
+  size: 86, 87
+  orig: 88, 88
+  offset: 1, 0
+  index: -1
+cs1
+  rotate: true
+  xy: 225, 48
+  size: 53, 273
+  orig: 53, 273
+  offset: 0, 0
+  index: -1
+cs2
+  rotate: 180
+  xy: 628, 64
+  size: 49, 226
+  orig: 49, 226
+  offset: 0, 0
+  index: -1
+cs3
+  rotate: 180
+  xy: 586, 110
+  size: 67, 241
+  orig: 67, 241
+  offset: 0, 0
+  index: -1
+heiying1
+  rotate: false
+  xy: 312, 119
+  size: 89, 232
+  orig: 89, 232
+  offset: 0, 0
+  index: -1
+heiying2
+  rotate: false
+  xy: 403, 138
+  size: 93, 213
+  orig: 93, 213
+  offset: 0, 0
+  index: -1
+qiu
+  rotate: false
+  xy: 646, 299
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+st01
+  rotate: true
+  xy: 2, 23
+  size: 50, 81
+  orig: 50, 82
+  offset: 0, 0
+  index: -1
+st03
+  rotate: true
+  xy: 317, 6
+  size: 48, 57
+  orig: 48, 58
+  offset: 0, 0
+  index: -1
+st1
+  rotate: false
+  xy: 154, 15
+  size: 65, 58
+  orig: 65, 58
+  offset: 0, 0
+  index: -1
+st11
+  rotate: false
+  xy: 668, 154
+  size: 28, 49
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+st112
+  rotate: true
+  xy: 500, 7
+  size: 24, 49
+  orig: 24, 50
+  offset: 0, 0
+  index: -1
+st2
+  rotate: false
+  xy: 376, 3
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+st3
+  rotate: true
+  xy: 500, 33
+  size: 63, 75
+  orig: 63, 75
+  offset: 0, 0
+  index: -1
+st4
+  rotate: false
+  xy: 655, 12
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+st5
+  rotate: false
+  xy: 221, 12
+  size: 73, 34
+  orig: 73, 35
+  offset: 0, 0
+  index: -1
+st502
+  rotate: false
+  xy: 664, 91
+  size: 35, 61
+  orig: 35, 64
+  offset: 0, 2
+  index: -1
+st5b
+  rotate: false
+  xy: 416, 6
+  size: 82, 41
+  orig: 82, 41
+  offset: 0, 0
+  index: -1
+st6
+  rotate: false
+  xy: 250, 186
+  size: 59, 74
+  orig: 59, 74
+  offset: 0, 0
+  index: -1
+st6b
+  rotate: true
+  xy: 85, 13
+  size: 60, 67
+  orig: 60, 67
+  offset: 0, 0
+  index: -1
+st7
+  rotate: false
+  xy: 270, 273
+  size: 31, 78
+  orig: 31, 78
+  offset: 0, 0
+  index: -1
+st8
+  rotate: true
+  xy: 577, 13
+  size: 49, 76
+  orig: 49, 76
+  offset: 0, 0
+  index: -1
+st9
+  rotate: false
+  xy: 179, 188
+  size: 69, 72
+  orig: 69, 72
+  offset: 0, 0
+  index: -1

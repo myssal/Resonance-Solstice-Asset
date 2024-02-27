@@ -1,0 +1,167 @@
+
+bz_jiateling_effect.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 870, 473
+  size: 106, 105
+  orig: 115, 115
+  offset: 5, 4
+  index: -1
+qiangkouhuo_00
+  rotate: false
+  xy: 672, 466
+  size: 111, 39
+  orig: 135, 45
+  offset: 0, 3
+  index: -1
+qiangkouhuo_01
+  rotate: false
+  xy: 286, 471
+  size: 61, 16
+  orig: 135, 45
+  offset: 0, 14
+  index: -1
+qiangkouhuo_02
+  rotate: false
+  xy: 2, 454
+  size: 126, 28
+  orig: 135, 45
+  offset: 0, 8
+  index: -1
+qiangkouyanwu_00
+  rotate: true
+  xy: 688, 580
+  size: 73, 181
+  orig: 123, 189
+  offset: 34, 2
+  index: -1
+qiangkouyanwu_01
+  rotate: true
+  xy: 688, 507
+  size: 71, 180
+  orig: 123, 189
+  offset: 37, 3
+  index: -1
+qiangkouyanwu_02
+  rotate: true
+  xy: 2, 484
+  size: 69, 133
+  orig: 123, 189
+  offset: 38, 4
+  index: -1
+qiangkouyanwu_03
+  rotate: true
+  xy: 137, 489
+  size: 64, 139
+  orig: 123, 189
+  offset: 42, 8
+  index: -1
+qiangkouyanwu_04
+  rotate: true
+  xy: 278, 489
+  size: 64, 137
+  orig: 123, 189
+  offset: 42, 13
+  index: -1
+qiangkouyanwu_05
+  rotate: false
+  xy: 518, 485
+  size: 63, 83
+  orig: 123, 189
+  offset: 42, 69
+  index: -1
+suduxian_01
+  rotate: false
+  xy: 2, 752
+  size: 369, 238
+  orig: 491, 290
+  offset: 96, 29
+  index: -1
+suduxian_02
+  rotate: false
+  xy: 373, 755
+  size: 346, 235
+  orig: 491, 290
+  offset: 93, 28
+  index: -1
+suduxian_03
+  rotate: true
+  xy: 721, 655
+  size: 335, 221
+  orig: 491, 290
+  offset: 102, 30
+  index: -1
+suduxian_04
+  rotate: false
+  xy: 354, 570
+  size: 332, 180
+  orig: 491, 290
+  offset: 117, 26
+  index: -1
+suduxian_05
+  rotate: false
+  xy: 2, 555
+  size: 350, 195
+  orig: 491, 290
+  offset: 99, 15
+  index: -1
+zhengqiyanwu_00
+  rotate: false
+  xy: 137, 451
+  size: 96, 36
+  orig: 132, 72
+  offset: 21, 17
+  index: -1
+zhengqiyanwu_01
+  rotate: false
+  xy: 583, 516
+  size: 99, 52
+  orig: 132, 72
+  offset: 12, 13
+  index: -1
+zhengqiyanwu_02
+  rotate: false
+  xy: 417, 511
+  size: 99, 57
+  orig: 132, 72
+  offset: 11, 10
+  index: -1
+zhengqiyanwu_03
+  rotate: false
+  xy: 583, 456
+  size: 87, 58
+  orig: 132, 72
+  offset: 10, 10
+  index: -1
+zhengqiyanwu_04
+  rotate: false
+  xy: 417, 451
+  size: 87, 58
+  orig: 132, 72
+  offset: 9, 10
+  index: -1
+zhengqiyanwu_05
+  rotate: true
+  xy: 785, 450
+  size: 55, 58
+  orig: 132, 72
+  offset: 9, 10
+  index: -1
+zhengqiyanwu_06
+  rotate: true
+  xy: 235, 442
+  size: 45, 49
+  orig: 132, 72
+  offset: 10, 15
+  index: -1
+zidan
+  rotate: true
+  xy: 944, 580
+  size: 410, 46
+  orig: 435, 57
+  offset: 12, 6
+  index: -1

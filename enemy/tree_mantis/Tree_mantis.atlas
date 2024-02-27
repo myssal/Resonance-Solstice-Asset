@@ -1,0 +1,125 @@
+
+Tree_mantis.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DT_0
+  rotate: true
+  xy: 653, 43
+  size: 200, 203
+  orig: 200, 203
+  offset: 0, 0
+  index: -1
+DT_1
+  rotate: false
+  xy: 834, 77
+  size: 188, 128
+  orig: 188, 128
+  offset: 0, 0
+  index: -1
+DT_10
+  rotate: false
+  xy: 526, 4
+  size: 224, 125
+  orig: 224, 125
+  offset: 0, 0
+  index: -1
+DT_11
+  rotate: false
+  xy: 316, 24
+  size: 231, 45
+  orig: 231, 45
+  offset: 0, 0
+  index: -1
+DT_12
+  rotate: false
+  xy: 2, 17
+  size: 284, 116
+  orig: 284, 135
+  offset: 0, 19
+  index: -1
+DT_13
+  rotate: false
+  xy: 222, 46
+  size: 249, 56
+  orig: 249, 56
+  offset: 0, 0
+  index: -1
+DT_14
+  rotate: false
+  xy: 48, 7
+  size: 215, 34
+  orig: 215, 34
+  offset: 0, 0
+  index: -1
+DT_15
+  rotate: false
+  xy: 518, 139
+  size: 144, 40
+  orig: 144, 40
+  offset: 0, 0
+  index: -1
+DT_2
+  rotate: false
+  xy: 816, 164
+  size: 206, 220
+  orig: 220, 220
+  offset: 14, 0
+  index: -1
+DT_3
+  rotate: false
+  xy: 753, 310
+  size: 140, 219
+  orig: 144, 221
+  offset: 3, 1
+  index: -1
+DT_4
+  rotate: true
+  xy: 196, 84
+  size: 95, 190
+  orig: 95, 190
+  offset: 0, 0
+  index: -1
+DT_5
+  rotate: false
+  xy: 895, 459
+  size: 73, 71
+  orig: 80, 79
+  offset: 4, 4
+  index: -1
+DT_6
+  rotate: false
+  xy: 385, 64
+  size: 143, 115
+  orig: 143, 115
+  offset: 0, 0
+  index: -1
+DT_7
+  rotate: true
+  xy: 2, 51
+  size: 128, 227
+  orig: 128, 227
+  offset: 0, 0
+  index: -1
+DT_8
+  rotate: true
+  xy: 834, 25
+  size: 119, 187
+  orig: 119, 187
+  offset: 0, 0
+  index: -1
+DT_9
+  rotate: true
+  xy: 903, 357
+  size: 168, 119
+  orig: 168, 119
+  offset: 0, 0
+  index: -1
+dead
+  rotate: false
+  xy: 2, 181
+  size: 749, 348
+  orig: 749, 348
+  offset: 0, 0
+  index: -1

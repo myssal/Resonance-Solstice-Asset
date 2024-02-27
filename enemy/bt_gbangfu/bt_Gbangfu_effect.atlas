@@ -1,0 +1,390 @@
+
+bt_Gbangfu_effect.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack1/attack_17
+  rotate: false
+  xy: 1513, 283
+  size: 521, 271
+  orig: 745, 526
+  offset: 52, 59
+  index: -1
+effect/attack1/attack_18
+  rotate: true
+  xy: 1698, 916
+  size: 595, 274
+  orig: 745, 526
+  offset: 116, 59
+  index: -1
+effect/attack1/attack_19
+  rotate: false
+  xy: 2, 1200
+  size: 592, 375
+  orig: 745, 526
+  offset: 119, 60
+  index: -1
+effect/attack1/attack_20
+  rotate: false
+  xy: 596, 1197
+  size: 573, 375
+  orig: 745, 526
+  offset: 137, 60
+  index: -1
+effect/attack1/attack_21
+  rotate: false
+  xy: 484, 821
+  size: 557, 374
+  orig: 745, 526
+  offset: 152, 61
+  index: -1
+effect/attack1/attack_22
+  rotate: false
+  xy: 1571, 556
+  size: 415, 358
+  orig: 745, 526
+  offset: 294, 77
+  index: -1
+effect/gunji/gunji_69
+  rotate: false
+  xy: 1013, 413
+  size: 498, 293
+  orig: 786, 517
+  offset: 138, 99
+  index: -1
+effect/gunji/gunji_70
+  rotate: false
+  xy: 484, 526
+  size: 527, 293
+  orig: 786, 517
+  offset: 138, 99
+  index: -1
+effect/gunji/gunji_71
+  rotate: false
+  xy: 539, 159
+  size: 543, 252
+  orig: 786, 517
+  offset: 148, 100
+  index: -1
+effect/gunji/gunji_72
+  rotate: false
+  xy: 2, 262
+  size: 535, 262
+  orig: 786, 517
+  offset: 148, 100
+  index: -1
+effect/gunji/gunji_73
+  rotate: false
+  xy: 1084, 26
+  size: 493, 255
+  orig: 786, 517
+  offset: 170, 108
+  index: -1
+effect/gunji/gunji_74
+  rotate: false
+  xy: 2, 5
+  size: 489, 255
+  orig: 786, 517
+  offset: 170, 108
+  index: -1
+effect/shitou/shitou_101
+  rotate: false
+  xy: 493, 2
+  size: 519, 155
+  orig: 852, 604
+  offset: 189, 189
+  index: -1
+effect/shitou/shitou_103
+  rotate: false
+  xy: 1084, 284
+  size: 396, 127
+  orig: 852, 604
+  offset: 180, 189
+  index: -1
+effect/shitou/shitou_104
+  rotate: false
+  xy: 1301, 1527
+  size: 81, 45
+  orig: 852, 604
+  offset: 498, 171
+  index: -1
+effect/shitou/shitou_86
+  rotate: false
+  xy: 539, 429
+  size: 102, 95
+  orig: 852, 604
+  offset: 346, 63
+  index: -1
+effect/shitou/shitou_88
+  rotate: true
+  xy: 1571, 919
+  size: 182, 115
+  orig: 852, 604
+  offset: 323, 124
+  index: -1
+effect/shitou/shitou_98
+  rotate: false
+  xy: 2, 533
+  size: 474, 222
+  orig: 852, 604
+  offset: 205, 168
+  index: -1
+effect/xiaza/xiaza_86
+  rotate: false
+  xy: 1579, 7
+  size: 399, 274
+  orig: 543, 426
+  offset: 84, 63
+  index: -1
+effect/xiaza/xiaza_91
+  rotate: true
+  xy: 1171, 1537
+  size: 35, 128
+  orig: 543, 426
+  offset: 423, 79
+  index: -1
+effect/zha/zha_87
+  rotate: false
+  xy: 2, 757
+  size: 480, 441
+  orig: 676, 538
+  offset: 102, 32
+  index: -1
+effect/zha/zha_88
+  rotate: false
+  xy: 1076, 1574
+  size: 497, 466
+  orig: 676, 538
+  offset: 80, 32
+  index: -1
+effect/zha/zha_89
+  rotate: false
+  xy: 534, 1586
+  size: 540, 454
+  orig: 676, 538
+  offset: 60, 34
+  index: -1
+effect/zha/zha_90
+  rotate: false
+  xy: 2, 1577
+  size: 530, 463
+  orig: 676, 538
+  offset: 67, 34
+  index: -1
+effect/zha/zha_91
+  rotate: true
+  xy: 1575, 1513
+  size: 527, 427
+  orig: 676, 538
+  offset: 68, 68
+  index: -1
+effect/zha/zha_92
+  rotate: false
+  xy: 1171, 1103
+  size: 525, 408
+  orig: 676, 538
+  offset: 72, 80
+  index: -1
+effect/zha/zha_93
+  rotate: false
+  xy: 1043, 708
+  size: 526, 393
+  orig: 676, 538
+  offset: 74, 89
+  index: -1
+
+bt_Gbangfu_effect2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack1/attack_23
+  rotate: false
+  xy: 1245, 688
+  size: 341, 308
+  orig: 745, 526
+  offset: 368, 127
+  index: -1
+effect/attack1/attack_24
+  rotate: false
+  xy: 1541, 260
+  size: 331, 248
+  orig: 745, 526
+  offset: 368, 186
+  index: -1
+effect/attack2/attack2_14
+  rotate: false
+  xy: 873, 495
+  size: 329, 284
+  orig: 538, 470
+  offset: 81, 102
+  index: -1
+effect/attack2/attack2_15
+  rotate: false
+  xy: 448, 996
+  size: 398, 308
+  orig: 538, 470
+  offset: 82, 78
+  index: -1
+effect/attack2/attack2_16
+  rotate: false
+  xy: 1411, 998
+  size: 398, 306
+  orig: 538, 470
+  offset: 82, 79
+  index: -1
+effect/attack2/attack2_17
+  rotate: false
+  xy: 848, 781
+  size: 395, 304
+  orig: 538, 470
+  offset: 85, 82
+  index: -1
+effect/attack2/attack2_18
+  rotate: false
+  xy: 2, 701
+  size: 360, 300
+  orig: 538, 470
+  offset: 120, 85
+  index: -1
+effect/attack2/attack2_19
+  rotate: true
+  xy: 846, 225
+  size: 268, 305
+  orig: 538, 470
+  offset: 212, 75
+  index: -1
+effect/attack2/attack2_20
+  rotate: false
+  xy: 1811, 1014
+  size: 201, 290
+  orig: 538, 470
+  offset: 279, 74
+  index: -1
+effect/glow_86
+  rotate: false
+  xy: 1153, 160
+  size: 270, 270
+  orig: 339, 336
+  offset: 34, 32
+  index: -1
+effect/gunji/gunji_68
+  rotate: false
+  xy: 257, 204
+  size: 153, 165
+  orig: 786, 517
+  offset: 203, 158
+  index: -1
+effect/gunji/gunji_75
+  rotate: false
+  xy: 1588, 510
+  size: 417, 217
+  orig: 786, 517
+  offset: 221, 134
+  index: -1
+effect/shitou/shitou_100
+  rotate: false
+  xy: 364, 583
+  size: 507, 192
+  orig: 852, 604
+  offset: 192, 184
+  index: -1
+effect/shitou/shitou_89
+  rotate: false
+  xy: 555, 51
+  size: 224, 130
+  orig: 852, 604
+  offset: 305, 146
+  index: -1
+effect/shitou/shitou_91
+  rotate: false
+  xy: 257, 24
+  size: 296, 157
+  orig: 852, 604
+  offset: 274, 174
+  index: -1
+effect/shitou/shitou_92
+  rotate: true
+  xy: 1874, 179
+  size: 329, 171
+  orig: 852, 604
+  offset: 260, 182
+  index: -1
+effect/shitou/shitou_94
+  rotate: false
+  xy: 434, 183
+  size: 386, 194
+  orig: 852, 604
+  offset: 238, 188
+  index: -1
+effect/shitou/shitou_95
+  rotate: false
+  xy: 434, 379
+  size: 410, 202
+  orig: 852, 604
+  offset: 229, 187
+  index: -1
+effect/shitou/shitou_97
+  rotate: false
+  xy: 364, 777
+  size: 455, 217
+  orig: 852, 604
+  offset: 212, 176
+  index: -1
+effect/shitou1_89
+  rotate: false
+  xy: 2, 371
+  size: 430, 210
+  orig: 552, 417
+  offset: 55, 55
+  index: -1
+effect/shitou2_89
+  rotate: false
+  xy: 848, 1087
+  size: 561, 217
+  orig: 699, 325
+  offset: 68, 49
+  index: -1
+effect/xiaza/xiaza_85
+  rotate: false
+  xy: 1425, 74
+  size: 332, 184
+  orig: 543, 426
+  offset: 86, 150
+  index: -1
+effect/xiaza/xiaza_87
+  rotate: false
+  xy: 1588, 729
+  size: 383, 267
+  orig: 543, 426
+  offset: 100, 65
+  index: -1
+effect/xiaza/xiaza_88
+  rotate: false
+  xy: 1204, 432
+  size: 335, 254
+  orig: 543, 426
+  offset: 148, 66
+  index: -1
+effect/xiaza/xiaza_89
+  rotate: false
+  xy: 2, 123
+  size: 253, 246
+  orig: 543, 426
+  offset: 230, 65
+  index: -1
+effect/xiaza/xiaza_90
+  rotate: true
+  xy: 822, 2
+  size: 221, 236
+  orig: 543, 426
+  offset: 261, 74
+  index: -1
+effect/zha/zha_86
+  rotate: false
+  xy: 2, 1003
+  size: 444, 301
+  orig: 676, 538
+  offset: 107, 32
+  index: -1

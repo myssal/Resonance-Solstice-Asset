@@ -1,0 +1,125 @@
+
+bt_bangqiu.png
+size: 256,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao
+  rotate: true
+  xy: 2, 149
+  size: 82, 84
+  orig: 82, 84
+  offset: 0, 0
+  index: -1
+cunyi
+  rotate: false
+  xy: 88, 156
+  size: 78, 81
+  orig: 78, 81
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 2, 233
+  size: 144, 153
+  orig: 144, 153
+  offset: 0, 0
+  index: -1
+feetl
+  rotate: true
+  xy: 2, 96
+  size: 51, 109
+  orig: 51, 109
+  offset: 0, 0
+  index: -1
+feetr
+  rotate: 270
+  xy: 55, 43
+  size: 57, 106
+  orig: 57, 106
+  offset: 0, 0
+  index: -1
+handl
+  rotate: false
+  xy: 176, 50
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+handr
+  rotate: false
+  xy: 169, 528
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+heiying
+  rotate: false
+  xy: 2, 379
+  size: 165, 262
+  orig: 166, 262
+  offset: 1, 0
+  index: -1
+jiand
+  rotate: false
+  xy: 176, 10
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+kua
+  rotate: true
+  xy: 2, 4
+  size: 83, 52
+  orig: 83, 52
+  offset: 0, 0
+  index: -1
+waitao
+  rotate: 180
+  xy: 150, 84
+  size: 48, 108
+  orig: 48, 108
+  offset: 0, 0
+  index: -1
+weaponn
+  rotate: false
+  xy: 168, 194
+  size: 24, 183
+  orig: 24, 183
+  offset: 0, 0
+  index: -1
+yaobao
+  rotate: false
+  xy: 123, 14
+  size: 51, 36
+  orig: 51, 36
+  offset: 0, 0
+  index: -1
+yous1
+  rotate: true
+  xy: 67, 5
+  size: 40, 54
+  orig: 40, 54
+  offset: 0, 0
+  index: -1
+yous2
+  rotate: false
+  xy: 169, 380
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+zuos1
+  rotate: false
+  xy: 170, 482
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+zuos2
+  rotate: false
+  xy: 169, 432
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1

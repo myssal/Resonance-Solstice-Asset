@@ -1,0 +1,160 @@
+
+bt_Gshuangfu.png
+size: 256,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao
+  rotate: false
+  xy: 114, 186
+  size: 87, 88
+  orig: 87, 88
+  offset: 0, 0
+  index: -1
+beixin
+  rotate: true
+  xy: 52, 276
+  size: 107, 111
+  orig: 107, 111
+  offset: 0, 0
+  index: -1
+er
+  rotate: true
+  xy: 37, 3
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+face
+  rotate: 270
+  xy: 2, 204
+  size: 84, 110
+  orig: 84, 110
+  offset: 0, 0
+  index: -1
+feetl
+  rotate: true
+  xy: 2, 146
+  size: 58, 115
+  orig: 58, 115
+  offset: 0, 0
+  index: -1
+feetr
+  rotate: 270
+  xy: 86, 104
+  size: 61, 112
+  orig: 61, 112
+  offset: 0, 0
+  index: -1
+handl
+  rotate: true
+  xy: 2, 10
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+handr
+  rotate: false
+  xy: 173, 21
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+heiying
+  rotate: false
+  xy: 2, 516
+  size: 190, 253
+  orig: 190, 254
+  offset: 0, 0
+  index: -1
+jiandai
+  rotate: true
+  xy: 120, 7
+  size: 19, 40
+  orig: 20, 40
+  offset: 1, 0
+  index: -1
+kua
+  rotate: true
+  xy: 164, 276
+  size: 89, 44
+  orig: 89, 44
+  offset: 0, 0
+  index: -1
+toudai
+  rotate: false
+  xy: 122, 28
+  size: 49, 24
+  orig: 49, 24
+  offset: 0, 0
+  index: -1
+touf1
+  rotate: true
+  xy: 95, 55
+  size: 35, 92
+  orig: 37, 92
+  offset: 2, 0
+  index: -1
+touf2
+  rotate: 270
+  xy: 98, 77
+  size: 43, 109
+  orig: 43, 109
+  offset: 0, 0
+  index: -1
+toufahou
+  rotate: false
+  xy: 2, 378
+  size: 140, 136
+  orig: 140, 136
+  offset: 0, 0
+  index: -1
+tpuf3
+  rotate: false
+  xy: 188, 130
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+weaponn
+  rotate: false
+  xy: 153, 379
+  size: 43, 135
+  orig: 43, 135
+  offset: 0, 0
+  index: -1
+yaobao
+  rotate: true
+  xy: 39, 23
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+youb1
+  rotate: false
+  xy: 2, 92
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+youb2
+  rotate: true
+  xy: 41, 59
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+zuob1
+  rotate: false
+  xy: 2, 43
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+zuobi2
+  rotate: 270
+  xy: 73, 21
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1

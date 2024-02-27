@@ -1,0 +1,90 @@
+
+Tree_baozi_bot1.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dead
+  rotate: false
+  xy: 2, 118
+  size: 414, 89
+  orig: 417, 92
+  offset: 1, 1
+  index: -1
+dian
+  rotate: false
+  xy: 595, 90
+  size: 117, 117
+  orig: 125, 125
+  offset: 4, 3
+  index: -1
+fanguang_00000
+  rotate: false
+  xy: 714, 90
+  size: 87, 87
+  orig: 89, 89
+  offset: 1, 1
+  index: -1
+glow_00000
+  rotate: false
+  xy: 418, 32
+  size: 175, 175
+  orig: 247, 247
+  offset: 33, 37
+  index: -1
+heidi_00000
+  rotate: false
+  xy: 312, 27
+  size: 89, 89
+  orig: 91, 91
+  offset: 1, 1
+  index: -1
+qiu
+  rotate: false
+  xy: 803, 90
+  size: 42, 43
+  orig: 44, 45
+  offset: 1, 1
+  index: -1
+wenli_00000
+  rotate: false
+  xy: 2, 17
+  size: 308, 99
+  orig: 308, 100
+  offset: 0, 0
+  index: -1
+xu
+  rotate: false
+  xy: 259, 3
+  size: 229, 20
+  orig: 229, 45
+  offset: 0, 12
+  index: -1
+yinying_00000
+  rotate: true
+  xy: 745, 2
+  size: 86, 87
+  orig: 88, 88
+  offset: 1, 0
+  index: -1
+z1
+  rotate: false
+  xy: 490, 7
+  size: 92, 23
+  orig: 94, 25
+  offset: 1, 1
+  index: -1
+z2
+  rotate: false
+  xy: 595, 3
+  size: 148, 85
+  orig: 150, 87
+  offset: 1, 1
+  index: -1
+z3
+  rotate: false
+  xy: 803, 135
+  size: 27, 29
+  orig: 29, 31
+  offset: 1, 1
+  index: -1

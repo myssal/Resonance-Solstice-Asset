@@ -1,0 +1,160 @@
+
+treetrolls3.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball/fanguang_00000
+  rotate: false
+  xy: 2, 144
+  size: 87, 87
+  orig: 89, 89
+  offset: 1, 1
+  index: -1
+ball/glow_00000
+  rotate: false
+  xy: 2, 352
+  size: 175, 175
+  orig: 247, 247
+  offset: 33, 37
+  index: -1
+ball/heidi_00000
+  rotate: false
+  xy: 2, 554
+  size: 89, 89
+  orig: 91, 91
+  offset: 1, 1
+  index: -1
+ball/wenli_00000
+  rotate: true
+  xy: 179, 219
+  size: 308, 99
+  orig: 308, 100
+  offset: 0, 0
+  index: -1
+ball/yinying_00000
+  rotate: true
+  xy: 91, 131
+  size: 86, 87
+  orig: 88, 88
+  offset: 1, 0
+  index: -1
+chushou
+  rotate: true
+  xy: 280, 206
+  size: 321, 17
+  orig: 321, 17
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 282, 613
+  size: 21, 55
+  orig: 23, 57
+  offset: 1, 1
+  index: -1
+dian
+  rotate: false
+  xy: 2, 233
+  size: 117, 117
+  orig: 125, 125
+  offset: 4, 3
+  index: -1
+heiying01
+  rotate: false
+  xy: 2, 645
+  size: 173, 277
+  orig: 173, 277
+  offset: 0, 0
+  index: -1
+heiying02
+  rotate: true
+  xy: 177, 529
+  size: 393, 103
+  orig: 393, 105
+  offset: 0, 1
+  index: -1
+shen01
+  rotate: true
+  xy: 90, 2
+  size: 53, 54
+  orig: 55, 56
+  offset: 1, 1
+  index: -1
+shen02
+  rotate: true
+  xy: 282, 529
+  size: 82, 29
+  orig: 82, 29
+  offset: 0, 0
+  index: -1
+shen03
+  rotate: false
+  xy: 167, 4
+  size: 86, 54
+  orig: 88, 56
+  offset: 1, 1
+  index: -1
+shen03_guang
+  rotate: true
+  xy: 259, 27
+  size: 88, 54
+  orig: 88, 56
+  offset: 0, 0
+  index: -1
+shen04
+  rotate: false
+  xy: 2, 2
+  size: 86, 53
+  orig: 88, 55
+  offset: 1, 1
+  index: -1
+shen04_guang
+  rotate: true
+  xy: 259, 117
+  size: 87, 55
+  orig: 88, 55
+  offset: 1, 0
+  index: -1
+shen05
+  rotate: false
+  xy: 180, 135
+  size: 74, 82
+  orig: 76, 84
+  offset: 1, 1
+  index: -1
+shen05_guang
+  rotate: true
+  xy: 180, 60
+  size: 73, 77
+  orig: 74, 79
+  offset: 1, 1
+  index: -1
+shen06
+  rotate: true
+  xy: 2, 69
+  size: 73, 83
+  orig: 75, 85
+  offset: 1, 1
+  index: -1
+shen06_guang
+  rotate: true
+  xy: 87, 57
+  size: 72, 78
+  orig: 72, 80
+  offset: 0, 1
+  index: -1
+shi01
+  rotate: false
+  xy: 255, 11
+  size: 37, 14
+  orig: 39, 16
+  offset: 1, 1
+  index: -1
+shi02
+  rotate: true
+  xy: 146, 18
+  size: 37, 14
+  orig: 39, 16
+  offset: 1, 1
+  index: -1

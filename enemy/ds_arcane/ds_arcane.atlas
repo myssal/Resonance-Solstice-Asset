@@ -1,0 +1,146 @@
+
+ds_arcane.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bm_wgunner-dead3
+  rotate: false
+  xy: 2, 138
+  size: 208, 231
+  orig: 227, 236
+  offset: 1, 0
+  index: -1
+ds_arcane_0
+  rotate: true
+  xy: 158, 7
+  size: 129, 109
+  orig: 129, 109
+  offset: 0, 0
+  index: -1
+ds_arcane_1
+  rotate: false
+  xy: 372, 222
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+ds_arcane_10
+  rotate: true
+  xy: 305, 334
+  size: 37, 64
+  orig: 38, 65
+  offset: 1, 0
+  index: -1
+ds_arcane_11
+  rotate: 180
+  xy: 341, 260
+  size: 48, 60
+  orig: 49, 61
+  offset: 1, 1
+  index: -1
+ds_arcane_12
+  rotate: 180
+  xy: 332, 126
+  size: 34, 67
+  orig: 34, 67
+  offset: 0, 0
+  index: -1
+ds_arcane_13
+  rotate: true
+  xy: 269, 4
+  size: 85, 59
+  orig: 85, 59
+  offset: 0, 0
+  index: -1
+ds_arcane_14
+  rotate: 270
+  xy: 295, 190
+  size: 86, 54
+  orig: 86, 54
+  offset: 0, 0
+  index: -1
+ds_arcane_15
+  rotate: false
+  xy: 2, 3
+  size: 154, 134
+  orig: 154, 134
+  offset: 0, 0
+  index: -1
+ds_arcane_16
+  rotate: true
+  xy: 357, 71
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+ds_arcane_17
+  rotate: false
+  xy: 324, 73
+  size: 31, 51
+  orig: 31, 51
+  offset: 0, 0
+  index: -1
+ds_arcane_18
+  rotate: true
+  xy: 299, 278
+  size: 60, 41
+  orig: 60, 41
+  offset: 0, 0
+  index: -1
+ds_arcane_2
+  rotate: false
+  xy: 355, 13
+  size: 33, 57
+  orig: 34, 57
+  offset: 1, 0
+  index: -1
+ds_arcane_3
+  rotate: 180
+  xy: 327, 6
+  size: 35, 64
+  orig: 35, 64
+  offset: 0, 0
+  index: -1
+ds_arcane_4
+  rotate: 180
+  xy: 344, 195
+  size: 48, 59
+  orig: 49, 61
+  offset: 0, 2
+  index: -1
+ds_arcane_5
+  rotate: false
+  xy: 212, 139
+  size: 80, 133
+  orig: 80, 133
+  offset: 0, 0
+  index: -1
+ds_arcane_6
+  rotate: 180
+  xy: 228, 256
+  size: 73, 113
+  orig: 73, 113
+  offset: 0, 0
+  index: -1
+ds_arcane_7
+  rotate: false
+  xy: 269, 91
+  size: 56, 104
+  orig: 56, 104
+  offset: 0, 0
+  index: -1
+ds_arcane_8
+  rotate: false
+  xy: 375, 315
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+ds_arcane_9
+  rotate: 180
+  xy: 362, 118
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1

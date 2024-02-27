@@ -1,0 +1,125 @@
+
+Tree_stinkbug.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MCHS_1
+  rotate: false
+  xy: 176, 106
+  size: 120, 152
+  orig: 122, 154
+  offset: 1, 1
+  index: -1
+MCHS_10
+  rotate: 180
+  xy: 662, 4
+  size: 150, 81
+  orig: 150, 81
+  offset: 0, 0
+  index: -1
+MCHS_11
+  rotate: true
+  xy: 2, 25
+  size: 124, 178
+  orig: 124, 178
+  offset: 0, 0
+  index: -1
+MCHS_12
+  rotate: true
+  xy: 446, 190
+  size: 69, 183
+  orig: 69, 183
+  offset: 0, 0
+  index: -1
+MCHS_13
+  rotate: false
+  xy: 886, 339
+  size: 132, 140
+  orig: 132, 140
+  offset: 0, 0
+  index: -1
+MCHS_14
+  rotate: false
+  xy: 2, 95
+  size: 172, 163
+  orig: 172, 163
+  offset: 0, 0
+  index: -1
+MCHS_15
+  rotate: false
+  xy: 529, 45
+  size: 164, 64
+  orig: 164, 64
+  offset: 0, 0
+  index: -1
+MCHS_16
+  rotate: false
+  xy: 180, 61
+  size: 168, 43
+  orig: 168, 43
+  offset: 0, 0
+  index: -1
+MCHS_2
+  rotate: true
+  xy: 406, 6
+  size: 122, 204
+  orig: 122, 204
+  offset: 0, 0
+  index: -1
+MCHS_3
+  rotate: true
+  xy: 710, 97
+  size: 132, 229
+  orig: 132, 229
+  offset: 0, 0
+  index: -1
+MCHS_4
+  rotate: true
+  xy: 814, 206
+  size: 145, 208
+  orig: 145, 208
+  offset: 0, 0
+  index: -1
+MCHS_5
+  rotate: false
+  xy: 699, 256
+  size: 198, 223
+  orig: 198, 223
+  offset: 0, 0
+  index: -1
+MCHS_6
+  rotate: false
+  xy: 298, 105
+  size: 146, 153
+  orig: 146, 153
+  offset: 0, 0
+  index: -1
+MCHS_7
+  rotate: 180
+  xy: 483, 112
+  size: 256, 151
+  orig: 256, 151
+  offset: 0, 0
+  index: -1
+MCHS_8
+  rotate: true
+  xy: 830, 6
+  size: 64, 192
+  orig: 64, 192
+  offset: 0, 0
+  index: -1
+MCHS_9
+  rotate: 270
+  xy: 814, 70
+  size: 109, 208
+  orig: 109, 208
+  offset: 0, 0
+  index: -1
+dead
+  rotate: false
+  xy: 2, 260
+  size: 695, 219
+  orig: 695, 220
+  offset: 0, 0
+  index: -1

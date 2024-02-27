@@ -1,0 +1,160 @@
+
+ds_knife.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HDSMZ_0
+  rotate: false
+  xy: 755, 197
+  size: 117, 163
+  orig: 117, 163
+  offset: 0, 0
+  index: -1
+HDSMZ_1
+  rotate: false
+  xy: 2, 36
+  size: 74, 91
+  orig: 74, 91
+  offset: 0, 0
+  index: -1
+HDSMZ_10
+  rotate: true
+  xy: 680, 39
+  size: 93, 110
+  orig: 97, 110
+  offset: 4, 0
+  index: -1
+HDSMZ_11
+  rotate: true
+  xy: 500, 71
+  size: 96, 113
+  orig: 96, 116
+  offset: 0, 0
+  index: -1
+HDSMZ_11111
+  rotate: false
+  xy: 931, 39
+  size: 91, 88
+  orig: 93, 90
+  offset: 1, 1
+  index: -1
+HDSMZ_12
+  rotate: false
+  xy: 713, 119
+  size: 104, 115
+  orig: 104, 115
+  offset: 0, 0
+  index: -1
+HDSMZ_14
+  rotate: false
+  xy: 2, 102
+  size: 164, 258
+  orig: 164, 258
+  offset: 0, 0
+  index: -1
+HDSMZ_15
+  rotate: false
+  xy: 966, 174
+  size: 55, 117
+  orig: 55, 119
+  offset: 0, 2
+  index: -1
+HDSMZ_16
+  rotate: false
+  xy: 404, 147
+  size: 106, 213
+  orig: 106, 213
+  offset: 0, 0
+  index: -1
+HDSMZ_17
+  rotate: false
+  xy: 512, 168
+  size: 115, 192
+  orig: 115, 192
+  offset: 0, 0
+  index: -1
+HDSMZ_18
+  rotate: false
+  xy: 614, 123
+  size: 97, 100
+  orig: 99, 102
+  offset: 1, 1
+  index: -1
+HDSMZ_19
+  rotate: true
+  xy: 155, 97
+  size: 263, 258
+  orig: 263, 258
+  offset: 0, 0
+  index: -1
+HDSMZ_2
+  rotate: true
+  xy: 155, 63
+  size: 49, 173
+  orig: 49, 173
+  offset: 0, 0
+  index: -1
+HDSMZ_222
+  rotate: false
+  xy: 622, 225
+  size: 131, 135
+  orig: 131, 135
+  offset: 0, 0
+  index: -1
+HDSMZ_3
+  rotate: false
+  xy: 339, 276
+  size: 47, 84
+  orig: 47, 84
+  offset: 0, 0
+  index: -1
+HDSMZ_333
+  rotate: false
+  xy: 835, 112
+  size: 100, 98
+  orig: 100, 98
+  offset: 0, 0
+  index: -1
+HDSMZ_4
+  rotate: 180
+  xy: 49, 4
+  size: 104, 84
+  orig: 104, 84
+  offset: 0, 0
+  index: -1
+HDSMZ_5
+  rotate: true
+  xy: 866, 200
+  size: 160, 130
+  orig: 160, 130
+  offset: 0, 0
+  index: -1
+HDSMZ_6
+  rotate: false
+  xy: 182, 104
+  size: 105, 152
+  orig: 105, 152
+  offset: 0, 0
+  index: -1
+HDSMZ_7
+  rotate: 180
+  xy: 799, 26
+  size: 130, 93
+  orig: 130, 93
+  offset: 0, 0
+  index: -1
+HDSMZ_8
+  rotate: 180
+  xy: 544, 23
+  size: 108, 99
+  orig: 108, 99
+  offset: 0, 0
+  index: -1
+HDSMZ_9
+  rotate: true
+  xy: 330, 52
+  size: 75, 159
+  orig: 75, 164
+  offset: 0, 5
+  index: -1

@@ -1,0 +1,132 @@
+
+bt_bangqiu_effect.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/atk_00
+  rotate: false
+  xy: 2, 254
+  size: 256, 124
+  orig: 375, 200
+  offset: 103, 35
+  index: -1
+effect/atk_01
+  rotate: false
+  xy: 634, 257
+  size: 203, 121
+  orig: 375, 200
+  offset: 156, 22
+  index: -1
+effect/atk_02
+  rotate: false
+  xy: 2, 170
+  size: 311, 62
+  orig: 375, 200
+  offset: 27, 22
+  index: -1
+effect/atk_03
+  rotate: false
+  xy: 455, 232
+  size: 177, 146
+  orig: 375, 200
+  offset: 19, 25
+  index: -1
+effect/atk_04
+  rotate: false
+  xy: 260, 234
+  size: 193, 144
+  orig: 375, 200
+  offset: 19, 38
+  index: -1
+effect/atk_05
+  rotate: true
+  xy: 839, 180
+  size: 198, 117
+  orig: 375, 200
+  offset: 19, 66
+  index: -1
+effect/atk_06
+  rotate: false
+  xy: 199, 69
+  size: 181, 73
+  orig: 375, 200
+  offset: 42, 110
+  index: -1
+effect/atk_07
+  rotate: false
+  xy: 2, 246
+  size: 70, 6
+  orig: 375, 200
+  offset: 141, 161
+  index: -1
+effect/skl_00
+  rotate: false
+  xy: 875, 13
+  size: 100, 86
+  orig: 225, 127
+  offset: 108, 2
+  index: -1
+effect/skl_01
+  rotate: false
+  xy: 174, 14
+  size: 166, 53
+  orig: 225, 127
+  offset: 48, 10
+  index: -1
+effect/skl_02
+  rotate: false
+  xy: 634, 147
+  size: 193, 108
+  orig: 225, 127
+  offset: 19, 6
+  index: -1
+effect/skl_03
+  rotate: false
+  xy: 315, 144
+  size: 196, 86
+  orig: 225, 127
+  offset: 7, 17
+  index: -1
+effect/skl_04
+  rotate: false
+  xy: 2, 89
+  size: 195, 79
+  orig: 225, 127
+  offset: 7, 24
+  index: -1
+effect/skl_05
+  rotate: false
+  xy: 829, 101
+  size: 190, 77
+  orig: 225, 127
+  offset: 10, 24
+  index: -1
+effect/skl_06
+  rotate: false
+  xy: 513, 70
+  size: 183, 75
+  orig: 225, 127
+  offset: 14, 25
+  index: -1
+effect/skl_07
+  rotate: false
+  xy: 698, 32
+  size: 175, 67
+  orig: 225, 127
+  offset: 17, 29
+  index: -1
+effect/skl_08
+  rotate: false
+  xy: 2, 20
+  size: 170, 67
+  orig: 225, 127
+  offset: 17, 28
+  index: -1
+effect/skl_09
+  rotate: false
+  xy: 382, 2
+  size: 167, 66
+  orig: 225, 127
+  offset: 17, 27
+  index: -1

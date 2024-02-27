@@ -1,0 +1,188 @@
+
+Tree_shorse.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: 270
+  xy: 396, 120
+  size: 109, 186
+  orig: 109, 186
+  offset: 0, 0
+  index: -1
+02
+  rotate: 180
+  xy: 566, 70
+  size: 248, 113
+  orig: 248, 113
+  offset: 0, 0
+  index: -1
+03
+  rotate: 270
+  xy: 810, 3
+  size: 171, 211
+  orig: 171, 211
+  offset: 0, 0
+  index: -1
+04
+  rotate: 270
+  xy: 774, 45
+  size: 278, 188
+  orig: 278, 188
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 343, 15
+  size: 77, 139
+  orig: 77, 139
+  offset: 0, 0
+  index: -1
+06
+  rotate: 180
+  xy: 2, 119
+  size: 158, 125
+  orig: 158, 125
+  offset: 0, 0
+  index: -1
+07
+  rotate: true
+  xy: 647, 131
+  size: 193, 215
+  orig: 193, 215
+  offset: 0, 0
+  index: -1
+08
+  rotate: true
+  xy: 62, 5
+  size: 113, 146
+  orig: 113, 146
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 405, 12
+  size: 59, 106
+  orig: 59, 106
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 343, 4
+  size: 52, 78
+  orig: 52, 78
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 164, 5
+  size: 54, 148
+  orig: 54, 148
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 572, 4
+  size: 40, 121
+  orig: 40, 121
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 487, 53
+  size: 110, 106
+  orig: 110, 106
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 105, 7
+  size: 134, 100
+  orig: 134, 100
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 465, 19
+  size: 81, 42
+  orig: 81, 42
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 2, 256
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 872, 63
+  size: 59, 152
+  orig: 59, 152
+  offset: 0, 0
+  index: -1
+A
+  rotate: 180
+  xy: 314, 154
+  size: 284, 168
+  orig: 284, 168
+  offset: 0, 0
+  index: -1
+B
+  rotate: false
+  xy: 51, 239
+  size: 17, 39
+  orig: 19, 41
+  offset: 1, 1
+  index: -1
+C
+  rotate: false
+  xy: 290, 262
+  size: 45, 61
+  orig: 47, 63
+  offset: 1, 1
+  index: -1
+D
+  rotate: false
+  xy: 241, 76
+  size: 100, 75
+  orig: 102, 77
+  offset: 1, 1
+  index: -1
+E
+  rotate: false
+  xy: 2, 139
+  size: 389, 184
+  orig: 389, 184
+  offset: 0, 0
+  index: -1
+F
+  rotate: true
+  xy: 600, 190
+  size: 133, 108
+  orig: 137, 110
+  offset: 3, 1
+  index: -1
+F1
+  rotate: false
+  xy: 2, 18
+  size: 59, 58
+  orig: 61, 60
+  offset: 1, 1
+  index: -1
+F2
+  rotate: false
+  xy: 215, 283
+  size: 73, 40
+  orig: 75, 42
+  offset: 1, 1
+  index: -1
+G
+  rotate: false
+  xy: 2, 78
+  size: 89, 59
+  orig: 91, 61
+  offset: 1, 1
+  index: -1

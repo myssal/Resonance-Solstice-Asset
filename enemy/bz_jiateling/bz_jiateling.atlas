@@ -1,0 +1,300 @@
+
+bz_jiateling.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Y_bi01
+  rotate: true
+  xy: 867, 31
+  size: 48, 72
+  orig: 48, 72
+  offset: 0, 0
+  index: -1
+Y_bi02_01
+  rotate: true
+  xy: 283, 14
+  size: 39, 54
+  orig: 43, 54
+  offset: 0, 0
+  index: -1
+Y_bi02_02
+  rotate: true
+  xy: 154, 3
+  size: 39, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+Z_bi01
+  rotate: false
+  xy: 976, 258
+  size: 43, 67
+  orig: 43, 67
+  offset: 0, 0
+  index: -1
+Z_bi02_01
+  rotate: false
+  xy: 981, 214
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+Z_bi02_02
+  rotate: false
+  xy: 442, 19
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: -1
+bashou
+  rotate: false
+  xy: 207, 2
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 872, 218
+  size: 102, 107
+  orig: 102, 107
+  offset: 0, 0
+  index: -1
+body02
+  rotate: false
+  xy: 364, 33
+  size: 76, 44
+  orig: 76, 44
+  offset: 0, 0
+  index: -1
+box01
+  rotate: false
+  xy: 431, 188
+  size: 122, 137
+  orig: 122, 137
+  offset: 0, 0
+  index: -1
+box02
+  rotate: false
+  xy: 339, 20
+  size: 51, 11
+  orig: 51, 11
+  offset: 0, 0
+  index: -1
+dangban
+  rotate: false
+  xy: 351, 136
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+danke
+  rotate: false
+  xy: 996, 45
+  size: 17, 66
+  orig: 17, 66
+  offset: 0, 0
+  index: -1
+danlian1_1
+  rotate: false
+  xy: 694, 13
+  size: 73, 59
+  orig: 73, 59
+  offset: 0, 0
+  index: -1
+danlian1_2
+  rotate: false
+  xy: 539, 11
+  size: 73, 61
+  orig: 73, 61
+  offset: 0, 0
+  index: -1
+danlian1_3
+  rotate: false
+  xy: 756, 23
+  size: 75, 61
+  orig: 75, 61
+  offset: 0, 0
+  index: -1
+danlian2_1
+  rotate: false
+  xy: 930, 113
+  size: 92, 136
+  orig: 92, 136
+  offset: 0, 0
+  index: -1
+danlian2_2
+  rotate: false
+  xy: 847, 81
+  size: 93, 135
+  orig: 93, 135
+  offset: 0, 0
+  index: -1
+danlian2_3
+  rotate: false
+  xy: 771, 76
+  size: 94, 133
+  orig: 94, 133
+  offset: 0, 0
+  index: -1
+gaizi01
+  rotate: false
+  xy: 392, 19
+  size: 45, 12
+  orig: 46, 12
+  offset: 1, 0
+  index: -1
+gaizi02
+  rotate: false
+  xy: 483, 21
+  size: 56, 13
+  orig: 57, 14
+  offset: 1, 1
+  index: -1
+ganzi01
+  rotate: true
+  xy: 942, 30
+  size: 81, 52
+  orig: 81, 54
+  offset: 0, 2
+  index: -1
+ganzi02
+  rotate: true
+  xy: 610, 40
+  size: 32, 82
+  orig: 33, 85
+  offset: 1, 0
+  index: -1
+ganzi03
+  rotate: false
+  xy: 650, 20
+  size: 55, 18
+  orig: 55, 18
+  offset: 0, 0
+  index: -1
+ganzi04
+  rotate: false
+  xy: 283, 96
+  size: 15, 56
+  orig: 15, 56
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 283, 171
+  size: 154, 146
+  orig: 154, 146
+  offset: 0, 0
+  index: -1
+hand_tx
+  rotate: true
+  xy: 484, 36
+  size: 92, 53
+  orig: 98, 56
+  offset: 0, 3
+  index: -1
+handl_01
+  rotate: false
+  xy: 833, 43
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+handl_02
+  rotate: false
+  xy: 833, 13
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+handr_01
+  rotate: false
+  xy: 614, 5
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+handr_02
+  rotate: false
+  xy: 518, 148
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+heiying
+  rotate: false
+  xy: 2, 44
+  size: 279, 281
+  orig: 284, 281
+  offset: 0, 0
+  index: -1
+kudang
+  rotate: false
+  xy: 2, 14
+  size: 83, 28
+  orig: 83, 28
+  offset: 0, 0
+  index: -1
+leg_1
+  rotate: false
+  xy: 297, 55
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+leg_2
+  rotate: true
+  xy: 364, 76
+  size: 52, 118
+  orig: 52, 118
+  offset: 0, 0
+  index: -1
+toukuixia
+  rotate: false
+  xy: 87, 11
+  size: 65, 31
+  orig: 65, 31
+  offset: 0, 0
+  index: -1
+toukuixia_tx
+  rotate: false
+  xy: 400, 130
+  size: 116, 56
+  orig: 128, 59
+  offset: 6, 3
+  index: -1
+weaponn01
+  rotate: true
+  xy: 555, 74
+  size: 251, 52
+  orig: 251, 52
+  offset: 0, 0
+  index: -1
+weaponn02
+  rotate: true
+  xy: 609, 74
+  size: 251, 52
+  orig: 251, 52
+  offset: 0, 0
+  index: -1
+weaponn03
+  rotate: true
+  xy: 663, 74
+  size: 251, 52
+  orig: 251, 52
+  offset: 0, 0
+  index: -1
+weaponn04
+  rotate: true
+  xy: 717, 74
+  size: 251, 52
+  orig: 251, 52
+  offset: 0, 0
+  index: -1
+weaponn_tx
+  rotate: true
+  xy: 771, 211
+  size: 114, 99
+  orig: 133, 108
+  offset: 13, 4
+  index: -1

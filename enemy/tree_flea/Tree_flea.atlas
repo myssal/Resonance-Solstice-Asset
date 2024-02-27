@@ -1,0 +1,223 @@
+
+Tree_flea.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball/fanguang_00000
+  rotate: false
+  xy: 522, 157
+  size: 87, 87
+  orig: 89, 89
+  offset: 1, 1
+  index: -1
+ball/glow_00000
+  rotate: false
+  xy: 663, 244
+  size: 175, 175
+  orig: 247, 247
+  offset: 33, 37
+  index: -1
+ball/heidi_00000
+  rotate: false
+  xy: 431, 155
+  size: 89, 89
+  orig: 91, 91
+  offset: 1, 1
+  index: -1
+ball/wenli_00000
+  rotate: false
+  xy: 2, 145
+  size: 308, 99
+  orig: 308, 100
+  offset: 0, 0
+  index: -1
+ball/yinying_00000
+  rotate: false
+  xy: 611, 155
+  size: 86, 87
+  orig: 88, 88
+  offset: 1, 0
+  index: -1
+dian
+  rotate: false
+  xy: 312, 127
+  size: 117, 117
+  orig: 125, 125
+  offset: 4, 3
+  index: -1
+shenti_1
+  rotate: false
+  xy: 236, 44
+  size: 45, 99
+  orig: 45, 99
+  offset: 0, 0
+  index: -1
+shenti_1_guang
+  rotate: false
+  xy: 2, 6
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1
+shenti_2
+  rotate: false
+  xy: 748, 67
+  size: 115, 102
+  orig: 115, 102
+  offset: 0, 0
+  index: -1
+shenti_2_guang
+  rotate: true
+  xy: 106, 27
+  size: 78, 100
+  orig: 78, 101
+  offset: 0, 1
+  index: -1
+shenti_3
+  rotate: false
+  xy: 614, 37
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+shenti_3_guang
+  rotate: false
+  xy: 949, 11
+  size: 73, 79
+  orig: 73, 79
+  offset: 0, 0
+  index: -1
+shenti_4
+  rotate: false
+  xy: 364, 58
+  size: 111, 95
+  orig: 111, 95
+  offset: 0, 0
+  index: -1
+shenti_4_guang
+  rotate: false
+  xy: 926, 27
+  size: 96, 82
+  orig: 96, 82
+  offset: 0, 0
+  index: -1
+shenti_5
+  rotate: false
+  xy: 859, 44
+  size: 86, 96
+  orig: 86, 96
+  offset: 0, 0
+  index: -1
+shenti_5_guang
+  rotate: 270
+  xy: 644, 3
+  size: 80, 86
+  orig: 80, 86
+  offset: 0, 0
+  index: -1
+shenti_6
+  rotate: false
+  xy: 506, 66
+  size: 122, 89
+  orig: 122, 89
+  offset: 0, 0
+  index: -1
+shenti_6_guang
+  rotate: 180
+  xy: 732, 29
+  size: 103, 66
+  orig: 103, 66
+  offset: 0, 0
+  index: -1
+suipian_1
+  rotate: false
+  xy: 513, 27
+  size: 37, 64
+  orig: 39, 66
+  offset: 1, 1
+  index: -1
+suipian_2
+  rotate: false
+  xy: 52, 34
+  size: 52, 52
+  orig: 54, 54
+  offset: 1, 1
+  index: -1
+suipian_3
+  rotate: false
+  xy: 846, 30
+  size: 33, 60
+  orig: 35, 62
+  offset: 1, 1
+  index: -1
+suipian_4
+  rotate: false
+  xy: 450, 28
+  size: 61, 34
+  orig: 63, 36
+  offset: 1, 1
+  index: -1
+suipian_5
+  rotate: false
+  xy: 552, 37
+  size: 26, 54
+  orig: 28, 56
+  offset: 1, 1
+  index: -1
+suipian_6
+  rotate: false
+  xy: 106, 11
+  size: 25, 34
+  orig: 27, 36
+  offset: 1, 1
+  index: -1
+suipian_7
+  rotate: false
+  xy: 2, 36
+  size: 27, 34
+  orig: 29, 36
+  offset: 1, 1
+  index: -1
+tiao_1
+  rotate: 270
+  xy: 858, 68
+  size: 258, 137
+  orig: 258, 137
+  offset: 0, 0
+  index: -1
+tiao_2
+  rotate: false
+  xy: 15, 33
+  size: 217, 84
+  orig: 217, 84
+  offset: 0, 0
+  index: -1
+tiao_3
+  rotate: true
+  xy: 688, 66
+  size: 353, 247
+  orig: 353, 247
+  offset: 0, 0
+  index: -1
+tiao_4
+  rotate: 180
+  xy: 270, 43
+  size: 241, 72
+  orig: 241, 72
+  offset: 0, 0
+  index: -1
+tiao_5
+  rotate: true
+  xy: 2, 45
+  size: 98, 233
+  orig: 98, 233
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: false
+  xy: 2, 246
+  size: 659, 173
+  orig: 838, 403
+  offset: 1, 158
+  index: -1

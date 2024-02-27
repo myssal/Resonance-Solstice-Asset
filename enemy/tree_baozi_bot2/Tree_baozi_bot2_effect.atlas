@@ -1,0 +1,111 @@
+
+Tree_baozi_bot2_effect.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shouji/shouji_00000
+  rotate: false
+  xy: 2, 11
+  size: 309, 305
+  orig: 334, 315
+  offset: 13, 4
+  index: -1
+shouji/shouji_00001
+  rotate: false
+  xy: 313, 2
+  size: 306, 303
+  orig: 334, 315
+  offset: 14, 5
+  index: -1
+shouji/shouji_00002
+  rotate: false
+  xy: 1289, 97
+  size: 329, 302
+  orig: 334, 315
+  offset: 1, 5
+  index: -1
+shouji/shouji_00003
+  rotate: false
+  xy: 1620, 84
+  size: 328, 298
+  orig: 334, 315
+  offset: 1, 8
+  index: -1
+shouji/shouji_00004
+  rotate: false
+  xy: 958, 93
+  size: 323, 305
+  orig: 334, 315
+  offset: 4, 7
+  index: -1
+shouji/shouji_00005
+  rotate: false
+  xy: 958, 400
+  size: 329, 310
+  orig: 334, 315
+  offset: 4, 3
+  index: -1
+shouji/shouji_00006
+  rotate: false
+  xy: 1289, 401
+  size: 330, 309
+  orig: 334, 315
+  offset: 3, 4
+  index: -1
+shouji/shouji_00007
+  rotate: false
+  xy: 621, 32
+  size: 327, 273
+  orig: 334, 315
+  offset: 4, 5
+  index: -1
+shouji/shouji_00008
+  rotate: true
+  xy: 1621, 384
+  size: 327, 304
+  orig: 334, 315
+  offset: 4, 6
+  index: -1
+zhua/zhua_0001
+  rotate: false
+  xy: 2, 727
+  size: 509, 488
+  orig: 600, 600
+  offset: 50, 34
+  index: -1
+zhua/zhua_0003
+  rotate: true
+  xy: 998, 712
+  size: 503, 445
+  orig: 600, 600
+  offset: 63, 36
+  index: -1
+zhua/zhua_0005
+  rotate: true
+  xy: 513, 727
+  size: 484, 483
+  orig: 600, 600
+  offset: 81, 61
+  index: -1
+zhua/zhua_0007
+  rotate: false
+  xy: 1445, 713
+  size: 431, 502
+  orig: 600, 600
+  offset: 119, 61
+  index: -1
+zhua/zhua_0009
+  rotate: false
+  xy: 495, 307
+  size: 461, 418
+  orig: 600, 600
+  offset: 77, 144
+  index: -1
+zhua/zhua_0010
+  rotate: false
+  xy: 2, 318
+  size: 491, 407
+  orig: 600, 600
+  offset: 47, 138
+  index: -1

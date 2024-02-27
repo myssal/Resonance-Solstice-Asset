@@ -1,0 +1,135 @@
+
+GATE1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qiao1
+  rotate: false
+  xy: 2, 2
+  size: 401, 179
+  orig: 401, 179
+  offset: 0, 0
+  index: -1
+qiao2
+  rotate: true
+  xy: 240, 112
+  size: 69, 417
+  orig: 69, 417
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 183
+  size: 845, 797
+  orig: 845, 797
+  offset: 0, 0
+  index: -1
+taopaomen
+  rotate: true
+  xy: 405, 36
+  size: 75, 246
+  orig: 77, 248
+  offset: 1, 1
+  index: -1
+
+GATE12.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti1
+  rotate: false
+  xy: 2, 2
+  size: 832, 797
+  orig: 845, 797
+  offset: 13, 0
+  index: -1
+
+GATE13.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bujian1
+  rotate: false
+  xy: 2, 225
+  size: 487, 782
+  orig: 487, 782
+  offset: 0, 0
+  index: -1
+huojian3
+  rotate: true
+  xy: 491, 2
+  size: 1005, 303
+  orig: 1007, 305
+  offset: 1, 1
+  index: -1
+
+GATE14.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huojian1
+  rotate: false
+  xy: 2, 2
+  size: 867, 306
+  orig: 869, 308
+  offset: 1, 1
+  index: -1
+huojian1_2
+  rotate: false
+  xy: 2, 310
+  size: 886, 315
+  orig: 886, 315
+  offset: 0, 0
+  index: -1
+huojian2
+  rotate: false
+  xy: 2, 627
+  size: 940, 311
+  orig: 942, 314
+  offset: 1, 1
+  index: -1
+
+GATE15.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GATE1_pomen
+  rotate: true
+  xy: 326, 270
+  size: 361, 327
+  orig: 361, 327
+  offset: 0, 0
+  index: -1
+paokou_00036
+  rotate: false
+  xy: 326, 13
+  size: 303, 255
+  orig: 508, 439
+  offset: 73, 85
+  index: -1
+tiemen
+  rotate: false
+  xy: 2, 256
+  size: 322, 375
+  orig: 324, 377
+  offset: 1, 1
+  index: -1
+yangtai1
+  rotate: false
+  xy: 655, 2
+  size: 320, 303
+  orig: 322, 306
+  offset: 1, 2
+  index: -1
+yangtai2
+  rotate: false
+  xy: 655, 307
+  size: 318, 324
+  orig: 321, 327
+  offset: 2, 2
+  index: -1

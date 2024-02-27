@@ -1,0 +1,160 @@
+
+BOSS_Tjelly.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball/glow_00000
+  rotate: false
+  xy: 2, 296
+  size: 175, 175
+  orig: 247, 247
+  offset: 33, 37
+  index: -1
+ball/wenli_00000
+  rotate: false
+  xy: 71, 23
+  size: 308, 99
+  orig: 308, 100
+  offset: 0, 0
+  index: -1
+hexin
+  rotate: false
+  xy: 179, 351
+  size: 121, 120
+  orig: 123, 124
+  offset: 1, 2
+  index: -1
+piaodai1
+  rotate: false
+  xy: 839, 12
+  size: 353, 289
+  orig: 353, 297
+  offset: 0, 8
+  index: -1
+piaodai2
+  rotate: true
+  xy: 2, 3
+  size: 468, 578
+  orig: 468, 578
+  offset: 0, 0
+  index: -1
+piaodai3
+  rotate: false
+  xy: 596, 22
+  size: 138, 254
+  orig: 138, 254
+  offset: 0, 0
+  index: -1
+piaodai4
+  rotate: 270
+  xy: 1167, 325
+  size: 244, 674
+  orig: 244, 674
+  offset: 0, 0
+  index: -1
+piaodai5
+  rotate: false
+  xy: 579, 5
+  size: 445, 453
+  orig: 445, 453
+  offset: 0, 0
+  index: -1
+suipian1
+  rotate: false
+  xy: 2, 190
+  size: 192, 104
+  orig: 194, 106
+  offset: 1, 1
+  index: -1
+suipian10
+  rotate: false
+  xy: 371, 252
+  size: 76, 50
+  orig: 78, 53
+  offset: 1, 1
+  index: -1
+suipian11
+  rotate: false
+  xy: 302, 451
+  size: 27, 20
+  orig: 29, 22
+  offset: 1, 1
+  index: -1
+suipian2
+  rotate: false
+  xy: 196, 278
+  size: 96, 71
+  orig: 98, 73
+  offset: 1, 1
+  index: -1
+suipian3
+  rotate: false
+  xy: 381, 124
+  size: 213, 126
+  orig: 215, 128
+  offset: 1, 1
+  index: -1
+suipian4_01
+  rotate: true
+  xy: 1270, 487
+  size: 356, 427
+  orig: 356, 427
+  offset: 0, 0
+  index: -1
+suipian4_02
+  rotate: false
+  xy: 969, 451
+  size: 299, 392
+  orig: 300, 393
+  offset: 0, 1
+  index: -1
+suipian5_01
+  rotate: 270
+  xy: 1308, 460
+  size: 203, 458
+  orig: 203, 458
+  offset: 0, 0
+  index: -1
+suipian5_02
+  rotate: false
+  xy: 1723, 328
+  size: 206, 329
+  orig: 206, 329
+  offset: 0, 0
+  index: -1
+suipian6
+  rotate: false
+  xy: 302, 369
+  size: 30, 35
+  orig: 32, 37
+  offset: 1, 1
+  index: -1
+suipian7
+  rotate: false
+  xy: 385, 390
+  size: 32, 30
+  orig: 36, 32
+  offset: 2, 1
+  index: -1
+suipian8
+  rotate: false
+  xy: 302, 431
+  size: 17, 18
+  orig: 21, 20
+  offset: 2, 1
+  index: -1
+suipian9
+  rotate: false
+  xy: 375, 315
+  size: 50, 40
+  orig: 52, 42
+  offset: 1, 1
+  index: -1
+yinying
+  rotate: false
+  xy: 2, 473
+  size: 965, 370
+  orig: 1018, 560
+  offset: 3, 85
+  index: -1

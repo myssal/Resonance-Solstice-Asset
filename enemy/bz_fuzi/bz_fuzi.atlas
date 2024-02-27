@@ -1,0 +1,132 @@
+
+bz_fuzi.png
+size: 256,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Y_bi01
+  rotate: true
+  xy: 2, 7
+  size: 48, 72
+  orig: 48, 72
+  offset: 0, 0
+  index: -1
+Y_bi02_01
+  rotate: false
+  xy: 169, 51
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+Y_bi02_02
+  rotate: true
+  xy: 139, 444
+  size: 39, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+Z_bi01
+  rotate: 180
+  xy: 161, 3
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+Z_bi02_01
+  rotate: false
+  xy: 168, 292
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+beibao
+  rotate: true
+  xy: 2, 249
+  size: 105, 112
+  orig: 105, 112
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 146
+  size: 101, 107
+  orig: 101, 107
+  offset: 0, 0
+  index: -1
+dangban
+  rotate: true
+  xy: 180, 92
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+handl_01
+  rotate: false
+  xy: 182, 202
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+handr_01
+  rotate: true
+  xy: 181, 485
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+handr_02
+  rotate: true
+  xy: 181, 521
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 356
+  size: 135, 134
+  orig: 135, 134
+  offset: 0, 0
+  index: -1
+heiying
+  rotate: false
+  xy: 2, 492
+  size: 177, 244
+  orig: 177, 244
+  offset: 0, 0
+  index: -1
+kudang
+  rotate: false
+  xy: 76, 19
+  size: 83, 28
+  orig: 83, 28
+  offset: 0, 0
+  index: -1
+leg_1
+  rotate: false
+  xy: 115, 210
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+leg_2
+  rotate: 270
+  xy: 49, 49
+  size: 52, 118
+  orig: 52, 118
+  offset: 0, 0
+  index: -1
+qianbao
+  rotate: false
+  xy: 78, 99
+  size: 114, 101
+  orig: 114, 101
+  offset: 0, 0
+  index: -1
+weaponn
+  rotate: false
+  xy: 139, 340
+  size: 61, 102
+  orig: 61, 102
+  offset: 0, 0
+  index: -1

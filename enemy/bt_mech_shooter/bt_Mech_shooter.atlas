@@ -1,0 +1,314 @@
+
+bt_Mech_shooter.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bibu
+  rotate: false
+  xy: 840, 16
+  size: 26, 73
+  orig: 28, 75
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 296, 9
+  size: 82, 49
+  orig: 84, 51
+  offset: 1, 1
+  index: -1
+dan
+  rotate: false
+  xy: 296, 60
+  size: 96, 112
+  orig: 98, 114
+  offset: 1, 1
+  index: -1
+dangba
+  rotate: true
+  xy: 812, 445
+  size: 54, 38
+  orig: 56, 40
+  offset: 1, 1
+  index: -1
+dead
+  rotate: false
+  xy: 2, 311
+  size: 514, 415
+  orig: 519, 427
+  offset: 2, 8
+  index: -1
+gun01
+  rotate: false
+  xy: 2, 174
+  size: 511, 135
+  orig: 513, 137
+  offset: 1, 1
+  index: -1
+hand
+  rotate: false
+  xy: 2, 18
+  size: 160, 154
+  orig: 162, 156
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: false
+  xy: 765, 312
+  size: 53, 120
+  orig: 62, 120
+  offset: 0, 0
+  index: -1
+hand_2
+  rotate: false
+  xy: 775, 618
+  size: 53, 105
+  orig: 53, 105
+  offset: 0, 0
+  index: -1
+jianbang_l
+  rotate: false
+  xy: 706, 618
+  size: 67, 96
+  orig: 69, 98
+  offset: 1, 1
+  index: -1
+jianbang_r
+  rotate: true
+  xy: 692, 25
+  size: 64, 89
+  orig: 66, 91
+  offset: 1, 1
+  index: -1
+jianbu
+  rotate: false
+  xy: 818, 338
+  size: 37, 38
+  orig: 39, 40
+  offset: 1, 1
+  index: -1
+jiao01_1_l
+  rotate: false
+  xy: 783, 13
+  size: 55, 76
+  orig: 57, 78
+  offset: 1, 1
+  index: -1
+jiao01_1_r
+  rotate: false
+  xy: 812, 390
+  size: 50, 53
+  orig: 52, 55
+  offset: 1, 1
+  index: -1
+jiao01_2_l
+  rotate: false
+  xy: 845, 228
+  size: 19, 44
+  orig: 21, 46
+  offset: 1, 1
+  index: -1
+jiao01_2_r
+  rotate: false
+  xy: 830, 681
+  size: 30, 44
+  orig: 32, 46
+  offset: 1, 1
+  index: -1
+jq_datui_l
+  rotate: true
+  xy: 765, 544
+  size: 72, 67
+  orig: 74, 69
+  offset: 1, 1
+  index: -1
+jq_datui_r
+  rotate: true
+  xy: 749, 91
+  size: 81, 60
+  orig: 83, 62
+  offset: 1, 1
+  index: -1
+jq_xiaotui01_2_l
+  rotate: false
+  xy: 706, 488
+  size: 57, 128
+  orig: 59, 130
+  offset: 1, 1
+  index: -1
+jq_xiaotui01_2_r
+  rotate: false
+  xy: 765, 433
+  size: 45, 109
+  orig: 47, 111
+  offset: 1, 1
+  index: -1
+jq_xiaotui01_l
+  rotate: true
+  xy: 562, 6
+  size: 83, 128
+  orig: 85, 130
+  offset: 1, 1
+  index: -1
+jq_xiaotui01_r
+  rotate: true
+  xy: 394, 105
+  size: 67, 109
+  orig: 69, 111
+  offset: 1, 1
+  index: -1
+jqb_l
+  rotate: false
+  xy: 804, 174
+  size: 39, 109
+  orig: 41, 111
+  offset: 1, 1
+  index: -1
+jqb_r
+  rotate: false
+  xy: 749, 195
+  size: 53, 114
+  orig: 55, 116
+  offset: 1, 1
+  index: -1
+jqs_l
+  rotate: true
+  xy: 394, 25
+  size: 64, 166
+  orig: 67, 169
+  offset: 2, 1
+  index: -1
+jqs_r
+  rotate: false
+  xy: 706, 311
+  size: 57, 175
+  orig: 60, 178
+  offset: 1, 2
+  index: -1
+kaobei
+  rotate: false
+  xy: 515, 91
+  size: 232, 218
+  orig: 234, 220
+  offset: 1, 1
+  index: -1
+qiangguang_00018
+  rotate: true
+  xy: 518, 311
+  size: 402, 186
+  orig: 620, 414
+  offset: 109, 102
+  index: -1
+shenti
+  rotate: false
+  xy: 164, 30
+  size: 130, 142
+  orig: 131, 144
+  offset: 1, 1
+  index: -1
+shoubu
+  rotate: true
+  xy: 826, 618
+  size: 61, 33
+  orig: 63, 35
+  offset: 1, 1
+  index: -1
+tun_l
+  rotate: false
+  xy: 817, 285
+  size: 43, 51
+  orig: 45, 53
+  offset: 1, 1
+  index: -1
+zd01
+  rotate: true
+  xy: 834, 501
+  size: 76, 25
+  orig: 76, 25
+  offset: 0, 0
+  index: -1
+zd_gaizi01
+  rotate: false
+  xy: 380, 9
+  size: 77, 14
+  orig: 79, 16
+  offset: 1, 1
+  index: -1
+zd_gaizi02
+  rotate: false
+  xy: 164, 3
+  size: 71, 25
+  orig: 73, 27
+  offset: 1, 1
+  index: -1
+zhou_l
+  rotate: false
+  xy: 845, 164
+  size: 27, 62
+  orig: 29, 64
+  offset: 1, 1
+  index: -1
+zhou_r
+  rotate: false
+  xy: 811, 91
+  size: 45, 71
+  orig: 47, 73
+  offset: 1, 1
+  index: -1
+zhua_l
+  rotate: false
+  xy: 834, 579
+  size: 28, 32
+  orig: 30, 34
+  offset: 1, 1
+  index: -1
+zhua_l_01
+  rotate: false
+  xy: 268, 2
+  size: 22, 26
+  orig: 24, 28
+  offset: 1, 1
+  index: -1
+zhua_l_02
+  rotate: false
+  xy: 480, 2
+  size: 16, 21
+  orig: 18, 23
+  offset: 1, 1
+  index: -1
+zhua_l_03
+  rotate: false
+  xy: 459, 5
+  size: 19, 18
+  orig: 21, 20
+  offset: 1, 1
+  index: -1
+zhua_r
+  rotate: true
+  xy: 237, 3
+  size: 25, 29
+  orig: 27, 31
+  offset: 1, 1
+  index: -1
+zhua_r_01
+  rotate: false
+  xy: 852, 445
+  size: 17, 29
+  orig: 19, 31
+  offset: 1, 1
+  index: -1
+zhua_r_02
+  rotate: false
+  xy: 858, 91
+  size: 13, 23
+  orig: 15, 25
+  offset: 1, 1
+  index: -1
+zhua_r_03
+  rotate: false
+  xy: 498, 3
+  size: 15, 20
+  orig: 17, 22
+  offset: 1, 1
+  index: -1

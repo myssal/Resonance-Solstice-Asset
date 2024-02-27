@@ -1,0 +1,62 @@
+
+bt_fuzi_effect.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoguang_00000
+  rotate: false
+  xy: 156, 243
+  size: 149, 266
+  orig: 180, 275
+  offset: 19, 1
+  index: -1
+daoguang_00001
+  rotate: false
+  xy: 2, 244
+  size: 152, 265
+  orig: 180, 275
+  offset: 17, 0
+  index: -1
+daoguang_00002
+  rotate: true
+  xy: 2, 143
+  size: 98, 203
+  orig: 180, 275
+  offset: 72, 0
+  index: -1
+daoguang_00003
+  rotate: true
+  xy: 362, 59
+  size: 97, 129
+  orig: 180, 275
+  offset: 70, 0
+  index: -1
+quanguang_00000
+  rotate: true
+  xy: 307, 158
+  size: 149, 202
+  orig: 160, 207
+  offset: 3, 5
+  index: -1
+quanguang_00001
+  rotate: false
+  xy: 307, 309
+  size: 152, 200
+  orig: 160, 207
+  offset: 1, 7
+  index: -1
+quanguang_00002
+  rotate: true
+  xy: 207, 57
+  size: 99, 153
+  orig: 160, 207
+  offset: 55, 54
+  index: -1
+quanguang_00003
+  rotate: false
+  xy: 2, 45
+  size: 97, 96
+  orig: 160, 207
+  offset: 53, 111
+  index: -1

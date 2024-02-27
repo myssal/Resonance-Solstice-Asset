@@ -1,0 +1,237 @@
+
+bt_dingchui_effect.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/baozha/baozha_00062
+  rotate: false
+  xy: 367, 244
+  size: 342, 290
+  orig: 564, 481
+  offset: 134, 41
+  index: -1
+effect/baozha/baozha_00063
+  rotate: false
+  xy: 1085, 250
+  size: 342, 318
+  orig: 564, 481
+  offset: 134, 41
+  index: -1
+effect/baozha/baozha_00064
+  rotate: false
+  xy: 719, 582
+  size: 365, 338
+  orig: 564, 481
+  offset: 113, 42
+  index: -1
+effect/baozha/baozha_00066
+  rotate: false
+  xy: 380, 536
+  size: 332, 360
+  orig: 564, 481
+  offset: 130, 42
+  index: -1
+effect/baozha/baozha_00067
+  rotate: true
+  xy: 2, 278
+  size: 290, 363
+  orig: 564, 481
+  offset: 130, 62
+  index: -1
+effect/baozha/baozha_00069
+  rotate: true
+  xy: 711, 75
+  size: 185, 268
+  orig: 564, 481
+  offset: 179, 156
+  index: -1
+effect/baozha/baozha_00070
+  rotate: true
+  xy: 235, 66
+  size: 176, 262
+  orig: 564, 481
+  offset: 183, 156
+  index: -1
+effect/dilie_00064
+  rotate: true
+  xy: 1798, 501
+  size: 450, 196
+  orig: 535, 234
+  offset: 36, 25
+  index: -1
+effect/glow_00062
+  rotate: false
+  xy: 2, 58
+  size: 231, 218
+  orig: 278, 292
+  offset: 23, 31
+  index: -1
+effect/huiju_00032
+  rotate: false
+  xy: 1867, 6
+  size: 165, 98
+  orig: 194, 110
+  offset: 14, 5
+  index: -1
+effect/pugong/pugong_00021
+  rotate: false
+  xy: 1394, 2
+  size: 219, 104
+  orig: 794, 426
+  offset: 173, 154
+  index: -1
+effect/pugong/pugong_00022
+  rotate: true
+  xy: 1925, 106
+  size: 393, 106
+  orig: 794, 426
+  offset: 173, 153
+  index: -1
+effect/pugong/pugong_00023
+  rotate: false
+  xy: 981, 133
+  size: 416, 115
+  orig: 794, 426
+  offset: 178, 156
+  index: -1
+effect/pugong/pugong_00024
+  rotate: false
+  xy: 981, 31
+  size: 411, 100
+  orig: 794, 426
+  offset: 182, 171
+  index: -1
+effect/pugong/pugong_00025
+  rotate: false
+  xy: 1615, 40
+  size: 250, 66
+  orig: 794, 426
+  offset: 328, 190
+  index: -1
+effect/quan_00062
+  rotate: false
+  xy: 1399, 108
+  size: 330, 140
+  orig: 486, 230
+  offset: 76, 31
+  index: -1
+effect/shouji/shouji_00023
+  rotate: false
+  xy: 2, 898
+  size: 715, 417
+  orig: 946, 576
+  offset: 121, 75
+  index: -1
+effect/shouji/shouji_00024
+  rotate: false
+  xy: 1441, 567
+  size: 355, 355
+  orig: 946, 576
+  offset: 317, 110
+  index: -1
+effect/shouji/shouji_00025
+  rotate: false
+  xy: 1086, 570
+  size: 351, 350
+  orig: 946, 576
+  offset: 320, 113
+  index: -1
+effect/shouji/shouji_00026
+  rotate: false
+  xy: 719, 923
+  size: 362, 392
+  orig: 946, 576
+  offset: 304, 101
+  index: -1
+effect/shouji/shouji_00027
+  rotate: false
+  xy: 1083, 922
+  size: 356, 393
+  orig: 946, 576
+  offset: 306, 100
+  index: -1
+effect/shouji/shouji_00028
+  rotate: false
+  xy: 1441, 924
+  size: 355, 391
+  orig: 946, 576
+  offset: 305, 101
+  index: -1
+effect/shouji/shouji_00029
+  rotate: false
+  xy: 1996, 950
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+effect/shouji/shouji_00030
+  rotate: false
+  xy: 1996, 950
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+effect/shouji/shouji_00031
+  rotate: false
+  xy: 1996, 950
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+effect/shouji/shouji_00032
+  rotate: false
+  xy: 1996, 950
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+effect/xiaza/xiaza_00061
+  rotate: false
+  xy: 499, 94
+  size: 209, 148
+  orig: 564, 524
+  offset: 88, 286
+  index: -1
+effect/xiaza/xiaza_00062
+  rotate: true
+  xy: 1429, 253
+  size: 312, 324
+  orig: 564, 524
+  offset: 91, 123
+  index: -1
+effect/xiaza/xiaza_00063
+  rotate: true
+  xy: 2, 570
+  size: 326, 376
+  orig: 564, 524
+  offset: 95, 71
+  index: -1
+effect/xiaza/xiaza_00064
+  rotate: true
+  xy: 714, 262
+  size: 318, 369
+  orig: 564, 524
+  offset: 103, 70
+  index: -1
+effect/xiaza/xiaza_00065
+  rotate: false
+  xy: 1798, 953
+  size: 248, 362
+  orig: 564, 524
+  offset: 163, 70
+  index: -1
+effect/xiaza/xiaza_00066
+  rotate: false
+  xy: 1755, 160
+  size: 168, 339
+  orig: 564, 524
+  offset: 228, 69
+  index: -1
+effect/xiaza/xiaza_00067
+  rotate: true
+  xy: 499, 22
+  size: 51, 235
+  orig: 564, 524
+  offset: 319, 74
+  index: -1

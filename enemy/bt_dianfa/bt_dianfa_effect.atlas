@@ -1,0 +1,230 @@
+
+bt_dianfa_effect.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JZ_SJ_H_00
+  rotate: false
+  xy: 2, 607
+  size: 284, 257
+  orig: 320, 320
+  offset: 21, 29
+  index: -1
+JZ_SJ_H_01
+  rotate: false
+  xy: 2, 104
+  size: 257, 252
+  orig: 320, 320
+  offset: 37, 29
+  index: -1
+JZ_SJ_H_02
+  rotate: false
+  xy: 261, 72
+  size: 263, 244
+  orig: 320, 320
+  offset: 39, 33
+  index: -1
+JZ_SJ_H_03
+  rotate: true
+  xy: 275, 318
+  size: 274, 244
+  orig: 320, 320
+  offset: 35, 33
+  index: -1
+JZ_SJ_H_04
+  rotate: true
+  xy: 288, 594
+  size: 270, 248
+  orig: 320, 320
+  offset: 34, 32
+  index: -1
+JZ_SJ_H_05
+  rotate: false
+  xy: 366, 882
+  size: 234, 234
+  orig: 320, 320
+  offset: 45, 39
+  index: -1
+JZ_SJ_H_06
+  rotate: false
+  xy: 429, 1760
+  size: 212, 216
+  orig: 320, 320
+  offset: 60, 47
+  index: -1
+LDbuff01
+  rotate: false
+  xy: 472, 1608
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+LDbuff02
+  rotate: false
+  xy: 602, 990
+  size: 80, 126
+  orig: 120, 150
+  offset: 20, 11
+  index: -1
+LDbuff03
+  rotate: false
+  xy: 637, 159
+  size: 69, 125
+  orig: 90, 150
+  offset: 11, 13
+  index: -1
+dianguang
+  rotate: false
+  xy: 591, 1118
+  size: 107, 107
+  orig: 128, 128
+  offset: 11, 10
+  index: -1
+leidian_00000
+  rotate: false
+  xy: 591, 1358
+  size: 92, 120
+  orig: 120, 120
+  offset: 28, 0
+  index: -1
+leidian_00001
+  rotate: true
+  xy: 586, 286
+  size: 113, 103
+  orig: 120, 120
+  offset: 7, 0
+  index: -1
+leidian_00002
+  rotate: true
+  xy: 591, 1227
+  size: 111, 102
+  orig: 120, 120
+  offset: 9, 0
+  index: -1
+leidian_00003
+  rotate: true
+  xy: 526, 2
+  size: 108, 115
+  orig: 120, 120
+  offset: 10, 0
+  index: -1
+leidian_00004
+  rotate: false
+  xy: 526, 112
+  size: 109, 118
+  orig: 120, 120
+  offset: 11, 0
+  index: -1
+leidian_00005
+  rotate: false
+  xy: 602, 890
+  size: 67, 98
+  orig: 120, 120
+  offset: 33, 0
+  index: -1
+leidian_00006
+  rotate: false
+  xy: 604, 1541
+  size: 82, 112
+  orig: 120, 120
+  offset: 15, 3
+  index: -1
+leidian_00007
+  rotate: true
+  xy: 586, 401
+  size: 117, 106
+  orig: 120, 120
+  offset: 3, 0
+  index: -1
+leidian_00008
+  rotate: false
+  xy: 594, 1655
+  size: 103, 103
+  orig: 120, 120
+  offset: 5, 0
+  index: -1
+leidianlian_00000
+  rotate: true
+  xy: 472, 1118
+  size: 360, 58
+  orig: 360, 100
+  offset: 0, 21
+  index: -1
+leidianlian_00001
+  rotate: true
+  xy: 586, 520
+  size: 360, 52
+  orig: 360, 100
+  offset: 0, 24
+  index: -1
+leidianlian_00002
+  rotate: true
+  xy: 526, 232
+  size: 360, 58
+  orig: 360, 100
+  offset: 0, 21
+  index: -1
+leidianlian_00003
+  rotate: true
+  xy: 532, 1118
+  size: 360, 57
+  orig: 360, 100
+  offset: 0, 21
+  index: -1
+leidianlian_00004
+  rotate: false
+  xy: 2, 55
+  size: 278, 15
+  orig: 360, 100
+  offset: 82, 42
+  index: -1
+shendian_0001
+  rotate: false
+  xy: 472, 1480
+  size: 130, 105
+  orig: 510, 335
+  offset: 196, 104
+  index: -1
+shendian_0002
+  rotate: false
+  xy: 2, 358
+  size: 271, 247
+  orig: 510, 335
+  offset: 109, 46
+  index: -1
+shendian_0003
+  rotate: false
+  xy: 2, 1652
+  size: 425, 324
+  orig: 510, 335
+  offset: 25, 6
+  index: -1
+shendian_0004
+  rotate: false
+  xy: 2, 1378
+  size: 468, 272
+  orig: 510, 335
+  offset: 1, 7
+  index: -1
+shendian_0005
+  rotate: false
+  xy: 2, 1118
+  size: 425, 258
+  orig: 510, 335
+  offset: 52, 13
+  index: -1
+shendian_0006
+  rotate: false
+  xy: 2, 866
+  size: 362, 250
+  orig: 510, 335
+  offset: 56, 27
+  index: -1
+shendian_0007
+  rotate: false
+  xy: 429, 1735
+  size: 40, 23
+  orig: 510, 335
+  offset: 378, 27
+  index: -1

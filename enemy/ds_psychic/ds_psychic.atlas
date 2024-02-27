@@ -1,0 +1,188 @@
+
+ds_psychic.png
+size: 256,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BFSMZ_0
+  rotate: false
+  xy: 2, 720
+  size: 74, 123
+  orig: 76, 125
+  offset: 1, 1
+  index: -1
+BFSMZ_1
+  rotate: 180
+  xy: 2, 4
+  size: 62, 106
+  orig: 62, 110
+  offset: 0, 0
+  index: -1
+BFSMZ_10
+  rotate: false
+  xy: 91, 660
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: -1
+BFSMZ_11
+  rotate: false
+  xy: 105, 445
+  size: 21, 39
+  orig: 23, 42
+  offset: 1, 2
+  index: -1
+BFSMZ_12
+  rotate: false
+  xy: 2, 845
+  size: 91, 161
+  orig: 91, 161
+  offset: 0, 0
+  index: -1
+BFSMZ_13
+  rotate: true
+  xy: 2, 387
+  size: 100, 81
+  orig: 100, 86
+  offset: 0, 5
+  index: -1
+BFSMZ_14
+  rotate: 270
+  xy: 90, 919
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+BFSMZ_15
+  rotate: true
+  xy: 104, 269
+  size: 54, 26
+  orig: 54, 26
+  offset: 0, 0
+  index: -1
+BFSMZ_16
+  rotate: false
+  xy: 75, 777
+  size: 34, 83
+  orig: 34, 83
+  offset: 0, 0
+  index: -1
+BFSMZ_17
+  rotate: false
+  xy: 84, 110
+  size: 26, 94
+  orig: 26, 94
+  offset: 0, 0
+  index: -1
+BFSMZ_18
+  rotate: false
+  xy: 2, 304
+  size: 85, 81
+  orig: 85, 81
+  offset: 0, 0
+  index: -1
+BFSMZ_19_1
+  rotate: false
+  xy: 89, 325
+  size: 31, 46
+  orig: 33, 48
+  offset: 1, 1
+  index: -1
+BFSMZ_19_2
+  rotate: false
+  xy: 81, 486
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+BFSMZ_19_3
+  rotate: false
+  xy: 85, 871
+  size: 36, 46
+  orig: 38, 48
+  offset: 1, 1
+  index: -1
+BFSMZ_2
+  rotate: true
+  xy: 8, 489
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+BFSMZ_20
+  rotate: false
+  xy: 94, 962
+  size: 28, 32
+  orig: 30, 34
+  offset: 1, 1
+  index: -1
+BFSMZ_21
+  rotate: false
+  xy: 69, 206
+  size: 39, 96
+  orig: 39, 96
+  offset: 0, 0
+  index: -1
+BFSMZ_22
+  rotate: false
+  xy: 65, 7
+  size: 40, 101
+  orig: 40, 101
+  offset: 0, 0
+  index: -1
+BFSMZ_3
+  rotate: 180
+  xy: 26, 99
+  size: 60, 106
+  orig: 60, 106
+  offset: 0, 0
+  index: -1
+BFSMZ_4
+  rotate: false
+  xy: 2, 190
+  size: 65, 112
+  orig: 65, 112
+  offset: 0, 0
+  index: -1
+BFSMZ_5
+  rotate: true
+  xy: 2, 568
+  size: 150, 89
+  orig: 150, 89
+  offset: 0, 0
+  index: -1
+BFSMZ_6
+  rotate: 180
+  xy: 74, 373
+  size: 29, 111
+  orig: 29, 111
+  offset: 0, 0
+  index: -1
+BFSMZ_7_1
+  rotate: false
+  xy: 78, 723
+  size: 35, 52
+  orig: 37, 54
+  offset: 1, 1
+  index: -1
+BFSMZ_7_2
+  rotate: 180
+  xy: 83, 605
+  size: 34, 53
+  orig: 34, 53
+  offset: 0, 0
+  index: -1
+BFSMZ_8
+  rotate: false
+  xy: 92, 535
+  size: 28, 62
+  orig: 28, 62
+  offset: 0, 0
+  index: -1
+BFSMZ_9
+  rotate: false
+  xy: 105, 374
+  size: 22, 65
+  orig: 22, 65
+  offset: 0, 0
+  index: -1

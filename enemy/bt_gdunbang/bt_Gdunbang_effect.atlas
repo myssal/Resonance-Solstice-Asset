@@ -1,0 +1,328 @@
+
+bt_Gdunbang_effect.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/TX_SJbaoshanlanse_0000
+  rotate: false
+  xy: 743, 54
+  size: 100, 106
+  orig: 128, 128
+  offset: 15, 12
+  index: -1
+TX/TX_sk1_G_0015
+  rotate: true
+  xy: 1602, 2
+  size: 165, 187
+  orig: 345, 280
+  offset: 92, 17
+  index: -1
+TX/TX_sk1_G_0016
+  rotate: false
+  xy: 1842, 854
+  size: 201, 196
+  orig: 345, 280
+  offset: 78, 22
+  index: -1
+TX/TX_sk1_G_0017
+  rotate: false
+  xy: 856, 93
+  size: 211, 208
+  orig: 345, 280
+  offset: 70, 23
+  index: -1
+TX/TX_sk1_G_0019
+  rotate: false
+  xy: 1785, 619
+  size: 235, 230
+  orig: 345, 280
+  offset: 49, 27
+  index: -1
+TX/TX_sk1_G_0021
+  rotate: false
+  xy: 856, 303
+  size: 228, 225
+  orig: 345, 280
+  offset: 52, 32
+  index: -1
+TX/TX_sk1_G_0023
+  rotate: true
+  xy: 248, 41
+  size: 125, 217
+  orig: 345, 280
+  offset: 69, 36
+  index: -1
+TX/TX_sk1_G_0025
+  rotate: false
+  xy: 634, 34
+  size: 107, 126
+  orig: 345, 280
+  offset: 70, 127
+  index: -1
+TX/TX_sk1_S_0015
+  rotate: false
+  xy: 1791, 38
+  size: 213, 129
+  orig: 345, 280
+  offset: 59, 32
+  index: -1
+TX/TX_sk1_S_0016
+  rotate: false
+  xy: 1349, 118
+  size: 251, 157
+  orig: 345, 280
+  offset: 35, 32
+  index: -1
+TX/TX_sk1_S_0017
+  rotate: false
+  xy: 250, 168
+  size: 268, 164
+  orig: 345, 280
+  offset: 16, 37
+  index: -1
+TX/TX_sk1_S_0018
+  rotate: false
+  xy: 1755, 169
+  size: 287, 171
+  orig: 345, 280
+  offset: 7, 35
+  index: -1
+TX/TX_sk1_S_0019
+  rotate: false
+  xy: 1155, 337
+  size: 272, 194
+  orig: 345, 280
+  offset: 22, 18
+  index: -1
+TX/TX_sk1_S_0020
+  rotate: false
+  xy: 2, 248
+  size: 246, 204
+  orig: 345, 280
+  offset: 50, 9
+  index: -1
+TX/TX_sk1_S_0021
+  rotate: false
+  xy: 1755, 342
+  size: 262, 205
+  orig: 345, 280
+  offset: 52, 11
+  index: -1
+TX/TX_sk1_S_0022
+  rotate: true
+  xy: 1842, 1052
+  size: 288, 196
+  orig: 345, 280
+  offset: 53, 20
+  index: -1
+TX/TX_sk1_S_0023
+  rotate: false
+  xy: 1086, 150
+  size: 261, 185
+  orig: 345, 280
+  offset: 77, 35
+  index: -1
+TX/TX_sk1_S_0024
+  rotate: false
+  xy: 2, 90
+  size: 244, 156
+  orig: 345, 280
+  offset: 79, 43
+  index: -1
+TX/TX_sk1_S_0025
+  rotate: false
+  xy: 387, 919
+  size: 112, 156
+  orig: 345, 280
+  offset: 197, 47
+  index: -1
+TX/TX_sk1_S_0026
+  rotate: false
+  xy: 1947, 1796
+  size: 72, 97
+  orig: 345, 280
+  offset: 204, 107
+  index: -1
+TX/TX_sk1_S_0027
+  rotate: false
+  xy: 1947, 1746
+  size: 42, 48
+  orig: 345, 280
+  offset: 200, 157
+  index: -1
+TX/TX_sk1_S_0028
+  rotate: false
+  xy: 2021, 1885
+  size: 18, 8
+  orig: 345, 280
+  offset: 197, 197
+  index: -1
+TX/TX_sk1_yuanguanglan_0000
+  rotate: false
+  xy: 1483, 277
+  size: 270, 270
+  orig: 300, 300
+  offset: 15, 15
+  index: -1
+TX/TX_sk3_andiyuan_0000
+  rotate: false
+  xy: 626, 300
+  size: 228, 228
+  orig: 250, 250
+  offset: 11, 11
+  index: -1
+TX/TX_sk3_lanGH_0000
+  rotate: false
+  xy: 1483, 549
+  size: 300, 300
+  orig: 400, 400
+  offset: 50, 50
+  index: -1
+TX/attack1/attack1_15
+  rotate: false
+  xy: 2, 454
+  size: 297, 296
+  orig: 512, 504
+  offset: 64, 106
+  index: -1
+TX/attack1/attack1_16
+  rotate: false
+  xy: 387, 541
+  size: 387, 319
+  orig: 512, 504
+  offset: 68, 82
+  index: -1
+TX/attack1/attack1_17
+  rotate: false
+  xy: 2, 752
+  size: 383, 323
+  orig: 512, 504
+  offset: 72, 78
+  index: -1
+TX/attack1/attack1_18
+  rotate: false
+  xy: 776, 530
+  size: 377, 327
+  orig: 512, 504
+  offset: 78, 74
+  index: -1
+TX/attack1/attack1_19
+  rotate: false
+  xy: 1155, 533
+  size: 326, 324
+  orig: 512, 504
+  offset: 128, 77
+  index: -1
+TX/attack1/attack1_20
+  rotate: true
+  xy: 301, 334
+  size: 205, 323
+  orig: 512, 504
+  offset: 250, 72
+  index: -1
+TX/attack1/attack1_21
+  rotate: true
+  xy: 520, 162
+  size: 136, 300
+  orig: 512, 504
+  offset: 318, 72
+  index: -1
+TX/attack2/attack2_14
+  rotate: false
+  xy: 1031, 1377
+  size: 583, 250
+  orig: 971, 566
+  offset: 239, 148
+  index: -1
+TX/attack2/attack2_15
+  rotate: false
+  xy: 531, 1636
+  size: 583, 257
+  orig: 971, 566
+  offset: 239, 145
+  index: -1
+TX/attack2/attack2_16
+  rotate: false
+  xy: 1116, 1629
+  size: 563, 264
+  orig: 971, 566
+  offset: 250, 144
+  index: -1
+TX/attack2/attack2_17
+  rotate: true
+  xy: 1681, 1342
+  size: 551, 264
+  orig: 971, 566
+  offset: 250, 145
+  index: -1
+TX/attack2/attack2_18
+  rotate: false
+  xy: 1031, 1116
+  size: 552, 259
+  orig: 971, 566
+  offset: 247, 146
+  index: -1
+TX/attack2/attack2_19
+  rotate: false
+  xy: 2, 1351
+  size: 525, 247
+  orig: 971, 566
+  offset: 269, 155
+  index: -1
+TX/gunji/gunji_68
+  rotate: true
+  xy: 467, 7
+  size: 153, 165
+  orig: 786, 517
+  offset: 203, 158
+  index: -1
+TX/gunji/gunji_69
+  rotate: false
+  xy: 531, 1341
+  size: 498, 293
+  orig: 786, 517
+  offset: 138, 99
+  index: -1
+TX/gunji/gunji_70
+  rotate: false
+  xy: 2, 1600
+  size: 527, 293
+  orig: 786, 517
+  offset: 138, 99
+  index: -1
+TX/gunji/gunji_71
+  rotate: false
+  xy: 539, 862
+  size: 543, 252
+  orig: 786, 517
+  offset: 148, 100
+  index: -1
+TX/gunji/gunji_72
+  rotate: false
+  xy: 2, 1077
+  size: 535, 262
+  orig: 786, 517
+  offset: 148, 100
+  index: -1
+TX/gunji/gunji_73
+  rotate: false
+  xy: 1084, 859
+  size: 493, 255
+  orig: 786, 517
+  offset: 170, 108
+  index: -1
+TX/gunji/gunji_74
+  rotate: true
+  xy: 1585, 851
+  size: 489, 255
+  orig: 786, 517
+  offset: 170, 108
+  index: -1
+TX/gunji/gunji_75
+  rotate: false
+  xy: 539, 1122
+  size: 417, 217
+  orig: 786, 517
+  offset: 221, 134
+  index: -1

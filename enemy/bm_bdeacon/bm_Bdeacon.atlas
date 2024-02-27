@@ -1,0 +1,195 @@
+
+bm_Bdeacon.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_41
+  rotate: true
+  xy: 493, 230
+  size: 180, 252
+  orig: 258, 291
+  offset: 11, 0
+  index: -1
+Bdeacon_0
+  rotate: false
+  xy: 2, 437
+  size: 39, 27
+  orig: 41, 29
+  offset: 1, 1
+  index: -1
+Bdeacon_1
+  rotate: false
+  xy: 2, 371
+  size: 155, 93
+  orig: 155, 93
+  offset: 0, 0
+  index: -1
+Bdeacon_10
+  rotate: 180
+  xy: 670, 86
+  size: 276, 153
+  orig: 276, 153
+  offset: 0, 0
+  index: -1
+Bdeacon_11
+  rotate: false
+  xy: 943, 162
+  size: 63, 143
+  orig: 63, 143
+  offset: 0, 0
+  index: -1
+Bdeacon_12
+  rotate: false
+  xy: 137, 238
+  size: 41, 41
+  orig: 43, 43
+  offset: 1, 1
+  index: -1
+Bdeacon_12_1
+  rotate: false
+  xy: 888, 264
+  size: 42, 41
+  orig: 43, 43
+  offset: 1, 1
+  index: -1
+Bdeacon_12_2
+  rotate: false
+  xy: 621, 13
+  size: 49, 74
+  orig: 51, 76
+  offset: 1, 1
+  index: -1
+Bdeacon_12_3
+  rotate: false
+  xy: 309, 187
+  size: 59, 45
+  orig: 61, 47
+  offset: 1, 1
+  index: -1
+Bdeacon_13
+  rotate: true
+  xy: 2, 70
+  size: 89, 137
+  orig: 91, 139
+  offset: 1, 1
+  index: -1
+Bdeacon_14
+  rotate: false
+  xy: 278, 17
+  size: 43, 94
+  orig: 45, 96
+  offset: 1, 1
+  index: -1
+Bdeacon_15
+  rotate: false
+  xy: 796, 33
+  size: 225, 111
+  orig: 225, 111
+  offset: 0, 0
+  index: -1
+Bdeacon_16
+  rotate: false
+  xy: 122, 18
+  size: 81, 93
+  orig: 81, 93
+  offset: 0, 0
+  index: -1
+Bdeacon_17
+  rotate: false
+  xy: 205, 43
+  size: 71, 68
+  orig: 73, 70
+  offset: 1, 1
+  index: -1
+Bdeacon_18
+  rotate: false
+  xy: 148, 113
+  size: 220, 71
+  orig: 222, 73
+  offset: 1, 1
+  index: -1
+Bdeacon_19
+  rotate: false
+  xy: 469, 400
+  size: 89, 64
+  orig: 89, 64
+  offset: 0, 0
+  index: -1
+Bdeacon_2
+  rotate: 270
+  xy: 296, 347
+  size: 118, 176
+  orig: 118, 176
+  offset: 0, 0
+  index: -1
+Bdeacon_20
+  rotate: false
+  xy: 2, 161
+  size: 757, 303
+  orig: 757, 303
+  offset: 0, 0
+  index: -1
+Bdeacon_3
+  rotate: false
+  xy: 673, 9
+  size: 124, 122
+  orig: 124, 122
+  offset: 0, 0
+  index: -1
+Bdeacon_4
+  rotate: false
+  xy: 893, 307
+  size: 121, 157
+  orig: 123, 159
+  offset: 1, 1
+  index: -1
+Bdeacon_5
+  rotate: true
+  xy: 323, 56
+  size: 32, 126
+  orig: 32, 126
+  offset: 0, 0
+  index: -1
+Bdeacon_6
+  rotate: true
+  xy: 2, 236
+  size: 228, 304
+  orig: 228, 304
+  offset: 0, 0
+  index: -1
+Bdeacon_7
+  rotate: false
+  xy: 746, 202
+  size: 145, 262
+  orig: 145, 262
+  offset: 0, 0
+  index: -1
+Bdeacon_8
+  rotate: false
+  xy: 476, 3
+  size: 122, 117
+  orig: 122, 117
+  offset: 0, 0
+  index: -1
+Bdeacon_9
+  rotate: false
+  xy: 574, 85
+  size: 105, 136
+  orig: 106, 136
+  offset: 1, 0
+  index: -1
+Bdeacon_dao1
+  rotate: false
+  xy: 370, 160
+  size: 208, 108
+  orig: 210, 111
+  offset: 1, 1
+  index: -1
+Bdeacon_dao2
+  rotate: false
+  xy: 370, 88
+  size: 137, 70
+  orig: 139, 72
+  offset: 1, 1
+  index: -1

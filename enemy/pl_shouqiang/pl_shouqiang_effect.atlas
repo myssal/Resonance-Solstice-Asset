@@ -1,0 +1,279 @@
+
+pl_shouqiang_effect.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_10
+  rotate: false
+  xy: 175, 137
+  size: 146, 141
+  orig: 450, 330
+  offset: 192, 96
+  index: -1
+attack_11
+  rotate: false
+  xy: 658, 301
+  size: 255, 187
+  orig: 450, 330
+  offset: 98, 76
+  index: -1
+attack_12
+  rotate: false
+  xy: 658, 490
+  size: 301, 208
+  orig: 450, 330
+  offset: 70, 63
+  index: -1
+attack_13
+  rotate: false
+  xy: 340, 470
+  size: 316, 228
+  orig: 450, 330
+  offset: 70, 53
+  index: -1
+attack_14
+  rotate: false
+  xy: 2, 458
+  size: 336, 240
+  orig: 450, 330
+  offset: 57, 47
+  index: -1
+attack_15
+  rotate: false
+  xy: 340, 290
+  size: 212, 178
+  orig: 450, 330
+  offset: 24, 80
+  index: -1
+attack_16
+  rotate: false
+  xy: 1905, 324
+  size: 124, 162
+  orig: 450, 330
+  offset: 23, 88
+  index: -1
+dihuo_00
+  rotate: false
+  xy: 1261, 2
+  size: 253, 70
+  orig: 281, 79
+  offset: 12, 2
+  index: -1
+dihuo_01
+  rotate: false
+  xy: 2, 2
+  size: 252, 72
+  orig: 281, 79
+  offset: 17, 2
+  index: -1
+dihuo_02
+  rotate: false
+  xy: 589, 5
+  size: 251, 73
+  orig: 281, 79
+  offset: 20, 2
+  index: -1
+dihuo_03
+  rotate: false
+  xy: 1528, 6
+  size: 251, 74
+  orig: 281, 79
+  offset: 20, 2
+  index: -1
+dihuo_04
+  rotate: false
+  xy: 328, 60
+  size: 259, 73
+  orig: 281, 79
+  offset: 13, 2
+  index: -1
+dihuo_05
+  rotate: false
+  xy: 727, 80
+  size: 265, 74
+  orig: 281, 79
+  offset: 6, 2
+  index: -1
+dihuo_06
+  rotate: false
+  xy: 994, 73
+  size: 265, 73
+  orig: 281, 79
+  offset: 6, 2
+  index: -1
+dihuo_07
+  rotate: false
+  xy: 1709, 82
+  size: 266, 74
+  orig: 281, 79
+  offset: 6, 2
+  index: -1
+dihuo_08
+  rotate: false
+  xy: 1261, 74
+  size: 265, 72
+  orig: 281, 79
+  offset: 6, 2
+  index: -1
+dihuo_09
+  rotate: false
+  xy: 1781, 8
+  size: 257, 72
+  orig: 281, 79
+  offset: 12, 2
+  index: -1
+dihuo_di01
+  rotate: false
+  xy: 1257, 578
+  size: 490, 120
+  orig: 490, 130
+  offset: 0, 0
+  index: -1
+dihuo_di02
+  rotate: false
+  xy: 842, 19
+  size: 320, 52
+  orig: 320, 58
+  offset: 0, 2
+  index: -1
+huoshouji_00
+  rotate: true
+  xy: 961, 293
+  size: 201, 238
+  orig: 221, 295
+  offset: 8, 3
+  index: -1
+huoshouji_01
+  rotate: true
+  xy: 1749, 488
+  size: 210, 281
+  orig: 221, 295
+  offset: 10, 1
+  index: -1
+huoshouji_02
+  rotate: true
+  xy: 961, 496
+  size: 202, 294
+  orig: 221, 295
+  offset: 13, 1
+  index: -1
+huoshouji_03
+  rotate: true
+  xy: 1257, 392
+  size: 184, 287
+  orig: 221, 295
+  offset: 17, 1
+  index: -1
+huoshouji_04
+  rotate: false
+  xy: 1546, 299
+  size: 151, 277
+  orig: 221, 295
+  offset: 22, 2
+  index: -1
+huoshouji_05
+  rotate: true
+  xy: 1709, 158
+  size: 126, 196
+  orig: 221, 295
+  offset: 23, 5
+  index: -1
+huozhakai_00
+  rotate: false
+  xy: 256, 17
+  size: 236, 41
+  orig: 380, 85
+  offset: 70, 26
+  index: -1
+huozhakai_01
+  rotate: false
+  xy: 2, 76
+  size: 324, 59
+  orig: 380, 85
+  offset: 27, 14
+  index: -1
+huozhakai_02
+  rotate: false
+  xy: 1109, 148
+  size: 377, 64
+  orig: 380, 85
+  offset: 0, 10
+  index: -1
+huozhakai_03
+  rotate: false
+  xy: 727, 222
+  size: 380, 69
+  orig: 380, 85
+  offset: 0, 6
+  index: -1
+huozhakai_04
+  rotate: false
+  xy: 727, 156
+  size: 380, 64
+  orig: 380, 85
+  offset: 0, 11
+  index: -1
+ranshaoping
+  rotate: true
+  xy: 1699, 286
+  size: 200, 204
+  orig: 214, 217
+  offset: 6, 7
+  index: -1
+ranshaoping_00
+  rotate: false
+  xy: 2, 301
+  size: 176, 155
+  orig: 200, 200
+  offset: 0, 28
+  index: -1
+ranshaoping_01
+  rotate: false
+  xy: 1201, 236
+  size: 176, 154
+  orig: 200, 200
+  offset: 0, 28
+  index: -1
+ranshaoping_02
+  rotate: false
+  xy: 337, 135
+  size: 172, 153
+  orig: 200, 200
+  offset: 4, 28
+  index: -1
+ranshaoping_03
+  rotate: false
+  xy: 2, 144
+  size: 171, 155
+  orig: 200, 200
+  offset: 5, 28
+  index: -1
+shaoping2/ranshaoping_00
+  rotate: true
+  xy: 180, 280
+  size: 176, 155
+  orig: 200, 200
+  offset: 0, 28
+  index: -1
+shaoping2/ranshaoping_01
+  rotate: true
+  xy: 1379, 214
+  size: 176, 154
+  orig: 200, 200
+  offset: 0, 28
+  index: -1
+shaoping2/ranshaoping_02
+  rotate: false
+  xy: 1535, 131
+  size: 172, 153
+  orig: 200, 200
+  offset: 4, 28
+  index: -1
+shaoping2/ranshaoping_03
+  rotate: false
+  xy: 554, 144
+  size: 171, 155
+  orig: 200, 200
+  offset: 5, 28
+  index: -1

@@ -1,0 +1,111 @@
+
+treetrolls2.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball/fanguang_00000
+  rotate: false
+  xy: 153, 105
+  size: 87, 87
+  orig: 89, 89
+  offset: 1, 1
+  index: -1
+ball/glow_00000
+  rotate: false
+  xy: 2, 287
+  size: 175, 175
+  orig: 247, 247
+  offset: 33, 37
+  index: -1
+ball/heidi_00000
+  rotate: false
+  xy: 62, 109
+  size: 89, 89
+  orig: 91, 91
+  offset: 1, 1
+  index: -1
+ball/wenli_00000
+  rotate: true
+  xy: 179, 287
+  size: 308, 99
+  orig: 308, 100
+  offset: 0, 0
+  index: -1
+ball/yinying_00000
+  rotate: true
+  xy: 2, 21
+  size: 86, 87
+  orig: 88, 88
+  offset: 1, 0
+  index: -1
+dian
+  rotate: false
+  xy: 125, 597
+  size: 117, 117
+  orig: 125, 125
+  offset: 4, 3
+  index: -1
+heiying
+  rotate: false
+  xy: 2, 464
+  size: 121, 281
+  orig: 133, 281
+  offset: 0, 0
+  index: -1
+pd1
+  rotate: true
+  xy: 2, 233
+  size: 52, 276
+  orig: 52, 276
+  offset: 0, 0
+  index: -1
+pd2
+  rotate: 180
+  xy: 248, 4
+  size: 54, 241
+  orig: 54, 241
+  offset: 0, 0
+  index: -1
+pd3
+  rotate: true
+  xy: 2, 183
+  size: 58, 288
+  orig: 58, 288
+  offset: 0, 0
+  index: -1
+st1
+  rotate: false
+  xy: 180, 28
+  size: 63, 75
+  orig: 63, 75
+  offset: 0, 0
+  index: -1
+st2
+  rotate: true
+  xy: 91, 30
+  size: 73, 87
+  orig: 73, 87
+  offset: 0, 0
+  index: -1
+st3
+  rotate: false
+  xy: 244, 597
+  size: 66, 70
+  orig: 66, 70
+  offset: 0, 0
+  index: -1
+st4
+  rotate: false
+  xy: 244, 669
+  size: 54, 59
+  orig: 54, 59
+  offset: 0, 0
+  index: -1
+st5
+  rotate: false
+  xy: 125, 555
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+bt_Gdunqiang.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/weaponn3_00
+  rotate: true
+  xy: 493, 77
+  size: 112, 44
+  orig: 129, 46
+  offset: 17, 2
+  index: -1
+dun
+  rotate: true
+  xy: 310, 112
+  size: 75, 181
+  orig: 75, 181
+  offset: 0, 0
+  index: -1
+dunfx
+  rotate: false
+  xy: 163, 95
+  size: 145, 241
+  orig: 164, 265
+  offset: 10, 14
+  index: -1
+feetl
+  rotate: true
+  xy: 187, 43
+  size: 50, 109
+  orig: 50, 109
+  offset: 0, 0
+  index: -1
+feetr
+  rotate: 270
+  xy: 409, 21
+  size: 57, 105
+  orig: 57, 105
+  offset: 0, 0
+  index: -1
+handl
+  rotate: false
+  xy: 261, 10
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+handr
+  rotate: false
+  xy: 226, 11
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+heiying
+  rotate: false
+  xy: 2, 80
+  size: 159, 256
+  orig: 160, 256
+  offset: 0, 0
+  index: -1
+kua
+  rotate: false
+  xy: 2, 11
+  size: 84, 42
+  orig: 84, 42
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 441, 189
+  size: 100, 109
+  orig: 100, 109
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 310, 189
+  size: 129, 147
+  orig: 129, 147
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: true
+  xy: 292, 3
+  size: 59, 68
+  orig: 59, 68
+  offset: 0, 0
+  index: -1
+weaponn
+  rotate: true
+  xy: 2, 54
+  size: 24, 183
+  orig: 24, 183
+  offset: 0, 0
+  index: -1
+weaponn3
+  rotate: false
+  xy: 310, 64
+  size: 129, 46
+  orig: 129, 46
+  offset: 0, 0
+  index: -1
+yaobao
+  rotate: false
+  xy: 472, 300
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+youdb
+  rotate: false
+  xy: 362, 8
+  size: 43, 54
+  orig: 43, 54
+  offset: 0, 0
+  index: -1
+youxb
+  rotate: true
+  xy: 141, 17
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+zuodb
+  rotate: true
+  xy: 88, 12
+  size: 40, 51
+  orig: 40, 51
+  offset: 0, 0
+  index: -1
+zuoxb
+  rotate: false
+  xy: 193, 4
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,131 @@
+
+Tree_roll.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qiu
+  rotate: false
+  xy: 151, 279
+  size: 94, 96
+  orig: 94, 96
+  offset: 0, 0
+  index: -1
+t1
+  rotate: false
+  xy: 2, 104
+  size: 185, 223
+  orig: 185, 223
+  offset: 0, 0
+  index: -1
+t11
+  rotate: false
+  xy: 506, 9
+  size: 195, 129
+  orig: 195, 129
+  offset: 0, 0
+  index: -1
+t12
+  rotate: true
+  xy: 562, 646
+  size: 69, 116
+  orig: 69, 116
+  offset: 0, 0
+  index: -1
+t13
+  rotate: false
+  xy: 285, 298
+  size: 89, 104
+  orig: 89, 104
+  offset: 0, 0
+  index: -1
+t14
+  rotate: false
+  xy: 144, 186
+  size: 140, 90
+  orig: 140, 90
+  offset: 0, 0
+  index: -1
+t2
+  rotate: 180
+  xy: 2, 286
+  size: 300, 265
+  orig: 300, 265
+  offset: 0, 0
+  index: -1
+t3
+  rotate: false
+  xy: 2, 781
+  size: 69, 131
+  orig: 71, 133
+  offset: 1, 1
+  index: -1
+you1
+  rotate: 180
+  xy: 164, 4
+  size: 808, 641
+  orig: 808, 641
+  offset: 0, 0
+  index: -1
+you2s
+  rotate: false
+  xy: 334, 4
+  size: 237, 92
+  orig: 237, 92
+  offset: 0, 0
+  index: -1
+you2x
+  rotate: 180
+  xy: 709, 574
+  size: 301, 382
+  orig: 301, 382
+  offset: 0, 0
+  index: -1
+you_shang
+  rotate: false
+  xy: 2, 404
+  size: 804, 591
+  orig: 804, 591
+  offset: 0, 0
+  index: -1
+zuo2s
+  rotate: false
+  xy: 263, 915
+  size: 239, 80
+  orig: 239, 80
+  offset: 0, 0
+  index: -1
+zuo2x
+  rotate: false
+  xy: 2, 801
+  size: 260, 195
+  orig: 723, 589
+  offset: 463, 394
+  index: -1
+
+Tree_roll2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dead_35
+  rotate: false
+  xy: 2, 257
+  size: 657, 298
+  orig: 706, 354
+  offset: 29, 24
+  index: -1
+guang
+  rotate: true
+  xy: 2, 2
+  size: 253, 254
+  orig: 297, 298
+  offset: 22, 22
+  index: -1
+zuo1
+  rotate: true
+  xy: 388, 98
+  size: 364, 502
+  orig: 364, 502
+  offset: 0, 0
+  index: -1

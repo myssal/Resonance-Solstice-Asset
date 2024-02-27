@@ -1,0 +1,1019 @@
+
+Tree_flea_effect.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk_1_0
+  rotate: false
+  xy: 851, 1614
+  size: 387, 432
+  orig: 415, 440
+  offset: 17, 6
+  index: -1
+atk_1_1
+  rotate: false
+  xy: 449, 1611
+  size: 400, 435
+  orig: 420, 444
+  offset: 18, 7
+  index: -1
+atk_1_2
+  rotate: false
+  xy: 1240, 1630
+  size: 389, 416
+  orig: 408, 425
+  offset: 17, 7
+  index: -1
+atk_1_3
+  rotate: true
+  xy: 1240, 1252
+  size: 373, 403
+  orig: 392, 420
+  offset: 17, 7
+  index: -1
+atk_2_0
+  rotate: true
+  xy: 1927, 727
+  size: 188, 110
+  orig: 192, 114
+  offset: 3, 2
+  index: -1
+atk_2_1
+  rotate: false
+  xy: 1253, 3
+  size: 222, 201
+  orig: 226, 205
+  offset: 3, 2
+  index: -1
+atk_2_8
+  rotate: false
+  xy: 1160, 1396
+  size: 74, 216
+  orig: 80, 223
+  offset: 4, 3
+  index: -1
+atk_3_10
+  rotate: true
+  xy: 2, 218
+  size: 330, 374
+  orig: 381, 402
+  offset: 15, 2
+  index: -1
+atk_3_12
+  rotate: true
+  xy: 378, 216
+  size: 331, 371
+  orig: 363, 407
+  offset: 8, 1
+  index: -1
+atk_3_6
+  rotate: true
+  xy: 764, 201
+  size: 347, 353
+  orig: 400, 406
+  offset: 30, 32
+  index: -1
+atk_3_8
+  rotate: true
+  xy: 1119, 206
+  size: 337, 358
+  orig: 403, 391
+  offset: 37, 10
+  index: -1
+bao_68
+  rotate: false
+  xy: 2, 1617
+  size: 445, 429
+  orig: 490, 456
+  offset: 34, 14
+  index: -1
+kuosan_68
+  rotate: false
+  xy: 2, 19
+  size: 531, 195
+  orig: 737, 284
+  offset: 101, 45
+  index: -1
+qiu/qiu_41
+  rotate: false
+  xy: 2, 550
+  size: 379, 352
+  orig: 467, 424
+  offset: 42, 36
+  index: -1
+qiu/qiu_43
+  rotate: false
+  xy: 1527, 214
+  size: 375, 349
+  orig: 467, 424
+  offset: 46, 36
+  index: -1
+qiu/qiu_45
+  rotate: false
+  xy: 1147, 545
+  size: 378, 352
+  orig: 467, 424
+  offset: 49, 36
+  index: -1
+qiu/qiu_47
+  rotate: false
+  xy: 1645, 1272
+  size: 383, 353
+  orig: 467, 424
+  offset: 45, 36
+  index: -1
+qiu/qiu_49
+  rotate: false
+  xy: 2, 1259
+  size: 383, 356
+  orig: 467, 424
+  offset: 42, 35
+  index: -1
+qiu/qiu_51
+  rotate: false
+  xy: 1645, 917
+  size: 383, 353
+  orig: 467, 424
+  offset: 42, 36
+  index: -1
+qiu/qiu_53
+  rotate: false
+  xy: 386, 903
+  size: 384, 351
+  orig: 467, 424
+  offset: 42, 38
+  index: -1
+qiu/qiu_55
+  rotate: false
+  xy: 1543, 565
+  size: 382, 350
+  orig: 467, 424
+  offset: 42, 39
+  index: -1
+qiu/qiu_57
+  rotate: false
+  xy: 764, 550
+  size: 381, 350
+  orig: 467, 424
+  offset: 43, 36
+  index: -1
+qiu/qiu_59
+  rotate: false
+  xy: 1158, 899
+  size: 383, 351
+  orig: 467, 424
+  offset: 46, 36
+  index: -1
+qiu/qiu_61
+  rotate: false
+  xy: 773, 1257
+  size: 385, 352
+  orig: 467, 424
+  offset: 45, 36
+  index: -1
+qiu/qiu_63
+  rotate: false
+  xy: 773, 902
+  size: 383, 353
+  orig: 467, 424
+  offset: 42, 35
+  index: -1
+qiu/qiu_65
+  rotate: false
+  xy: 387, 1256
+  size: 384, 353
+  orig: 467, 424
+  offset: 42, 36
+  index: -1
+qiu/qiu_67
+  rotate: false
+  xy: 383, 549
+  size: 379, 352
+  orig: 467, 424
+  offset: 42, 36
+  index: -1
+qiu/qiu_69
+  rotate: false
+  xy: 2, 904
+  size: 382, 353
+  orig: 467, 424
+  offset: 42, 36
+  index: -1
+shine_23
+  rotate: false
+  xy: 1631, 1627
+  size: 384, 419
+  orig: 515, 518
+  offset: 77, 65
+  index: -1
+skill1_xian_06
+  rotate: true
+  xy: 1927, 2
+  size: 688, 95
+  orig: 703, 108
+  offset: 6, 4
+  index: -1
+skill2_lizi_6
+  rotate: false
+  xy: 1543, 1100
+  size: 99, 150
+  orig: 110, 166
+  offset: 6, 7
+  index: -1
+skill2_xi_0
+  rotate: false
+  xy: 1543, 928
+  size: 81, 170
+  orig: 163, 174
+  offset: 50, 2
+  index: -1
+skill2_xi_22
+  rotate: false
+  xy: 1160, 1267
+  size: 70, 127
+  orig: 153, 142
+  offset: 49, 10
+  index: -1
+skill2_xi_4
+  rotate: false
+  xy: 913, 6
+  size: 338, 193
+  orig: 366, 209
+  offset: 1, 15
+  index: -1
+skill2_xi_6
+  rotate: false
+  xy: 535, 7
+  size: 376, 192
+  orig: 395, 208
+  offset: 1, 15
+  index: -1
+skill2_xi_8
+  rotate: false
+  xy: 1479, 2
+  size: 396, 210
+  orig: 402, 228
+  offset: 1, 15
+  index: -1
+
+Tree_flea_effect2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk_1_4
+  rotate: false
+  xy: 2, 1656
+  size: 325, 366
+  orig: 349, 382
+  offset: 11, 9
+  index: -1
+atk_3_3
+  rotate: true
+  xy: 1729, 998
+  size: 317, 291
+  orig: 366, 328
+  offset: 30, 19
+  index: -1
+atk_3_4
+  rotate: true
+  xy: 1726, 332
+  size: 332, 319
+  orig: 375, 361
+  offset: 24, 22
+  index: -1
+atk_4_8
+  rotate: false
+  xy: 1724, 22
+  size: 113, 80
+  orig: 130, 93
+  offset: 8, 7
+  index: -1
+lizi/lizi_76
+  rotate: true
+  xy: 682, 1350
+  size: 318, 303
+  orig: 540, 534
+  offset: 92, 91
+  index: -1
+lizi/lizi_77
+  rotate: false
+  xy: 2, 69
+  size: 335, 297
+  orig: 540, 534
+  offset: 81, 82
+  index: -1
+lizi/lizi_78
+  rotate: false
+  xy: 348, 66
+  size: 343, 303
+  orig: 540, 534
+  offset: 76, 78
+  index: -1
+skill1_qiu_00
+  rotate: true
+  xy: 2, 1301
+  size: 353, 321
+  orig: 378, 336
+  offset: 16, 5
+  index: -1
+skill1_qiu_02
+  rotate: false
+  xy: 329, 1342
+  size: 351, 326
+  orig: 376, 341
+  offset: 15, 6
+  index: -1
+skill1_qiu_04
+  rotate: true
+  xy: 660, 1670
+  size: 352, 328
+  orig: 374, 342
+  offset: 14, 7
+  index: -1
+skill1_qiu_06
+  rotate: false
+  xy: 682, 1015
+  size: 347, 326
+  orig: 375, 339
+  offset: 15, 5
+  index: -1
+skill1_qiu_08
+  rotate: false
+  xy: 325, 1016
+  size: 349, 324
+  orig: 377, 337
+  offset: 15, 4
+  index: -1
+skill1_qiu_10
+  rotate: false
+  xy: 348, 371
+  size: 347, 318
+  orig: 376, 337
+  offset: 14, 9
+  index: -1
+skill1_qiu_12
+  rotate: false
+  xy: 2, 368
+  size: 344, 321
+  orig: 373, 336
+  offset: 14, 5
+  index: -1
+skill1_qiu_14
+  rotate: false
+  xy: 704, 687
+  size: 344, 325
+  orig: 372, 338
+  offset: 18, 3
+  index: -1
+skill1_qiu_16
+  rotate: false
+  xy: 1389, 341
+  size: 335, 323
+  orig: 368, 337
+  offset: 18, 3
+  index: -1
+skill1_qiu_18
+  rotate: false
+  xy: 1398, 666
+  size: 345, 323
+  orig: 373, 338
+  offset: 19, 4
+  index: -1
+skill1_qiu_20
+  rotate: true
+  xy: 1650, 1670
+  size: 352, 326
+  orig: 377, 341
+  offset: 16, 6
+  index: -1
+skill1_qiu_22
+  rotate: false
+  xy: 990, 1343
+  size: 352, 326
+  orig: 378, 342
+  offset: 14, 7
+  index: -1
+skill1_qiu_24
+  rotate: false
+  xy: 1344, 1342
+  size: 351, 326
+  orig: 377, 337
+  offset: 14, 2
+  index: -1
+skill1_qiu_26
+  rotate: false
+  xy: 1041, 350
+  size: 346, 314
+  orig: 376, 337
+  offset: 15, 14
+  index: -1
+skill1_qiu_28
+  rotate: false
+  xy: 1031, 1014
+  size: 346, 326
+  orig: 375, 337
+  offset: 14, 2
+  index: -1
+skill1_qiu_30
+  rotate: false
+  xy: 697, 364
+  size: 342, 321
+  orig: 374, 335
+  offset: 17, 3
+  index: -1
+skill1_qiu_32
+  rotate: false
+  xy: 1050, 666
+  size: 346, 323
+  orig: 376, 337
+  offset: 19, 6
+  index: -1
+skill1_qiu_34
+  rotate: true
+  xy: 1320, 1672
+  size: 350, 328
+  orig: 378, 342
+  offset: 17, 6
+  index: -1
+skill1_qiu_36
+  rotate: true
+  xy: 329, 1670
+  size: 352, 329
+  orig: 374, 343
+  offset: 14, 7
+  index: -1
+skill1_qiu_38
+  rotate: true
+  xy: 990, 1671
+  size: 351, 328
+  orig: 375, 342
+  offset: 15, 6
+  index: -1
+skill1_qiu_40
+  rotate: true
+  xy: 1697, 1317
+  size: 351, 324
+  orig: 374, 337
+  offset: 15, 5
+  index: -1
+skill1_qiu_42
+  rotate: false
+  xy: 353, 691
+  size: 349, 322
+  orig: 374, 337
+  offset: 14, 6
+  index: -1
+skill1_qiu_44
+  rotate: false
+  xy: 1379, 991
+  size: 348, 324
+  orig: 377, 336
+  offset: 15, 3
+  index: -1
+skill1_qiu_46
+  rotate: false
+  xy: 2, 691
+  size: 349, 323
+  orig: 377, 337
+  offset: 17, 4
+  index: -1
+skill1_xian_02
+  rotate: false
+  xy: 1038, 7
+  size: 684, 95
+  orig: 696, 108
+  offset: 2, 4
+  index: -1
+skill2_lizi_10
+  rotate: false
+  xy: 1978, 1951
+  size: 50, 71
+  orig: 63, 86
+  offset: 6, 7
+  index: -1
+skill2_lizi_18
+  rotate: false
+  xy: 693, 79
+  size: 343, 283
+  orig: 370, 286
+  offset: 14, 2
+  index: -1
+skill2_lizi_22
+  rotate: true
+  xy: 1745, 671
+  size: 325, 283
+  orig: 349, 286
+  offset: 12, 2
+  index: -1
+skill2_lizi_24
+  rotate: false
+  xy: 2, 1024
+  size: 303, 275
+  orig: 326, 286
+  offset: 12, 10
+  index: -1
+skill2_lizi_8
+  rotate: true
+  xy: 693, 2
+  size: 75, 116
+  orig: 85, 130
+  offset: 7, 6
+  index: -1
+skill2_xi_10
+  rotate: false
+  xy: 1440, 104
+  size: 400, 226
+  orig: 402, 245
+  offset: 1, 11
+  index: -1
+skill2_xi_12
+  rotate: false
+  xy: 1038, 109
+  size: 400, 230
+  orig: 402, 254
+  offset: 1, 13
+  index: -1
+skill2_xi_3
+  rotate: true
+  xy: 1842, 19
+  size: 311, 194
+  orig: 343, 209
+  offset: 1, 14
+  index: -1
+
+Tree_flea_effect3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk_1_5
+  rotate: true
+  xy: 1708, 758
+  size: 187, 312
+  orig: 204, 329
+  offset: 14, 8
+  index: -1
+atk_2_2
+  rotate: false
+  xy: 1485, 731
+  size: 221, 279
+  orig: 225, 284
+  offset: 2, 3
+  index: -1
+atk_2_4
+  rotate: true
+  xy: 898, 578
+  size: 208, 280
+  orig: 211, 282
+  offset: 2, 1
+  index: -1
+atk_2_6
+  rotate: true
+  xy: 1422, 522
+  size: 207, 263
+  orig: 211, 267
+  offset: 3, 3
+  index: -1
+atk_3_0
+  rotate: true
+  xy: 526, 870
+  size: 261, 264
+  orig: 298, 321
+  offset: 21, 24
+  index: -1
+atk_3_1
+  rotate: false
+  xy: 242, 939
+  size: 282, 262
+  orig: 311, 325
+  offset: 22, 25
+  index: -1
+atk_3_14
+  rotate: false
+  xy: 557, 1133
+  size: 296, 266
+  orig: 324, 337
+  offset: 26, 33
+  index: -1
+atk_3_2
+  rotate: false
+  xy: 258, 1203
+  size: 297, 270
+  orig: 343, 311
+  offset: 27, 19
+  index: -1
+atk_4_0
+  rotate: false
+  xy: 979, 69
+  size: 129, 113
+  orig: 144, 132
+  offset: 7, 9
+  index: -1
+atk_4_1
+  rotate: false
+  xy: 237, 235
+  size: 256, 195
+  orig: 271, 210
+  offset: 8, 8
+  index: -1
+atk_4_2
+  rotate: true
+  xy: 2, 1074
+  size: 318, 238
+  orig: 333, 251
+  offset: 8, 6
+  index: -1
+atk_4_4
+  rotate: false
+  xy: 1124, 212
+  size: 239, 176
+  orig: 254, 190
+  offset: 8, 7
+  index: -1
+atk_4_6
+  rotate: false
+  xy: 681, 124
+  size: 172, 123
+  orig: 187, 138
+  offset: 7, 10
+  index: -1
+glow1_67
+  rotate: false
+  xy: 681, 2
+  size: 120, 120
+  orig: 158, 158
+  offset: 18, 19
+  index: -1
+glow2_67
+  rotate: false
+  xy: 1413, 79
+  size: 122, 122
+  orig: 158, 158
+  offset: 18, 18
+  index: -1
+glow3_68
+  rotate: false
+  xy: 855, 60
+  size: 122, 122
+  orig: 160, 157
+  offset: 19, 18
+  index: -1
+jiguang/jiguang_41
+  rotate: false
+  xy: 241, 564
+  size: 413, 130
+  orig: 513, 161
+  offset: 56, 11
+  index: -1
+jiguang/jiguang_43
+  rotate: false
+  xy: 1464, 390
+  size: 399, 130
+  orig: 513, 161
+  offset: 65, 11
+  index: -1
+jiguang/jiguang_45
+  rotate: false
+  xy: 656, 446
+  size: 403, 130
+  orig: 513, 161
+  offset: 61, 11
+  index: -1
+jiguang/jiguang_47
+  rotate: false
+  xy: 1061, 390
+  size: 401, 130
+  orig: 513, 161
+  offset: 65, 11
+  index: -1
+jiguang/jiguang_49
+  rotate: false
+  xy: 241, 432
+  size: 403, 130
+  orig: 513, 161
+  offset: 57, 11
+  index: -1
+lizi/lizi_69
+  rotate: false
+  xy: 209, 788
+  size: 151, 149
+  orig: 540, 534
+  offset: 199, 177
+  index: -1
+lizi/lizi_70
+  rotate: false
+  xy: 495, 68
+  size: 184, 179
+  orig: 540, 534
+  offset: 178, 161
+  index: -1
+lizi/lizi_71
+  rotate: false
+  xy: 910, 184
+  size: 212, 204
+  orig: 540, 534
+  offset: 160, 147
+  index: -1
+lizi/lizi_72
+  rotate: false
+  xy: 2, 466
+  size: 237, 228
+  orig: 540, 534
+  offset: 144, 134
+  index: -1
+lizi/lizi_73
+  rotate: false
+  xy: 1135, 979
+  size: 278, 266
+  orig: 540, 534
+  offset: 118, 113
+  index: -1
+lizi/lizi_74
+  rotate: false
+  xy: 1557, 1221
+  size: 293, 280
+  orig: 540, 534
+  offset: 108, 105
+  index: -1
+lizi/lizi_75
+  rotate: false
+  xy: 2, 1724
+  size: 307, 293
+  orig: 540, 534
+  offset: 99, 97
+  index: -1
+lizi/lizi_79
+  rotate: true
+  xy: 640, 1731
+  size: 286, 308
+  orig: 540, 534
+  offset: 134, 74
+  index: -1
+skill1_xi_00
+  rotate: true
+  xy: 311, 1475
+  size: 254, 328
+  orig: 264, 351
+  offset: 4, 11
+  index: -1
+skill1_xi_02
+  rotate: false
+  xy: 641, 1401
+  size: 254, 328
+  orig: 264, 351
+  offset: 4, 11
+  index: -1
+skill1_xi_04
+  rotate: false
+  xy: 2, 1394
+  size: 254, 328
+  orig: 264, 351
+  offset: 4, 11
+  index: -1
+skill1_xi_06
+  rotate: true
+  xy: 897, 1254
+  size: 254, 328
+  orig: 264, 351
+  offset: 4, 11
+  index: -1
+skill1_xi_08
+  rotate: true
+  xy: 1227, 1247
+  size: 254, 328
+  orig: 264, 351
+  offset: 4, 11
+  index: -1
+skill1_xian_00
+  rotate: false
+  xy: 792, 788
+  size: 681, 93
+  orig: 694, 103
+  offset: 6, 3
+  index: -1
+skill1_xian_04
+  rotate: false
+  xy: 792, 883
+  size: 691, 94
+  orig: 705, 107
+  offset: 8, 4
+  index: -1
+skill1_xian_08
+  rotate: false
+  xy: 209, 696
+  size: 687, 90
+  orig: 697, 99
+  offset: 7, 6
+  index: -1
+skill2_lizi_0
+  rotate: true
+  xy: 2, 244
+  size: 220, 233
+  orig: 239, 243
+  offset: 11, 8
+  index: -1
+skill2_lizi_12
+  rotate: true
+  xy: 1865, 247
+  size: 315, 106
+  orig: 372, 210
+  offset: 1, 1
+  index: -1
+skill2_lizi_14
+  rotate: false
+  xy: 1415, 1012
+  size: 357, 207
+  orig: 378, 217
+  offset: 9, 9
+  index: -1
+skill2_lizi_16
+  rotate: false
+  xy: 950, 1768
+  size: 351, 249
+  orig: 371, 253
+  offset: 11, 3
+  index: -1
+skill2_lizi_2
+  rotate: false
+  xy: 1852, 1293
+  size: 177, 208
+  orig: 194, 226
+  offset: 9, 6
+  index: -1
+skill2_lizi_20
+  rotate: false
+  xy: 311, 1744
+  size: 327, 273
+  orig: 365, 286
+  offset: 13, 1
+  index: -1
+skill2_lizi_26
+  rotate: false
+  xy: 855, 983
+  size: 278, 269
+  orig: 298, 279
+  offset: 10, 9
+  index: -1
+skill2_lizi_28
+  rotate: true
+  xy: 1774, 947
+  size: 272, 266
+  orig: 283, 278
+  offset: 3, 4
+  index: -1
+skill2_lizi_30
+  rotate: false
+  xy: 1180, 548
+  size: 240, 238
+  orig: 256, 255
+  offset: 8, 10
+  index: -1
+skill2_lizi_4
+  rotate: false
+  xy: 495, 254
+  size: 131, 176
+  orig: 144, 197
+  offset: 7, 8
+  index: -1
+skill2_qiu_0
+  rotate: true
+  xy: 1124, 82
+  size: 128, 147
+  orig: 141, 161
+  offset: 6, 7
+  index: -1
+skill2_qiu_10
+  rotate: false
+  xy: 362, 788
+  size: 146, 149
+  orig: 159, 162
+  offset: 7, 7
+  index: -1
+skill2_qiu_12
+  rotate: true
+  xy: 1273, 85
+  size: 116, 138
+  orig: 125, 152
+  offset: 2, 7
+  index: -1
+skill2_qiu_14
+  rotate: true
+  xy: 1570, 87
+  size: 124, 154
+  orig: 136, 167
+  offset: 5, 7
+  index: -1
+skill2_qiu_16
+  rotate: false
+  xy: 1781, 99
+  size: 144, 146
+  orig: 158, 160
+  offset: 7, 7
+  index: -1
+skill2_qiu_2
+  rotate: true
+  xy: 656, 580
+  size: 114, 149
+  orig: 129, 162
+  offset: 7, 7
+  index: -1
+skill2_qiu_4
+  rotate: false
+  xy: 1927, 93
+  size: 113, 152
+  orig: 123, 165
+  offset: 7, 6
+  index: -1
+skill2_qiu_6
+  rotate: false
+  xy: 2, 98
+  size: 139, 144
+  orig: 152, 157
+  offset: 7, 6
+  index: -1
+skill2_qiu_8
+  rotate: false
+  xy: 275, 91
+  size: 135, 142
+  orig: 149, 155
+  offset: 6, 6
+  index: -1
+skill2_xi_1
+  rotate: false
+  xy: 1570, 213
+  size: 209, 175
+  orig: 280, 202
+  offset: 21, 22
+  index: -1
+skill2_xi_14
+  rotate: true
+  xy: 2, 758
+  size: 314, 205
+  orig: 358, 239
+  offset: 43, 13
+  index: -1
+skill2_xi_16
+  rotate: false
+  xy: 646, 249
+  size: 262, 195
+  orig: 302, 217
+  offset: 38, 12
+  index: -1
+skill2_xi_18
+  rotate: false
+  xy: 1365, 203
+  size: 203, 185
+  orig: 253, 198
+  offset: 44, 8
+  index: -1
+skill2_xi_2
+  rotate: false
+  xy: 1708, 564
+  size: 284, 192
+  orig: 320, 208
+  offset: 1, 15
+  index: -1
+skill2_xi_20
+  rotate: false
+  xy: 143, 85
+  size: 130, 148
+  orig: 191, 156
+  offset: 46, 3
+  index: -1
+xishou/xishou_41
+  rotate: true
+  xy: 1303, 1761
+  size: 256, 334
+  orig: 467, 424
+  offset: 103, 44
+  index: -1
+xishou/xishou_43
+  rotate: true
+  xy: 1639, 1761
+  size: 256, 334
+  orig: 467, 424
+  offset: 103, 44
+  index: -1
+xishou/xishou_45
+  rotate: true
+  xy: 950, 1510
+  size: 256, 334
+  orig: 467, 424
+  offset: 103, 44
+  index: -1
+xishou/xishou_47
+  rotate: true
+  xy: 1286, 1503
+  size: 256, 334
+  orig: 467, 424
+  offset: 103, 44
+  index: -1
+xishou/xishou_49
+  rotate: true
+  xy: 1622, 1503
+  size: 256, 334
+  orig: 467, 424
+  offset: 103, 44
+  index: -1

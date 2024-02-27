@@ -1,0 +1,132 @@
+
+bt_Gbangfu.png
+size: 256,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao
+  rotate: true
+  xy: 2, 292
+  size: 82, 84
+  orig: 82, 84
+  offset: 0, 0
+  index: -1
+cunyi
+  rotate: true
+  xy: 18, 213
+  size: 78, 81
+  orig: 78, 81
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 2, 376
+  size: 144, 153
+  orig: 144, 153
+  offset: 0, 0
+  index: -1
+feetl
+  rotate: true
+  xy: 2, 167
+  size: 51, 109
+  orig: 51, 109
+  offset: 0, 0
+  index: -1
+feetr
+  rotate: true
+  xy: 56, 66
+  size: 57, 106
+  orig: 57, 106
+  offset: 0, 0
+  index: -1
+handl
+  rotate: false
+  xy: 125, 3
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+handr
+  rotate: false
+  xy: 90, 3
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+heiying
+  rotate: false
+  xy: 2, 522
+  size: 165, 262
+  orig: 166, 262
+  offset: 1, 0
+  index: -1
+jiand
+  rotate: true
+  xy: 48, 8
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+kua
+  rotate: true
+  xy: 2, 53
+  size: 83, 52
+  orig: 83, 52
+  offset: 0, 0
+  index: -1
+waitao
+  rotate: 270
+  xy: 40, 120
+  size: 48, 108
+  orig: 48, 108
+  offset: 0, 0
+  index: -1
+weaponn
+  rotate: false
+  xy: 144, 200
+  size: 24, 183
+  orig: 24, 183
+  offset: 0, 0
+  index: -1
+weaponn2
+  rotate: false
+  xy: 99, 248
+  size: 43, 135
+  orig: 43, 135
+  offset: 0, 0
+  index: -1
+yaobao
+  rotate: false
+  xy: 117, 162
+  size: 51, 36
+  orig: 51, 36
+  offset: 0, 0
+  index: -1
+yous1
+  rotate: false
+  xy: 127, 442
+  size: 40, 54
+  orig: 40, 54
+  offset: 0, 0
+  index: -1
+yous2
+  rotate: 270
+  xy: 116, 38
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+zuos1
+  rotate: 270
+  xy: 2, 9
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+zuos2
+  rotate: true
+  xy: 43, 30
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1

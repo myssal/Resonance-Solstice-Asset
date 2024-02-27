@@ -1,0 +1,188 @@
+
+Tree_dun_effect.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/baozha/baozha_00083
+  rotate: true
+  xy: 1343, 946
+  size: 301, 185
+  orig: 734, 685
+  offset: 230, 242
+  index: -1
+effect/baozha/baozha_00085
+  rotate: false
+  xy: 2, 652
+  size: 619, 435
+  orig: 734, 685
+  offset: 76, 138
+  index: -1
+effect/baozha/baozha_00087
+  rotate: false
+  xy: 2, 1089
+  size: 559, 488
+  orig: 734, 685
+  offset: 86, 85
+  index: -1
+effect/baozha/baozha_00089
+  rotate: false
+  xy: 443, 302
+  size: 476, 348
+  orig: 734, 685
+  offset: 95, 161
+  index: -1
+effect/baozha/baozha_00091
+  rotate: true
+  xy: 885, 652
+  size: 338, 300
+  orig: 734, 685
+  offset: 142, 185
+  index: -1
+effect/chongji1_00017
+  rotate: true
+  xy: 623, 652
+  size: 740, 260
+  orig: 806, 402
+  offset: 22, 70
+  index: -1
+effect/chongji2_00017
+  rotate: false
+  xy: 2, 39
+  size: 580, 206
+  orig: 806, 402
+  offset: 181, 84
+  index: -1
+effect/dun2_00080
+  rotate: false
+  xy: 2, 247
+  size: 439, 403
+  orig: 576, 413
+  offset: 85, 4
+  index: -1
+effect/dun_00017
+  rotate: false
+  xy: 1187, 648
+  size: 256, 296
+  orig: 324, 402
+  offset: 44, 39
+  index: -1
+effect/dunji/dunji_00056
+  rotate: false
+  xy: 1293, 1342
+  size: 248, 221
+  orig: 500, 407
+  offset: 214, 90
+  index: -1
+effect/dunji/dunji_00057
+  rotate: false
+  xy: 921, 418
+  size: 352, 228
+  orig: 500, 407
+  offset: 109, 90
+  index: -1
+effect/dunji/dunji_00058
+  rotate: true
+  xy: 1112, 992
+  size: 348, 229
+  orig: 500, 407
+  offset: 106, 89
+  index: -1
+effect/dunji/dunji_00059
+  rotate: true
+  xy: 1017, 49
+  size: 367, 231
+  orig: 500, 407
+  offset: 81, 88
+  index: -1
+effect/dunji/dunji_00060
+  rotate: true
+  xy: 885, 992
+  size: 381, 225
+  orig: 500, 407
+  offset: 52, 90
+  index: -1
+effect/dunji/dunji_00061
+  rotate: false
+  xy: 885, 1375
+  size: 406, 190
+  orig: 500, 407
+  offset: 14, 109
+  index: -1
+effect/dunji/dunji_00062
+  rotate: false
+  xy: 563, 1459
+  size: 306, 118
+  orig: 500, 407
+  offset: 23, 143
+  index: -1
+effect/jia/jia_00017
+  rotate: true
+  xy: 1275, 239
+  size: 407, 142
+  orig: 582, 331
+  offset: 84, 87
+  index: -1
+effect/jia/jia_00018
+  rotate: true
+  xy: 1419, 239
+  size: 383, 140
+  orig: 582, 331
+  offset: 112, 89
+  index: -1
+effect/jia/jia_00019
+  rotate: true
+  xy: 1561, 239
+  size: 358, 136
+  orig: 582, 331
+  offset: 137, 92
+  index: -1
+effect/jia/jia_00020
+  rotate: true
+  xy: 1699, 239
+  size: 323, 124
+  orig: 582, 331
+  offset: 174, 103
+  index: -1
+effect/shouji1/shouji1_00017
+  rotate: false
+  xy: 584, 49
+  size: 431, 251
+  orig: 582, 331
+  offset: 74, 39
+  index: -1
+effect/shouji1/shouji1_00018
+  rotate: false
+  xy: 1530, 1083
+  size: 217, 217
+  orig: 582, 331
+  offset: 190, 59
+  index: -1
+effect/shouji1/shouji1_00019
+  rotate: false
+  xy: 1530, 863
+  size: 218, 218
+  orig: 582, 331
+  offset: 190, 58
+  index: -1
+effect/shouji1/shouji1_00020
+  rotate: true
+  xy: 1250, 17
+  size: 220, 237
+  orig: 582, 331
+  offset: 184, 54
+  index: -1
+effect/shouji1/shouji1_00021
+  rotate: false
+  xy: 1445, 624
+  size: 215, 237
+  orig: 582, 331
+  offset: 185, 54
+  index: -1
+effect/shouji1/shouji1_00022
+  rotate: false
+  xy: 1489, 2
+  size: 214, 235
+  orig: 582, 331
+  offset: 185, 55
+  index: -1

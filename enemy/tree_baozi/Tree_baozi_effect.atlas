@@ -1,0 +1,181 @@
+
+Tree_baozi_effect.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/baoguang_00037
+  rotate: false
+  xy: 572, 1007
+  size: 113, 112
+  orig: 217, 204
+  offset: 55, 46
+  index: -1
+effect/baoguang_00049
+  rotate: false
+  xy: 678, 12
+  size: 113, 112
+  orig: 204, 204
+  offset: 48, 46
+  index: -1
+effect/baoguang_00050
+  rotate: false
+  xy: 687, 1007
+  size: 113, 112
+  orig: 204, 204
+  offset: 48, 46
+  index: -1
+effect/baoguang_00051
+  rotate: true
+  xy: 755, 1357
+  size: 113, 112
+  orig: 204, 204
+  offset: 48, 46
+  index: -1
+effect/glow2_00054
+  rotate: true
+  xy: 282, 80
+  size: 269, 270
+  orig: 284, 294
+  offset: 6, 9
+  index: -1
+effect/glow_00015
+  rotate: false
+  xy: 554, 2
+  size: 122, 122
+  orig: 153, 155
+  offset: 14, 17
+  index: -1
+effect/glow_00043
+  rotate: false
+  xy: 282, 1000
+  size: 288, 294
+  orig: 352, 348
+  offset: 31, 28
+  index: -1
+effect/guangquan
+  rotate: false
+  xy: 562, 1723
+  size: 246, 246
+  orig: 323, 323
+  offset: 36, 34
+  index: -1
+effect/han_00000
+  rotate: false
+  xy: 2, 19
+  size: 63, 67
+  orig: 98, 97
+  offset: 12, 10
+  index: -1
+effect/jiguang_zi_00014
+  rotate: true
+  xy: 572, 1136
+  size: 334, 98
+  orig: 360, 305
+  offset: 26, 101
+  index: -1
+effect/quan1_00041
+  rotate: false
+  xy: 521, 413
+  size: 260, 260
+  orig: 314, 314
+  offset: 28, 27
+  index: -1
+effect/quan2_00041
+  rotate: false
+  xy: 523, 738
+  size: 260, 260
+  orig: 318, 310
+  offset: 28, 25
+  index: -1
+effect/star/star_00050
+  rotate: false
+  xy: 2, 1599
+  size: 278, 370
+  orig: 310, 405
+  offset: 16, 17
+  index: -1
+effect/star/star_00051
+  rotate: false
+  xy: 2, 546
+  size: 278, 346
+  orig: 310, 405
+  offset: 16, 40
+  index: -1
+effect/star/star_00052
+  rotate: false
+  xy: 2, 1243
+  size: 278, 354
+  orig: 310, 405
+  offset: 16, 30
+  index: -1
+effect/star/star_00053
+  rotate: false
+  xy: 2, 201
+  size: 278, 343
+  orig: 310, 405
+  offset: 16, 39
+  index: -1
+effect/star/star_00054
+  rotate: false
+  xy: 2, 894
+  size: 278, 347
+  orig: 310, 405
+  offset: 16, 32
+  index: -1
+effect/star/star_00055
+  rotate: false
+  xy: 282, 1631
+  size: 278, 338
+  orig: 310, 405
+  offset: 16, 38
+  index: -1
+effect/star/star_00056
+  rotate: false
+  xy: 282, 1296
+  size: 278, 333
+  orig: 310, 405
+  offset: 16, 39
+  index: -1
+effect/star/star_00057
+  rotate: false
+  xy: 282, 675
+  size: 239, 323
+  orig: 310, 405
+  offset: 16, 43
+  index: -1
+effect/star/star_00058
+  rotate: false
+  xy: 282, 351
+  size: 237, 322
+  orig: 310, 405
+  offset: 16, 44
+  index: -1
+effect/star/star_00059
+  rotate: false
+  xy: 554, 126
+  size: 234, 285
+  orig: 310, 405
+  offset: 17, 81
+  index: -1
+effect/star/star_00060
+  rotate: false
+  xy: 562, 1472
+  size: 233, 249
+  orig: 310, 405
+  offset: 18, 115
+  index: -1
+effect/star/star_00061
+  rotate: false
+  xy: 672, 1121
+  size: 81, 349
+  orig: 310, 405
+  offset: 73, 17
+  index: -1
+effect/xingxing_00053
+  rotate: false
+  xy: 2, 88
+  size: 233, 111
+  orig: 352, 339
+  offset: 60, 115
+  index: -1

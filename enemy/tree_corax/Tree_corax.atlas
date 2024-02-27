@@ -1,0 +1,97 @@
+
+Tree_corax.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dead
+  rotate: false
+  xy: 2, 17
+  size: 232, 133
+  orig: 232, 134
+  offset: 0, 0
+  index: -1
+dy_0
+  rotate: false
+  xy: 624, 19
+  size: 61, 90
+  orig: 63, 92
+  offset: 1, 1
+  index: -1
+dy_1
+  rotate: true
+  xy: 236, 2
+  size: 44, 102
+  orig: 46, 104
+  offset: 1, 1
+  index: -1
+dy_10
+  rotate: false
+  xy: 376, 25
+  size: 96, 114
+  orig: 96, 114
+  offset: 0, 0
+  index: -1
+dy_11
+  rotate: true
+  xy: 236, 48
+  size: 102, 160
+  orig: 102, 160
+  offset: 0, 0
+  index: -1
+dy_2
+  rotate: true
+  xy: 806, 53
+  size: 97, 51
+  orig: 99, 53
+  offset: 1, 1
+  index: -1
+dy_3
+  rotate: true
+  xy: 470, 29
+  size: 90, 62
+  orig: 92, 64
+  offset: 1, 1
+  index: -1
+dy_4
+  rotate: true
+  xy: 687, 9
+  size: 45, 102
+  orig: 47, 104
+  offset: 1, 1
+  index: -1
+dy_5
+  rotate: false
+  xy: 748, 56
+  size: 56, 94
+  orig: 58, 96
+  offset: 1, 1
+  index: -1
+dy_6
+  rotate: true
+  xy: 687, 58
+  size: 92, 59
+  orig: 94, 61
+  offset: 1, 1
+  index: -1
+dy_7
+  rotate: true
+  xy: 859, 48
+  size: 102, 45
+  orig: 104, 47
+  offset: 1, 1
+  index: -1
+dy_8
+  rotate: 180
+  xy: 893, 13
+  size: 100, 96
+  orig: 100, 96
+  offset: 0, 0
+  index: -1
+dy_9
+  rotate: false
+  xy: 534, 16
+  size: 103, 134
+  orig: 103, 134
+  offset: 0, 0
+  index: -1
