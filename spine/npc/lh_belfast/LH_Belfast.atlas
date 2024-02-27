@@ -1,0 +1,237 @@
+
+LH_Belfast.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bei
+  rotate: false
+  xy: 224, 1369
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+bu
+  rotate: false
+  xy: 1454, 314
+  size: 354, 396
+  orig: 354, 396
+  offset: 0, 0
+  index: -1
+butiao1
+  rotate: false
+  xy: 1199, 52
+  size: 276, 148
+  orig: 276, 149
+  offset: 0, 1
+  index: -1
+butiao2
+  rotate: false
+  xy: 1966, 4
+  size: 79, 372
+  orig: 79, 387
+  offset: 0, 0
+  index: -1
+chanzi
+  rotate: true
+  xy: 1261, 201
+  size: 1177, 191
+  orig: 1177, 191
+  offset: 0, 0
+  index: -1
+guanzi
+  rotate: false
+  xy: 1775, 875
+  size: 122, 163
+  orig: 122, 163
+  offset: 0, 0
+  index: -1
+houfa1
+  rotate: false
+  xy: 1783, 125
+  size: 186, 86
+  orig: 186, 86
+  offset: 0, 0
+  index: -1
+houfa2
+  rotate: false
+  xy: 1254, 9
+  size: 249, 111
+  orig: 249, 111
+  offset: 0, 0
+  index: -1
+houfa3
+  rotate: true
+  xy: 2, 158
+  size: 352, 193
+  orig: 352, 193
+  offset: 0, 0
+  index: -1
+houfa4
+  rotate: false
+  xy: 1755, 1287
+  size: 90, 92
+  orig: 90, 92
+  offset: 0, 0
+  index: -1
+houfa5
+  rotate: false
+  xy: 1690, 372
+  size: 355, 471
+  orig: 355, 471
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 1909, 882
+  size: 137, 158
+  orig: 137, 158
+  offset: 0, 0
+  index: -1
+nu
+  rotate: false
+  xy: 49, 1364
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+qianfa1
+  rotate: false
+  xy: 417, 1016
+  size: 90, 151
+  orig: 90, 151
+  offset: 0, 0
+  index: -1
+qianfa2
+  rotate: false
+  xy: 425, 1220
+  size: 75, 158
+  orig: 75, 158
+  offset: 0, 0
+  index: -1
+qianfa3
+  rotate: false
+  xy: 850, 619
+  size: 118, 130
+  orig: 118, 130
+  offset: 0, 0
+  index: -1
+qianfa4
+  rotate: false
+  xy: 2, 1264
+  size: 64, 114
+  orig: 64, 114
+  offset: 0, 0
+  index: -1
+qianfa5
+  rotate: false
+  xy: 2, 1009
+  size: 113, 136
+  orig: 113, 136
+  offset: 0, 0
+  index: -1
+shangshen
+  rotate: false
+  xy: 1454, 811
+  size: 401, 567
+  orig: 401, 567
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 320, 1267
+  size: 52, 112
+  orig: 52, 112
+  offset: 0, 0
+  index: -1
+weijin1
+  rotate: false
+  xy: 1603, 172
+  size: 371, 244
+  orig: 371, 244
+  offset: 0, 0
+  index: -1
+weijin2
+  rotate: false
+  xy: 1890, 782
+  size: 131, 98
+  orig: 131, 98
+  offset: 0, 0
+  index: -1
+weijin3
+  rotate: false
+  xy: 2, 213
+  size: 546, 1166
+  orig: 552, 1167
+  offset: 6, 1
+  index: -1
+xiao
+  rotate: false
+  xy: 204, 1364
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: true
+  xy: 501, 377
+  size: 236, 713
+  orig: 236, 713
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: 270
+  xy: 591, 220
+  size: 222, 668
+  orig: 222, 668
+  offset: 0, 0
+  index: -1
+youuqnbai
+  rotate: false
+  xy: 885, 610
+  size: 374, 769
+  orig: 374, 769
+  offset: 0, 0
+  index: -1
+zuodabi
+  rotate: 270
+  xy: 1454, 13
+  size: 263, 277
+  orig: 263, 277
+  offset: 0, 0
+  index: -1
+zuoqunbai1
+  rotate: false
+  xy: 354, 1086
+  size: 103, 292
+  orig: 103, 292
+  offset: 0, 0
+  index: -1
+zuoqunbai2
+  rotate: false
+  xy: 504, 638
+  size: 380, 740
+  orig: 380, 740
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 1579, 738
+  size: 112, 87
+  orig: 112, 87
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: 270
+  xy: 147, 3
+  size: 304, 1050
+  orig: 304, 1050
+  offset: 0, 0
+  index: -1
+zuoxiaobi
+  rotate: false
+  xy: 1851, 1038
+  size: 144, 340
+  orig: 144, 340
+  offset: 0, 0
+  index: -1

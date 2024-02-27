@@ -1,0 +1,153 @@
+
+LH_Alnitak.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ss1_0
+  rotate: true
+  xy: 82, 62
+  size: 251, 569
+  orig: 251, 569
+  offset: 0, 0
+  index: -1
+ss1_1
+  rotate: true
+  xy: 215, 253
+  size: 255, 164
+  orig: 255, 170
+  offset: 0, 0
+  index: -1
+ss1_10
+  rotate: false
+  xy: 759, 71
+  size: 226, 226
+  orig: 226, 226
+  offset: 0, 0
+  index: -1
+ss1_11
+  rotate: false
+  xy: 852, 1388
+  size: 161, 70
+  orig: 161, 70
+  offset: 0, 0
+  index: -1
+ss1_12
+  rotate: 270
+  xy: 487, 374
+  size: 370, 538
+  orig: 370, 538
+  offset: 0, 0
+  index: -1
+ss1_13
+  rotate: false
+  xy: 679, 1328
+  size: 153, 140
+  orig: 153, 140
+  offset: 0, 0
+  index: -1
+ss1_14
+  rotate: 180
+  xy: 449, 772
+  size: 232, 669
+  orig: 232, 669
+  offset: 0, 0
+  index: -1
+ss1_15
+  rotate: false
+  xy: 359, 11
+  size: 220, 71
+  orig: 220, 71
+  offset: 0, 0
+  index: -1
+ss1_16
+  rotate: 270
+  xy: 357, 200
+  size: 304, 616
+  orig: 304, 616
+  offset: 0, 0
+  index: -1
+ss1_17
+  rotate: false
+  xy: 2, 540
+  size: 528, 928
+  orig: 528, 928
+  offset: 0, 0
+  index: -1
+ss1_18
+  rotate: false
+  xy: 369, 442
+  size: 112, 163
+  orig: 112, 163
+  offset: 0, 0
+  index: -1
+ss1_19
+  rotate: 180
+  xy: 2, 462
+  size: 212, 409
+  orig: 212, 409
+  offset: 0, 0
+  index: -1
+ss1_2
+  rotate: false
+  xy: 814, 706
+  size: 210, 173
+  orig: 227, 173
+  offset: 0, 0
+  index: -1
+ss1_20
+  rotate: 180
+  xy: 2, 253
+  size: 971, 880
+  orig: 971, 880
+  offset: 0, 0
+  index: -1
+ss1_3
+  rotate: false
+  xy: 103, 1440
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+ss1_4
+  rotate: false
+  xy: 685, 13
+  size: 96, 115
+  orig: 96, 115
+  offset: 0, 0
+  index: -1
+ss1_5
+  rotate: false
+  xy: 2, 359
+  size: 150, 185
+  orig: 150, 185
+  offset: 0, 0
+  index: -1
+ss1_6
+  rotate: false
+  xy: 471, 7
+  size: 218, 140
+  orig: 218, 140
+  offset: 0, 0
+  index: -1
+ss1_7
+  rotate: 270
+  xy: 2, 4
+  size: 195, 232
+  orig: 195, 232
+  offset: 0, 0
+  index: -1
+ss1_8
+  rotate: 180
+  xy: 861, 932
+  size: 162, 454
+  orig: 162, 454
+  offset: 0, 0
+  index: -1
+ss1_9
+  rotate: false
+  xy: 683, 1135
+  size: 192, 188
+  orig: 192, 188
+  offset: 0, 0
+  index: -1

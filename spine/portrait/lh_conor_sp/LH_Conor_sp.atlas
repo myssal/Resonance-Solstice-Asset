@@ -1,0 +1,544 @@
+
+LH_Conor_sp.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LH_conor_sp_bg
+  rotate: false
+  xy: 2, 430
+  size: 1582, 684
+  orig: 1582, 684
+  offset: 0, 0
+  index: -1
+armA_19
+  rotate: 270
+  xy: 996, 3
+  size: 169, 685
+  orig: 169, 685
+  offset: 0, 0
+  index: -1
+armB
+  rotate: false
+  xy: 1586, 586
+  size: 167, 210
+  orig: 167, 211
+  offset: 0, 0
+  index: -1
+armbackA
+  rotate: false
+  xy: 1917, 1464
+  size: 110, 118
+  orig: 110, 119
+  offset: 0, 0
+  index: -1
+armbackB_13
+  rotate: false
+  xy: 1369, 1927
+  size: 296, 120
+  orig: 299, 122
+  offset: 3, 0
+  index: -1
+bai
+  rotate: false
+  xy: 944, 1986
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+bianA
+  rotate: 180
+  xy: 511, 1929
+  size: 333, 118
+  orig: 334, 118
+  offset: 1, 0
+  index: -1
+bianB
+  rotate: false
+  xy: 2, 1984
+  size: 47, 62
+  orig: 47, 62
+  offset: 0, 0
+  index: -1
+bianF
+  rotate: false
+  xy: 1647, 1220
+  size: 53, 169
+  orig: 54, 169
+  offset: 0, 0
+  index: -1
+bianH_25
+  rotate: false
+  xy: 1915, 361
+  size: 116, 793
+  orig: 116, 793
+  offset: 0, 0
+  index: -1
+bodyB
+  rotate: false
+  xy: 2, 2010
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+bozi
+  rotate: true
+  xy: 1517, 139
+  size: 161, 155
+  orig: 161, 155
+  offset: 0, 0
+  index: -1
+dunA_27
+  rotate: 180
+  xy: 1652, 466
+  size: 263, 1220
+  orig: 278, 1291
+  offset: 9, 0
+  index: -1
+dunB_27
+  rotate: true
+  xy: 2, 216
+  size: 213, 1036
+  orig: 242, 1046
+  offset: 23, 7
+  index: -1
+dunC_27
+  rotate: 270
+  xy: 2, 16
+  size: 205, 958
+  orig: 246, 982
+  offset: 0, 14
+  index: -1
+dunE
+  rotate: false
+  xy: 1813, 1187
+  size: 220, 396
+  orig: 234, 413
+  offset: 11, 15
+  index: -1
+dunG
+  rotate: false
+  xy: 1915, 1094
+  size: 115, 169
+  orig: 120, 169
+  offset: 2, 0
+  index: -1
+dunH
+  rotate: false
+  xy: 2, 149
+  size: 96, 135
+  orig: 100, 137
+  offset: 2, 0
+  index: -1
+dunI
+  rotate: false
+  xy: 2, 1473
+  size: 29, 86
+  orig: 36, 86
+  offset: 1, 0
+  index: -1
+dunK
+  rotate: true
+  xy: 1047, 1945
+  size: 103, 328
+  orig: 114, 329
+  offset: 7, 0
+  index: -1
+dunL
+  rotate: false
+  xy: 795, 1983
+  size: 147, 63
+  orig: 155, 73
+  offset: 5, 3
+  index: -1
+eye
+  rotate: false
+  xy: 1491, 1914
+  size: 58, 60
+  orig: 59, 62
+  offset: 1, 2
+  index: -1
+eyeball
+  rotate: false
+  xy: 2, 1868
+  size: 26, 28
+  orig: 31, 32
+  offset: 3, 2
+  index: -1
+eyelight
+  rotate: false
+  xy: 81, 1891
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 1124
+  size: 209, 186
+  orig: 209, 187
+  offset: 0, 1
+  index: -1
+fig
+  rotate: false
+  xy: 203, 1993
+  size: 29, 30
+  orig: 29, 31
+  offset: 0, 1
+  index: -1
+foot
+  rotate: false
+  xy: 2, 1274
+  size: 325, 322
+  orig: 325, 323
+  offset: 0, 1
+  index: -1
+hairA
+  rotate: false
+  xy: 1672, 8
+  size: 166, 101
+  orig: 166, 103
+  offset: 0, 0
+  index: -1
+hairB
+  rotate: false
+  xy: 1755, 1980
+  size: 94, 61
+  orig: 94, 61
+  offset: 0, 0
+  index: -1
+hairC
+  rotate: 270
+  xy: 1892, 1861
+  size: 187, 144
+  orig: 188, 145
+  offset: 0, 1
+  index: -1
+hairD
+  rotate: 180
+  xy: 1710, 444
+  size: 140, 144
+  orig: 140, 144
+  offset: 0, 0
+  index: -1
+hairE
+  rotate: false
+  xy: 1182, 308
+  size: 107, 120
+  orig: 107, 120
+  offset: 0, 0
+  index: -1
+hairF
+  rotate: false
+  xy: 909, 37
+  size: 86, 179
+  orig: 86, 179
+  offset: 0, 0
+  index: -1
+hairG
+  rotate: false
+  xy: 1915, 867
+  size: 68, 158
+  orig: 68, 158
+  offset: 0, 0
+  index: -1
+hairI
+  rotate: false
+  xy: 688, 351
+  size: 91, 77
+  orig: 91, 77
+  offset: 0, 0
+  index: -1
+hairJ
+  rotate: false
+  xy: 1266, 1360
+  size: 133, 62
+  orig: 133, 62
+  offset: 0, 0
+  index: -1
+hairK
+  rotate: false
+  xy: 1586, 818
+  size: 92, 240
+  orig: 94, 240
+  offset: 0, 0
+  index: -1
+hairbackB
+  rotate: true
+  xy: 1894, 3
+  size: 192, 132
+  orig: 193, 132
+  offset: 1, 0
+  index: -1
+hairbackC
+  rotate: false
+  xy: 178, 1187
+  size: 145, 134
+  orig: 145, 134
+  offset: 0, 0
+  index: -1
+hairbackD
+  rotate: false
+  xy: 1149, 111
+  size: 108, 97
+  orig: 108, 97
+  offset: 0, 0
+  index: -1
+legA_13
+  rotate: true
+  xy: 1061, 1117
+  size: 240, 601
+  orig: 240, 602
+  offset: 0, 0
+  index: -1
+legB
+  rotate: 180
+  xy: 901, 182
+  size: 365, 246
+  orig: 365, 247
+  offset: 0, 1
+  index: -1
+legC
+  rotate: false
+  xy: 1752, 1579
+  size: 287, 290
+  orig: 287, 293
+  offset: 0, 2
+  index: -1
+legE
+  rotate: false
+  xy: 1660, 1955
+  size: 95, 92
+  orig: 95, 96
+  offset: 0, 4
+  index: -1
+lineA_2
+  rotate: true
+  xy: 1283, 39
+  size: 444, 666
+  orig: 450, 666
+  offset: 6, 0
+  index: -1
+mei
+  rotate: false
+  xy: 50, 2021
+  size: 61, 18
+  orig: 61, 19
+  offset: 0, 1
+  index: -1
+nose
+  rotate: false
+  xy: 262, 1515
+  size: 50, 46
+  orig: 50, 49
+  offset: 0, 2
+  index: -1
+stoneB
+  rotate: false
+  xy: 2, 1116
+  size: 1920, 930
+  orig: 1920, 930
+  offset: 0, 0
+  index: -1
+stoneC
+  rotate: false
+  xy: 1074, 1315
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+stoneD
+  rotate: false
+  xy: 1586, 487
+  size: 126, 167
+  orig: 126, 167
+  offset: 0, 0
+  index: -1
+stoneE
+  rotate: false
+  xy: 2, 1561
+  size: 41, 85
+  orig: 44, 85
+  offset: 0, 0
+  index: -1
+stoneF
+  rotate: false
+  xy: 1983, 1832
+  size: 55, 120
+  orig: 59, 120
+  offset: 0, 0
+  index: -1
+stoneG
+  rotate: true
+  xy: 2, 196
+  size: 150, 187
+  orig: 150, 187
+  offset: 0, 0
+  index: -1
+stoneI
+  rotate: false
+  xy: 1192, 1337
+  size: 89, 65
+  orig: 110, 76
+  offset: 21, 0
+  index: -1
+stoneJ
+  rotate: 180
+  xy: 2, 1881
+  size: 207, 166
+  orig: 223, 166
+  offset: 16, 0
+  index: -1
+stoneK
+  rotate: false
+  xy: 713, 1992
+  size: 76, 54
+  orig: 76, 54
+  offset: 0, 0
+  index: -1
+stoneL
+  rotate: false
+  xy: 5, 1820
+  size: 87, 70
+  orig: 88, 70
+  offset: 1, 0
+  index: -1
+stoneM
+  rotate: true
+  xy: 2, 1608
+  size: 104, 138
+  orig: 106, 138
+  offset: 0, 0
+  index: -1
+stoneN
+  rotate: false
+  xy: 204, 1117
+  size: 88, 66
+  orig: 88, 66
+  offset: 0, 0
+  index: -1
+
+LH_Conor_sp2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bianC
+  rotate: false
+  xy: 1614, 971
+  size: 151, 290
+  orig: 151, 290
+  offset: 0, 0
+  index: -1
+bianD_29
+  rotate: false
+  xy: 333, 223
+  size: 145, 291
+  orig: 145, 293
+  offset: 0, 2
+  index: -1
+bianE
+  rotate: 180
+  xy: 1119, 782
+  size: 195, 308
+  orig: 210, 308
+  offset: 2, 0
+  index: -1
+bianG_16
+  rotate: false
+  xy: 1536, 355
+  size: 178, 504
+  orig: 179, 504
+  offset: 1, 0
+  index: -1
+bodyA21
+  rotate: 270
+  xy: 1550, 17
+  size: 270, 221
+  orig: 272, 221
+  offset: 2, 0
+  index: -1
+bodyC
+  rotate: true
+  xy: 421, 321
+  size: 311, 416
+  orig: 311, 416
+  offset: 0, 0
+  index: -1
+bosom
+  rotate: false
+  xy: 1324, 27
+  size: 320, 229
+  orig: 320, 229
+  offset: 0, 0
+  index: -1
+dunD
+  rotate: false
+  xy: 1429, 857
+  size: 227, 486
+  orig: 232, 504
+  offset: 0, 4
+  index: -1
+dunF
+  rotate: 180
+  xy: 1491, 1246
+  size: 261, 239
+  orig: 266, 240
+  offset: 3, 1
+  index: -1
+dunJ
+  rotate: false
+  xy: 2, 643
+  size: 197, 267
+  orig: 215, 271
+  offset: 1, 4
+  index: -1
+hairH
+  rotate: false
+  xy: 62, 334
+  size: 271, 193
+  orig: 271, 194
+  offset: 0, 0
+  index: -1
+hairbackA
+  rotate: false
+  xy: 2, 601
+  size: 138, 130
+  orig: 138, 130
+  offset: 0, 0
+  index: -1
+legD
+  rotate: false
+  xy: 1324, 241
+  size: 270, 300
+  orig: 270, 300
+  offset: 0, 0
+  index: -1
+legF_14
+  rotate: false
+  xy: 1279, 543
+  size: 210, 630
+  orig: 212, 630
+  offset: 0, 0
+  index: -1
+lineB
+  rotate: 180
+  xy: 24, 3
+  size: 1297, 649
+  orig: 1297, 649
+  offset: 0, 0
+  index: -1
+stoneA
+  rotate: false
+  xy: 2, 616
+  size: 1490, 876
+  orig: 1490, 876
+  offset: 0, 0
+  index: -1
+stoneH
+  rotate: false
+  xy: 436, 275
+  size: 115, 200
+  orig: 127, 227
+  offset: 2, 27
+  index: -1

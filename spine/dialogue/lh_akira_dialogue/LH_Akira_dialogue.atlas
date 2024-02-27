@@ -1,0 +1,321 @@
+
+LH_Akira_dialogue.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image_0
+  rotate: false
+  xy: 125, 399
+  size: 31, 10
+  orig: 31, 10
+  offset: 0, 0
+  index: -1
+image_1
+  rotate: false
+  xy: 704, 953
+  size: 34, 21
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+image_10
+  rotate: false
+  xy: 316, 375
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+image_11
+  rotate: false
+  xy: 704, 897
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+image_12
+  rotate: false
+  xy: 54, 345
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+image_13
+  rotate: false
+  xy: 704, 921
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+image_14
+  rotate: false
+  xy: 35, 341
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+image_2
+  rotate: false
+  xy: 704, 861
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+image_21
+  rotate: 270
+  xy: 1584, 38
+  size: 211, 193
+  orig: 211, 193
+  offset: 0, 0
+  index: -1
+image_22
+  rotate: 180
+  xy: 1573, 807
+  size: 189, 110
+  orig: 189, 110
+  offset: 0, 0
+  index: -1
+image_23
+  rotate: true
+  xy: 1653, 204
+  size: 173, 131
+  orig: 173, 131
+  offset: 0, 0
+  index: -1
+image_24
+  rotate: 180
+  xy: 802, 4
+  size: 187, 112
+  orig: 187, 112
+  offset: 0, 0
+  index: -1
+image_25
+  rotate: true
+  xy: 2, 347
+  size: 62, 128
+  orig: 62, 128
+  offset: 0, 0
+  index: -1
+image_26
+  rotate: false
+  xy: 339, 358
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+image_27
+  rotate: false
+  xy: 680, 15
+  size: 130, 148
+  orig: 130, 152
+  offset: 0, 4
+  index: -1
+image_28
+  rotate: false
+  xy: 322, 84
+  size: 79, 87
+  orig: 79, 87
+  offset: 0, 0
+  index: -1
+image_29
+  rotate: false
+  xy: 240, 22
+  size: 80, 89
+  orig: 80, 89
+  offset: 0, 0
+  index: -1
+image_3
+  rotate: false
+  xy: 2, 404
+  size: 23, 5
+  orig: 23, 5
+  offset: 0, 0
+  index: -1
+image_30
+  rotate: false
+  xy: 2, 6
+  size: 117, 126
+  orig: 117, 126
+  offset: 0, 0
+  index: -1
+image_31
+  rotate: false
+  xy: 1423, 8
+  size: 82, 106
+  orig: 82, 106
+  offset: 0, 0
+  index: -1
+image_32
+  rotate: false
+  xy: 704, 424
+  size: 75, 73
+  orig: 75, 73
+  offset: 0, 0
+  index: -1
+image_33
+  rotate: false
+  xy: 1731, 272
+  size: 46, 198
+  orig: 46, 198
+  offset: 0, 0
+  index: -1
+image_34
+  rotate: 180
+  xy: 704, 432
+  size: 304, 177
+  orig: 304, 177
+  offset: 0, 0
+  index: -1
+image_35
+  rotate: true
+  xy: 74, 15
+  size: 244, 505
+  orig: 244, 505
+  offset: 0, 0
+  index: -1
+image_36
+  rotate: 180
+  xy: 1514, 15
+  size: 235, 601
+  orig: 243, 601
+  offset: 0, 0
+  index: -1
+image_37
+  rotate: 180
+  xy: 1324, 349
+  size: 434, 517
+  orig: 434, 517
+  offset: 0, 0
+  index: -1
+image_38
+  rotate: false
+  xy: 576, 4
+  size: 125, 104
+  orig: 125, 104
+  offset: 0, 0
+  index: -1
+image_39
+  rotate: false
+  xy: 800, 748
+  size: 101, 82
+  orig: 101, 83
+  offset: 0, 0
+  index: -1
+image_4
+  rotate: false
+  xy: 704, 883
+  size: 29, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1
+image_40
+  rotate: false
+  xy: 314, 392
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+image_41
+  rotate: false
+  xy: 777, 832
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+image_42
+  rotate: 180
+  xy: 704, 601
+  size: 284, 244
+  orig: 284, 244
+  offset: 0, 0
+  index: -1
+image_43
+  rotate: false
+  xy: 1229, 4
+  size: 294, 272
+  orig: 295, 272
+  offset: 0, 0
+  index: -1
+image_44
+  rotate: 270
+  xy: 2, 187
+  size: 270, 1399
+  orig: 638, 1399
+  offset: 82, 0
+  index: -1
+image_45
+  rotate: false
+  xy: 390, 354
+  size: 62, 55
+  orig: 62, 55
+  offset: 0, 0
+  index: -1
+image_46
+  rotate: true
+  xy: 345, 7
+  size: 274, 927
+  orig: 274, 927
+  offset: 0, 0
+  index: -1
+image_47
+  rotate: false
+  xy: 958, 438
+  size: 413, 431
+  orig: 413, 431
+  offset: 0, 0
+  index: -1
+image_48
+  rotate: false
+  xy: 2, 411
+  size: 701, 563
+  orig: 701, 563
+  offset: 0, 0
+  index: -1
+image_5
+  rotate: false
+  xy: 2, 323
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+image_6
+  rotate: false
+  xy: 237, 396
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+image_7
+  rotate: false
+  xy: 275, 387
+  size: 37, 22
+  orig: 37, 40
+  offset: 0, 13
+  index: -1
+image_8
+  rotate: false
+  xy: 704, 939
+  size: 34, 17
+  orig: 34, 18
+  offset: 0, 1
+  index: -1
+image_9
+  rotate: false
+  xy: 704, 872
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 2, 340
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+zuiba
+  rotate: false
+  xy: 294, 373
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1

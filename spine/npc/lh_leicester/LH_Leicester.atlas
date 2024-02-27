@@ -1,0 +1,83 @@
+
+LH_Leicester.png
+size: 512,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bresse_10
+  rotate: true
+  xy: 288, 13
+  size: 113, 38
+  orig: 113, 38
+  offset: 0, 0
+  index: -1
+Bresse_11
+  rotate: false
+  xy: 2, 196
+  size: 221, 153
+  orig: 224, 153
+  offset: 3, 0
+  index: -1
+Bresse_11_1
+  rotate: false
+  xy: 179, 6
+  size: 57, 27
+  orig: 57, 27
+  offset: 0, 0
+  index: -1
+Bresse_12
+  rotate: true
+  xy: 2, 351
+  size: 162, 347
+  orig: 162, 347
+  offset: 0, 0
+  index: -1
+Bresse_13
+  rotate: false
+  xy: 2, 3
+  size: 129, 91
+  orig: 141, 91
+  offset: 11, 0
+  index: -1
+Bresse_14
+  rotate: false
+  xy: 2, 96
+  size: 162, 98
+  orig: 167, 98
+  offset: 4, 0
+  index: -1
+Bresse_5
+  rotate: false
+  xy: 133, 4
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+Bresse_6
+  rotate: false
+  xy: 169, 35
+  size: 169, 355
+  orig: 169, 355
+  offset: 0, 0
+  index: -1
+Bresse_7
+  rotate: false
+  xy: 2, 755
+  size: 317, 531
+  orig: 317, 531
+  offset: 0, 0
+  index: -1
+Bresse_8
+  rotate: false
+  xy: 2, 515
+  size: 285, 238
+  orig: 285, 251
+  offset: 0, 13
+  index: -1
+Bresse_9
+  rotate: false
+  xy: 317, 18
+  size: 31, 191
+  orig: 31, 191
+  offset: 0, 0
+  index: -1

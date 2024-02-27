@@ -1,0 +1,125 @@
+
+LH_Golden_Dock.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hjw_0
+  rotate: false
+  xy: 1578, 141
+  size: 144, 247
+  orig: 144, 259
+  offset: 0, 0
+  index: -1
+hjw_1
+  rotate: false
+  xy: 1277, 349
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+hjw_10
+  rotate: true
+  xy: 302, 15
+  size: 374, 315
+  orig: 374, 315
+  offset: 0, 0
+  index: -1
+hjw_11
+  rotate: false
+  xy: 1139, 3
+  size: 136, 385
+  orig: 136, 385
+  offset: 0, 0
+  index: -1
+hjw_12
+  rotate: false
+  xy: 2, 34
+  size: 298, 354
+  orig: 298, 354
+  offset: 0, 0
+  index: -1
+hjw_13
+  rotate: true
+  xy: 1000, 99
+  size: 289, 159
+  orig: 291, 159
+  offset: 1, 0
+  index: -1
+hjw_14
+  rotate: true
+  xy: 1858, 205
+  size: 34, 125
+  orig: 34, 125
+  offset: 0, 0
+  index: -1
+hjw_15
+  rotate: true
+  xy: 1858, 171
+  size: 32, 121
+  orig: 39, 121
+  offset: 7, 0
+  index: -1
+hjw_2
+  rotate: false
+  xy: 2000, 334
+  size: 39, 54
+  orig: 39, 54
+  offset: 0, 0
+  index: -1
+hjw_3
+  rotate: false
+  xy: 528, 180
+  size: 88, 41
+  orig: 88, 41
+  offset: 0, 0
+  index: -1
+hjw_4
+  rotate: false
+  xy: 1277, 180
+  size: 201, 209
+  orig: 201, 209
+  offset: 0, 0
+  index: -1
+hjw_5
+  rotate: false
+  xy: 1712, 241
+  size: 144, 147
+  orig: 144, 147
+  offset: 0, 0
+  index: -1
+hjw_6
+  rotate: false
+  xy: 618, 80
+  size: 193, 308
+  orig: 193, 308
+  offset: 0, 0
+  index: -1
+hjw_7
+  rotate: false
+  xy: 1858, 241
+  size: 140, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+hjw_8
+  rotate: false
+  xy: 813, 85
+  size: 185, 303
+  orig: 185, 303
+  offset: 0, 0
+  index: -1
+hjw_9_1
+  rotate: false
+  xy: 1480, 96
+  size: 96, 293
+  orig: 105, 293
+  offset: 9, 0
+  index: -1
+hjw_9_2
+  rotate: false
+  xy: 1724, 88
+  size: 132, 151
+  orig: 139, 151
+  offset: 7, 0
+  index: -1

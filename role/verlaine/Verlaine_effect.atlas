@@ -1,0 +1,285 @@
+
+Verlaine_effect.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ci0003
+  rotate: false
+  xy: 465, 778
+  size: 208, 225
+  orig: 264, 244
+  offset: 39, 7
+  index: -1
+ci0006
+  rotate: false
+  xy: 1125, 5
+  size: 154, 118
+  orig: 264, 244
+  offset: 104, 25
+  index: -1
+dg/10000
+  rotate: false
+  xy: 817, 6
+  size: 306, 229
+  orig: 550, 300
+  offset: 52, 10
+  index: -1
+dg/10001
+  rotate: true
+  xy: 1888, 215
+  size: 449, 147
+  orig: 550, 300
+  offset: 74, 133
+  index: -1
+dg/10002
+  rotate: false
+  xy: 340, 73
+  size: 475, 162
+  orig: 550, 300
+  offset: 19, 130
+  index: -1
+dg/10005
+  rotate: true
+  xy: 1888, 2
+  size: 211, 122
+  orig: 550, 300
+  offset: 46, 148
+  index: -1
+dg/10006
+  rotate: false
+  xy: 340, 240
+  size: 116, 99
+  orig: 550, 300
+  offset: 80, 157
+  index: -1
+qy/qy0001
+  rotate: true
+  xy: 2, 651
+  size: 352, 461
+  orig: 482, 642
+  offset: 65, 14
+  index: -1
+qy/qy0002
+  rotate: false
+  xy: 747, 765
+  size: 374, 490
+  orig: 482, 642
+  offset: 54, 29
+  index: -1
+qy/qy0003
+  rotate: false
+  xy: 475, 1520
+  size: 429, 515
+  orig: 482, 642
+  offset: 46, 46
+  index: -1
+qy/qy0004
+  rotate: false
+  xy: 2, 1477
+  size: 471, 558
+  orig: 482, 642
+  offset: 9, 48
+  index: -1
+qy/qy0005
+  rotate: false
+  xy: 906, 1556
+  size: 423, 479
+  orig: 482, 642
+  offset: 40, 54
+  index: -1
+qy/qy0006
+  rotate: true
+  xy: 1221, 1129
+  size: 381, 500
+  orig: 482, 642
+  offset: 41, 64
+  index: -1
+qy/qy0007
+  rotate: true
+  xy: 1123, 774
+  size: 353, 516
+  orig: 482, 642
+  offset: 75, 75
+  index: -1
+qy/qy0008
+  rotate: true
+  xy: 1123, 442
+  size: 330, 450
+  orig: 482, 642
+  offset: 81, 81
+  index: -1
+qy/qy0009
+  rotate: false
+  xy: 1641, 666
+  size: 330, 461
+  orig: 482, 642
+  offset: 84, 97
+  index: -1
+qy/qy0010
+  rotate: false
+  xy: 1718, 1570
+  size: 279, 465
+  orig: 482, 642
+  offset: 109, 95
+  index: -1
+qy/qy0011
+  rotate: false
+  xy: 1575, 263
+  size: 270, 401
+  orig: 482, 642
+  offset: 111, 99
+  index: -1
+qy/qy0012
+  rotate: false
+  xy: 1723, 1139
+  size: 253, 429
+  orig: 482, 642
+  offset: 121, 84
+  index: -1
+shoot/10000
+  rotate: false
+  xy: 475, 1257
+  size: 744, 261
+  orig: 786, 269
+  offset: 42, 4
+  index: -1
+shoot/10001
+  rotate: false
+  xy: 2, 1005
+  size: 743, 250
+  orig: 786, 269
+  offset: 26, 17
+  index: -1
+shoot/10002
+  rotate: false
+  xy: 465, 551
+  size: 624, 212
+  orig: 786, 269
+  offset: 100, 20
+  index: -1
+shoot/10003
+  rotate: false
+  xy: 2, 341
+  size: 588, 208
+  orig: 786, 269
+  offset: 105, 15
+  index: -1
+shoot/10004
+  rotate: false
+  xy: 592, 237
+  size: 559, 203
+  orig: 786, 269
+  offset: 105, 15
+  index: -1
+shoot/10005
+  rotate: false
+  xy: 2, 1276
+  size: 450, 199
+  orig: 786, 269
+  offset: 107, 15
+  index: -1
+shoot/10006
+  rotate: false
+  xy: 1494, 61
+  size: 392, 200
+  orig: 786, 269
+  offset: 143, 14
+  index: -1
+shublack
+  rotate: false
+  xy: 1331, 1512
+  size: 385, 523
+  orig: 398, 531
+  offset: 6, 3
+  index: -1
+wuqijian
+  rotate: false
+  xy: 592, 470
+  size: 526, 79
+  orig: 526, 79
+  offset: 0, 0
+  index: -1
+y
+  rotate: false
+  xy: 1153, 125
+  size: 339, 315
+  orig: 339, 321
+  offset: 0, 5
+  index: -1
+y2
+  rotate: false
+  xy: 2, 24
+  size: 336, 315
+  orig: 339, 321
+  offset: 0, 5
+  index: -1
+
+Verlaine_effect2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ci0000
+  rotate: false
+  xy: 378, 14
+  size: 225, 194
+  orig: 264, 244
+  offset: 4, 13
+  index: -1
+ci0001
+  rotate: true
+  xy: 331, 210
+  size: 218, 201
+  orig: 264, 244
+  offset: 23, 12
+  index: -1
+ci0002
+  rotate: true
+  xy: 605, 8
+  size: 200, 207
+  orig: 264, 244
+  offset: 42, 11
+  index: -1
+ci0004
+  rotate: false
+  xy: 534, 210
+  size: 188, 222
+  orig: 264, 244
+  offset: 64, 5
+  index: -1
+ci0005
+  rotate: false
+  xy: 814, 2
+  size: 180, 206
+  orig: 264, 244
+  offset: 76, 21
+  index: -1
+dg/10003
+  rotate: false
+  xy: 2, 50
+  size: 374, 158
+  orig: 550, 300
+  offset: 21, 127
+  index: -1
+dg/10004
+  rotate: true
+  xy: 724, 210
+  size: 287, 142
+  orig: 550, 300
+  offset: 28, 135
+  index: -1
+qy/qy0000
+  rotate: false
+  xy: 2, 210
+  size: 327, 288
+  orig: 482, 642
+  offset: 77, 54
+  index: -1
+star
+  rotate: false
+  xy: 868, 210
+  size: 143, 144
+  orig: 146, 150
+  offset: 1, 2
+  index: -1

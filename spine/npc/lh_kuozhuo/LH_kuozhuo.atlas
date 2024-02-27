@@ -1,0 +1,153 @@
+
+LH_kuozhuo.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dizuo
+  rotate: false
+  xy: 2, 22
+  size: 691, 673
+  orig: 691, 673
+  offset: 0, 0
+  index: -1
+guanzi1
+  rotate: false
+  xy: 1712, 109
+  size: 73, 77
+  orig: 73, 77
+  offset: 0, 0
+  index: -1
+guanzi2
+  rotate: false
+  xy: 695, 22
+  size: 166, 111
+  orig: 166, 111
+  offset: 0, 0
+  index: -1
+guanzi3
+  rotate: true
+  xy: 1483, 116
+  size: 142, 98
+  orig: 142, 98
+  offset: 0, 0
+  index: -1
+guanzi4
+  rotate: true
+  xy: 1484, 536
+  size: 159, 124
+  orig: 159, 124
+  offset: 0, 0
+  index: -1
+guanzi5
+  rotate: false
+  xy: 1574, 124
+  size: 108, 147
+  orig: 108, 147
+  offset: 0, 0
+  index: -1
+qianguanzi1
+  rotate: 270
+  xy: 1673, 425
+  size: 128, 119
+  orig: 128, 119
+  offset: 0, 0
+  index: -1
+qianguanzi2
+  rotate: true
+  xy: 1650, 464
+  size: 151, 109
+  orig: 151, 109
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 695, 18
+  size: 677, 487
+  orig: 677, 487
+  offset: 0, 0
+  index: -1
+tiepian
+  rotate: true
+  xy: 1049, 10
+  size: 138, 117
+  orig: 138, 117
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 1181, 190
+  size: 506, 359
+  orig: 506, 359
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: true
+  xy: 1268, 35
+  size: 163, 217
+  orig: 196, 259
+  offset: 33, 42
+  index: -1
+youjiao1
+  rotate: true
+  xy: 1600, 559
+  size: 136, 83
+  orig: 136, 83
+  offset: 0, 0
+  index: -1
+youjiao2
+  rotate: 270
+  xy: 1626, 230
+  size: 96, 112
+  orig: 97, 122
+  offset: 1, 0
+  index: -1
+youjiao3
+  rotate: true
+  xy: 1665, 23
+  size: 134, 85
+  orig: 134, 85
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 1550, 385
+  size: 159, 104
+  orig: 159, 104
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: false
+  xy: 1144, 36
+  size: 147, 255
+  orig: 147, 255
+  offset: 0, 0
+  index: -1
+zuojiao1
+  rotate: true
+  xy: 1522, 256
+  size: 128, 93
+  orig: 128, 93
+  offset: 0, 0
+  index: -1
+zuojiao2
+  rotate: 180
+  xy: 1570, 5
+  size: 93, 137
+  orig: 100, 137
+  offset: 0, 0
+  index: -1
+zuojiao3
+  rotate: 270
+  xy: 1604, 323
+  size: 160, 76
+  orig: 160, 76
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 1392, 3
+  size: 132, 165
+  orig: 132, 165
+  offset: 0, 0
+  index: -1

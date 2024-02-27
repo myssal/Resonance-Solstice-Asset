@@ -1,0 +1,530 @@
+
+LH_Dorothy_sp.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai
+  rotate: false
+  xy: 1893, 1397
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+bao
+  rotate: true
+  xy: 1764, 985
+  size: 453, 209
+  orig: 453, 209
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 1158
+  size: 1760, 880
+  orig: 1760, 880
+  offset: 0, 0
+  index: -1
+boli01
+  rotate: true
+  xy: 1764, 1439
+  size: 274, 228
+  orig: 275, 228
+  offset: 0, 0
+  index: -1
+boli02
+  rotate: false
+  xy: 56, 785
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+boli03
+  rotate: false
+  xy: 809, 224
+  size: 70, 50
+  orig: 70, 50
+  offset: 0, 0
+  index: -1
+boli04
+  rotate: false
+  xy: 70, 771
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+dabiy
+  rotate: 180
+  xy: 1589, 11
+  size: 344, 352
+  orig: 344, 352
+  offset: 0, 0
+  index: -1
+daizi1
+  rotate: false
+  xy: 1438, 167
+  size: 193, 107
+  orig: 193, 107
+  offset: 0, 0
+  index: -1
+explosion
+  rotate: false
+  xy: 2, 276
+  size: 1760, 880
+  orig: 1760, 880
+  offset: 0, 0
+  index: -1
+fa1
+  rotate: false
+  xy: 1362, 20
+  size: 106, 65
+  orig: 106, 65
+  offset: 0, 0
+  index: -1
+fa10
+  rotate: false
+  xy: 1764, 1789
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+fa11
+  rotate: false
+  xy: 2, 766
+  size: 14, 37
+  orig: 14, 37
+  offset: 0, 0
+  index: -1
+fa12
+  rotate: false
+  xy: 1825, 1716
+  size: 20, 71
+  orig: 20, 71
+  offset: 0, 0
+  index: -1
+fa13
+  rotate: true
+  xy: 2, 74
+  size: 86, 83
+  orig: 86, 83
+  offset: 0, 0
+  index: -1
+fa14
+  rotate: false
+  xy: 966, 8
+  size: 160, 54
+  orig: 160, 57
+  offset: 0, 3
+  index: -1
+fa2
+  rotate: false
+  xy: 883, 198
+  size: 77, 76
+  orig: 77, 76
+  offset: 0, 0
+  index: -1
+fa21
+  rotate: true
+  xy: 1912, 6
+  size: 407, 131
+  orig: 486, 131
+  offset: 79, 0
+  index: -1
+fa23
+  rotate: 270
+  xy: 1959, 521
+  size: 237, 86
+  orig: 237, 86
+  offset: 0, 0
+  index: -1
+fa3
+  rotate: false
+  xy: 2, 856
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+fa4
+  rotate: false
+  xy: 1764, 890
+  size: 60, 99
+  orig: 60, 99
+  offset: 0, 0
+  index: -1
+fa5
+  rotate: false
+  xy: 1803, 1205
+  size: 73, 122
+  orig: 74, 122
+  offset: 0, 0
+  index: -1
+fa6
+  rotate: false
+  xy: 1764, 1945
+  size: 49, 94
+  orig: 49, 94
+  offset: 0, 0
+  index: -1
+fa7
+  rotate: false
+  xy: 1937, 325
+  size: 83, 205
+  orig: 83, 205
+  offset: 0, 0
+  index: -1
+fa8
+  rotate: false
+  xy: 2, 907
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+fa9
+  rotate: false
+  xy: 2, 923
+  size: 8, 19
+  orig: 8, 19
+  offset: 0, 0
+  index: -1
+fragment01
+  rotate: false
+  xy: 36, 853
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+fragment02
+  rotate: false
+  xy: 117, 177
+  size: 38, 33
+  orig: 38, 34
+  offset: 0, 1
+  index: -1
+fragment03
+  rotate: false
+  xy: 1764, 1720
+  size: 59, 65
+  orig: 59, 65
+  offset: 0, 0
+  index: -1
+guangxiao2
+  rotate: 180
+  xy: 2, 3
+  size: 968, 272
+  orig: 1485, 878
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: true
+  xy: 1764, 416
+  size: 290, 171
+  orig: 290, 171
+  offset: 0, 0
+  index: -1
+lalian
+  rotate: false
+  xy: 240, 234
+  size: 61, 40
+  orig: 61, 40
+  offset: 0, 0
+  index: -1
+maweiz
+  rotate: false
+  xy: 822, 45
+  size: 739, 229
+  orig: 739, 229
+  offset: 0, 0
+  index: -1
+meimaoy
+  rotate: false
+  xy: 302, 242
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+meimaoz
+  rotate: false
+  xy: 50, 638
+  size: 46, 10
+  orig: 46, 10
+  offset: 0, 0
+  index: -1
+qunzih1
+  rotate: false
+  xy: 680, 205
+  size: 127, 70
+  orig: 127, 70
+  offset: 0, 0
+  index: -1
+qunzih2
+  rotate: false
+  xy: 1155, 5
+  size: 235, 138
+  orig: 235, 138
+  offset: 0, 0
+  index: -1
+sheng2
+  rotate: 180
+  xy: 1916, 978
+  size: 129, 326
+  orig: 129, 326
+  offset: 0, 0
+  index: -1
+suizha2_1
+  rotate: false
+  xy: 2, 161
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+suizha2_2
+  rotate: false
+  xy: 1974, 1398
+  size: 51, 39
+  orig: 51, 39
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 1764, 1715
+  size: 271, 324
+  orig: 271, 325
+  offset: 0, 0
+  index: -1
+xiaobiz
+  rotate: true
+  xy: 1764, 707
+  size: 288, 282
+  orig: 288, 282
+  offset: 0, 0
+  index: -1
+xiuzi
+  rotate: false
+  xy: 117, 203
+  size: 126, 71
+  orig: 128, 71
+  offset: 2, 0
+  index: -1
+xiuziy
+  rotate: false
+  xy: 1992, 1666
+  size: 51, 62
+  orig: 51, 62
+  offset: 0, 0
+  index: -1
+xiuziz
+  rotate: false
+  xy: 2, 643
+  size: 67, 56
+  orig: 67, 56
+  offset: 0, 0
+  index: -1
+yanjingy
+  rotate: false
+  xy: 952, 210
+  size: 71, 64
+  orig: 71, 64
+  offset: 0, 0
+  index: -1
+yanjingz
+  rotate: false
+  xy: 2, 796
+  size: 67, 54
+  orig: 67, 54
+  offset: 0, 0
+  index: -1
+yijiaoy
+  rotate: false
+  xy: 1764, 1337
+  size: 127, 100
+  orig: 127, 100
+  offset: 0, 0
+  index: -1
+yijiaoz
+  rotate: false
+  xy: 1764, 1169
+  size: 48, 166
+  orig: 48, 166
+  offset: 0, 0
+  index: -1
+zhadan1
+  rotate: true
+  xy: 1826, 28
+  size: 112, 155
+  orig: 112, 155
+  offset: 0, 0
+  index: -1
+zhadan2
+  rotate: false
+  xy: 2, 650
+  size: 143, 138
+  orig: 143, 138
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 119, 621
+  size: 52, 38
+  orig: 53, 39
+  offset: 1, 0
+  index: -1
+
+LH_Dorothy_sp2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dabiz
+  rotate: true
+  xy: 1742, 1130
+  size: 282, 206
+  orig: 282, 206
+  offset: 0, 0
+  index: -1
+daizi2
+  rotate: 180
+  xy: 1623, 112
+  size: 158, 373
+  orig: 158, 397
+  offset: 0, 24
+  index: -1
+datuiy
+  rotate: false
+  xy: 2, 254
+  size: 482, 423
+  orig: 482, 423
+  offset: 0, 0
+  index: -1
+datuiz
+  rotate: true
+  xy: 1329, 853
+  size: 558, 424
+  orig: 558, 424
+  offset: 0, 0
+  index: -1
+fa15
+  rotate: false
+  xy: 1845, 206
+  size: 198, 236
+  orig: 198, 236
+  offset: 0, 0
+  index: -1
+fa16
+  rotate: true
+  xy: 879, 193
+  size: 226, 334
+  orig: 226, 334
+  offset: 0, 0
+  index: -1
+fa17
+  rotate: false
+  xy: 470, 3
+  size: 323, 171
+  orig: 323, 171
+  offset: 0, 0
+  index: -1
+fa18
+  rotate: true
+  xy: 1654, 111
+  size: 415, 342
+  orig: 415, 344
+  offset: 0, 0
+  index: -1
+fa19
+  rotate: false
+  xy: 1727, 851
+  size: 161, 146
+  orig: 161, 146
+  offset: 0, 0
+  index: -1
+fa20
+  rotate: 180
+  xy: 163, 6
+  size: 260, 218
+  orig: 260, 218
+  offset: 0, 0
+  index: -1
+fa22
+  rotate: false
+  xy: 704, 198
+  size: 191, 138
+  orig: 192, 138
+  offset: 1, 0
+  index: -1
+guangxiao1
+  rotate: false
+  xy: 2, 678
+  size: 1326, 734
+  orig: 1326, 734
+  offset: 0, 0
+  index: -1
+maweiy
+  rotate: true
+  xy: 989, 173
+  size: 392, 648
+  orig: 414, 648
+  offset: 0, 0
+  index: -1
+qunziq
+  rotate: 270
+  xy: 1243, 473
+  size: 378, 739
+  orig: 378, 739
+  offset: 0, 0
+  index: -1
+sheng1
+  rotate: 270
+  xy: 947, 519
+  size: 156, 326
+  orig: 156, 326
+  offset: 0, 0
+  index: -1
+sheng3
+  rotate: false
+  xy: 406, 18
+  size: 227, 170
+  orig: 227, 170
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 484, 237
+  size: 439, 547
+  orig: 441, 569
+  offset: 2, 22
+  index: -1
+shouy
+  rotate: false
+  xy: 117, 121
+  size: 198, 172
+  orig: 198, 172
+  offset: 0, 0
+  index: -1
+shouz
+  rotate: true
+  xy: 1735, 419
+  size: 167, 310
+  orig: 167, 310
+  offset: 0, 0
+  index: -1
+suizha1
+  rotate: false
+  xy: 1890, 800
+  size: 122, 218
+  orig: 123, 218
+  offset: 0, 0
+  index: -1
+wire
+  rotate: 180
+  xy: 305, 132
+  size: 1390, 218
+  orig: 1390, 219
+  offset: 0, 1
+  index: -1
+xiaobiy
+  rotate: 270
+  xy: 1741, 992
+  size: 150, 294
+  orig: 150, 294
+  offset: 0, 0
+  index: -1

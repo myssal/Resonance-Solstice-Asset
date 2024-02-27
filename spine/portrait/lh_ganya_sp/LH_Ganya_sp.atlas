@@ -1,0 +1,383 @@
+
+LH_Ganya_sp.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LH_Karin_sp_bg
+  rotate: false
+  xy: 2, 1273
+  size: 1802, 748
+  orig: 1802, 748
+  offset: 0, 0
+  index: -1
+armA1
+  rotate: true
+  xy: 1236, 356
+  size: 181, 441
+  orig: 188, 441
+  offset: 7, 0
+  index: -1
+armB
+  rotate: true
+  xy: 1943, 11
+  size: 136, 96
+  orig: 137, 96
+  offset: 0, 0
+  index: -1
+bagA
+  rotate: 180
+  xy: 1863, 1609
+  size: 173, 412
+  orig: 173, 412
+  offset: 0, 0
+  index: -1
+bai
+  rotate: false
+  xy: 268, 485
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+beidaiA
+  rotate: false
+  xy: 1806, 1385
+  size: 55, 115
+  orig: 55, 115
+  offset: 0, 0
+  index: -1
+beidaiBplus
+  rotate: false
+  xy: 1806, 1471
+  size: 77, 93
+  orig: 77, 93
+  offset: 0, 0
+  index: -1
+beidaiC31
+  rotate: false
+  xy: 1973, 143
+  size: 72, 384
+  orig: 72, 384
+  offset: 0, 0
+  index: -1
+body_35
+  rotate: false
+  xy: 2, 3
+  size: 1570, 532
+  orig: 1575, 532
+  offset: 0, 0
+  index: -1
+boom
+  rotate: false
+  xy: 2007, 1570
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+boomB
+  rotate: false
+  xy: 1522, 256
+  size: 94, 113
+  orig: 96, 115
+  offset: 2, 1
+  index: -1
+duang
+  rotate: false
+  xy: 2, 537
+  size: 1765, 734
+  orig: 1769, 736
+  offset: 1, 1
+  index: -1
+eyeA
+  rotate: false
+  xy: 663, 446
+  size: 48, 90
+  orig: 48, 91
+  offset: 0, 1
+  index: -1
+eyeB
+  rotate: false
+  xy: 1138, 376
+  size: 103, 133
+  orig: 107, 133
+  offset: 2, 0
+  index: -1
+eyeballA
+  rotate: false
+  xy: 320, 487
+  size: 51, 48
+  orig: 55, 52
+  offset: 2, 2
+  index: -1
+eyeballB
+  rotate: false
+  xy: 1847, 1564
+  size: 30, 30
+  orig: 34, 34
+  offset: 2, 2
+  index: -1
+figA
+  rotate: false
+  xy: 196, 442
+  size: 72, 93
+  orig: 73, 93
+  offset: 1, 0
+  index: -1
+figB
+  rotate: false
+  xy: 1806, 1566
+  size: 66, 122
+  orig: 66, 122
+  offset: 0, 0
+  index: -1
+figC
+  rotate: false
+  xy: 1806, 1822
+  size: 64, 122
+  orig: 67, 122
+  offset: 3, 0
+  index: -1
+foot35
+  rotate: false
+  xy: 710, 328
+  size: 428, 207
+  orig: 428, 207
+  offset: 0, 0
+  index: -1
+fuzi165
+  rotate: 270
+  xy: 1030, 8
+  size: 196, 688
+  orig: 200, 690
+  offset: 3, 0
+  index: -1
+hairD
+  rotate: true
+  xy: 2, 436
+  size: 99, 204
+  orig: 99, 204
+  offset: 0, 0
+  index: -1
+hairE
+  rotate: true
+  xy: 1806, 1662
+  size: 159, 137
+  orig: 159, 137
+  offset: 0, 0
+  index: -1
+hairF
+  rotate: true
+  xy: 1692, 14
+  size: 115, 171
+  orig: 115, 171
+  offset: 0, 0
+  index: -1
+jktA54
+  rotate: 180
+  xy: 1917, 439
+  size: 128, 324
+  orig: 128, 324
+  offset: 0, 0
+  index: -1
+jktAB35
+  rotate: true
+  xy: 2, 22
+  size: 203, 478
+  orig: 203, 478
+  offset: 0, 0
+  index: -1
+jktC34
+  rotate: false
+  xy: 1608, 22
+  size: 352, 752
+  orig: 353, 752
+  offset: 1, 0
+  index: -1
+leafB
+  rotate: true
+  xy: 1773, 749
+  size: 899, 273
+  orig: 899, 273
+  offset: 0, 0
+  index: -1
+meiA
+  rotate: false
+  xy: 1809, 725
+  size: 79, 24
+  orig: 79, 24
+  offset: 0, 0
+  index: -1
+meiB
+  rotate: false
+  xy: 1998, 2001
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 1856, 2008
+  size: 23, 15
+  orig: 24, 15
+  offset: 1, 0
+  index: -1
+nose
+  rotate: false
+  xy: 1806, 1951
+  size: 51, 71
+  orig: 53, 73
+  offset: 0, 2
+  index: -1
+phone
+  rotate: false
+  xy: 1704, 394
+  size: 132, 169
+  orig: 132, 169
+  offset: 0, 0
+  index: -1
+
+LH_Ganya_sp2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bagB
+  rotate: false
+  xy: 188, 336
+  size: 241, 144
+  orig: 241, 144
+  offset: 0, 0
+  index: -1
+bagback46
+  rotate: false
+  xy: 431, 301
+  size: 351, 395
+  orig: 351, 395
+  offset: 0, 0
+  index: -1
+beidaiB
+  rotate: 270
+  xy: 1169, 47
+  size: 210, 430
+  orig: 210, 430
+  offset: 0, 0
+  index: -1
+bodyup
+  rotate: 180
+  xy: 1624, 229
+  size: 421, 393
+  orig: 421, 393
+  offset: 0, 0
+  index: -1
+daiziA
+  rotate: false
+  xy: 777, 91
+  size: 600, 442
+  orig: 600, 442
+  offset: 0, 0
+  index: -1
+face
+  rotate: 180
+  xy: 1194, 283
+  size: 362, 348
+  orig: 372, 357
+  offset: 10, 9
+  index: -1
+hairA37
+  rotate: true
+  xy: 101, 21
+  size: 119, 458
+  orig: 119, 460
+  offset: 0, 0
+  index: -1
+hairB
+  rotate: false
+  xy: 532, 33
+  size: 207, 271
+  orig: 207, 271
+  offset: 0, 0
+  index: -1
+hairC36
+  rotate: false
+  xy: 1896, 747
+  size: 126, 241
+  orig: 128, 242
+  offset: 0, 1
+  index: -1
+hairG
+  rotate: false
+  xy: 1592, 494
+  size: 273, 126
+  orig: 326, 143
+  offset: 53, 0
+  index: -1
+hairbackA
+  rotate: true
+  xy: 1653, 774
+  size: 213, 289
+  orig: 213, 289
+  offset: 0, 0
+  index: -1
+hairbackAplus
+  rotate: true
+  xy: 831, 312
+  size: 206, 205
+  orig: 213, 289
+  offset: 0, 84
+  index: -1
+hand
+  rotate: 180
+  xy: 1861, 3
+  size: 184, 277
+  orig: 184, 277
+  offset: 0, 0
+  index: -1
+jktbackA10
+  rotate: false
+  xy: 2, 95
+  size: 543, 235
+  orig: 543, 235
+  offset: 0, 0
+  index: -1
+jktbackB
+  rotate: false
+  xy: 1570, 40
+  size: 338, 108
+  orig: 338, 108
+  offset: 0, 0
+  index: -1
+jktbackC
+  rotate: false
+  xy: 1060, 604
+  size: 985, 330
+  orig: 985, 330
+  offset: 0, 0
+  index: -1
+jktbackD
+  rotate: 270
+  xy: 1434, 128
+  size: 243, 442
+  orig: 243, 442
+  offset: 0, 0
+  index: -1
+leafA_15
+  rotate: false
+  xy: 2, 400
+  size: 1200, 587
+  orig: 1200, 587
+  offset: 0, 0
+  index: -1
+legA
+  rotate: true
+  xy: 638, 87
+  size: 251, 298
+  orig: 251, 298
+  offset: 0, 0
+  index: -1
+legB
+  rotate: false
+  xy: 755, 459
+  size: 452, 333
+  orig: 452, 333
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+LH_Moller.png
+size: 512,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mole_0
+  rotate: false
+  xy: 120, 777
+  size: 275, 536
+  orig: 275, 536
+  offset: 0, 0
+  index: -1
+mole_1
+  rotate: true
+  xy: 336, 316
+  size: 218, 98
+  orig: 218, 98
+  offset: 0, 0
+  index: -1
+mole_10
+  rotate: 270
+  xy: 2, 518
+  size: 306, 403
+  orig: 306, 403
+  offset: 0, 0
+  index: -1
+mole_11
+  rotate: 180
+  xy: 140, 284
+  size: 254, 384
+  orig: 254, 384
+  offset: 0, 0
+  index: -1
+mole_12
+  rotate: false
+  xy: 287, 74
+  size: 153, 159
+  orig: 156, 159
+  offset: 3, 0
+  index: -1
+mole_13
+  rotate: false
+  xy: 360, 1590
+  size: 72, 139
+  orig: 72, 139
+  offset: 0, 0
+  index: -1
+mole_14
+  rotate: true
+  xy: 2, 1535
+  size: 141, 84
+  orig: 141, 84
+  offset: 0, 0
+  index: -1
+mole_15
+  rotate: false
+  xy: 308, 1434
+  size: 143, 155
+  orig: 143, 155
+  offset: 0, 0
+  index: -1
+mole_16
+  rotate: false
+  xy: 357, 1329
+  size: 86, 102
+  orig: 86, 102
+  offset: 0, 0
+  index: -1
+mole_17
+  rotate: false
+  xy: 318, 796
+  size: 113, 64
+  orig: 113, 64
+  offset: 0, 0
+  index: -1
+mole_2
+  rotate: 180
+  xy: 150, 3
+  size: 303, 312
+  orig: 303, 312
+  offset: 0, 0
+  index: -1
+mole_3
+  rotate: false
+  xy: 2, 1721
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+mole_4
+  rotate: false
+  xy: 2, 1874
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+mole_4_1
+  rotate: false
+  xy: 2, 1840
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+mole_5
+  rotate: false
+  xy: 326, 1104
+  size: 104, 178
+  orig: 104, 178
+  offset: 0, 0
+  index: -1
+mole_6
+  rotate: false
+  xy: 2, 982
+  size: 259, 251
+  orig: 259, 251
+  offset: 0, 0
+  index: -1
+mole_7
+  rotate: false
+  xy: 2, 1235
+  size: 354, 301
+  orig: 354, 301
+  offset: 0, 0
+  index: -1
+mole_8
+  rotate: false
+  xy: 2, 1791
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+mole_9
+  rotate: false
+  xy: 2, 1526
+  size: 389, 520
+  orig: 389, 520
+  offset: 0, 0
+  index: -1

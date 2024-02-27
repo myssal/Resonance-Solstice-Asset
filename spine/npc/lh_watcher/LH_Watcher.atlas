@@ -1,0 +1,146 @@
+
+LH_Watcher.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bozi
+  rotate: false
+  xy: 639, 1410
+  size: 141, 221
+  orig: 141, 224
+  offset: 0, 0
+  index: -1
+datui_y
+  rotate: 180
+  xy: 1248, 924
+  size: 297, 708
+  orig: 348, 1011
+  offset: 49, 303
+  index: -1
+datui_z
+  rotate: false
+  xy: 607, 619
+  size: 355, 829
+  orig: 355, 829
+  offset: 0, 0
+  index: -1
+lingzi_h
+  rotate: false
+  xy: 304, 1577
+  size: 110, 54
+  orig: 110, 54
+  offset: 0, 0
+  index: -1
+pd1
+  rotate: 270
+  xy: 332, 163
+  size: 283, 1125
+  orig: 305, 1171
+  offset: 22, 46
+  index: -1
+pd2
+  rotate: false
+  xy: 319, 540
+  size: 318, 1092
+  orig: 426, 1092
+  offset: 108, 0
+  index: -1
+pd3
+  rotate: false
+  xy: 2, 555
+  size: 321, 1078
+  orig: 423, 1122
+  offset: 54, 44
+  index: -1
+shenti
+  rotate: 270
+  xy: 943, 434
+  size: 495, 468
+  orig: 495, 468
+  offset: 0, 0
+  index: -1
+tou
+  rotate: 270
+  xy: 1532, 1388
+  size: 244, 234
+  orig: 244, 234
+  offset: 0, 0
+  index: -1
+weijin
+  rotate: false
+  xy: 1346, 28
+  size: 391, 388
+  orig: 391, 388
+  offset: 0, 0
+  index: -1
+weijin_yy
+  rotate: false
+  xy: 1625, 518
+  size: 159, 241
+  orig: 159, 241
+  offset: 0, 0
+  index: -1
+xiaobi_z
+  rotate: 270
+  xy: 2, 3
+  size: 317, 330
+  orig: 317, 330
+  offset: 0, 0
+  index: -1
+xiaotui_y
+  rotate: false
+  xy: 851, 836
+  size: 350, 796
+  orig: 394, 1256
+  offset: 0, 0
+  index: -1
+xiaotui_z
+  rotate: true
+  xy: 2, 282
+  size: 282, 837
+  orig: 394, 1372
+  offset: 37, 0
+  index: -1
+yan
+  rotate: false
+  xy: 308, 1533
+  size: 41, 42
+  orig: 43, 44
+  offset: 1, 1
+  index: -1
+yao
+  rotate: 270
+  xy: 1413, 803
+  size: 415, 272
+  orig: 415, 272
+  offset: 0, 0
+  index: -1
+yao_yy
+  rotate: false
+  xy: 838, 377
+  size: 227, 183
+  orig: 227, 183
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: true
+  xy: 314, 18
+  size: 159, 598
+  orig: 159, 598
+  offset: 0, 0
+  index: -1
+zuobi_s
+  rotate: 180
+  xy: 1401, 446
+  size: 311, 392
+  orig: 311, 407
+  offset: 0, 0
+  index: -1
+zuotui_zz
+  rotate: false
+  xy: 1597, 307
+  size: 187, 209
+  orig: 206, 222
+  offset: 12, 11
+  index: -1

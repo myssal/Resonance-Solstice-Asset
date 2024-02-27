@@ -1,0 +1,55 @@
+
+zhujue_nv.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm_01
+  rotate: false
+  xy: 405, 919
+  size: 171, 350
+  orig: 171, 350
+  offset: 0, 0
+  index: -1
+L_arm_02
+  rotate: true
+  xy: 262, 4
+  size: 164, 305
+  orig: 164, 305
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: 180
+  xy: 395, 294
+  size: 152, 482
+  orig: 152, 482
+  offset: 0, 0
+  index: -1
+bag
+  rotate: false
+  xy: 2, 17
+  size: 109, 153
+  orig: 109, 153
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 732
+  size: 442, 573
+  orig: 442, 573
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 2, 147
+  size: 401, 275
+  orig: 401, 275
+  offset: 0, 0
+  index: -1
+tou_back
+  rotate: 270
+  xy: 2, 424
+  size: 316, 358
+  orig: 322, 358
+  offset: 0, 0
+  index: -1

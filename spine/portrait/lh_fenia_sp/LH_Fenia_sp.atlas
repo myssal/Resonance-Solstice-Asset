@@ -1,0 +1,502 @@
+
+LH_Fenia_sp.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CJ
+  rotate: false
+  xy: 2, 1436
+  size: 1313, 610
+  orig: 1313, 610
+  offset: 0, 0
+  index: -1
+armA_9
+  rotate: false
+  xy: 177, 40
+  size: 758, 217
+  orig: 758, 217
+  offset: 0, 0
+  index: -1
+armback
+  rotate: false
+  xy: 1486, 768
+  size: 347, 540
+  orig: 347, 540
+  offset: 0, 0
+  index: -1
+backback
+  rotate: false
+  xy: 2, 96
+  size: 148, 134
+  orig: 154, 146
+  offset: 2, 1
+  index: -1
+bai
+  rotate: false
+  xy: 276, 1310
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+body37
+  rotate: false
+  xy: 1077, 37
+  size: 474, 870
+  orig: 485, 870
+  offset: 4, 0
+  index: -1
+btflA
+  rotate: false
+  xy: 2, 1131
+  size: 85, 64
+  orig: 85, 64
+  offset: 0, 0
+  index: -1
+btflB
+  rotate: false
+  xy: 2, 1013
+  size: 53, 83
+  orig: 55, 83
+  offset: 2, 0
+  index: -1
+btflC27
+  rotate: false
+  xy: 178, 543
+  size: 243, 26
+  orig: 243, 26
+  offset: 0, 0
+  index: -1
+btflD37
+  rotate: false
+  xy: 1531, 1996
+  size: 232, 42
+  orig: 235, 42
+  offset: 0, 0
+  index: -1
+btflE_35
+  rotate: true
+  xy: 752, 245
+  size: 144, 313
+  orig: 145, 313
+  offset: 1, 0
+  index: -1
+dai
+  rotate: true
+  xy: 1520, 658
+  size: 183, 149
+  orig: 183, 155
+  offset: 0, 6
+  index: -1
+daihuan
+  rotate: false
+  xy: 578, 1370
+  size: 98, 59
+  orig: 99, 61
+  offset: 1, 2
+  index: -1
+eyeballA
+  rotate: false
+  xy: 2, 1373
+  size: 54, 62
+  orig: 56, 63
+  offset: 1, 1
+  index: -1
+eyeballB
+  rotate: false
+  xy: 486, 1376
+  size: 44, 57
+  orig: 44, 59
+  offset: 0, 1
+  index: -1
+eyewhiteA
+  rotate: false
+  xy: 270, 1212
+  size: 110, 96
+  orig: 110, 96
+  offset: 0, 0
+  index: -1
+eyewhiteB
+  rotate: false
+  xy: 184, 463
+  size: 85, 81
+  orig: 87, 83
+  offset: 2, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 1173
+  size: 275, 262
+  orig: 277, 268
+  offset: 0, 0
+  index: -1
+flw
+  rotate: false
+  xy: 389, 1342
+  size: 96, 93
+  orig: 96, 107
+  offset: 0, 12
+  index: -1
+guanbackB
+  rotate: false
+  xy: 1195, 778
+  size: 222, 207
+  orig: 239, 214
+  offset: 14, 0
+  index: -1
+hairA
+  rotate: false
+  xy: 1465, 1143
+  size: 161, 181
+  orig: 161, 188
+  offset: 0, 0
+  index: -1
+hairB
+  rotate: false
+  xy: 1317, 1750
+  size: 190, 186
+  orig: 198, 193
+  offset: 0, 0
+  index: -1
+hairC
+  rotate: true
+  xy: 1645, 1285
+  size: 303, 240
+  orig: 312, 240
+  offset: 0, 0
+  index: -1
+hairE
+  rotate: false
+  xy: 1738, 859
+  size: 144, 253
+  orig: 144, 253
+  offset: 0, 0
+  index: -1
+hairG
+  rotate: false
+  xy: 1429, 27
+  size: 198, 155
+  orig: 198, 155
+  offset: 0, 0
+  index: -1
+hairH
+  rotate: false
+  xy: 1317, 1833
+  size: 215, 214
+  orig: 215, 221
+  offset: 0, 7
+  index: -1
+hairI
+  rotate: false
+  xy: 1034, 433
+  size: 74, 155
+  orig: 74, 155
+  offset: 0, 0
+  index: -1
+hairJ
+  rotate: false
+  xy: 1273, 721
+  size: 179, 180
+  orig: 180, 180
+  offset: 1, 0
+  index: -1
+hairK
+  rotate: 180
+  xy: 1721, 3
+  size: 255, 264
+  orig: 255, 265
+  offset: 0, 1
+  index: -1
+hairbackB
+  rotate: false
+  xy: 1706, 1745
+  size: 236, 257
+  orig: 240, 257
+  offset: 0, 0
+  index: -1
+handbackA
+  rotate: false
+  xy: 488, 551
+  size: 173, 147
+  orig: 173, 147
+  offset: 0, 0
+  index: -1
+handbackB
+  rotate: false
+  xy: 900, 500
+  size: 97, 73
+  orig: 97, 73
+  offset: 0, 0
+  index: -1
+handbackC
+  rotate: false
+  xy: 68, 641
+  size: 64, 81
+  orig: 64, 81
+  offset: 0, 0
+  index: -1
+jian
+  rotate: false
+  xy: 1015, 1327
+  size: 212, 108
+  orig: 214, 108
+  offset: 0, 0
+  index: -1
+jianguan35
+  rotate: false
+  xy: 498, 288
+  size: 271, 81
+  orig: 272, 82
+  offset: 0, 0
+  index: -1
+jianguanback
+  rotate: false
+  xy: 318, 801
+  size: 103, 135
+  orig: 103, 135
+  offset: 0, 0
+  index: -1
+jktR68
+  rotate: false
+  xy: 1605, 1443
+  size: 299, 603
+  orig: 299, 603
+  offset: 0, 0
+  index: -1
+jktback27
+  rotate: false
+  xy: 2, 515
+  size: 1522, 920
+  orig: 1522, 929
+  offset: 0, 9
+  index: -1
+jktbackA
+  rotate: true
+  xy: 1270, 1318
+  size: 702, 367
+  orig: 702, 367
+  offset: 0, 0
+  index: -1
+jktbackB
+  rotate: false
+  xy: 1119, 1230
+  size: 334, 86
+  orig: 334, 86
+  offset: 0, 0
+  index: -1
+knifeA
+  rotate: false
+  xy: 88, 1143
+  size: 87, 28
+  orig: 87, 28
+  offset: 0, 0
+  index: -1
+knifeB45
+  rotate: true
+  xy: 221, 719
+  size: 95, 263
+  orig: 102, 271
+  offset: 0, 8
+  index: -1
+legA
+  rotate: false
+  xy: 2, 725
+  size: 319, 253
+  orig: 319, 257
+  offset: 0, 4
+  index: -1
+legB46
+  rotate: 270
+  xy: 1425, 86
+  size: 584, 296
+  orig: 584, 299
+  offset: 0, 3
+  index: -1
+legline52
+  rotate: true
+  xy: 2, 10
+  size: 51, 451
+  orig: 51, 451
+  offset: 0, 0
+  index: -1
+leglineB
+  rotate: false
+  xy: 2, 332
+  size: 88, 144
+  orig: 95, 144
+  offset: 7, 0
+  index: -1
+linebackA
+  rotate: false
+  xy: 1455, 74
+  size: 208, 140
+  orig: 208, 140
+  offset: 0, 0
+  index: -1
+linebackB
+  rotate: false
+  xy: 416, 796
+  size: 41, 111
+  orig: 41, 120
+  offset: 0, 7
+  index: -1
+linebackC
+  rotate: false
+  xy: 1220, 1315
+  size: 68, 111
+  orig: 68, 111
+  offset: 0, 0
+  index: -1
+ling
+  rotate: false
+  xy: 97, 448
+  size: 96, 180
+  orig: 96, 180
+  offset: 0, 0
+  index: -1
+ling37
+  rotate: false
+  xy: 2, 457
+  size: 107, 389
+  orig: 134, 389
+  offset: 27, 0
+  index: -1
+lingLB
+  rotate: false
+  xy: 932, 462
+  size: 134, 281
+  orig: 134, 290
+  offset: 0, 9
+  index: -1
+meiA
+  rotate: false
+  xy: 225, 1346
+  size: 46, 41
+  orig: 48, 44
+  offset: 2, 1
+  index: -1
+meiB
+  rotate: false
+  xy: 2, 1001
+  size: 107, 28
+  orig: 121, 37
+  offset: 14, 9
+  index: -1
+nose
+  rotate: false
+  xy: 180, 1400
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+pp
+  rotate: false
+  xy: 1677, 247
+  size: 302, 312
+  orig: 302, 314
+  offset: 0, 2
+  index: -1
+sktA
+  rotate: false
+  xy: 1417, 874
+  size: 79, 118
+  orig: 79, 118
+  offset: 0, 0
+  index: -1
+sktB
+  rotate: false
+  xy: 933, 9
+  size: 250, 258
+  orig: 254, 274
+  offset: 3, 16
+  index: -1
+wp56
+  rotate: false
+  xy: 1903, 560
+  size: 60, 1228
+  orig: 65, 1228
+  offset: 3, 0
+  index: -1
+wpB
+  rotate: true
+  xy: 1681, 511
+  size: 302, 193
+  orig: 317, 194
+  offset: 12, 1
+  index: -1
+wpwp_49
+  rotate: 180
+  xy: 2, 204
+  size: 1146, 516
+  orig: 1149, 517
+  offset: 2, 1
+  index: -1
+yaoda17
+  rotate: 180
+  xy: 210, 1277
+  size: 379, 157
+  orig: 379, 157
+  offset: 0, 0
+  index: -1
+
+LH_Fenia_sp2.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cap
+  rotate: false
+  xy: 2, 67
+  size: 370, 318
+  orig: 370, 318
+  offset: 0, 0
+  index: -1
+guanzibackA
+  rotate: 270
+  xy: 279, 129
+  size: 256, 600
+  orig: 256, 600
+  offset: 0, 0
+  index: -1
+hairD
+  rotate: 180
+  xy: 1578, 33
+  size: 155, 352
+  orig: 158, 352
+  offset: 0, 0
+  index: -1
+hairF
+  rotate: 270
+  xy: 1417, 107
+  size: 279, 246
+  orig: 281, 252
+  offset: 0, 0
+  index: -1
+knifelineA
+  rotate: 180
+  xy: 474, 3
+  size: 890, 204
+  orig: 890, 204
+  offset: 0, 0
+  index: -1
+knifelineB
+  rotate: false
+  xy: 1215, 10
+  size: 590, 194
+  orig: 590, 194
+  offset: 0, 0
+  index: -1
+lingL
+  rotate: 270
+  xy: 780, 166
+  size: 219, 418
+  orig: 219, 421
+  offset: 0, 0
+  index: -1
+wpA
+  rotate: 270
+  xy: 1142, 208
+  size: 178, 406
+  orig: 180, 422
+  offset: 2, 13
+  index: -1

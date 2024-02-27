@@ -1,0 +1,908 @@
+
+LH_Cecil_sp.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LH_Cecil_sp_0
+  rotate: false
+  xy: 929, 640
+  size: 125, 70
+  orig: 125, 70
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_1
+  rotate: false
+  xy: 698, 29
+  size: 583, 247
+  orig: 594, 258
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_10
+  rotate: false
+  xy: 929, 712
+  size: 255, 630
+  orig: 259, 632
+  offset: 1, 0
+  index: -1
+LH_Cecil_sp_101
+  rotate: false
+  xy: 235, 198
+  size: 65, 26
+  orig: 67, 26
+  offset: 2, 0
+  index: -1
+LH_Cecil_sp_102
+  rotate: false
+  xy: 1252, 1734
+  size: 55, 23
+  orig: 55, 23
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_103
+  rotate: false
+  xy: 131, 1322
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_104
+  rotate: false
+  xy: 156, 506
+  size: 45, 21
+  orig: 45, 21
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_107
+  rotate: false
+  xy: 1981, 1036
+  size: 47, 79
+  orig: 47, 79
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_109
+  rotate: 180
+  xy: 1671, 3
+  size: 190, 94
+  orig: 190, 94
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_11
+  rotate: false
+  xy: 828, 388
+  size: 88, 100
+  orig: 88, 102
+  offset: 0, 2
+  index: -1
+LH_Cecil_sp_110
+  rotate: 180
+  xy: 1974, 1415
+  size: 71, 160
+  orig: 71, 160
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_113
+  rotate: 270
+  xy: 1620, 844
+  size: 221, 190
+  orig: 221, 190
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_114
+  rotate: false
+  xy: 1252, 1582
+  size: 149, 168
+  orig: 149, 168
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_117
+  rotate: false
+  xy: 1210, 1033
+  size: 31, 86
+  orig: 31, 87
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_118
+  rotate: false
+  xy: 464, 451
+  size: 72, 36
+  orig: 72, 37
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_12
+  rotate: false
+  xy: 1981, 816
+  size: 55, 111
+  orig: 55, 111
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_120
+  rotate: true
+  xy: 818, 1216
+  size: 127, 99
+  orig: 127, 99
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_121
+  rotate: false
+  xy: 1252, 1767
+  size: 29, 24
+  orig: 29, 25
+  offset: 0, 1
+  index: -1
+LH_Cecil_sp_122
+  rotate: false
+  xy: 1252, 2028
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_126
+  rotate: false
+  xy: 1836, 1453
+  size: 157, 139
+  orig: 157, 139
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_127
+  rotate: false
+  xy: 2, 204
+  size: 79, 63
+  orig: 79, 63
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_128
+  rotate: true
+  xy: 2, 30
+  size: 467, 694
+  orig: 467, 694
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_13
+  rotate: false
+  xy: 1252, 1385
+  size: 39, 99
+  orig: 39, 99
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_135
+  rotate: false
+  xy: 1463, 158
+  size: 308, 116
+  orig: 308, 116
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_136
+  rotate: true
+  xy: 1553, 1949
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_138
+  rotate: true
+  xy: 2, 1225
+  size: 117, 129
+  orig: 117, 129
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_139
+  rotate: false
+  xy: 1445, 632
+  size: 107, 73
+  orig: 107, 73
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_142
+  rotate: 270
+  xy: 1878, 3
+  size: 170, 166
+  orig: 170, 166
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_143
+  rotate: false
+  xy: 1252, 1749
+  size: 73, 95
+  orig: 73, 99
+  offset: 0, 4
+  index: -1
+LH_Cecil_sp_144
+  rotate: false
+  xy: 792, 1248
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_145
+  rotate: 270
+  xy: 1390, 3
+  size: 276, 627
+  orig: 276, 627
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_147
+  rotate: false
+  xy: 1252, 1751
+  size: 316, 296
+  orig: 352, 298
+  offset: 36, 2
+  index: -1
+LH_Cecil_sp_149
+  rotate: false
+  xy: 2, 1344
+  size: 1249, 703
+  orig: 1249, 703
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_150_y
+  rotate: 270
+  xy: 1239, 631
+  size: 1415, 596
+  orig: 1415, 671
+  offset: 0, 75
+  index: -1
+LH_Cecil_sp_150_z
+  rotate: false
+  xy: 2, 490
+  size: 926, 853
+  orig: 926, 853
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_20
+  rotate: false
+  xy: 600, 284
+  size: 271, 203
+  orig: 271, 203
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_22
+  rotate: false
+  xy: 2, 475
+  size: 67, 139
+  orig: 67, 139
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_23
+  rotate: false
+  xy: 2, 542
+  size: 151, 298
+  orig: 151, 298
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_24
+  rotate: false
+  xy: 779, 279
+  size: 119, 42
+  orig: 119, 45
+  offset: 0, 1
+  index: -1
+LH_Cecil_sp_28
+  rotate: 180
+  xy: 1283, 18
+  size: 118, 258
+  orig: 118, 258
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_33
+  rotate: false
+  xy: 1186, 986
+  size: 24, 357
+  orig: 40, 397
+  offset: 0, 40
+  index: -1
+LH_Cecil_sp_39
+  rotate: false
+  xy: 240, 3
+  size: 100, 25
+  orig: 100, 25
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_4
+  rotate: false
+  xy: 2, 20
+  size: 312, 176
+  orig: 312, 176
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_40
+  rotate: false
+  xy: 879, 1200
+  size: 48, 14
+  orig: 48, 14
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_42
+  rotate: false
+  xy: 1324, 1555
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_43
+  rotate: false
+  xy: 1501, 2033
+  size: 60, 13
+  orig: 62, 13
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_44
+  rotate: false
+  xy: 1400, 1709
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_45
+  rotate: false
+  xy: 71, 502
+  size: 83, 37
+  orig: 83, 37
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_47
+  rotate: false
+  xy: 1252, 1486
+  size: 70, 93
+  orig: 70, 95
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_48
+  rotate: false
+  xy: 77, 1242
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_49
+  rotate: false
+  xy: 81, 1228
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_50
+  rotate: false
+  xy: 679, 1323
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_51
+  rotate: false
+  xy: 2, 898
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_52
+  rotate: false
+  xy: 716, 1310
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_53
+  rotate: false
+  xy: 2, 1158
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_55
+  rotate: false
+  xy: 738, 1295
+  size: 75, 47
+  orig: 75, 47
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_57
+  rotate: false
+  xy: 1067, 632
+  size: 194, 300
+  orig: 194, 300
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_6
+  rotate: false
+  xy: 929, 278
+  size: 624, 351
+  orig: 624, 351
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_61
+  rotate: true
+  xy: 347, 406
+  size: 82, 248
+  orig: 82, 248
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_69
+  rotate: false
+  xy: 1836, 1594
+  size: 85, 166
+  orig: 85, 166
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_70
+  rotate: false
+  xy: 1186, 934
+  size: 56, 98
+  orig: 56, 98
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_73
+  rotate: false
+  xy: 1836, 1614
+  size: 204, 433
+  orig: 204, 433
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_74
+  rotate: false
+  xy: 1892, 627
+  size: 143, 187
+  orig: 144, 187
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_75
+  rotate: false
+  xy: 1907, 316
+  size: 118, 310
+  orig: 942, 403
+  offset: 161, 0
+  index: -1
+LH_Cecil_sp_77
+  rotate: true
+  xy: 1821, 816
+  size: 745, 157
+  orig: 745, 157
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_8
+  rotate: true
+  xy: 1555, 276
+  size: 618, 350
+  orig: 618, 350
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_81
+  rotate: false
+  xy: 132, 1296
+  size: 10, 23
+  orig: 11, 23
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_83
+  rotate: false
+  xy: 1981, 914
+  size: 53, 128
+  orig: 53, 129
+  offset: 0, 1
+  index: -1
+LH_Cecil_sp_84
+  rotate: false
+  xy: 1209, 1208
+  size: 33, 90
+  orig: 33, 90
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_85
+  rotate: false
+  xy: 1528, 1864
+  size: 85, 77
+  orig: 85, 77
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_86
+  rotate: false
+  xy: 2, 1185
+  size: 78, 56
+  orig: 78, 56
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_87
+  rotate: false
+  xy: 544, 335
+  size: 51, 81
+  orig: 51, 81
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_88
+  rotate: false
+  xy: 1056, 673
+  size: 70, 37
+  orig: 70, 37
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_89
+  rotate: false
+  xy: 1555, 504
+  size: 79, 77
+  orig: 79, 77
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_91
+  rotate: false
+  xy: 241, 478
+  size: 61, 10
+  orig: 61, 10
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_92
+  rotate: false
+  xy: 316, 3
+  size: 75, 34
+  orig: 75, 34
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_94
+  rotate: false
+  xy: 16, 1336
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_97
+  rotate: false
+  xy: 16, 1336
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_95
+  rotate: false
+  xy: 538, 448
+  size: 85, 39
+  orig: 85, 39
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_96
+  rotate: false
+  xy: 1144, 632
+  size: 66, 25
+  orig: 66, 25
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_98
+  rotate: false
+  xy: 2, 618
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_99
+  rotate: false
+  xy: 2, 451
+  size: 51, 22
+  orig: 51, 22
+  offset: 0, 0
+  index: -1
+bai
+  rotate: false
+  xy: 2, 851
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+shuidi1
+  rotate: false
+  xy: 2, 1216
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+shuidi2
+  rotate: false
+  xy: 2, 1329
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+
+LH_Cecil_sp2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LH_Cecil_sp_108
+  rotate: true
+  xy: 1380, 51
+  size: 100, 270
+  orig: 100, 270
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_111
+  rotate: false
+  xy: 780, 1399
+  size: 110, 142
+  orig: 110, 142
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_112
+  rotate: false
+  xy: 688, 1325
+  size: 123, 176
+  orig: 123, 176
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_115
+  rotate: false
+  xy: 1878, 1573
+  size: 162, 245
+  orig: 168, 245
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_123
+  rotate: true
+  xy: 792, 1177
+  size: 206, 263
+  orig: 206, 263
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_125
+  rotate: 180
+  xy: 836, 1378
+  size: 608, 440
+  orig: 608, 440
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_130
+  rotate: false
+  xy: 832, 425
+  size: 421, 182
+  orig: 421, 182
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_131
+  rotate: true
+  xy: 431, 107
+  size: 169, 329
+  orig: 169, 330
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_133
+  rotate: true
+  xy: 2, 774
+  size: 200, 307
+  orig: 200, 307
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_134
+  rotate: false
+  xy: 1775, 1521
+  size: 102, 109
+  orig: 102, 109
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_14
+  rotate: 180
+  xy: 2, 139
+  size: 432, 260
+  orig: 432, 260
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_141
+  rotate: true
+  xy: 2, 1385
+  size: 434, 348
+  orig: 434, 348
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_15
+  rotate: false
+  xy: 158, 311
+  size: 417, 358
+  orig: 1042, 777
+  offset: 625, 419
+  index: -1
+LH_Cecil_sp_152
+  rotate: false
+  xy: 351, 1748
+  size: 125, 70
+  orig: 125, 70
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_153
+  rotate: false
+  xy: 478, 1748
+  size: 125, 70
+  orig: 125, 70
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_17
+  rotate: false
+  xy: 1845, 1091
+  size: 85, 191
+  orig: 85, 191
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_18
+  rotate: 180
+  xy: 1412, 806
+  size: 627, 283
+  orig: 627, 283
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_19
+  rotate: false
+  xy: 577, 566
+  size: 515, 214
+  orig: 515, 214
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_25
+  rotate: true
+  xy: 1273, 709
+  size: 98, 273
+  orig: 99, 273
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_26
+  rotate: true
+  xy: 1552, 681
+  size: 162, 280
+  orig: 162, 280
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_27
+  rotate: false
+  xy: 1388, 1021
+  size: 95, 183
+  orig: 97, 183
+  offset: 2, 0
+  index: -1
+LH_Cecil_sp_29
+  rotate: true
+  xy: 1110, 568
+  size: 347, 935
+  orig: 347, 935
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_3
+  rotate: false
+  xy: 1737, 390
+  size: 309, 176
+  orig: 310, 176
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_30
+  rotate: true
+  xy: 704, 60
+  size: 239, 679
+  orig: 239, 680
+  offset: 0, 1
+  index: -1
+LH_Cecil_sp_31
+  rotate: 270
+  xy: 423, 32
+  size: 339, 865
+  orig: 339, 865
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_32
+  rotate: 270
+  xy: 1255, 204
+  size: 299, 479
+  orig: 299, 479
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_34
+  rotate: true
+  xy: 1499, 64
+  size: 138, 533
+  orig: 138, 533
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_35
+  rotate: true
+  xy: 897, 1004
+  size: 814, 816
+  orig: 814, 816
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_36
+  rotate: 270
+  xy: 2, 3
+  size: 322, 287
+  orig: 322, 287
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_37
+  rotate: true
+  xy: 2, 484
+  size: 558, 675
+  orig: 558, 675
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_58
+  rotate: false
+  xy: 567, 313
+  size: 268, 226
+  orig: 268, 226
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_59
+  rotate: true
+  xy: 1027, 762
+  size: 345, 417
+  orig: 345, 417
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_62
+  rotate: false
+  xy: 2, 1676
+  size: 112, 142
+  orig: 112, 142
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_64
+  rotate: 180
+  xy: 542, 813
+  size: 402, 494
+  orig: 402, 494
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_65
+  rotate: false
+  xy: 2, 890
+  size: 1067, 928
+  orig: 1067, 928
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_66
+  rotate: 270
+  xy: 1001, 223
+  size: 237, 265
+  orig: 237, 265
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_67
+  rotate: false
+  xy: 312, 774
+  size: 227, 155
+  orig: 227, 155
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_68
+  rotate: false
+  xy: 1484, 1053
+  size: 562, 511
+  orig: 562, 511
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_7
+  rotate: false
+  xy: 1254, 397
+  size: 312, 176
+  orig: 312, 176
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_71
+  rotate: true
+  xy: 1667, 164
+  size: 224, 298
+  orig: 224, 298
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_72
+  rotate: false
+  xy: 1900, 1143
+  size: 146, 188
+  orig: 146, 189
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_78
+  rotate: false
+  xy: 1566, 1607
+  size: 395, 211
+  orig: 395, 211
+  offset: 0, 0
+  index: -1
+LH_Cecil_sp_80
+  rotate: true
+  xy: 1172, 1272
+  size: 209, 383
+  orig: 209, 383
+  offset: 0, 0
+  index: -1

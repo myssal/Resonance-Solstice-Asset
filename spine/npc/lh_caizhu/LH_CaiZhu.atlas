@@ -1,0 +1,146 @@
+
+LH_CaiZhu.png
+size: 512,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+YKC_1
+  rotate: false
+  xy: 96, 1607
+  size: 29, 29
+  orig: 33, 33
+  offset: 2, 2
+  index: -1
+YKC_10
+  rotate: true
+  xy: 2, 155
+  size: 146, 107
+  orig: 146, 107
+  offset: 0, 0
+  index: -1
+YKC_11
+  rotate: false
+  xy: 20, 38
+  size: 276, 144
+  orig: 276, 144
+  offset: 0, 0
+  index: -1
+YKC_12
+  rotate: true
+  xy: 110, 125
+  size: 208, 248
+  orig: 208, 248
+  offset: 0, 0
+  index: -1
+YKC_13
+  rotate: 270
+  xy: 305, 48
+  size: 195, 154
+  orig: 195, 154
+  offset: 0, 0
+  index: -1
+YKC_14
+  rotate: false
+  xy: 2, 1201
+  size: 466, 436
+  orig: 466, 436
+  offset: 0, 0
+  index: -1
+YKC_15
+  rotate: false
+  xy: 179, 7
+  size: 48, 63
+  orig: 48, 63
+  offset: 0, 0
+  index: -1
+YKC_16
+  rotate: false
+  xy: 2, 843
+  size: 462, 375
+  orig: 476, 375
+  offset: 0, 0
+  index: -1
+YKC_17
+  rotate: false
+  xy: 348, 608
+  size: 146, 233
+  orig: 146, 233
+  offset: 0, 0
+  index: -1
+YKC_18
+  rotate: false
+  xy: 358, 174
+  size: 141, 232
+  orig: 141, 232
+  offset: 0, 0
+  index: -1
+YKC_19
+  rotate: false
+  xy: 2, 1126
+  size: 59, 161
+  orig: 59, 161
+  offset: 0, 0
+  index: -1
+YKC_2
+  rotate: 270
+  xy: 246, 4
+  size: 119, 134
+  orig: 119, 134
+  offset: 0, 0
+  index: -1
+YKC_20
+  rotate: true
+  xy: 177, 260
+  size: 114, 179
+  orig: 117, 182
+  offset: 3, 3
+  index: -1
+YKC_3
+  rotate: false
+  xy: 109, 376
+  size: 374, 196
+  orig: 374, 228
+  offset: 0, 0
+  index: -1
+YKC_4
+  rotate: false
+  xy: 87, 1568
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+YKC_5
+  rotate: false
+  xy: 2, 503
+  size: 423, 117
+  orig: 423, 117
+  offset: 0, 0
+  index: -1
+YKC_6
+  rotate: 270
+  xy: 2, 307
+  size: 175, 198
+  orig: 175, 198
+  offset: 0, 0
+  index: -1
+YKC_7
+  rotate: false
+  xy: 85, 7
+  size: 92, 82
+  orig: 92, 82
+  offset: 0, 0
+  index: -1
+YKC_8
+  rotate: false
+  xy: 2, 642
+  size: 345, 199
+  orig: 345, 199
+  offset: 0, 0
+  index: -1
+YKC_9
+  rotate: false
+  xy: 2, 1578
+  size: 92, 59
+  orig: 92, 59
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,251 @@
+
+LH_Heinrich_dialogue.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chensi1
+  rotate: false
+  xy: 425, 849
+  size: 82, 34
+  orig: 104, 47
+  offset: 8, 8
+  index: -1
+chensi2
+  rotate: false
+  xy: 2, 844
+  size: 60, 39
+  orig: 68, 44
+  offset: 4, 4
+  index: -1
+heinrich_0
+  rotate: false
+  xy: 891, 782
+  size: 89, 172
+  orig: 186, 175
+  offset: 97, 0
+  index: -1
+heinrich_1
+  rotate: false
+  xy: 715, 1010
+  size: 24, 51
+  orig: 24, 51
+  offset: 0, 0
+  index: -1
+heinrich_10
+  rotate: false
+  xy: 607, 1070
+  size: 42, 83
+  orig: 42, 83
+  offset: 0, 0
+  index: -1
+heinrich_11
+  rotate: true
+  xy: 2, 309
+  size: 236, 361
+  orig: 236, 361
+  offset: 0, 0
+  index: -1
+heinrich_12
+  rotate: 180
+  xy: 691, 4
+  size: 325, 206
+  orig: 325, 206
+  offset: 0, 0
+  index: -1
+heinrich_13
+  rotate: false
+  xy: 730, 1348
+  size: 49, 56
+  orig: 49, 56
+  offset: 0, 0
+  index: -1
+heinrich_14
+  rotate: false
+  xy: 294, 448
+  size: 143, 100
+  orig: 143, 100
+  offset: 0, 0
+  index: -1
+heinrich_15
+  rotate: false
+  xy: 909, 1105
+  size: 98, 119
+  orig: 108, 128
+  offset: 0, 9
+  index: -1
+heinrich_16
+  rotate: false
+  xy: 276, 7
+  size: 118, 95
+  orig: 118, 95
+  offset: 0, 0
+  index: -1
+heinrich_17
+  rotate: true
+  xy: 2, 524
+  size: 359, 650
+  orig: 359, 650
+  offset: 0, 0
+  index: -1
+heinrich_18
+  rotate: false
+  xy: 603, 275
+  size: 322, 1130
+  orig: 322, 1130
+  offset: 0, 0
+  index: -1
+heinrich_19
+  rotate: false
+  xy: 733, 1084
+  size: 23, 87
+  orig: 23, 87
+  offset: 0, 0
+  index: -1
+heinrich_2
+  rotate: false
+  xy: 64, 855
+  size: 36, 9
+  orig: 36, 9
+  offset: 0, 0
+  index: -1
+heinrich_20
+  rotate: false
+  xy: 892, 956
+  size: 80, 159
+  orig: 83, 162
+  offset: 3, 0
+  index: -1
+heinrich_21
+  rotate: true
+  xy: 2, 96
+  size: 265, 1002
+  orig: 265, 1002
+  offset: 0, 0
+  index: -1
+heinrich_22
+  rotate: false
+  xy: 607, 891
+  size: 106, 170
+  orig: 110, 172
+  offset: 4, 2
+  index: -1
+heinrich_23
+  rotate: false
+  xy: 733, 1172
+  size: 70, 138
+  orig: 70, 138
+  offset: 0, 0
+  index: -1
+heinrich_24
+  rotate: false
+  xy: 607, 1063
+  size: 132, 341
+  orig: 132, 399
+  offset: 0, 58
+  index: -1
+heinrich_25
+  rotate: false
+  xy: 855, 362
+  size: 130, 240
+  orig: 130, 245
+  offset: 0, 5
+  index: -1
+heinrich_26
+  rotate: false
+  xy: 2, 885
+  size: 604, 519
+  orig: 604, 519
+  offset: 0, 0
+  index: -1
+heinrich_3
+  rotate: false
+  xy: 119, 872
+  size: 35, 10
+  orig: 36, 10
+  offset: 1, 0
+  index: -1
+heinrich_4
+  rotate: false
+  xy: 98, 880
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+heinrich_5
+  rotate: false
+  xy: 64, 846
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+heinrich_6
+  rotate: false
+  xy: 64, 874
+  size: 32, 10
+  orig: 32, 10
+  offset: 0, 0
+  index: -1
+heinrich_7
+  rotate: false
+  xy: 396, 23
+  size: 107, 109
+  orig: 107, 109
+  offset: 0, 0
+  index: -1
+heinrich_8
+  rotate: 270
+  xy: 384, 394
+  size: 170, 137
+  orig: 170, 137
+  offset: 0, 0
+  index: -1
+heinrich_9
+  rotate: false
+  xy: 862, 604
+  size: 135, 177
+  orig: 135, 177
+  offset: 0, 0
+  index: -1
+shouzhi
+  rotate: false
+  xy: 627, 822
+  size: 102, 68
+  orig: 102, 68
+  offset: 0, 0
+  index: -1
+shouzhi2
+  rotate: false
+  xy: 2, 14
+  size: 93, 80
+  orig: 95, 86
+  offset: 0, 6
+  index: -1
+weixiao1
+  rotate: false
+  xy: 2, 499
+  size: 71, 49
+  orig: 104, 86
+  offset: 26, 4
+  index: -1
+weixiao2
+  rotate: false
+  xy: 732, 1319
+  size: 65, 27
+  orig: 69, 28
+  offset: 4, 0
+  index: -1
+xiaobi
+  rotate: false
+  xy: 505, 7
+  size: 122, 119
+  orig: 122, 119
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 64, 865
+  size: 56, 14
+  orig: 56, 14
+  offset: 0, 0
+  index: -1

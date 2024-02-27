@@ -1,0 +1,125 @@
+
+Cab_guajian01.png
+size: 256,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DZ_001
+  rotate: true
+  xy: 2, 96
+  size: 68, 103
+  orig: 68, 103
+  offset: 0, 0
+  index: -1
+DZ_002
+  rotate: false
+  xy: 59, 627
+  size: 59, 158
+  orig: 59, 158
+  offset: 0, 0
+  index: -1
+DZ_003
+  rotate: true
+  xy: 2, 245
+  size: 71, 108
+  orig: 71, 108
+  offset: 0, 0
+  index: -1
+DZ_01yumao1
+  rotate: false
+  xy: 91, 8
+  size: 36, 30
+  orig: 36, 32
+  offset: 0, 2
+  index: -1
+DZ_01yumao2
+  rotate: true
+  xy: 2, 5
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+DZ_01yumao3
+  rotate: false
+  xy: 98, 165
+  size: 30, 59
+  orig: 30, 59
+  offset: 0, 0
+  index: -1
+DZ_01yumao4
+  rotate: false
+  xy: 54, 3
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+DZ_01yumao5
+  rotate: false
+  xy: 106, 40
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+DZ_01yumao6
+  rotate: true
+  xy: 2, 40
+  size: 53, 103
+  orig: 53, 103
+  offset: 0, 0
+  index: -1
+SZ_001
+  rotate: false
+  xy: 111, 318
+  size: 19, 250
+  orig: 19, 250
+  offset: 0, 0
+  index: -1
+SZ_002
+  rotate: false
+  xy: 2, 627
+  size: 55, 250
+  orig: 55, 250
+  offset: 0, 0
+  index: -1
+TX_001
+  rotate: true
+  xy: 2, 503
+  size: 122, 105
+  orig: 122, 108
+  offset: 0, 0
+  index: -1
+TX_002
+  rotate: false
+  xy: 2, 411
+  size: 107, 90
+  orig: 107, 90
+  offset: 0, 0
+  index: -1
+TX_003
+  rotate: false
+  xy: 2, 318
+  size: 98, 91
+  orig: 98, 91
+  offset: 0, 0
+  index: -1
+ZS_001
+  rotate: false
+  xy: 59, 787
+  size: 46, 75
+  orig: 46, 75
+  offset: 0, 0
+  index: -1
+ZS_002
+  rotate: true
+  xy: 2, 165
+  size: 78, 94
+  orig: 78, 94
+  offset: 0, 0
+  index: -1
+ZS_003
+  rotate: false
+  xy: 106, 94
+  size: 18, 69
+  orig: 18, 69
+  offset: 0, 0
+  index: -1

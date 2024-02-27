@@ -1,0 +1,278 @@
+
+LH_Yejue_sp.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 1427
+  size: 1385, 588
+  orig: 1385, 588
+  offset: 0, 0
+  index: -1
+bai
+  rotate: false
+  xy: 279, 1412
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+yeyu_1
+  rotate: false
+  xy: 1115, 1327
+  size: 82, 98
+  orig: 82, 98
+  offset: 0, 0
+  index: -1
+yeyu_10
+  rotate: 180
+  xy: 398, 61
+  size: 421, 304
+  orig: 421, 304
+  offset: 0, 0
+  index: -1
+yeyu_11
+  rotate: 270
+  xy: 882, 1222
+  size: 203, 232
+  orig: 203, 232
+  offset: 0, 0
+  index: -1
+yeyu_12
+  rotate: false
+  xy: 2, 1339
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+yeyu_13
+  rotate: false
+  xy: 41, 1389
+  size: 8, 19
+  orig: 8, 19
+  offset: 0, 0
+  index: -1
+yeyu_14
+  rotate: false
+  xy: 227, 1343
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+yeyu_15
+  rotate: false
+  xy: 240, 1383
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+yeyu_16
+  rotate: false
+  xy: 241, 1358
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+yeyu_17
+  rotate: false
+  xy: 2, 1323
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+yeyu_17_1
+  rotate: false
+  xy: 150, 1418
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+yeyu_18
+  rotate: false
+  xy: 2, 1384
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+yeyu_19
+  rotate: false
+  xy: 168, 1412
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+yeyu_2
+  rotate: false
+  xy: 1814, 1832
+  size: 184, 183
+  orig: 184, 183
+  offset: 0, 0
+  index: -1
+yeyu_20
+  rotate: true
+  xy: 1738, 1432
+  size: 301, 272
+  orig: 301, 272
+  offset: 0, 0
+  index: -1
+yeyu_21
+  rotate: true
+  xy: 1389, 1735
+  size: 280, 423
+  orig: 280, 423
+  offset: 0, 0
+  index: -1
+yeyu_22
+  rotate: false
+  xy: 1252, 743
+  size: 239, 236
+  orig: 239, 236
+  offset: 0, 0
+  index: -1
+yeyu_23
+  rotate: false
+  xy: 1606, 1554
+  size: 123, 180
+  orig: 123, 180
+  offset: 0, 0
+  index: -1
+yeyu_24
+  rotate: false
+  xy: 1502, 106
+  size: 348, 1040
+  orig: 348, 1040
+  offset: 0, 0
+  index: -1
+yeyu_25
+  rotate: true
+  xy: 2, 1130
+  size: 295, 229
+  orig: 295, 229
+  offset: 0, 0
+  index: -1
+yeyu_26
+  rotate: true
+  xy: 2, 649
+  size: 235, 1300
+  orig: 235, 1300
+  offset: 0, 0
+  index: -1
+yeyu_27
+  rotate: 180
+  xy: 1202, 410
+  size: 277, 238
+  orig: 277, 238
+  offset: 0, 0
+  index: -1
+yeyu_29
+  rotate: false
+  xy: 23, 1325
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+yeyu_3
+  rotate: 270
+  xy: 2, 288
+  size: 360, 233
+  orig: 360, 233
+  offset: 0, 0
+  index: -1
+yeyu_30
+  rotate: false
+  xy: 41, 1409
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+yeyu_31
+  rotate: false
+  xy: 266, 1409
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+yeyu_32
+  rotate: false
+  xy: 1199, 1332
+  size: 45, 93
+  orig: 45, 93
+  offset: 0, 0
+  index: -1
+yeyu_33
+  rotate: false
+  xy: 1115, 1227
+  size: 63, 98
+  orig: 63, 98
+  offset: 0, 0
+  index: -1
+yeyu_34
+  rotate: false
+  xy: 2, 931
+  size: 136, 197
+  orig: 136, 197
+  offset: 0, 0
+  index: -1
+yeyu_35
+  rotate: false
+  xy: 823, 1357
+  size: 56, 68
+  orig: 56, 68
+  offset: 0, 0
+  index: -1
+yeyu_36
+  rotate: false
+  xy: 196, 1390
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+yeyu_4
+  rotate: true
+  xy: 936, 7
+  size: 220, 760
+  orig: 220, 760
+  offset: 0, 0
+  index: -1
+yeyu_7
+  rotate: false
+  xy: 2, 172
+  size: 1360, 475
+  orig: 1360, 475
+  offset: 0, 0
+  index: -1
+yeyu_8
+  rotate: 180
+  xy: 159, 887
+  size: 1698, 719
+  orig: 1698, 719
+  offset: 0, 0
+  index: -1
+yeyu_9
+  rotate: false
+  xy: 11, 4
+  size: 403, 295
+  orig: 403, 295
+  offset: 0, 0
+  index: -1
+
+LH_Yejue_sp2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yeyu_5
+  rotate: 270
+  xy: 2, 3
+  size: 368, 922
+  orig: 368, 922
+  offset: 0, 0
+  index: -1
+yeyu_6
+  rotate: false
+  xy: 2, 254
+  size: 729, 645
+  orig: 729, 645
+  offset: 0, 0
+  index: -1

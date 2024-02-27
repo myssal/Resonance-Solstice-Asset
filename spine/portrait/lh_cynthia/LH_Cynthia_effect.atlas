@@ -1,0 +1,202 @@
+
+LH_Cynthia_effect.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/hudie/hudie_00000
+  rotate: false
+  xy: 2, 1356
+  size: 370, 408
+  orig: 408, 478
+  offset: 17, 41
+  index: -1
+images/hudie/hudie_00008
+  rotate: false
+  xy: 2, 1356
+  size: 370, 408
+  orig: 408, 478
+  offset: 17, 41
+  index: -1
+images/hudie/hudie_00001
+  rotate: false
+  xy: 1293, 1387
+  size: 350, 377
+  orig: 408, 478
+  offset: 24, 44
+  index: -1
+images/hudie/hudie_00002
+  rotate: true
+  xy: 1118, 759
+  size: 331, 348
+  orig: 408, 478
+  offset: 30, 45
+  index: -1
+images/hudie/hudie_00003
+  rotate: true
+  xy: 823, 191
+  size: 312, 316
+  orig: 408, 478
+  offset: 33, 48
+  index: -1
+images/hudie/hudie_00005
+  rotate: true
+  xy: 1141, 191
+  size: 312, 316
+  orig: 408, 478
+  offset: 33, 48
+  index: -1
+images/hudie/hudie_00006
+  rotate: true
+  xy: 1468, 759
+  size: 331, 348
+  orig: 408, 478
+  offset: 30, 45
+  index: -1
+images/hudie/hudie_00007
+  rotate: false
+  xy: 1645, 1387
+  size: 350, 377
+  orig: 408, 478
+  offset: 24, 44
+  index: -1
+images/lizi/lizi_00000
+  rotate: true
+  xy: 723, 2
+  size: 187, 365
+  orig: 364, 558
+  offset: 68, 176
+  index: -1
+images/lizi/lizi_00001
+  rotate: true
+  xy: 340, 65
+  size: 180, 381
+  orig: 364, 558
+  offset: 71, 164
+  index: -1
+images/lizi/lizi_00002
+  rotate: true
+  xy: 425, 485
+  size: 278, 396
+  orig: 364, 558
+  offset: 40, 152
+  index: -1
+images/lizi/lizi_00003
+  rotate: true
+  xy: 2, 764
+  size: 273, 421
+  orig: 364, 558
+  offset: 17, 128
+  index: -1
+images/lizi/lizi_00004
+  rotate: true
+  xy: 1293, 1092
+  size: 293, 424
+  orig: 364, 558
+  offset: 33, 125
+  index: -1
+images/lizi/lizi_00005
+  rotate: false
+  xy: 984, 1319
+  size: 307, 445
+  orig: 364, 558
+  offset: 32, 103
+  index: -1
+images/lizi/lizi_00006
+  rotate: false
+  xy: 678, 1290
+  size: 304, 474
+  orig: 364, 558
+  offset: 34, 72
+  index: -1
+images/lizi/lizi_00007
+  rotate: false
+  xy: 374, 1285
+  size: 302, 479
+  orig: 364, 558
+  offset: 33, 64
+  index: -1
+images/lizi/lizi_00008
+  rotate: true
+  xy: 2, 1040
+  size: 244, 484
+  orig: 364, 558
+  offset: 28, 55
+  index: -1
+images/lizi/lizi_00009
+  rotate: true
+  xy: 2, 23
+  size: 235, 336
+  orig: 364, 558
+  offset: 34, 198
+  index: -1
+images/lizi/lizi_00010
+  rotate: true
+  xy: 2, 260
+  size: 240, 370
+  orig: 364, 558
+  offset: 44, 162
+  index: -1
+images/lizi/lizi_00011
+  rotate: true
+  xy: 374, 247
+  size: 236, 371
+  orig: 364, 558
+  offset: 30, 163
+  index: -1
+images/lizi/lizi_00012
+  rotate: false
+  xy: 1662, 362
+  size: 252, 395
+  orig: 364, 558
+  offset: 20, 138
+  index: -1
+images/lizi/lizi_00013
+  rotate: true
+  xy: 1258, 505
+  size: 252, 402
+  orig: 364, 558
+  offset: 28, 130
+  index: -1
+images/lizi/lizi_00014
+  rotate: true
+  xy: 2, 502
+  size: 260, 410
+  orig: 364, 558
+  offset: 22, 118
+  index: -1
+images/lizi/lizi_00015
+  rotate: true
+  xy: 823, 505
+  size: 252, 433
+  orig: 364, 558
+  offset: 36, 93
+  index: -1
+images/lizi/lizi_00016
+  rotate: true
+  xy: 678, 1017
+  size: 271, 438
+  orig: 364, 558
+  offset: 22, 84
+  index: -1
+images/lizi/lizi_00017
+  rotate: true
+  xy: 425, 765
+  size: 250, 455
+  orig: 364, 558
+  offset: 38, 66
+  index: -1
+images/lizi/lizi_00018
+  rotate: true
+  xy: 1459, 120
+  size: 240, 362
+  orig: 364, 558
+  offset: 49, 167
+  index: -1
+images/lizi/lizi_00019
+  rotate: false
+  xy: 1818, 879
+  size: 197, 506
+  orig: 364, 558
+  offset: 65, 30
+  index: -1

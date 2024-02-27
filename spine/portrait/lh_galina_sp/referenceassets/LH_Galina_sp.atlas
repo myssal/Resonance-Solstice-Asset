@@ -1,0 +1,495 @@
+
+LH_Galina_sp.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LH_Galina_sp_bg
+  rotate: false
+  xy: 2, 1155
+  size: 2000, 886
+  orig: 2002, 888
+  offset: 1, 1
+  index: -1
+armR
+  rotate: 180
+  xy: 1670, 1011
+  size: 327, 143
+  orig: 327, 154
+  offset: 0, 0
+  index: -1
+bai
+  rotate: false
+  xy: 307, 1089
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+bosom20
+  rotate: 180
+  xy: 1497, 773
+  size: 507, 250
+  orig: 507, 250
+  offset: 0, 0
+  index: -1
+daibackD
+  rotate: false
+  xy: 1948, 646
+  size: 87, 143
+  orig: 87, 143
+  offset: 0, 0
+  index: -1
+daibackF
+  rotate: false
+  xy: 2, 867
+  size: 110, 109
+  orig: 118, 109
+  offset: 0, 0
+  index: -1
+daizifrtA40
+  rotate: false
+  xy: 1257, 12
+  size: 222, 73
+  orig: 223, 73
+  offset: 0, 0
+  index: -1
+daizifrtB
+  rotate: false
+  xy: 1031, 3
+  size: 233, 159
+  orig: 233, 159
+  offset: 0, 0
+  index: -1
+daizifrtC
+  rotate: false
+  xy: 2, 1039
+  size: 308, 114
+  orig: 308, 114
+  offset: 0, 0
+  index: -1
+eyeA
+  rotate: false
+  xy: 2, 749
+  size: 90, 110
+  orig: 92, 111
+  offset: 1, 1
+  index: -1
+eyeB
+  rotate: false
+  xy: 167, 522
+  size: 75, 104
+  orig: 78, 105
+  offset: 1, 0
+  index: -1
+eyeballA
+  rotate: false
+  xy: 193, 1111
+  size: 37, 43
+  orig: 38, 45
+  offset: 0, 1
+  index: -1
+eyeballB
+  rotate: false
+  xy: 230, 1109
+  size: 32, 39
+  orig: 35, 41
+  offset: 1, 1
+  index: -1
+figRA
+  rotate: false
+  xy: 1320, 835
+  size: 170, 85
+  orig: 170, 86
+  offset: 0, 1
+  index: -1
+figRB
+  rotate: false
+  xy: 68, 1123
+  size: 124, 31
+  orig: 126, 39
+  offset: 2, 7
+  index: -1
+ggA
+  rotate: false
+  xy: 2, 1143
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+ggB
+  rotate: false
+  xy: 2, 1129
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+gunC25
+  rotate: true
+  xy: 2, 33
+  size: 272, 333
+  orig: 275, 335
+  offset: 1, 1
+  index: -1
+gunE-26
+  rotate: false
+  xy: 1219, 1089
+  size: 84, 65
+  orig: 85, 70
+  offset: 1, 3
+  index: -1
+gunF-28
+  rotate: true
+  xy: 301, 18
+  size: 157, 262
+  orig: 158, 272
+  offset: 0, 10
+  index: -1
+hairB
+  rotate: false
+  xy: 1550, 398
+  size: 98, 105
+  orig: 98, 105
+  offset: 0, 0
+  index: -1
+hairC
+  rotate: false
+  xy: 2, 589
+  size: 37, 89
+  orig: 37, 89
+  offset: 0, 0
+  index: -1
+hairD
+  rotate: 270
+  xy: 1862, 468
+  size: 158, 179
+  orig: 158, 179
+  offset: 0, 0
+  index: -1
+hairE
+  rotate: 270
+  xy: 626, 303
+  size: 204, 267
+  orig: 204, 267
+  offset: 0, 0
+  index: -1
+hairF
+  rotate: false
+  xy: 723, 516
+  size: 106, 52
+  orig: 106, 52
+  offset: 0, 0
+  index: -1
+handL-30
+  rotate: 180
+  xy: 1378, 999
+  size: 221, 154
+  orig: 223, 154
+  offset: 0, 0
+  index: -1
+handL2
+  rotate: false
+  xy: 905, 731
+  size: 173, 104
+  orig: 173, 105
+  offset: 0, 1
+  index: -1
+jktL58
+  rotate: 270
+  xy: 2, 252
+  size: 507, 719
+  orig: 507, 719
+  offset: 0, 0
+  index: -1
+jktR33
+  rotate: 180
+  xy: 737, 454
+  size: 1238, 391
+  orig: 1238, 394
+  offset: 0, 0
+  index: -1
+legA26
+  rotate: true
+  xy: 2, 685
+  size: 469, 914
+  orig: 489, 1023
+  offset: 20, 107
+  index: -1
+legB34
+  rotate: 270
+  xy: 927, 79
+  size: 422, 737
+  orig: 422, 891
+  offset: 0, 154
+  index: -1
+lightbackback
+  rotate: true
+  xy: 1647, 18
+  size: 510, 357
+  orig: 510, 359
+  offset: 0, 2
+  index: -1
+lingR
+  rotate: false
+  xy: 88, 622
+  size: 220, 235
+  orig: 220, 240
+  offset: 0, 5
+  index: -1
+meiA
+  rotate: false
+  xy: 359, 1111
+  size: 55, 30
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+meiB
+  rotate: false
+  xy: 326, 1138
+  size: 101, 15
+  orig: 101, 17
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 2, 1048
+  size: 32, 26
+  orig: 34, 28
+  offset: 0, 1
+  index: -1
+nose
+  rotate: false
+  xy: 243, 1043
+  size: 27, 34
+  orig: 29, 35
+  offset: 1, 0
+  index: -1
+pfbackL
+  rotate: false
+  xy: 424, 21
+  size: 612, 330
+  orig: 612, 330
+  offset: 0, 0
+  index: -1
+pfbackR32
+  rotate: false
+  xy: 869, 820
+  size: 650, 334
+  orig: 659, 337
+  offset: 9, 3
+  index: -1
+wanback
+  rotate: false
+  xy: 851, 401
+  size: 71, 131
+  orig: 74, 132
+  offset: 0, 0
+  index: -1
+
+LH_Galina_sp2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armL-17
+  rotate: 270
+  xy: 1717, 652
+  size: 318, 217
+  orig: 319, 217
+  offset: 1, 0
+  index: -1
+binL
+  rotate: false
+  xy: 879, 215
+  size: 202, 652
+  orig: 202, 652
+  offset: 0, 0
+  index: -1
+binR60
+  rotate: 270
+  xy: 661, 127
+  size: 153, 567
+  orig: 153, 567
+  offset: 0, 0
+  index: -1
+body47
+  rotate: 180
+  xy: 2, 188
+  size: 406, 781
+  orig: 406, 781
+  offset: 0, 0
+  index: -1
+bozibozi
+  rotate: false
+  xy: 226, 132
+  size: 223, 214
+  orig: 224, 214
+  offset: 0, 0
+  index: -1
+daibackA
+  rotate: true
+  xy: 1180, 3
+  size: 163, 230
+  orig: 167, 232
+  offset: 0, 2
+  index: -1
+daibackB
+  rotate: false
+  xy: 1399, 531
+  size: 171, 314
+  orig: 171, 314
+  offset: 0, 0
+  index: -1
+daibackC
+  rotate: false
+  xy: 322, 495
+  size: 169, 341
+  orig: 169, 350
+  offset: 0, 0
+  index: -1
+daibackE
+  rotate: false
+  xy: 883, 32
+  size: 249, 153
+  orig: 249, 153
+  offset: 0, 0
+  index: -1
+daibackE1
+  rotate: true
+  xy: 1084, 158
+  size: 179, 550
+  orig: 179, 554
+  offset: 0, 0
+  index: -1
+daizifrtD
+  rotate: 180
+  xy: 974, 355
+  size: 197, 408
+  orig: 197, 408
+  offset: 0, 0
+  index: -1
+daizifrtE
+  rotate: 270
+  xy: 1750, 40
+  size: 107, 286
+  orig: 107, 286
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1722, 413
+  size: 239, 274
+  orig: 239, 274
+  offset: 0, 0
+  index: -1
+gunA
+  rotate: true
+  xy: 652, 61
+  size: 137, 233
+  orig: 137, 233
+  offset: 0, 0
+  index: -1
+gunB36
+  rotate: 180
+  xy: 715, 572
+  size: 253, 398
+  orig: 253, 399
+  offset: 0, 1
+  index: -1
+gunD-23
+  rotate: false
+  xy: 750, 268
+  size: 130, 246
+  orig: 131, 246
+  offset: 1, 0
+  index: -1
+hairA
+  rotate: true
+  xy: 1243, 589
+  size: 380, 357
+  orig: 380, 357
+  offset: 0, 0
+  index: -1
+hairCC
+  rotate: true
+  xy: 1270, 471
+  size: 148, 261
+  orig: 148, 261
+  offset: 0, 0
+  index: -1
+handR-27
+  rotate: true
+  xy: 1570, 398
+  size: 572, 154
+  orig: 574, 157
+  offset: 0, 0
+  index: -1
+jktRB
+  rotate: 180
+  xy: 1220, 78
+  size: 214, 206
+  orig: 218, 206
+  offset: 0, 0
+  index: -1
+lift
+  rotate: false
+  xy: 1504, 49
+  size: 245, 153
+  orig: 245, 153
+  offset: 0, 0
+  index: -1
+lineA24
+  rotate: 270
+  xy: 958, 319
+  size: 651, 311
+  orig: 772, 311
+  offset: 121, 0
+  index: -1
+lineB-49
+  rotate: 180
+  xy: 525, 138
+  size: 241, 832
+  orig: 241, 1010
+  offset: 0, 178
+  index: -1
+linefrt23
+  rotate: 270
+  xy: 312, 242
+  size: 727, 315
+  orig: 840, 391
+  offset: 113, 59
+  index: -1
+lingL
+  rotate: false
+  xy: 412, 24
+  size: 226, 227
+  orig: 270, 249
+  offset: 4, 18
+  index: -1
+lingL2
+  rotate: true
+  xy: 18, 121
+  size: 170, 279
+  orig: 170, 279
+  offset: 0, 0
+  index: -1
+pangci
+  rotate: true
+  xy: 1678, 148
+  size: 291, 259
+  orig: 292, 259
+  offset: 0, 0
+  index: -1
+pfbackM
+  rotate: false
+  xy: 1236, 299
+  size: 445, 209
+  orig: 445, 209
+  offset: 0, 0
+  index: -1
+wan
+  rotate: false
+  xy: 1909, 806
+  size: 137, 164
+  orig: 137, 165
+  offset: 0, 1
+  index: -1

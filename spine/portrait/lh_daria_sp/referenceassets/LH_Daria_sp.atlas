@@ -1,0 +1,467 @@
+
+LH_Daria_sp.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LH_Daria_sp_bg
+  rotate: false
+  xy: 2, 966
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+armL
+  rotate: true
+  xy: 687, 796
+  size: 168, 256
+  orig: 168, 256
+  offset: 0, 0
+  index: -1
+bai
+  rotate: false
+  xy: 670, 106
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+bj
+  rotate: false
+  xy: 931, 906
+  size: 70, 59
+  orig: 71, 59
+  offset: 0, 0
+  index: -1
+btflA
+  rotate: false
+  xy: 449, 223
+  size: 119, 107
+  orig: 119, 108
+  offset: 0, 0
+  index: -1
+btflB
+  rotate: false
+  xy: 2, 7
+  size: 90, 150
+  orig: 90, 150
+  offset: 0, 0
+  index: -1
+btflC
+  rotate: false
+  xy: 838, 252
+  size: 120, 101
+  orig: 127, 101
+  offset: 7, 0
+  index: -1
+btflD
+  rotate: 180
+  xy: 2, 260
+  size: 119, 127
+  orig: 119, 127
+  offset: 0, 0
+  index: -1
+btflLA
+  rotate: false
+  xy: 580, 846
+  size: 86, 118
+  orig: 86, 118
+  offset: 0, 0
+  index: -1
+btflLB_33
+  rotate: false
+  xy: 229, 3
+  size: 248, 131
+  orig: 250, 132
+  offset: 2, 0
+  index: -1
+btflLC
+  rotate: false
+  xy: 747, 741
+  size: 119, 102
+  orig: 119, 103
+  offset: 0, 1
+  index: -1
+earA
+  rotate: false
+  xy: 97, 893
+  size: 62, 62
+  orig: 64, 66
+  offset: 2, 1
+  index: -1
+earB
+  rotate: false
+  xy: 116, 241
+  size: 47, 76
+  orig: 50, 80
+  offset: 2, 3
+  index: -1
+eyeA
+  rotate: false
+  xy: 2, 842
+  size: 96, 123
+  orig: 96, 125
+  offset: 0, 1
+  index: -1
+eyeB
+  rotate: false
+  xy: 745, 66
+  size: 87, 113
+  orig: 90, 118
+  offset: 2, 2
+  index: -1
+eyeballA
+  rotate: false
+  xy: 2, 806
+  size: 40, 43
+  orig: 42, 46
+  offset: 1, 1
+  index: -1
+eyeballB
+  rotate: false
+  xy: 664, 922
+  size: 39, 43
+  orig: 42, 46
+  offset: 2, 1
+  index: -1
+face
+  rotate: false
+  xy: 593, 174
+  size: 246, 293
+  orig: 248, 294
+  offset: 0, 1
+  index: -1
+figB
+  rotate: false
+  xy: 700, 919
+  size: 51, 42
+  orig: 52, 43
+  offset: 1, 1
+  index: -1
+figLA
+  rotate: false
+  xy: 824, 103
+  size: 66, 106
+  orig: 66, 106
+  offset: 0, 0
+  index: -1
+figLB
+  rotate: true
+  xy: 119, 3
+  size: 98, 108
+  orig: 100, 108
+  offset: 2, 0
+  index: -1
+figRA
+  rotate: false
+  xy: 527, 3
+  size: 104, 103
+  orig: 106, 106
+  offset: 0, 1
+  index: -1
+figRC
+  rotate: false
+  xy: 1514, 414
+  size: 88, 87
+  orig: 90, 89
+  offset: 1, 1
+  index: -1
+ggA
+  rotate: false
+  xy: 150, 952
+  size: 18, 13
+  orig: 19, 14
+  offset: 1, 0
+  index: -1
+ggB
+  rotate: false
+  xy: 2, 950
+  size: 17, 15
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+hairA
+  rotate: false
+  xy: 1924, 1121
+  size: 108, 181
+  orig: 109, 182
+  offset: 0, 1
+  index: -1
+hairB
+  rotate: true
+  xy: 1866, 338
+  size: 115, 171
+  orig: 115, 172
+  offset: 0, 1
+  index: -1
+hairC
+  rotate: false
+  xy: 1924, 1850
+  size: 113, 196
+  orig: 113, 197
+  offset: 0, 0
+  index: -1
+hairD
+  rotate: false
+  xy: 1745, 650
+  size: 66, 171
+  orig: 66, 172
+  offset: 0, 1
+  index: -1
+hairE
+  rotate: true
+  xy: 631, 3
+  size: 134, 280
+  orig: 134, 280
+  offset: 0, 0
+  index: -1
+hairF
+  rotate: false
+  xy: 1924, 1281
+  size: 97, 214
+  orig: 98, 214
+  offset: 1, 0
+  index: -1
+hairback
+  rotate: 270
+  xy: 1723, 424
+  size: 385, 270
+  orig: 385, 270
+  offset: 0, 0
+  index: -1
+legL20
+  rotate: true
+  xy: 891, 3
+  size: 430, 1058
+  orig: 432, 1058
+  offset: 0, 0
+  index: -1
+lineA
+  rotate: false
+  xy: 2, 256
+  size: 927, 708
+  orig: 929, 708
+  offset: 2, 0
+  index: -1
+meiA
+  rotate: false
+  xy: 439, 936
+  size: 54, 30
+  orig: 56, 30
+  offset: 1, 0
+  index: -1
+meiB
+  rotate: false
+  xy: 80, 950
+  size: 70, 15
+  orig: 72, 17
+  offset: 1, 1
+  index: -1
+mouth
+  rotate: false
+  xy: 492, 913
+  size: 68, 52
+  orig: 70, 54
+  offset: 0, 1
+  index: -1
+nose
+  rotate: false
+  xy: 656, 834
+  size: 42, 36
+  orig: 43, 38
+  offset: 0, 1
+  index: -1
+shirtA
+  rotate: 180
+  xy: 1940, 3
+  size: 98, 303
+  orig: 98, 305
+  offset: 0, 2
+  index: -1
+shirtB11
+  rotate: true
+  xy: 1375, 921
+  size: 44, 275
+  orig: 46, 276
+  offset: 0, 0
+  index: -1
+shirtC29
+  rotate: false
+  xy: 960, 311
+  size: 167, 41
+  orig: 168, 42
+  offset: 1, 0
+  index: -1
+shirtD39
+  rotate: false
+  xy: 2, 80
+  size: 682, 178
+  orig: 682, 178
+  offset: 0, 0
+  index: -1
+shirtG
+  rotate: true
+  xy: 1924, 1487
+  size: 242, 93
+  orig: 242, 94
+  offset: 0, 1
+  index: -1
+shirtback46
+  rotate: false
+  xy: 844, 336
+  size: 729, 629
+  orig: 730, 629
+  offset: 0, 0
+  index: -1
+shirtcle
+  rotate: false
+  xy: 1924, 1696
+  size: 107, 174
+  orig: 108, 175
+  offset: 0, 1
+  index: -1
+shirtdun41
+  rotate: 270
+  xy: 1783, 769
+  size: 210, 222
+  orig: 211, 223
+  offset: 1, 0
+  index: -1
+shoeL28
+  rotate: false
+  xy: 1565, 479
+  size: 198, 451
+  orig: 203, 452
+  offset: 3, 1
+  index: -1
+shoeLB
+  rotate: false
+  xy: 1886, 3
+  size: 122, 155
+  orig: 122, 155
+  offset: 0, 0
+  index: -1
+shoeRB27
+  rotate: false
+  xy: 1924, 1005
+  size: 82, 116
+  orig: 85, 119
+  offset: 2, 1
+  index: -1
+
+LH_Daria_sp2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armR_11
+  rotate: false
+  xy: 709, 3
+  size: 931, 191
+  orig: 931, 191
+  offset: 0, 0
+  index: -1
+bodyback43
+  rotate: false
+  xy: 1418, 163
+  size: 179, 334
+  orig: 180, 334
+  offset: 1, 0
+  index: -1
+bozi
+  rotate: false
+  xy: 2, 1067
+  size: 366, 342
+  orig: 367, 342
+  offset: 1, 0
+  index: -1
+footL30
+  rotate: false
+  xy: 1178, 271
+  size: 265, 1350
+  orig: 265, 1351
+  offset: 0, 0
+  index: -1
+footR38
+  rotate: 180
+  xy: 1362, 751
+  size: 277, 1296
+  orig: 277, 1300
+  offset: 0, 2
+  index: -1
+hairG
+  rotate: false
+  xy: 2, 1345
+  size: 153, 262
+  orig: 155, 264
+  offset: 0, 0
+  index: -1
+hairH
+  rotate: 180
+  xy: 1440, 393
+  size: 318, 358
+  orig: 323, 359
+  offset: 0, 1
+  index: -1
+handL
+  rotate: 180
+  xy: 236, 836
+  size: 213, 434
+  orig: 215, 434
+  offset: 0, 0
+  index: -1
+legR19
+  rotate: 180
+  xy: 665, 634
+  size: 374, 948
+  orig: 377, 948
+  offset: 3, 0
+  index: -1
+lightback
+  rotate: 180
+  xy: 2, 4
+  size: 556, 362
+  orig: 556, 362
+  offset: 0, 0
+  index: -1
+lineB
+  rotate: false
+  xy: 2, 1260
+  size: 575, 786
+  orig: 577, 786
+  offset: 2, 0
+  index: -1
+lineC17
+  rotate: true
+  xy: 2, 610
+  size: 1436, 795
+  orig: 1436, 922
+  offset: 0, 0
+  index: -1
+shirtE
+  rotate: 270
+  xy: 2, 225
+  size: 635, 875
+  orig: 635, 875
+  offset: 0, 0
+  index: -1
+shirtF
+  rotate: false
+  xy: 891, 1725
+  size: 260, 322
+  orig: 260, 322
+  offset: 0, 0
+  index: -1
+shoeR24
+  rotate: false
+  xy: 1137, 1643
+  size: 153, 404
+  orig: 156, 407
+  offset: 1, 2
+  index: -1
+wp1
+  rotate: true
+  xy: 746, 126
+  size: 1920, 508
+  orig: 1920, 508
+  offset: 0, 0
+  index: -1

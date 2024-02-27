@@ -1,0 +1,346 @@
+
+prologue.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BJ_02
+  rotate: true
+  xy: 1493, 1214
+  size: 826, 496
+  orig: 826, 496
+  offset: 0, 0
+  index: -1
+BOSS_daoguang
+  rotate: true
+  xy: 1493, 386
+  size: 826, 496
+  orig: 826, 496
+  offset: 0, 0
+  index: -1
+XBOSS_02_03
+  rotate: false
+  xy: 391, 30
+  size: 456, 25
+  orig: 458, 27
+  offset: 1, 1
+  index: -1
+XBOSS_guang04
+  rotate: false
+  xy: 1493, 17
+  size: 505, 57
+  orig: 543, 69
+  offset: 28, 2
+  index: -1
+XBOSS_guang06
+  rotate: false
+  xy: 2, 4
+  size: 414, 14
+  orig: 422, 24
+  offset: 6, 8
+  index: -1
+renwu01_01
+  rotate: false
+  xy: 2, 57
+  size: 1489, 1983
+  orig: 1512, 1987
+  offset: 0, 0
+  index: -1
+renwu01_03
+  rotate: true
+  xy: 1493, 76
+  size: 308, 502
+  orig: 308, 502
+  offset: 0, 0
+  index: -1
+renwu04_02
+  rotate: true
+  xy: 849, 2
+  size: 53, 157
+  orig: 56, 158
+  offset: 3, 1
+  index: -1
+yanguang
+  rotate: false
+  xy: 2, 20
+  size: 387, 35
+  orig: 387, 35
+  offset: 0, 0
+  index: -1
+
+prologue2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BOSS_juguang01
+  rotate: true
+  xy: 1234, 134
+  size: 826, 496
+  orig: 826, 496
+  offset: 0, 0
+  index: -1
+BOSS_juguang02
+  rotate: true
+  xy: 1732, 134
+  size: 791, 229
+  orig: 826, 230
+  offset: 19, 1
+  index: -1
+XBOSS_guang
+  rotate: false
+  xy: 1849, 54
+  size: 134, 78
+  orig: 134, 78
+  offset: 0, 0
+  index: -1
+XBOSS_guang07
+  rotate: false
+  xy: 1234, 2
+  size: 301, 130
+  orig: 331, 151
+  offset: 15, 1
+  index: -1
+bai
+  rotate: false
+  xy: 1693, 46
+  size: 154, 86
+  orig: 154, 86
+  offset: 0, 0
+  index: -1
+caihong
+  rotate: true
+  xy: 1963, 134
+  size: 103, 76
+  orig: 120, 120
+  offset: 9, 22
+  index: -1
+renwu01_01_zui
+  rotate: true
+  xy: 1963, 239
+  size: 110, 69
+  orig: 110, 69
+  offset: 0, 0
+  index: -1
+renwu01_02
+  rotate: false
+  xy: 2, 20
+  size: 1230, 2005
+  orig: 1232, 2006
+  offset: 1, 0
+  index: -1
+renwu03
+  rotate: false
+  xy: 1234, 962
+  size: 766, 1063
+  orig: 766, 1063
+  offset: 0, 0
+  index: -1
+yanjing02
+  rotate: false
+  xy: 1537, 39
+  size: 154, 93
+  orig: 154, 97
+  offset: 0, 0
+  index: -1
+
+prologue3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BJ_01
+  rotate: false
+  xy: 569, 364
+  size: 805, 326
+  orig: 805, 326
+  offset: 0, 0
+  index: -1
+BJ_03
+  rotate: false
+  xy: 1072, 5
+  size: 805, 187
+  orig: 805, 187
+  offset: 0, 0
+  index: -1
+BOSS_dianguang
+  rotate: false
+  xy: 1072, 209
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1
+BOSS_dianguang02
+  rotate: false
+  xy: 1814, 195
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1
+XBOSS_01
+  rotate: true
+  xy: 1831, 1456
+  size: 285, 207
+  orig: 286, 207
+  offset: 1, 0
+  index: -1
+XBOSS_01_mohu
+  rotate: true
+  xy: 1831, 1743
+  size: 294, 207
+  orig: 300, 207
+  offset: 6, 0
+  index: -1
+XBOSS_02_01
+  rotate: false
+  xy: 2, 224
+  size: 565, 479
+  orig: 592, 494
+  offset: 23, 14
+  index: -1
+XBOSS_guang02
+  rotate: false
+  xy: 1227, 267
+  size: 95, 95
+  orig: 102, 102
+  offset: 4, 3
+  index: -1
+guang
+  rotate: false
+  xy: 1831, 724
+  size: 177, 188
+  orig: 200, 200
+  offset: 12, 6
+  index: -1
+kuoshanguang
+  rotate: false
+  xy: 1879, 99
+  size: 94, 94
+  orig: 102, 102
+  offset: 4, 4
+  index: -1
+renwu01_01_mohu
+  rotate: false
+  xy: 1376, 194
+  size: 436, 496
+  orig: 439, 496
+  offset: 2, 0
+  index: -1
+renwu01_04
+  rotate: true
+  xy: 569, 54
+  size: 308, 501
+  orig: 308, 501
+  offset: 0, 0
+  index: -1
+renwu02
+  rotate: false
+  xy: 2, 705
+  size: 946, 1332
+  orig: 946, 1333
+  offset: 0, 1
+  index: -1
+renwu03_01
+  rotate: false
+  xy: 1831, 914
+  size: 192, 266
+  orig: 192, 266
+  offset: 0, 0
+  index: -1
+renwu03_02
+  rotate: true
+  xy: 340, 40
+  size: 182, 226
+  orig: 182, 226
+  offset: 0, 0
+  index: -1
+renwu03_mohu
+  rotate: false
+  xy: 1831, 1182
+  size: 192, 272
+  orig: 201, 272
+  offset: 6, 0
+  index: -1
+renwu04
+  rotate: false
+  xy: 950, 692
+  size: 879, 1345
+  orig: 893, 1345
+  offset: 14, 0
+  index: -1
+renwu04_01
+  rotate: true
+  xy: 2, 2
+  size: 220, 336
+  orig: 223, 336
+  offset: 3, 0
+  index: -1
+renwu04_mohu
+  rotate: false
+  xy: 1814, 350
+  size: 231, 340
+  orig: 231, 340
+  offset: 0, 0
+  index: -1
+
+prologue4.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BOSS_guangquan
+  rotate: false
+  xy: 2, 4
+  size: 461, 460
+  orig: 466, 466
+  offset: 0, 5
+  index: -1
+XBOSS_02_02
+  rotate: true
+  xy: 465, 4
+  size: 361, 244
+  orig: 361, 254
+  offset: 0, 0
+  index: -1
+XBOSS_03
+  rotate: true
+  xy: 711, 4
+  size: 361, 244
+  orig: 361, 254
+  offset: 0, 0
+  index: -1
+XBOSS_guang01
+  rotate: false
+  xy: 1670, 183
+  size: 179, 179
+  orig: 194, 194
+  offset: 8, 7
+  index: -1
+XBOSS_guang03
+  rotate: false
+  xy: 1444, 3
+  size: 270, 178
+  orig: 270, 178
+  offset: 0, 0
+  index: -1
+renwu02_01
+  rotate: false
+  xy: 1205, 130
+  size: 237, 334
+  orig: 237, 334
+  offset: 0, 0
+  index: -1
+renwu02_02
+  rotate: false
+  xy: 1444, 183
+  size: 224, 281
+  orig: 225, 299
+  offset: 0, 18
+  index: -1
+renwu02_mohu
+  rotate: false
+  xy: 957, 26
+  size: 246, 339
+  orig: 246, 339
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+qianzi.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qianzi
+  rotate: false
+  xy: 2, 246
+  size: 1295, 1785
+  orig: 1295, 1785
+  offset: 0, 0
+  index: -1
+shuye_00000
+  rotate: false
+  xy: 2, 2
+  size: 892, 120
+  orig: 925, 255
+  offset: 17, 117
+  index: -1
+shuye_00001
+  rotate: true
+  xy: 1299, 246
+  size: 897, 119
+  orig: 925, 255
+  offset: 14, 99
+  index: -1
+shuye_00002
+  rotate: false
+  xy: 2, 124
+  size: 903, 120
+  orig: 925, 255
+  offset: 11, 71
+  index: -1
+shuye_00003
+  rotate: true
+  xy: 1299, 1188
+  size: 843, 122
+  orig: 925, 255
+  offset: 70, 40
+  index: -1
+shuye_00004
+  rotate: false
+  xy: 896, 31
+  size: 593, 91
+  orig: 925, 255
+  offset: 323, 23
+  index: -1
+shuye_00005
+  rotate: false
+  xy: 907, 124
+  size: 173, 34
+  orig: 925, 255
+  offset: 745, 39
+  index: -1

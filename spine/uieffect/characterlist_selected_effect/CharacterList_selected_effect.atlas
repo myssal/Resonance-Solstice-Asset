@@ -1,0 +1,20 @@
+
+CharacterList_selected_effect.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuang
+  rotate: false
+  xy: 2, 14
+  size: 275, 462
+  orig: 290, 480
+  offset: 8, 9
+  index: -1
+xian
+  rotate: false
+  xy: 279, 2
+  size: 102, 474
+  orig: 128, 512
+  offset: 12, 15
+  index: -1

@@ -1,0 +1,440 @@
+
+LH_Tara.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armback
+  rotate: true
+  xy: 1224, 93
+  size: 382, 475
+  orig: 382, 475
+  offset: 0, 0
+  index: -1
+armbackB
+  rotate: false
+  xy: 950, 236
+  size: 223, 230
+  orig: 223, 236
+  offset: 0, 0
+  index: -1
+armfrt
+  rotate: 270
+  xy: 1568, 293
+  size: 444, 477
+  orig: 444, 477
+  offset: 0, 0
+  index: -1
+armfrtB
+  rotate: false
+  xy: 1215, 1123
+  size: 198, 206
+  orig: 198, 217
+  offset: 0, 0
+  index: -1
+body
+  rotate: 270
+  xy: 988, 1193
+  size: 631, 860
+  orig: 631, 861
+  offset: 0, 1
+  index: -1
+buterflyleft
+  rotate: false
+  xy: 1137, 1002
+  size: 80, 214
+  orig: 81, 215
+  offset: 1, 0
+  index: -1
+buterflyright
+  rotate: false
+  xy: 1054, 465
+  size: 139, 204
+  orig: 139, 204
+  offset: 0, 0
+  index: -1
+bz
+  rotate: false
+  xy: 837, 1677
+  size: 146, 147
+  orig: 146, 148
+  offset: 0, 0
+  index: -1
+cap
+  rotate: 180
+  xy: 2, 193
+  size: 356, 325
+  orig: 356, 327
+  offset: 0, 0
+  index: -1
+clsA
+  rotate: false
+  xy: 1112, 380
+  size: 511, 285
+  orig: 514, 302
+  offset: 0, 0
+  index: -1
+clsB
+  rotate: false
+  xy: 6, 705
+  size: 454, 145
+  orig: 454, 145
+  offset: 0, 0
+  index: -1
+clsC
+  rotate: false
+  xy: 1879, 1511
+  size: 166, 88
+  orig: 166, 93
+  offset: 0, 0
+  index: -1
+clsD
+  rotate: false
+  xy: 1816, 1497
+  size: 75, 51
+  orig: 75, 54
+  offset: 0, 0
+  index: -1
+clsE
+  rotate: false
+  xy: 384, 1295
+  size: 127, 85
+  orig: 127, 89
+  offset: 0, 0
+  index: -1
+daizibackA
+  rotate: true
+  xy: 508, 97
+  size: 185, 695
+  orig: 185, 695
+  offset: 0, 0
+  index: -1
+daizibackB
+  rotate: true
+  xy: 215, 3
+  size: 279, 502
+  orig: 279, 502
+  offset: 0, 0
+  index: -1
+eaglebody
+  rotate: 180
+  xy: 982, 816
+  size: 1064, 674
+  orig: 1173, 720
+  offset: 0, 26
+  index: -1
+eaglemouthA
+  rotate: false
+  xy: 317, 1254
+  size: 122, 94
+  orig: 122, 94
+  offset: 0, 0
+  index: -1
+eaglemouthB
+  rotate: false
+  xy: 311, 1353
+  size: 99, 92
+  orig: 99, 92
+  offset: 0, 0
+  index: -1
+eaglewingA
+  rotate: false
+  xy: 2, 1148
+  size: 1094, 677
+  orig: 1094, 677
+  offset: 0, 0
+  index: -1
+eaglewingB
+  rotate: 180
+  xy: 1412, 627
+  size: 634, 469
+  orig: 637, 478
+  offset: 0, 0
+  index: -1
+eaglewingC
+  rotate: 270
+  xy: 2, 776
+  size: 542, 1026
+  orig: 542, 1026
+  offset: 0, 0
+  index: -1
+eaglewingD
+  rotate: false
+  xy: 1122, 6
+  size: 195, 325
+  orig: 195, 334
+  offset: 0, 9
+  index: -1
+eaglezz
+  rotate: false
+  xy: 1919, 1729
+  size: 98, 95
+  orig: 99, 108
+  offset: 1, 13
+  index: -1
+earleft
+  rotate: false
+  xy: 942, 1645
+  size: 56, 51
+  orig: 56, 51
+  offset: 0, 0
+  index: -1
+earright
+  rotate: false
+  xy: 1839, 1562
+  size: 49, 75
+  orig: 50, 75
+  offset: 0, 0
+  index: -1
+eyeA
+  rotate: false
+  xy: 760, 1738
+  size: 81, 88
+  orig: 81, 88
+  offset: 0, 0
+  index: -1
+eyeB
+  rotate: false
+  xy: 133, 1736
+  size: 87, 90
+  orig: 88, 91
+  offset: 1, 0
+  index: -1
+eyeC
+  rotate: false
+  xy: 248, 1801
+  size: 59, 24
+  orig: 59, 24
+  offset: 0, 0
+  index: -1
+eyeD
+  rotate: false
+  xy: 950, 1603
+  size: 63, 39
+  orig: 63, 39
+  offset: 0, 0
+  index: -1
+eyeballA
+  rotate: false
+  xy: 710, 1788
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+eyeballB
+  rotate: false
+  xy: 672, 1787
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+eyepi
+  rotate: false
+  xy: 449, 1224
+  size: 144, 78
+  orig: 144, 78
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 933, 991
+  size: 223, 239
+  orig: 224, 239
+  offset: 1, 0
+  index: -1
+facered
+  rotate: false
+  xy: 2, 892
+  size: 175, 109
+  orig: 175, 109
+  offset: 0, 0
+  index: -1
+figerA
+  rotate: false
+  xy: 209, 1777
+  size: 71, 48
+  orig: 76, 49
+  offset: 0, 1
+  index: -1
+figerB
+  rotate: false
+  xy: 970, 1797
+  size: 72, 28
+  orig: 72, 28
+  offset: 0, 0
+  index: -1
+hairback
+  rotate: false
+  xy: 2, 1333
+  size: 307, 180
+  orig: 307, 180
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 762, 148
+  size: 313, 178
+  orig: 324, 187
+  offset: 5, 3
+  index: -1
+legA
+  rotate: 270
+  xy: 2, 342
+  size: 356, 970
+  orig: 356, 970
+  offset: 0, 0
+  index: -1
+legB
+  rotate: true
+  xy: 507, 574
+  size: 386, 937
+  orig: 386, 937
+  offset: 0, 0
+  index: -1
+lineA
+  rotate: false
+  xy: 1621, 55
+  size: 399, 432
+  orig: 400, 433
+  offset: 0, 0
+  index: -1
+lineB
+  rotate: false
+  xy: 1751, 1016
+  size: 280, 263
+  orig: 280, 263
+  offset: 0, 0
+  index: -1
+lineC
+  rotate: false
+  xy: 1930, 1458
+  size: 117, 53
+  orig: 117, 53
+  offset: 0, 0
+  index: -1
+linebackbackA
+  rotate: false
+  xy: 1481, 1280
+  size: 183, 159
+  orig: 183, 159
+  offset: 0, 0
+  index: -1
+linebackbackB
+  rotate: false
+  xy: 1454, 1283
+  size: 50, 92
+  orig: 50, 92
+  offset: 0, 0
+  index: -1
+liuhaiA
+  rotate: false
+  xy: 289, 216
+  size: 298, 190
+  orig: 298, 190
+  offset: 0, 0
+  index: -1
+liuhaiB
+  rotate: false
+  xy: 2, 1623
+  size: 134, 202
+  orig: 134, 202
+  offset: 0, 0
+  index: -1
+liuhaiC
+  rotate: false
+  xy: 1841, 1581
+  size: 177, 244
+  orig: 177, 289
+  offset: 0, 45
+  index: -1
+liuhaiQ
+  rotate: false
+  xy: 1990, 1655
+  size: 52, 72
+  orig: 52, 72
+  offset: 0, 0
+  index: -1
+meiA
+  rotate: false
+  xy: 294, 1810
+  size: 61, 14
+  orig: 61, 14
+  offset: 0, 0
+  index: -1
+meiB
+  rotate: false
+  xy: 1042, 1799
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+meiC
+  rotate: false
+  xy: 620, 1793
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+meiD
+  rotate: false
+  xy: 577, 1803
+  size: 55, 21
+  orig: 55, 21
+  offset: 0, 0
+  index: -1
+mouthA
+  rotate: false
+  xy: 511, 1814
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+mouthB
+  rotate: false
+  xy: 2, 1807
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 129, 1805
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+whitehairleft
+  rotate: false
+  xy: 1957, 185
+  size: 88, 337
+  orig: 88, 337
+  offset: 0, 0
+  index: -1
+whitehairleftfaka
+  rotate: false
+  xy: 830, 1731
+  size: 27, 51
+  orig: 31, 51
+  offset: 1, 0
+  index: -1
+whitehairright
+  rotate: true
+  xy: 321, 58
+  size: 162, 309
+  orig: 162, 309
+  offset: 0, 0
+  index: -1
+whitehairrightfaka
+  rotate: false
+  xy: 838, 1779
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+图层 1 副本
+  rotate: false
+  xy: 551, 163
+  size: 222, 196
+  orig: 222, 196
+  offset: 0, 0
+  index: -1

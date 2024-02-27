@@ -1,0 +1,153 @@
+
+Verlaine_bot_effect.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/bullet0001
+  rotate: false
+  xy: 2, 677
+  size: 395, 116
+  orig: 447, 130
+  offset: 49, 12
+  index: -1
+images/effect/bullet0002
+  rotate: false
+  xy: 2, 1035
+  size: 402, 117
+  orig: 447, 130
+  offset: 41, 10
+  index: -1
+images/effect/bullet0003
+  rotate: false
+  xy: 2, 439
+  size: 387, 118
+  orig: 447, 130
+  offset: 57, 9
+  index: -1
+images/effect/bullet0005
+  rotate: false
+  xy: 2, 559
+  size: 395, 116
+  orig: 447, 130
+  offset: 49, 9
+  index: -1
+images/effect/bullet0006
+  rotate: false
+  xy: 2, 914
+  size: 392, 119
+  orig: 447, 130
+  offset: 53, 8
+  index: -1
+images/effect/bullet0008
+  rotate: false
+  xy: 2, 1154
+  size: 409, 121
+  orig: 447, 130
+  offset: 35, 7
+  index: -1
+images/effect/bullet0009
+  rotate: false
+  xy: 2, 1277
+  size: 428, 117
+  orig: 447, 130
+  offset: 15, 11
+  index: -1
+images/effect/bullet0011
+  rotate: false
+  xy: 2, 1516
+  size: 431, 123
+  orig: 447, 130
+  offset: 8, 3
+  index: -1
+images/effect/bullet0012
+  rotate: false
+  xy: 2, 1396
+  size: 428, 118
+  orig: 447, 130
+  offset: 12, 7
+  index: -1
+images/effect/bullet0014
+  rotate: false
+  xy: 2, 795
+  size: 394, 117
+  orig: 447, 130
+  offset: 46, 7
+  index: -1
+images/effect/bullet0015
+  rotate: false
+  xy: 2, 323
+  size: 376, 114
+  orig: 447, 130
+  offset: 64, 9
+  index: -1
+images/effect/bullet0017
+  rotate: false
+  xy: 2, 208
+  size: 379, 113
+  orig: 447, 130
+  offset: 63, 11
+  index: -1
+images/effect/glow
+  rotate: true
+  xy: 252, 1642
+  size: 230, 192
+  orig: 278, 235
+  offset: 24, 18
+  index: -1
+images/effect/kuo0000
+  rotate: false
+  xy: 2, 1641
+  size: 248, 248
+  orig: 271, 260
+  offset: 15, 8
+  index: -1
+images/effect/shoot0000
+  rotate: true
+  xy: 383, 217
+  size: 220, 178
+  orig: 256, 225
+  offset: 2, 7
+  index: -1
+images/effect/shoot0002
+  rotate: false
+  xy: 214, 19
+  size: 216, 187
+  orig: 256, 225
+  offset: 19, 7
+  index: -1
+images/effect/shoot0003
+  rotate: true
+  xy: 398, 836
+  size: 197, 191
+  orig: 256, 225
+  offset: 39, 8
+  index: -1
+images/effect/shoot0005
+  rotate: true
+  xy: 2, 2
+  size: 204, 210
+  orig: 256, 225
+  offset: 36, 4
+  index: -1
+images/effect/shoot0006
+  rotate: false
+  xy: 399, 630
+  size: 184, 204
+  orig: 256, 225
+  offset: 61, 3
+  index: -1
+images/effect/shoot0008
+  rotate: false
+  xy: 413, 1077
+  size: 180, 198
+  orig: 256, 225
+  offset: 69, 8
+  index: -1
+images/effect/shoot0009
+  rotate: false
+  xy: 432, 98
+  size: 151, 117
+  orig: 256, 225
+  offset: 100, 12
+  index: -1

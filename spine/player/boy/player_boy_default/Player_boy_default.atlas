@@ -1,0 +1,356 @@
+
+Player_boy_default.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: 270
+  xy: 1968, 645
+  size: 75, 67
+  orig: 75, 67
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 1388, 405
+  size: 69, 95
+  orig: 69, 95
+  offset: 0, 0
+  index: -1
+LH_N188
+  rotate: false
+  xy: 1252, 29
+  size: 98, 132
+  orig: 98, 132
+  offset: 0, 0
+  index: -1
+LH_N199
+  rotate: false
+  xy: 1856, 180
+  size: 150, 76
+  orig: 150, 76
+  offset: 0, 0
+  index: -1
+LH_N1meimoa
+  rotate: false
+  xy: 1384, 679
+  size: 61, 41
+  orig: 61, 41
+  offset: 0, 0
+  index: -1
+LH_NLHyanbi
+  rotate: true
+  xy: 1047, 584
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+LH_Nboai55
+  rotate: true
+  xy: 1338, 75
+  size: 162, 197
+  orig: 162, 197
+  offset: 0, 0
+  index: -1
+LH_Ngoaubi15
+  rotate: false
+  xy: 787, 205
+  size: 315, 516
+  orig: 326, 516
+  offset: 0, 0
+  index: -1
+LH_Ngoubijh
+  rotate: 270
+  xy: 1103, 206
+  size: 204, 314
+  orig: 204, 314
+  offset: 0, 0
+  index: -1
+LH_Ngoufa13333
+  rotate: true
+  xy: 442, 5
+  size: 132, 166
+  orig: 132, 166
+  offset: 0, 0
+  index: -1
+LH_Ngoufa201
+  rotate: 180
+  xy: 149, 25
+  size: 126, 128
+  orig: 126, 128
+  offset: 0, 0
+  index: -1
+LH_Ngoupijiu
+  rotate: false
+  xy: 1608, 104
+  size: 396, 244
+  orig: 396, 244
+  offset: 0, 0
+  index: -1
+LH_Nmeimao2
+  rotate: false
+  xy: 378, 705
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+LH_Nnianan
+  rotate: true
+  xy: 1086, 411
+  size: 309, 295
+  orig: 309, 295
+  offset: 0, 0
+  index: -1
+LH_Npizi
+  rotate: false
+  xy: 1036, 672
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+LH_Nshengi
+  rotate: false
+  xy: 2, 197
+  size: 514, 524
+  orig: 514, 542
+  offset: 0, 18
+  index: -1
+LH_Nshlouzh22
+  rotate: false
+  xy: 308, 32
+  size: 214, 123
+  orig: 214, 123
+  offset: 0, 0
+  index: -1
+LH_Nshlouzh33
+  rotate: 180
+  xy: 1550, 21
+  size: 212, 90
+  orig: 212, 90
+  offset: 0, 0
+  index: -1
+LH_Nshlouzh55
+  rotate: 180
+  xy: 2, 96
+  size: 243, 174
+  orig: 258, 174
+  offset: 15, 0
+  index: -1
+LH_Nshlouzhi11
+  rotate: true
+  xy: 865, 29
+  size: 107, 150
+  orig: 107, 150
+  offset: 0, 0
+  index: -1
+LH_Nshlouzhmianko
+  rotate: true
+  xy: 517, 273
+  size: 447, 267
+  orig: 447, 267
+  offset: 0, 0
+  index: -1
+LH_Ntofiufa1447
+  rotate: true
+  xy: 950, 94
+  size: 126, 150
+  orig: 126, 150
+  offset: 0, 0
+  index: -1
+LH_Ntoufa144
+  rotate: false
+  xy: 1468, 69
+  size: 227, 70
+  orig: 227, 70
+  offset: 0, 0
+  index: -1
+LH_Ntoufa155
+  rotate: false
+  xy: 473, 66
+  size: 267, 142
+  orig: 267, 148
+  offset: 0, 0
+  index: -1
+LH_Ntoufa166
+  rotate: 180
+  xy: 787, 228
+  size: 93, 155
+  orig: 93, 155
+  offset: 0, 0
+  index: -1
+LH_Ntoufa200
+  rotate: true
+  xy: 1352, 3
+  size: 120, 109
+  orig: 124, 109
+  offset: 4, 0
+  index: -1
+LH_Ntoufa6589
+  rotate: false
+  xy: 1663, 675
+  size: 21, 45
+  orig: 21, 45
+  offset: 0, 0
+  index: -1
+LH_Ntoufao1
+  rotate: 180
+  xy: 252, 74
+  size: 259, 183
+  orig: 259, 183
+  offset: 0, 0
+  index: -1
+LH_Ntoufao113
+  rotate: 270
+  xy: 738, 44
+  size: 117, 161
+  orig: 117, 161
+  offset: 0, 0
+  index: -1
+LH_Ntoufao13
+  rotate: true
+  xy: 1509, 105
+  size: 180, 249
+  orig: 180, 249
+  offset: 0, 0
+  index: -1
+LH_Ntoufao14
+  rotate: true
+  xy: 1703, 246
+  size: 239, 287
+  orig: 239, 287
+  offset: 0, 0
+  index: -1
+LH_Ntoufao16
+  rotate: 180
+  xy: 1094, 103
+  size: 286, 163
+  orig: 286, 163
+  offset: 0, 0
+  index: -1
+LH_Ntoufao17
+  rotate: false
+  xy: 619, 14
+  size: 161, 65
+  orig: 161, 65
+  offset: 0, 0
+  index: -1
+LH_Ntoufao556
+  rotate: 270
+  xy: 1844, 548
+  size: 173, 183
+  orig: 173, 183
+  offset: 0, 0
+  index: -1
+LH_Nyabiai
+  rotate: false
+  xy: 1606, 666
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+LH_Nyajian
+  rotate: false
+  xy: 1833, 690
+  size: 10, 31
+  orig: 10, 31
+  offset: 0, 0
+  index: -1
+LH_Nyanpi2
+  rotate: true
+  xy: 2, 675
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+LH_Nyanpi3
+  rotate: false
+  xy: 489, 702
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+LH_Nyanzhu2
+  rotate: false
+  xy: 1447, 697
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+LH_Nyapi
+  rotate: 180
+  xy: 1766, 668
+  size: 73, 52
+  orig: 73, 52
+  offset: 0, 0
+  index: -1
+LH_Nyapzhu
+  rotate: false
+  xy: 1565, 687
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+LH_Nyifau2524
+  rotate: false
+  xy: 1760, 23
+  size: 158, 149
+  orig: 159, 149
+  offset: 0, 0
+  index: -1
+LH_Nyifu11
+  rotate: 270
+  xy: 1381, 230
+  size: 490, 358
+  orig: 490, 358
+  offset: 0, 0
+  index: -1
+LH_Nyifu1225
+  rotate: 270
+  xy: 3, 11
+  size: 89, 150
+  orig: 89, 150
+  offset: 0, 0
+  index: -1
+LH_Nyifu22
+  rotate: false
+  xy: 1384, 475
+  size: 108, 152
+  orig: 108, 152
+  offset: 0, 0
+  index: -1
+LH_Nyifu233
+  rotate: true
+  xy: 448, 138
+  size: 185, 471
+  orig: 185, 471
+  offset: 0, 0
+  index: -1
+LH_Nyifu44
+  rotate: 180
+  xy: 1665, 360
+  size: 355, 360
+  orig: 359, 360
+  offset: 4, 0
+  index: -1
+LH_Nyiugi6
+  rotate: true
+  xy: 1024, 34
+  size: 64, 196
+  orig: 64, 196
+  offset: 0, 0
+  index: -1
+LH_Nzui1
+  rotate: false
+  xy: 1042, 648
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+LH_Nzui22
+  rotate: false
+  xy: 1045, 624
+  size: 38, 22
+  orig: 38, 22
+  offset: 0, 0
+  index: -1

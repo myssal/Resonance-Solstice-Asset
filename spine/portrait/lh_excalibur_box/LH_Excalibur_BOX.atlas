@@ -1,0 +1,258 @@
+
+LH_Excalibur_BOX.png
+size: 512,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: true
+  xy: 339, 1020
+  size: 182, 53
+  orig: 198, 56
+  offset: 4, 3
+  index: -1
+11
+  rotate: true
+  xy: 308, 270
+  size: 193, 58
+  orig: 205, 59
+  offset: 12, 0
+  index: -1
+13
+  rotate: false
+  xy: 319, 1204
+  size: 102, 100
+  orig: 102, 101
+  offset: 0, 1
+  index: -1
+14
+  rotate: true
+  xy: 375, 250
+  size: 115, 60
+  orig: 125, 77
+  offset: 3, 16
+  index: -1
+15
+  rotate: false
+  xy: 398, 33
+  size: 42, 30
+  orig: 51, 38
+  offset: 4, 8
+  index: -1
+16
+  rotate: true
+  xy: 213, 985
+  size: 170, 124
+  orig: 172, 140
+  offset: 0, 15
+  index: -1
+17
+  rotate: false
+  xy: 2, 530
+  size: 177, 277
+  orig: 180, 279
+  offset: 3, 2
+  index: -1
+18
+  rotate: true
+  xy: 2, 2
+  size: 145, 211
+  orig: 148, 221
+  offset: 1, 0
+  index: -1
+19
+  rotate: false
+  xy: 164, 317
+  size: 141, 211
+  orig: 144, 221
+  offset: 1, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 311
+  size: 160, 217
+  orig: 165, 223
+  offset: 5, 2
+  index: -1
+20
+  rotate: true
+  xy: 2, 149
+  size: 160, 209
+  orig: 193, 212
+  offset: 4, 0
+  index: -1
+21
+  rotate: true
+  xy: 368, 367
+  size: 96, 85
+  orig: 104, 85
+  offset: 5, 0
+  index: -1
+22
+  rotate: false
+  xy: 213, 1365
+  size: 104, 215
+  orig: 105, 222
+  offset: 1, 1
+  index: -1
+23
+  rotate: false
+  xy: 402, 765
+  size: 24, 40
+  orig: 29, 44
+  offset: 3, 3
+  index: -1
+24
+  rotate: false
+  xy: 398, 65
+  size: 54, 31
+  orig: 63, 31
+  offset: 5, 0
+  index: -1
+25
+  rotate: false
+  xy: 307, 617
+  size: 138, 146
+  orig: 138, 146
+  offset: 0, 0
+  index: -1
+26
+  rotate: false
+  xy: 342, 1910
+  size: 89, 97
+  orig: 89, 97
+  offset: 0, 0
+  index: -1
+27
+  rotate: false
+  xy: 357, 961
+  size: 52, 57
+  orig: 54, 57
+  offset: 2, 0
+  index: -1
+28
+  rotate: true
+  xy: 375, 167
+  size: 81, 79
+  orig: 81, 88
+  offset: 0, 9
+  index: -1
+29
+  rotate: false
+  xy: 386, 1408
+  size: 25, 63
+  orig: 29, 73
+  offset: 2, 2
+  index: -1
+3
+  rotate: false
+  xy: 215, 87
+  size: 91, 228
+  orig: 108, 248
+  offset: 3, 19
+  index: -1
+30
+  rotate: false
+  xy: 2, 809
+  size: 209, 1198
+  orig: 209, 1199
+  offset: 0, 1
+  index: -1
+31
+  rotate: false
+  xy: 307, 465
+  size: 133, 150
+  orig: 141, 150
+  offset: 0, 0
+  index: -1
+32
+  rotate: false
+  xy: 328, 1691
+  size: 107, 95
+  orig: 116, 95
+  offset: 6, 0
+  index: -1
+33
+  rotate: false
+  xy: 307, 765
+  size: 93, 218
+  orig: 93, 218
+  offset: 0, 0
+  index: -1
+34
+  rotate: false
+  xy: 342, 1794
+  size: 72, 114
+  orig: 72, 114
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 213, 1157
+  size: 104, 206
+  orig: 127, 257
+  offset: 0, 51
+  index: -1
+5
+  rotate: false
+  xy: 181, 579
+  size: 124, 228
+  orig: 137, 234
+  offset: 4, 0
+  index: -1
+6
+  rotate: false
+  xy: 213, 1582
+  size: 113, 204
+  orig: 121, 209
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 319, 1306
+  size: 107, 100
+  orig: 119, 108
+  offset: 4, 8
+  index: -1
+8
+  rotate: false
+  xy: 328, 1597
+  size: 100, 92
+  orig: 111, 100
+  offset: 3, 8
+  index: -1
+9
+  rotate: false
+  xy: 213, 1788
+  size: 127, 219
+  orig: 134, 226
+  offset: 0, 0
+  index: -1
+bq_01
+  rotate: true
+  xy: 308, 96
+  size: 172, 65
+  orig: 172, 65
+  offset: 0, 0
+  index: -1
+bq_02
+  rotate: false
+  xy: 215, 20
+  size: 182, 65
+  orig: 182, 65
+  offset: 0, 0
+  index: -1
+bq_03
+  rotate: true
+  xy: 319, 1408
+  size: 172, 65
+  orig: 172, 65
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 375, 98
+  size: 77, 67
+  orig: 77, 77
+  offset: 0, 5
+  index: -1

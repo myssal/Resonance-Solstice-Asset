@@ -1,0 +1,48 @@
+
+juqing_UI.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yinwen2_000
+  rotate: false
+  xy: 2, 434
+  size: 499, 142
+  orig: 500, 150
+  offset: 1, 4
+  index: -1
+yinwen2_001
+  rotate: false
+  xy: 2, 722
+  size: 500, 142
+  orig: 500, 150
+  offset: 0, 4
+  index: -1
+yinwen2_002
+  rotate: false
+  xy: 2, 2
+  size: 496, 142
+  orig: 500, 150
+  offset: 0, 4
+  index: -1
+yinwen_000
+  rotate: false
+  xy: 2, 290
+  size: 499, 142
+  orig: 500, 150
+  offset: 1, 4
+  index: -1
+yinwen_001
+  rotate: false
+  xy: 2, 578
+  size: 500, 142
+  orig: 500, 150
+  offset: 0, 4
+  index: -1
+yinwen_002
+  rotate: false
+  xy: 2, 146
+  size: 499, 142
+  orig: 500, 150
+  offset: 0, 4
+  index: -1

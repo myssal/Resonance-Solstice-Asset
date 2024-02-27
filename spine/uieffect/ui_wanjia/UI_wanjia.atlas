@@ -1,0 +1,20 @@
+
+UI_wanjia.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diwen
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+zouguang
+  rotate: false
+  xy: 260, 58
+  size: 49, 200
+  orig: 200, 200
+  offset: 71, 0
+  index: -1

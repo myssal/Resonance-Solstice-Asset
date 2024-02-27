@@ -1,0 +1,111 @@
+
+LH_Mole.png
+size: 512,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ysld_0
+  rotate: true
+  xy: 2, 487
+  size: 185, 291
+  orig: 189, 291
+  offset: 0, 0
+  index: -1
+ysld_1
+  rotate: false
+  xy: 248, 879
+  size: 146, 652
+  orig: 146, 654
+  offset: 0, 2
+  index: -1
+ysld_10
+  rotate: false
+  xy: 2, 1268
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+ysld_11
+  rotate: 180
+  xy: 2, 3
+  size: 244, 64
+  orig: 244, 64
+  offset: 0, 0
+  index: -1
+ysld_12
+  rotate: false
+  xy: 2, 1184
+  size: 258, 453
+  orig: 258, 455
+  offset: 0, 2
+  index: -1
+ysld_13
+  rotate: false
+  xy: 250, 1548
+  size: 69, 83
+  orig: 69, 83
+  offset: 0, 0
+  index: -1
+ysld_14
+  rotate: false
+  xy: 55, 640
+  size: 320, 244
+  orig: 320, 244
+  offset: 0, 0
+  index: -1
+ysld_2
+  rotate: false
+  xy: 312, 1505
+  size: 70, 102
+  orig: 70, 102
+  offset: 0, 0
+  index: -1
+ysld_3
+  rotate: true
+  xy: 162, 160
+  size: 135, 216
+  orig: 135, 216
+  offset: 0, 0
+  index: -1
+ysld_4
+  rotate: false
+  xy: 173, 583
+  size: 211, 51
+  orig: 211, 51
+  offset: 0, 0
+  index: -1
+ysld_5
+  rotate: 180
+  xy: 199, 51
+  size: 192, 121
+  orig: 192, 121
+  offset: 0, 0
+  index: -1
+ysld_6
+  rotate: 270
+  xy: 2, 861
+  size: 335, 296
+  orig: 335, 296
+  offset: 0, 0
+  index: -1
+ysld_7
+  rotate: true
+  xy: 35, 205
+  size: 227, 353
+  orig: 227, 353
+  offset: 0, 0
+  index: -1
+ysld_8
+  rotate: false
+  xy: 176, 383
+  size: 218, 166
+  orig: 218, 166
+  offset: 0, 0
+  index: -1
+ysld_9
+  rotate: true
+  xy: 2, 54
+  size: 190, 184
+  orig: 190, 184
+  offset: 0, 0
+  index: -1

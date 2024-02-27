@@ -1,0 +1,243 @@
+
+LH_Akira_sp.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai
+  rotate: false
+  xy: 1969, 1894
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+huang_1
+  rotate: false
+  xy: 429, 417
+  size: 277, 266
+  orig: 277, 266
+  offset: 0, 0
+  index: -1
+huang_10
+  rotate: false
+  xy: 1910, 1494
+  size: 105, 10
+  orig: 106, 10
+  offset: 1, 0
+  index: -1
+huang_11
+  rotate: false
+  xy: 1417, 1523
+  size: 77, 41
+  orig: 77, 41
+  offset: 0, 0
+  index: -1
+huang_12
+  rotate: false
+  xy: 1877, 1540
+  size: 86, 37
+  orig: 87, 37
+  offset: 0, 0
+  index: -1
+huang_13
+  rotate: false
+  xy: 1946, 1506
+  size: 56, 33
+  orig: 56, 33
+  offset: 0, 0
+  index: -1
+huang_14
+  rotate: false
+  xy: 1430, 1880
+  size: 37, 34
+  orig: 38, 35
+  offset: 1, 1
+  index: -1
+huang_15
+  rotate: false
+  xy: 1908, 1726
+  size: 70, 34
+  orig: 70, 34
+  offset: 0, 0
+  index: -1
+huang_17
+  rotate: false
+  xy: 1713, 1074
+  size: 296, 357
+  orig: 296, 357
+  offset: 0, 0
+  index: -1
+huang_18
+  rotate: false
+  xy: 1972, 1650
+  size: 74, 133
+  orig: 74, 133
+  offset: 0, 0
+  index: -1
+huang_19
+  rotate: false
+  xy: 990, 1120
+  size: 160, 163
+  orig: 160, 163
+  offset: 0, 0
+  index: -1
+huang_2
+  rotate: true
+  xy: 1230, 1560
+  size: 354, 198
+  orig: 354, 198
+  offset: 0, 0
+  index: -1
+huang_21
+  rotate: false
+  xy: 2, 3
+  size: 720, 681
+  orig: 720, 681
+  offset: 0, 0
+  index: -1
+huang_22
+  rotate: false
+  xy: 1230, 1459
+  size: 131, 99
+  orig: 131, 99
+  offset: 0, 0
+  index: -1
+huang_24
+  rotate: false
+  xy: 1092, 329
+  size: 954, 1153
+  orig: 954, 1161
+  offset: 0, 8
+  index: -1
+huang_25
+  rotate: false
+  xy: 724, 9
+  size: 560, 675
+  orig: 560, 696
+  offset: 0, 21
+  index: -1
+huang_27
+  rotate: false
+  xy: 1286, 28
+  size: 318, 388
+  orig: 318, 388
+  offset: 0, 0
+  index: -1
+huang_28
+  rotate: false
+  xy: 1442, 1433
+  size: 561, 482
+  orig: 561, 482
+  offset: 0, 0
+  index: -1
+huang_29
+  rotate: true
+  xy: 1824, 831
+  size: 241, 218
+  orig: 242, 218
+  offset: 1, 0
+  index: -1
+huang_30
+  rotate: false
+  xy: 1606, 59
+  size: 339, 267
+  orig: 339, 267
+  offset: 0, 0
+  index: -1
+huang_31
+  rotate: true
+  xy: 2, 685
+  size: 598, 986
+  orig: 598, 986
+  offset: 0, 0
+  index: -1
+huang_37
+  rotate: false
+  xy: 2, 1285
+  size: 1226, 629
+  orig: 1226, 629
+  offset: 0, 0
+  index: -1
+huang_4
+  rotate: false
+  xy: 1469, 1878
+  size: 62, 36
+  orig: 62, 36
+  offset: 0, 0
+  index: -1
+huang_5_1
+  rotate: true
+  xy: 1778, 1538
+  size: 212, 267
+  orig: 212, 267
+  offset: 0, 0
+  index: -1
+huang_6
+  rotate: false
+  xy: 533, 509
+  size: 214, 174
+  orig: 214, 174
+  offset: 0, 0
+  index: -1
+huang_7
+  rotate: false
+  xy: 2005, 1795
+  size: 39, 119
+  orig: 39, 119
+  offset: 0, 0
+  index: -1
+huang_8
+  rotate: false
+  xy: 1424, 1481
+  size: 86, 46
+  orig: 86, 46
+  offset: 0, 0
+  index: -1
+huang_9
+  rotate: false
+  xy: 1719, 1667
+  size: 57, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+
+LH_Akira_sp2.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huang_16
+  rotate: 270
+  xy: 170, 141
+  size: 474, 440
+  orig: 474, 440
+  offset: 0, 0
+  index: -1
+huang_20
+  rotate: true
+  xy: 507, 1393
+  size: 308, 203
+  orig: 308, 203
+  offset: 0, 0
+  index: -1
+huang_23
+  rotate: false
+  xy: 2, 946
+  size: 704, 755
+  orig: 704, 755
+  offset: 0, 0
+  index: -1
+huang_26
+  rotate: 270
+  xy: 2, 88
+  size: 1140, 601
+  orig: 1140, 601
+  offset: 0, 0
+  index: -1
+huang_3
+  rotate: 270
+  xy: 452, 4
+  size: 295, 253
+  orig: 295, 253
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,467 @@
+
+LH_Valentine_sp.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai
+  rotate: false
+  xy: 2, 804
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+wld_13
+  rotate: false
+  xy: 291, 765
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+wld_16
+  rotate: false
+  xy: 2, 301
+  size: 1411, 412
+  orig: 1422, 413
+  offset: 11, 0
+  index: -1
+wld_17
+  rotate: false
+  xy: 1493, 559
+  size: 145, 316
+  orig: 145, 316
+  offset: 0, 0
+  index: -1
+wld_21
+  rotate: false
+  xy: 2, 1104
+  size: 924, 934
+  orig: 932, 935
+  offset: 8, 1
+  index: -1
+wld_23
+  rotate: true
+  xy: 1493, 877
+  size: 629, 454
+  orig: 629, 454
+  offset: 0, 0
+  index: -1
+wld_25
+  rotate: true
+  xy: 2, 816
+  size: 286, 566
+  orig: 286, 566
+  offset: 0, 0
+  index: -1
+wld_27
+  rotate: false
+  xy: 1493, 1508
+  size: 329, 410
+  orig: 329, 410
+  offset: 0, 0
+  index: -1
+wld_28
+  rotate: 180
+  xy: 1928, 1246
+  size: 117, 351
+  orig: 117, 351
+  offset: 0, 0
+  index: -1
+wld_29
+  rotate: false
+  xy: 1905, 347
+  size: 127, 271
+  orig: 127, 271
+  offset: 0, 0
+  index: -1
+wld_30
+  rotate: false
+  xy: 182, 729
+  size: 64, 11
+  orig: 64, 11
+  offset: 0, 0
+  index: -1
+wld_31
+  rotate: false
+  xy: 1493, 1956
+  size: 202, 82
+  orig: 203, 82
+  offset: 1, 0
+  index: -1
+wld_33
+  rotate: false
+  xy: 461, 17
+  size: 133, 89
+  orig: 133, 89
+  offset: 0, 0
+  index: -1
+wld_37
+  rotate: true
+  xy: 2, 724
+  size: 91, 312
+  orig: 91, 312
+  offset: 0, 0
+  index: -1
+wld_39
+  rotate: 180
+  xy: 1640, 671
+  size: 171, 204
+  orig: 171, 204
+  offset: 0, 0
+  index: -1
+wld_40
+  rotate: true
+  xy: 2, 8
+  size: 228, 328
+  orig: 228, 328
+  offset: 0, 0
+  index: -1
+wld_42
+  rotate: false
+  xy: 261, 790
+  size: 51, 24
+  orig: 51, 24
+  offset: 0, 0
+  index: -1
+wld_43
+  rotate: false
+  xy: 735, 716
+  size: 66, 42
+  orig: 66, 42
+  offset: 0, 0
+  index: -1
+wld_44
+  rotate: false
+  xy: 871, 867
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+wld_45
+  rotate: false
+  xy: 861, 716
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+wld_46
+  rotate: false
+  xy: 871, 1032
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+wld_47
+  rotate: false
+  xy: 871, 936
+  size: 45, 36
+  orig: 45, 36
+  offset: 0, 0
+  index: -1
+wld_48
+  rotate: false
+  xy: 871, 1004
+  size: 50, 26
+  orig: 50, 26
+  offset: 0, 0
+  index: -1
+wld_49
+  rotate: false
+  xy: 856, 792
+  size: 64, 51
+  orig: 64, 51
+  offset: 0, 0
+  index: -1
+wld_50
+  rotate: false
+  xy: 657, 715
+  size: 66, 30
+  orig: 66, 30
+  offset: 0, 0
+  index: -1
+wld_51
+  rotate: false
+  xy: 871, 973
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+wld_52
+  rotate: false
+  xy: 871, 908
+  size: 53, 29
+  orig: 53, 29
+  offset: 0, 0
+  index: -1
+wld_53
+  rotate: false
+  xy: 137, 715
+  size: 43, 21
+  orig: 43, 21
+  offset: 0, 0
+  index: -1
+wld_56
+  rotate: false
+  xy: 871, 1068
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+wld_57
+  rotate: false
+  xy: 1697, 1970
+  size: 109, 68
+  orig: 109, 68
+  offset: 0, 0
+  index: -1
+wld_58
+  rotate: false
+  xy: 316, 721
+  size: 156, 93
+  orig: 156, 93
+  offset: 0, 0
+  index: -1
+wld_59
+  rotate: true
+  xy: 1824, 1599
+  size: 439, 214
+  orig: 439, 214
+  offset: 0, 0
+  index: -1
+wld_61_1
+  rotate: 270
+  xy: 1144, 52
+  size: 823, 889
+  orig: 823, 889
+  offset: 0, 0
+  index: -1
+wld_64
+  rotate: false
+  xy: 1697, 1921
+  size: 90, 47
+  orig: 90, 47
+  offset: 0, 0
+  index: -1
+wld_68
+  rotate: false
+  xy: 570, 845
+  size: 299, 257
+  orig: 299, 257
+  offset: 0, 0
+  index: -1
+wld_72
+  rotate: true
+  xy: 497, 716
+  size: 115, 383
+  orig: 115, 383
+  offset: 0, 0
+  index: -1
+wld_75
+  rotate: true
+  xy: 1398, 4
+  size: 125, 325
+  orig: 125, 325
+  offset: 0, 0
+  index: -1
+wld_77_1
+  rotate: 270
+  xy: 42, 10
+  size: 286, 1361
+  orig: 329, 1361
+  offset: 0, 0
+  index: -1
+wld_79
+  rotate: true
+  xy: 928, 715
+  size: 1323, 563
+  orig: 1323, 563
+  offset: 0, 0
+  index: -1
+
+LH_Valentine_sp2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wld_0
+  rotate: false
+  xy: 756, 1538
+  size: 496, 187
+  orig: 496, 206
+  offset: 0, 3
+  index: -1
+wld_14
+  rotate: false
+  xy: 1748, 1399
+  size: 222, 326
+  orig: 223, 327
+  offset: 0, 1
+  index: -1
+wld_15
+  rotate: false
+  xy: 1345, 674
+  size: 473, 277
+  orig: 476, 278
+  offset: 2, 1
+  index: -1
+wld_22
+  rotate: 270
+  xy: 1187, 87
+  size: 946, 858
+  orig: 946, 858
+  offset: 0, 0
+  index: -1
+wld_24_1
+  rotate: false
+  xy: 909, 902
+  size: 1065, 270
+  orig: 1065, 298
+  offset: 0, 28
+  index: -1
+wld_26
+  rotate: 270
+  xy: 781, 368
+  size: 636, 676
+  orig: 636, 676
+  offset: 0, 0
+  index: -1
+wld_32
+  rotate: false
+  xy: 1646, 219
+  size: 400, 241
+  orig: 400, 241
+  offset: 0, 0
+  index: -1
+wld_34
+  rotate: 270
+  xy: 253, 3
+  size: 442, 677
+  orig: 442, 677
+  offset: 0, 0
+  index: -1
+wld_35
+  rotate: false
+  xy: 2, 620
+  size: 621, 398
+  orig: 621, 398
+  offset: 0, 0
+  index: -1
+wld_36
+  rotate: false
+  xy: 820, 1082
+  size: 129, 248
+  orig: 129, 248
+  offset: 0, 0
+  index: -1
+wld_38
+  rotate: false
+  xy: 1929, 45
+  size: 117, 366
+  orig: 117, 366
+  offset: 0, 0
+  index: -1
+wld_41
+  rotate: false
+  xy: 1539, 26
+  size: 196, 348
+  orig: 196, 348
+  offset: 0, 0
+  index: -1
+wld_54
+  rotate: false
+  xy: 1775, 1183
+  size: 233, 215
+  orig: 233, 215
+  offset: 0, 0
+  index: -1
+wld_55
+  rotate: false
+  xy: 1207, 1307
+  size: 253, 286
+  orig: 253, 286
+  offset: 0, 0
+  index: -1
+wld_60
+  rotate: false
+  xy: 2, 428
+  size: 929, 248
+  orig: 929, 248
+  offset: 0, 0
+  index: -1
+wld_62_1
+  rotate: false
+  xy: 2, 851
+  size: 817, 875
+  orig: 817, 875
+  offset: 0, 0
+  index: -1
+wld_63_1
+  rotate: false
+  xy: 932, 219
+  size: 220, 306
+  orig: 240, 309
+  offset: 19, 3
+  index: -1
+wld_65
+  rotate: false
+  xy: 242, 63
+  size: 129, 410
+  orig: 129, 410
+  offset: 0, 0
+  index: -1
+wld_66
+  rotate: false
+  xy: 331, 280
+  size: 371, 178
+  orig: 371, 178
+  offset: 0, 0
+  index: -1
+wld_67
+  rotate: false
+  xy: 1068, 500
+  size: 478, 431
+  orig: 478, 431
+  offset: 0, 0
+  index: -1
+wld_70
+  rotate: false
+  xy: 811, 64
+  size: 198, 316
+  orig: 198, 316
+  offset: 0, 0
+  index: -1
+wld_71
+  rotate: false
+  xy: 146, 122
+  size: 161, 376
+  orig: 161, 376
+  offset: 0, 0
+  index: -1
+wld_73
+  rotate: false
+  xy: 529, 577
+  size: 302, 267
+  orig: 302, 267
+  offset: 0, 0
+  index: -1
+wld_74
+  rotate: true
+  xy: 621, 557
+  size: 149, 352
+  orig: 149, 352
+  offset: 0, 0
+  index: -1
+wld_76
+  rotate: false
+  xy: 2, 132
+  size: 182, 403
+  orig: 182, 403
+  offset: 0, 0
+  index: -1
+wld_78
+  rotate: false
+  xy: 594, 1122
+  size: 1180, 603
+  orig: 1180, 603
+  offset: 0, 0
+  index: -1

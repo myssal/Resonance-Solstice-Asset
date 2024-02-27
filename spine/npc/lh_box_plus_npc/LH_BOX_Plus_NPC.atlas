@@ -1,0 +1,202 @@
+
+LH_BOX_Plus_NPC.png
+size: 512,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_1
+  rotate: false
+  xy: 236, 111
+  size: 137, 40
+  orig: 142, 46
+  offset: 2, 2
+  index: -1
+1_10
+  rotate: true
+  xy: 157, 100
+  size: 75, 77
+  orig: 75, 77
+  offset: 0, 0
+  index: -1
+1_11
+  rotate: false
+  xy: 2, 32
+  size: 161, 22
+  orig: 161, 22
+  offset: 0, 0
+  index: -1
+1_12
+  rotate: false
+  xy: 2, 4
+  size: 112, 26
+  orig: 112, 26
+  offset: 0, 0
+  index: -1
+1_13
+  rotate: 270
+  xy: 2, 349
+  size: 80, 274
+  orig: 80, 274
+  offset: 0, 0
+  index: -1
+1_14
+  rotate: true
+  xy: 335, 453
+  size: 143, 68
+  orig: 143, 68
+  offset: 0, 0
+  index: -1
+1_15
+  rotate: false
+  xy: 283, 1138
+  size: 45, 59
+  orig: 45, 59
+  offset: 0, 0
+  index: -1
+1_16
+  rotate: false
+  xy: 2, 57
+  size: 83, 124
+  orig: 83, 124
+  offset: 0, 0
+  index: -1
+1_17
+  rotate: false
+  xy: 138, 984
+  size: 46, 164
+  orig: 46, 164
+  offset: 0, 0
+  index: -1
+1_18
+  rotate: false
+  xy: 282, 1199
+  size: 107, 79
+  orig: 107, 79
+  offset: 0, 0
+  index: -1
+1_19
+  rotate: 180
+  xy: 165, 936
+  size: 129, 366
+  orig: 129, 366
+  offset: 0, 0
+  index: -1
+1_2
+  rotate: false
+  xy: 87, 58
+  size: 136, 36
+  orig: 143, 39
+  offset: 3, 0
+  index: -1
+1_20
+  rotate: true
+  xy: 2, 698
+  size: 177, 368
+  orig: 177, 368
+  offset: 0, 0
+  index: -1
+1_21
+  rotate: false
+  xy: 2, 806
+  size: 217, 495
+  orig: 217, 495
+  offset: 0, 0
+  index: -1
+1_22
+  rotate: 270
+  xy: 104, 607
+  size: 124, 284
+  orig: 503, 467
+  offset: 0, 183
+  index: -1
+1_23
+  rotate: true
+  xy: 239, 290
+  size: 161, 163
+  orig: 161, 163
+  offset: 0, 0
+  index: -1
+1_24
+  rotate: false
+  xy: 291, 877
+  size: 115, 320
+  orig: 115, 320
+  offset: 0, 0
+  index: -1
+1_25
+  rotate: 270
+  xy: 2, 210
+  size: 112, 244
+  orig: 112, 244
+  offset: 0, 0
+  index: -1
+1_26
+  rotate: 270
+  xy: 240, 193
+  size: 96, 164
+  orig: 97, 164
+  offset: 0, 0
+  index: -1
+1_27
+  rotate: 270
+  xy: 2, 422
+  size: 87, 332
+  orig: 87, 332
+  offset: 0, 0
+  index: -1
+1_28
+  rotate: true
+  xy: 2, 504
+  size: 107, 282
+  orig: 368, 484
+  offset: 0, 202
+  index: -1
+1_3
+  rotate: true
+  xy: 371, 698
+  size: 157, 38
+  orig: 157, 38
+  offset: 0, 0
+  index: -1
+1_4
+  rotate: true
+  xy: 135, 1150
+  size: 140, 39
+  orig: 156, 49
+  offset: 8, 6
+  index: -1
+1_5
+  rotate: false
+  xy: 236, 78
+  size: 157, 32
+  orig: 157, 32
+  offset: 0, 0
+  index: -1
+1_6
+  rotate: false
+  xy: 225, 4
+  size: 108, 71
+  orig: 108, 71
+  offset: 0, 0
+  index: -1
+1_7
+  rotate: 180
+  xy: 65, 172
+  size: 185, 44
+  orig: 185, 46
+  offset: 0, 2
+  index: -1
+1_8
+  rotate: false
+  xy: 251, 153
+  size: 159, 38
+  orig: 159, 38
+  offset: 0, 0
+  index: -1
+1_9
+  rotate: false
+  xy: 81, 100
+  size: 74, 76
+  orig: 74, 76
+  offset: 0, 0
+  index: -1

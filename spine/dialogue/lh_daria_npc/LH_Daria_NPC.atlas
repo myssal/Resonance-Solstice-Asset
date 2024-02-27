@@ -1,0 +1,328 @@
+
+LH_Daria_NPC.png
+size: 512,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00000
+  rotate: false
+  xy: 275, 4
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+100
+  rotate: true
+  xy: 2, 716
+  size: 130, 259
+  orig: 133, 261
+  offset: 1, 1
+  index: -1
+101
+  rotate: true
+  xy: 2, 453
+  size: 107, 122
+  orig: 107, 123
+  offset: 0, 1
+  index: -1
+103
+  rotate: false
+  xy: 263, 611
+  size: 71, 235
+  orig: 74, 237
+  offset: 2, 1
+  index: -1
+104
+  rotate: false
+  xy: 126, 376
+  size: 116, 111
+  orig: 119, 116
+  offset: 1, 4
+  index: -1
+105
+  rotate: false
+  xy: 2, 304
+  size: 102, 148
+  orig: 103, 148
+  offset: 1, 0
+  index: -1
+106
+  rotate: true
+  xy: 2, 160
+  size: 48, 138
+  orig: 50, 140
+  offset: 1, 1
+  index: -1
+107
+  rotate: true
+  xy: 2, 210
+  size: 51, 182
+  orig: 53, 185
+  offset: 1, 2
+  index: -1
+108
+  rotate: false
+  xy: 96, 38
+  size: 51, 70
+  orig: 53, 72
+  offset: 1, 1
+  index: -1
+109
+  rotate: true
+  xy: 2, 895
+  size: 78, 179
+  orig: 79, 186
+  offset: 0, 6
+  index: -1
+110
+  rotate: false
+  xy: 117, 6
+  size: 120, 31
+  orig: 122, 40
+  offset: 2, 0
+  index: -1
+111
+  rotate: false
+  xy: 45, 1171
+  size: 28, 9
+  orig: 28, 9
+  offset: 0, 0
+  index: -1
+112
+  rotate: false
+  xy: 297, 16
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+113
+  rotate: false
+  xy: 2, 1171
+  size: 44, 19
+  orig: 44, 19
+  offset: 0, 0
+  index: -1
+114
+  rotate: false
+  xy: 205, 1316
+  size: 25, 26
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+115
+  rotate: false
+  xy: 192, 1363
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+116
+  rotate: false
+  xy: 33, 4
+  size: 33, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+117
+  rotate: false
+  xy: 209, 1182
+  size: 19, 24
+  orig: 20, 24
+  offset: 1, 0
+  index: -1
+118
+  rotate: false
+  xy: 2, 1245
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+119
+  rotate: false
+  xy: 2, 1275
+  size: 18, 23
+  orig: 20, 26
+  offset: 1, 1
+  index: -1
+120
+  rotate: false
+  xy: 48, 1183
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+121
+  rotate: false
+  xy: 235, 1131
+  size: 133, 312
+  orig: 135, 314
+  offset: 1, 1
+  index: -1
+122x
+  rotate: false
+  xy: 2, 1207
+  size: 40, 31
+  orig: 41, 31
+  offset: 1, 0
+  index: -1
+123x
+  rotate: false
+  xy: 196, 1414
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+124n
+  rotate: false
+  xy: 2, 19
+  size: 30, 13
+  orig: 32, 15
+  offset: 1, 1
+  index: -1
+125n
+  rotate: false
+  xy: 249, 4
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+133
+  rotate: 270
+  xy: 183, 37
+  size: 70, 167
+  orig: 79, 167
+  offset: 9, 0
+  index: -1
+88
+  rotate: 270
+  xy: 131, 98
+  size: 77, 110
+  orig: 77, 110
+  offset: 0, 0
+  index: -1
+89
+  rotate: true
+  xy: 186, 148
+  size: 104, 162
+  orig: 104, 162
+  offset: 0, 0
+  index: -1
+90
+  rotate: true
+  xy: 9, 3
+  size: 81, 106
+  orig: 81, 106
+  offset: 0, 0
+  index: -1
+91
+  rotate: false
+  xy: 179, 489
+  size: 147, 131
+  orig: 147, 132
+  offset: 0, 1
+  index: -1
+92
+  rotate: 270
+  xy: 150, 247
+  size: 97, 211
+  orig: 97, 211
+  offset: 0, 0
+  index: -1
+93
+  rotate: false
+  xy: 213, 304
+  size: 143, 189
+  orig: 143, 191
+  offset: 0, 2
+  index: -1
+94
+  rotate: true
+  xy: 2, 86
+  size: 73, 123
+  orig: 73, 123
+  offset: 0, 0
+  index: -1
+95
+  rotate: true
+  xy: 243, 87
+  size: 59, 82
+  orig: 61, 84
+  offset: 1, 1
+  index: -1
+96
+  rotate: false
+  xy: 2, 1183
+  size: 232, 261
+  orig: 232, 262
+  offset: 0, 1
+  index: -1
+97
+  rotate: false
+  xy: 2, 966
+  size: 229, 215
+  orig: 235, 215
+  offset: 6, 0
+  index: -1
+98
+  rotate: false
+  xy: 2, 562
+  size: 186, 152
+  orig: 189, 154
+  offset: 1, 1
+  index: -1
+99
+  rotate: false
+  xy: 231, 848
+  size: 127, 281
+  orig: 130, 283
+  offset: 1, 1
+  index: -1
+b126
+  rotate: false
+  xy: 194, 1392
+  size: 36, 20
+  orig: 38, 22
+  offset: 1, 1
+  index: -1
+b128
+  rotate: false
+  xy: 215, 1300
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+b27
+  rotate: false
+  xy: 198, 1343
+  size: 27, 18
+  orig: 29, 20
+  offset: 1, 1
+  index: -1
+s129
+  rotate: false
+  xy: 2, 8
+  size: 24, 9
+  orig: 27, 12
+  offset: 1, 2
+  index: -1
+s130
+  rotate: false
+  xy: 275, 16
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+s131
+  rotate: false
+  xy: 2, 1186
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+s132
+  rotate: false
+  xy: 232, 20
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1

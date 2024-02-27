@@ -1,0 +1,160 @@
+
+LH_DiggerI.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jjyh_1
+  rotate: false
+  xy: 520, 18
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+jjyh_10
+  rotate: 180
+  xy: 379, 139
+  size: 139, 263
+  orig: 139, 263
+  offset: 0, 0
+  index: -1
+jjyh_11
+  rotate: false
+  xy: 2, 112
+  size: 229, 186
+  orig: 229, 186
+  offset: 0, 0
+  index: -1
+jjyh_12
+  rotate: false
+  xy: 2, 299
+  size: 308, 318
+  orig: 308, 318
+  offset: 0, 0
+  index: -1
+jjyh_13
+  rotate: false
+  xy: 519, 167
+  size: 68, 228
+  orig: 68, 228
+  offset: 0, 0
+  index: -1
+jjyh_14
+  rotate: true
+  xy: 2, 47
+  size: 62, 199
+  orig: 62, 199
+  offset: 0, 0
+  index: -1
+jjyh_15
+  rotate: false
+  xy: 303, 566
+  size: 28, 52
+  orig: 28, 52
+  offset: 0, 0
+  index: -1
+jjyh_16
+  rotate: false
+  xy: 559, 530
+  size: 50, 58
+  orig: 50, 58
+  offset: 0, 0
+  index: -1
+jjyh_17
+  rotate: false
+  xy: 473, 67
+  size: 134, 98
+  orig: 134, 98
+  offset: 0, 0
+  index: -1
+jjyh_18
+  rotate: false
+  xy: 569, 11
+  size: 29, 54
+  orig: 29, 54
+  offset: 0, 0
+  index: -1
+jjyh_19
+  rotate: false
+  xy: 203, 76
+  size: 117, 62
+  orig: 120, 62
+  offset: 3, 0
+  index: -1
+jjyh_2
+  rotate: false
+  xy: 2, 8
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+jjyh_20
+  rotate: false
+  xy: 389, 585
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+jjyh_21
+  rotate: 180
+  xy: 176, 3
+  size: 74, 47
+  orig: 74, 47
+  offset: 0, 0
+  index: -1
+jjyh_22
+  rotate: false
+  xy: 233, 140
+  size: 160, 263
+  orig: 160, 263
+  offset: 0, 0
+  index: -1
+jjyh_3
+  rotate: false
+  xy: 2, 319
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+jjyh_4
+  rotate: 180
+  xy: 308, 30
+  size: 155, 128
+  orig: 156, 131
+  offset: 0, 0
+  index: -1
+jjyh_5
+  rotate: false
+  xy: 483, 396
+  size: 126, 132
+  orig: 126, 132
+  offset: 0, 0
+  index: -1
+jjyh_6
+  rotate: false
+  xy: 465, 14
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+jjyh_7
+  rotate: false
+  xy: 246, 30
+  size: 60, 46
+  orig: 60, 46
+  offset: 0, 0
+  index: -1
+jjyh_8
+  rotate: false
+  xy: 474, 529
+  size: 83, 80
+  orig: 83, 80
+  offset: 0, 0
+  index: -1
+jjyh_9
+  rotate: true
+  xy: 312, 405
+  size: 197, 170
+  orig: 197, 170
+  offset: 0, 0
+  index: -1

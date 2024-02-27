@@ -1,0 +1,76 @@
+
+Cab.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian01
+  rotate: false
+  xy: 274, 308
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+dian02
+  rotate: false
+  xy: 274, 270
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+dian03
+  rotate: false
+  xy: 274, 232
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+leida01
+  rotate: false
+  xy: 216, 133
+  size: 102, 70
+  orig: 212, 211
+  offset: 106, 35
+  index: -1
+leida02
+  rotate: false
+  xy: 2, 133
+  size: 212, 211
+  orig: 212, 211
+  offset: 0, 0
+  index: -1
+xian01
+  rotate: false
+  xy: 2, 20
+  size: 400, 111
+  orig: 400, 111
+  offset: 0, 0
+  index: -1
+yugua01
+  rotate: true
+  xy: 404, 118
+  size: 226, 30
+  orig: 233, 31
+  offset: 1, 0
+  index: -1
+yugua02
+  rotate: false
+  xy: 2, 2
+  size: 378, 16
+  orig: 379, 16
+  offset: 0, 0
+  index: -1
+zhishideng01
+  rotate: false
+  xy: 216, 289
+  size: 56, 55
+  orig: 60, 58
+  offset: 2, 3
+  index: -1
+zhishideng02
+  rotate: false
+  xy: 216, 232
+  size: 56, 55
+  orig: 60, 58
+  offset: 2, 3
+  index: -1

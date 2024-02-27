@@ -1,0 +1,320 @@
+
+LH_Livia_effect.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niao/niao_00
+  rotate: false
+  xy: 1905, 1078
+  size: 135, 204
+  orig: 2009, 1720
+  offset: 896, 596
+  index: -1
+niao/niao_02
+  rotate: false
+  xy: 1905, 1284
+  size: 128, 265
+  orig: 2009, 1720
+  offset: 945, 613
+  index: -1
+niao/niao_08
+  rotate: false
+  xy: 622, 901
+  size: 538, 461
+  orig: 2009, 1720
+  offset: 866, 743
+  index: -1
+niao/niao_10
+  rotate: false
+  xy: 2, 1436
+  size: 758, 511
+  orig: 2009, 1720
+  offset: 895, 848
+  index: -1
+niao/niao_12
+  rotate: true
+  xy: 762, 1364
+  size: 583, 596
+  orig: 2009, 1720
+  offset: 1082, 925
+  index: -1
+niao/niao_14
+  rotate: false
+  xy: 1360, 1384
+  size: 520, 563
+  orig: 2009, 1720
+  offset: 1136, 1015
+  index: -1
+niao/niao_16
+  rotate: false
+  xy: 2, 993
+  size: 618, 441
+  orig: 2009, 1720
+  offset: 1047, 1085
+  index: -1
+niao/niao_18
+  rotate: false
+  xy: 1082, 92
+  size: 614, 349
+  orig: 2009, 1720
+  offset: 992, 1062
+  index: -1
+niao/niao_24
+  rotate: true
+  xy: 1162, 990
+  size: 372, 193
+  orig: 2009, 1720
+  offset: 433, 385
+  index: -1
+niao/niao_44
+  rotate: false
+  xy: 2, 96
+  size: 606, 365
+  orig: 2009, 1720
+  offset: 300, 950
+  index: -1
+niao/niao_46
+  rotate: false
+  xy: 1162, 443
+  size: 483, 477
+  orig: 2009, 1720
+  offset: 328, 1044
+  index: -1
+niao/niao_58
+  rotate: true
+  xy: 1698, 92
+  size: 630, 317
+  orig: 2009, 1720
+  offset: 310, 1070
+  index: -1
+niao/niao_60
+  rotate: false
+  xy: 2, 578
+  size: 566, 413
+  orig: 2009, 1720
+  offset: 270, 1074
+  index: -1
+niao/niao_64
+  rotate: false
+  xy: 570, 463
+  size: 520, 436
+  orig: 2009, 1720
+  offset: 266, 1071
+  index: -1
+niao/niao_66
+  rotate: false
+  xy: 1360, 922
+  size: 543, 460
+  orig: 2009, 1720
+  offset: 284, 1047
+  index: -1
+niao/niao_72
+  rotate: false
+  xy: 610, 2
+  size: 470, 459
+  orig: 2009, 1720
+  offset: 377, 1018
+  index: -1
+niao/niao_80
+  rotate: false
+  xy: 1882, 1551
+  size: 113, 396
+  orig: 2009, 1720
+  offset: 897, 628
+  index: -1
+niao/niao_82
+  rotate: false
+  xy: 1905, 861
+  size: 92, 215
+  orig: 2009, 1720
+  offset: 927, 598
+  index: -1
+niao/niao_84
+  rotate: true
+  xy: 2, 493
+  size: 83, 122
+  orig: 2009, 1720
+  offset: 944, 587
+  index: -1
+niao/niao_86
+  rotate: false
+  xy: 126, 475
+  size: 84, 101
+  orig: 2009, 1720
+  offset: 946, 584
+  index: -1
+
+LH_Livia_effect2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niao/niao_04
+  rotate: true
+  xy: 844, 1476
+  size: 462, 420
+  orig: 2009, 1720
+  offset: 759, 633
+  index: -1
+niao/niao_06
+  rotate: true
+  xy: 2, 779
+  size: 327, 488
+  orig: 2009, 1720
+  offset: 952, 664
+  index: -1
+niao/niao_20
+  rotate: true
+  xy: 1109, 943
+  size: 396, 408
+  orig: 2009, 1720
+  offset: 1053, 909
+  index: -1
+niao/niao_22
+  rotate: false
+  xy: 1720, 392
+  size: 298, 368
+  orig: 2009, 1720
+  offset: 866, 572
+  index: -1
+niao/niao_26
+  rotate: false
+  xy: 2, 481
+  size: 438, 296
+  orig: 2009, 1720
+  offset: 178, 386
+  index: -1
+niao/niao_28
+  rotate: true
+  xy: 1326, 444
+  size: 316, 392
+  orig: 2009, 1720
+  offset: 144, 708
+  index: -1
+niao/niao_30
+  rotate: false
+  xy: 691, 2
+  size: 355, 265
+  orig: 2009, 1720
+  offset: 363, 1017
+  index: -1
+niao/niao_32
+  rotate: false
+  xy: 813, 269
+  size: 357, 303
+  orig: 2009, 1720
+  offset: 399, 975
+  index: -1
+niao/niao_34
+  rotate: false
+  xy: 331, 145
+  size: 358, 271
+  orig: 2009, 1720
+  offset: 541, 973
+  index: -1
+niao/niao_36
+  rotate: false
+  xy: 1842, 96
+  size: 204, 294
+  orig: 2009, 1720
+  offset: 620, 933
+  index: -1
+niao/niao_38
+  rotate: true
+  xy: 1527, 88
+  size: 302, 313
+  orig: 2009, 1720
+  offset: 561, 918
+  index: -1
+niao/niao_40
+  rotate: false
+  xy: 2, 176
+  size: 327, 303
+  orig: 2009, 1720
+  offset: 530, 918
+  index: -1
+niao/niao_42
+  rotate: false
+  xy: 1574, 1089
+  size: 468, 383
+  orig: 2009, 1720
+  offset: 392, 835
+  index: -1
+niao/niao_48
+  rotate: true
+  xy: 1519, 762
+  size: 325, 480
+  orig: 2009, 1720
+  offset: 398, 1073
+  index: -1
+niao/niao_50
+  rotate: false
+  xy: 2, 1108
+  size: 592, 297
+  orig: 2009, 1720
+  offset: 388, 894
+  index: -1
+niao/niao_52
+  rotate: true
+  xy: 1574, 1474
+  size: 464, 390
+  orig: 2009, 1720
+  offset: 503, 839
+  index: -1
+niao/niao_54
+  rotate: false
+  xy: 492, 732
+  size: 463, 331
+  orig: 2009, 1720
+  offset: 498, 867
+  index: -1
+niao/niao_56
+  rotate: true
+  xy: 1266, 1341
+  size: 597, 306
+  orig: 2009, 1720
+  offset: 405, 896
+  index: -1
+niao/niao_62
+  rotate: false
+  xy: 2, 1475
+  size: 459, 463
+  orig: 2009, 1720
+  offset: 297, 1058
+  index: -1
+niao/niao_68
+  rotate: false
+  xy: 596, 1065
+  size: 511, 340
+  orig: 2009, 1720
+  offset: 442, 930
+  index: -1
+niao/niao_70
+  rotate: true
+  xy: 463, 1407
+  size: 531, 379
+  orig: 2009, 1720
+  offset: 393, 927
+  index: -1
+niao/niao_74
+  rotate: false
+  xy: 957, 574
+  size: 367, 367
+  orig: 2009, 1720
+  offset: 361, 1144
+  index: -1
+niao/niao_76
+  rotate: false
+  xy: 442, 418
+  size: 369, 312
+  orig: 2009, 1720
+  offset: 570, 902
+  index: -1
+niao/niao_78
+  rotate: true
+  xy: 1172, 162
+  size: 280, 353
+  orig: 2009, 1720
+  offset: 718, 760
+  index: -1
