@@ -1,0 +1,90 @@
+
+Dorm_Rvc.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm
+  rotate: false
+  xy: 458, 22
+  size: 96, 72
+  orig: 900, 900
+  offset: 406, 520
+  index: -1
+body
+  rotate: false
+  xy: 366, 12
+  size: 90, 157
+  orig: 900, 900
+  offset: 463, 420
+  index: -1
+body2
+  rotate: false
+  xy: 2, 66
+  size: 210, 104
+  orig: 900, 900
+  offset: 337, 326
+  index: -1
+chelun
+  rotate: false
+  xy: 592, 68
+  size: 36, 36
+  orig: 898, 898
+  offset: 352, 314
+  index: -1
+chelun2
+  rotate: false
+  xy: 516, 3
+  size: 37, 37
+  orig: 898, 898
+  offset: 352, 314
+  index: -1
+face
+  rotate: true
+  xy: 458, 88
+  size: 82, 70
+  orig: 900, 900
+  offset: 490, 478
+  index: -1
+hand
+  rotate: false
+  xy: 591, 26
+  size: 34, 40
+  orig: 900, 900
+  offset: 392, 553
+  index: -1
+hand_back
+  rotate: false
+  xy: 555, 16
+  size: 34, 43
+  orig: 900, 900
+  offset: 392, 550
+  index: -1
+hat
+  rotate: false
+  xy: 213, 60
+  size: 151, 109
+  orig: 900, 900
+  offset: 446, 545
+  index: -1
+hat_back
+  rotate: true
+  xy: 555, 68
+  size: 101, 35
+  orig: 900, 900
+  offset: 446, 560
+  index: -1
+mao
+  rotate: false
+  xy: 287, 12
+  size: 56, 48
+  orig: 900, 900
+  offset: 378, 315
+  index: -1
+saoba
+  rotate: true
+  xy: 2, 9
+  size: 50, 283
+  orig: 900, 900
+  offset: 382, 343
+  index: -1

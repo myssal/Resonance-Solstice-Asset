@@ -1,0 +1,125 @@
+
+boar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mao1
+  rotate: false
+  xy: 837, 74
+  size: 185, 209
+  orig: 185, 209
+  offset: 0, 0
+  index: -1
+mao2
+  rotate: 270
+  xy: 847, 187
+  size: 354, 175
+  orig: 354, 175
+  offset: 0, 0
+  index: -1
+nuqi
+  rotate: true
+  xy: 185, 62
+  size: 119, 120
+  orig: 121, 122
+  offset: 1, 1
+  index: -1
+qi1
+  rotate: true
+  xy: 763, 20
+  size: 52, 88
+  orig: 54, 102
+  offset: 1, 1
+  index: -1
+qi2
+  rotate: true
+  xy: 678, 17
+  size: 80, 83
+  orig: 82, 85
+  offset: 1, 1
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 181
+  size: 565, 393
+  orig: 567, 415
+  offset: 0, 0
+  index: -1
+tou
+  rotate: 270
+  xy: 563, 204
+  size: 369, 327
+  orig: 369, 327
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 309, 32
+  size: 163, 164
+  orig: 163, 164
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 782, 509
+  size: 81, 64
+  orig: 83, 66
+  offset: 1, 1
+  index: -1
+yanjing1
+  rotate: true
+  xy: 857, 4
+  size: 70, 58
+  orig: 83, 66
+  offset: 6, 3
+  index: -1
+yanjing2
+  rotate: true
+  xy: 572, 3
+  size: 78, 83
+  orig: 84, 90
+  offset: 3, 3
+  index: -1
+youer
+  rotate: 180
+  xy: 917, 16
+  size: 105, 118
+  orig: 105, 118
+  offset: 0, 0
+  index: -1
+youhoutui
+  rotate: true
+  xy: 2, 115
+  size: 157, 182
+  orig: 157, 185
+  offset: 0, 3
+  index: -1
+youqiantui
+  rotate: false
+  xy: 470, 79
+  size: 140, 175
+  orig: 140, 175
+  offset: 0, 0
+  index: -1
+zuoer
+  rotate: true
+  xy: 427, 14
+  size: 71, 99
+  orig: 71, 99
+  offset: 0, 0
+  index: -1
+zuohoutui
+  rotate: 270
+  xy: 8, 17
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+zuoqiantui
+  rotate: true
+  xy: 617, 83
+  size: 139, 172
+  orig: 141, 172
+  offset: 2, 0
+  index: -1

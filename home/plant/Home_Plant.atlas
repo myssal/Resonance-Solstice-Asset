@@ -1,0 +1,27 @@
+
+Home_Plant.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Home_Plant_01
+  rotate: false
+  xy: 2, 284
+  size: 728, 1195
+  orig: 730, 1195
+  offset: 0, 0
+  index: -1
+Home_Plant_02
+  rotate: true
+  xy: 2, 2
+  size: 280, 332
+  orig: 280, 332
+  offset: 0, 0
+  index: -1
+Home_Plant_03
+  rotate: false
+  xy: 336, 38
+  size: 225, 244
+  orig: 225, 244
+  offset: 0, 0
+  index: -1

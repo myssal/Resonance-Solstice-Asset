@@ -1,0 +1,55 @@
+
+Dorm_daoju.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+milktea1
+  rotate: false
+  xy: 53, 8
+  size: 47, 64
+  orig: 262, 262
+  offset: 109, 103
+  index: -1
+milktea2
+  rotate: false
+  xy: 2, 10
+  size: 49, 62
+  orig: 262, 262
+  offset: 110, 97
+  index: -1
+milktea3
+  rotate: false
+  xy: 102, 6
+  size: 44, 66
+  orig: 262, 262
+  offset: 113, 102
+  index: -1
+milktea4
+  rotate: false
+  xy: 186, 20
+  size: 39, 52
+  orig: 262, 262
+  offset: 112, 106
+  index: -1
+milktea5
+  rotate: false
+  xy: 148, 2
+  size: 36, 70
+  orig: 262, 262
+  offset: 113, 89
+  index: -1
+milktea6
+  rotate: false
+  xy: 264, 8
+  size: 30, 64
+  orig: 262, 262
+  offset: 116, 93
+  index: -1
+milktea7
+  rotate: true
+  xy: 227, 16
+  size: 56, 35
+  orig: 262, 262
+  offset: 122, 108
+  index: -1

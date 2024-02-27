@@ -1,0 +1,13 @@
+
+haiou.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+haiou
+  rotate: false
+  xy: 2, 3
+  size: 186, 50
+  orig: 186, 50
+  offset: 0, 0
+  index: -1

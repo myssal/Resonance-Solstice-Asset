@@ -1,0 +1,62 @@
+
+Hair_Girl0_Hat.png
+size: 256,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+R_hairc_01
+  rotate: false
+  xy: 117, 90
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hairc_01
+  rotate: false
+  xy: 117, 90
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hairc_01_tang
+  rotate: false
+  xy: 117, 90
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+R_hairc_02
+  rotate: false
+  xy: 2, 467
+  size: 170, 174
+  orig: 448, 447
+  offset: 136, 242
+  index: -1
+fringe_01
+  rotate: true
+  xy: 2, 216
+  size: 112, 134
+  orig: 448, 447
+  offset: 176, 257
+  index: -1
+fringe_01_tang
+  rotate: true
+  xy: 2, 2
+  size: 89, 113
+  orig: 448, 447
+  offset: 244, 64
+  index: -1
+hairc_02
+  rotate: false
+  xy: 2, 330
+  size: 170, 135
+  orig: 448, 447
+  offset: 134, 235
+  index: -1
+hairc_02_tang
+  rotate: false
+  xy: 2, 93
+  size: 123, 121
+  orig: 448, 447
+  offset: 225, 46
+  index: -1

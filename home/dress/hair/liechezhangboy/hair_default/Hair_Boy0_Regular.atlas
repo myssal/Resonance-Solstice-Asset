@@ -1,0 +1,62 @@
+
+Hair_Boy0_Regular.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+R_hairc_01
+  rotate: false
+  xy: 2, 2
+  size: 192, 169
+  orig: 448, 447
+  offset: 120, 260
+  index: -1
+R_hairc_02
+  rotate: false
+  xy: 724, 170
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hairc_02
+  rotate: false
+  xy: 724, 170
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hairc_02_tang
+  rotate: false
+  xy: 724, 170
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+fringe_01
+  rotate: true
+  xy: 517, 39
+  size: 132, 115
+  orig: 448, 447
+  offset: 154, 274
+  index: -1
+fringe_01_tang
+  rotate: true
+  xy: 634, 71
+  size: 100, 88
+  orig: 448, 447
+  offset: 236, 85
+  index: -1
+hairc_01
+  rotate: false
+  xy: 196, 5
+  size: 192, 166
+  orig: 448, 447
+  offset: 120, 261
+  index: -1
+hairc_01_tang
+  rotate: true
+  xy: 390, 38
+  size: 133, 125
+  orig: 448, 447
+  offset: 226, 69
+  index: -1
