@@ -1,0 +1,244 @@
+
+Sommer_bot.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ci_0
+  rotate: true
+  xy: 1608, 122
+  size: 235, 349
+  orig: 235, 349
+  offset: 0, 0
+  index: -1
+ci_2
+  rotate: false
+  xy: 438, 325
+  size: 109, 193
+  orig: 109, 193
+  offset: 0, 0
+  index: -1
+ci_3
+  rotate: true
+  xy: 1199, 312
+  size: 262, 428
+  orig: 262, 428
+  offset: 0, 0
+  index: -1
+ci_4
+  rotate: true
+  xy: 1091, 160
+  size: 210, 340
+  orig: 210, 340
+  offset: 0, 0
+  index: -1
+csshui/csshui_00000
+  rotate: false
+  xy: 602, 320
+  size: 243, 215
+  orig: 295, 249
+  offset: 37, 9
+  index: -1
+csshui/csshui_00001
+  rotate: false
+  xy: 847, 320
+  size: 242, 215
+  orig: 295, 249
+  offset: 36, 9
+  index: -1
+csshui/csshui_00002
+  rotate: false
+  xy: 1628, 306
+  size: 232, 215
+  orig: 295, 249
+  offset: 36, 9
+  index: -1
+csshui/csshui_00003
+  rotate: false
+  xy: 709, 129
+  size: 226, 189
+  orig: 295, 249
+  offset: 36, 9
+  index: -1
+csshui/csshui_00004
+  rotate: false
+  xy: 238, 3
+  size: 192, 173
+  orig: 295, 249
+  offset: 68, 9
+  index: -1
+csshui/csshui_00005
+  rotate: true
+  xy: 1433, 105
+  size: 204, 167
+  orig: 295, 249
+  offset: 65, 9
+  index: -1
+csshui/csshui_00006
+  rotate: true
+  xy: 937, 36
+  size: 218, 178
+  orig: 295, 249
+  offset: 55, 9
+  index: -1
+csshui/csshui_00007
+  rotate: false
+  xy: 477, 127
+  size: 230, 191
+  orig: 295, 249
+  offset: 44, 9
+  index: -1
+csshui/csshui_00008
+  rotate: false
+  xy: 238, 178
+  size: 237, 196
+  orig: 295, 249
+  offset: 36, 10
+  index: -1
+csshui/csshui_00009
+  rotate: false
+  xy: 2, 177
+  size: 234, 205
+  orig: 295, 249
+  offset: 36, 10
+  index: -1
+tentacles3_1
+  rotate: true
+  xy: 2, 376
+  size: 142, 416
+  orig: 142, 416
+  offset: 0, 0
+  index: -1
+xuechi01/xuechi01_00000
+  rotate: false
+  xy: 2, 924
+  size: 671, 199
+  orig: 700, 210
+  offset: 17, 6
+  index: -1
+xuechi01/xuechi01_00001
+  rotate: false
+  xy: 675, 923
+  size: 666, 200
+  orig: 700, 210
+  offset: 22, 5
+  index: -1
+xuechi01/xuechi01_00002
+  rotate: false
+  xy: 1347, 1328
+  size: 668, 202
+  orig: 700, 210
+  offset: 20, 4
+  index: -1
+xuechi01/xuechi01_00003
+  rotate: false
+  xy: 2, 1328
+  size: 671, 202
+  orig: 700, 210
+  offset: 17, 4
+  index: -1
+xuechi01/xuechi01_00004
+  rotate: false
+  xy: 679, 1532
+  size: 673, 203
+  orig: 700, 210
+  offset: 15, 4
+  index: -1
+xuechi01/xuechi01_00005
+  rotate: false
+  xy: 2, 1532
+  size: 675, 203
+  orig: 700, 210
+  offset: 13, 4
+  index: -1
+xuechi01/xuechi01_00006
+  rotate: false
+  xy: 1354, 1532
+  size: 672, 203
+  orig: 700, 210
+  offset: 12, 4
+  index: -1
+xuechi01/xuechi01_00007
+  rotate: false
+  xy: 2, 1125
+  size: 670, 201
+  orig: 700, 210
+  offset: 16, 5
+  index: -1
+xuechi01/xuechi01_00008
+  rotate: false
+  xy: 674, 1125
+  size: 667, 201
+  orig: 700, 210
+  offset: 21, 5
+  index: -1
+xuechi01/xuechi01_00009
+  rotate: false
+  xy: 2, 723
+  size: 669, 199
+  orig: 700, 210
+  offset: 19, 6
+  index: -1
+xuechi02/xuechi02_00000
+  rotate: false
+  xy: 1333, 723
+  size: 670, 198
+  orig: 700, 210
+  offset: 18, 6
+  index: -1
+xuechi02/xuechi02_00001
+  rotate: false
+  xy: 1343, 923
+  size: 666, 200
+  orig: 700, 210
+  offset: 22, 5
+  index: -1
+xuechi02/xuechi02_00002
+  rotate: false
+  xy: 1343, 1125
+  size: 665, 201
+  orig: 700, 210
+  offset: 20, 5
+  index: -1
+xuechi02/xuechi02_00003
+  rotate: false
+  xy: 675, 1328
+  size: 670, 202
+  orig: 700, 210
+  offset: 18, 4
+  index: -1
+xuechi02/xuechi02_00004
+  rotate: false
+  xy: 673, 719
+  size: 658, 202
+  orig: 700, 210
+  offset: 30, 4
+  index: -1
+xuechi02/xuechi02_00005
+  rotate: false
+  xy: 1333, 523
+  size: 606, 198
+  orig: 700, 210
+  offset: 60, 4
+  index: -1
+xuechi02/xuechi02_00006
+  rotate: false
+  xy: 2, 520
+  size: 598, 201
+  orig: 700, 210
+  offset: 56, 5
+  index: -1
+xuechi02/xuechi02_00007
+  rotate: false
+  xy: 602, 537
+  size: 595, 180
+  orig: 700, 210
+  offset: 52, 19
+  index: -1
+xuechi02/xuechi02_00008
+  rotate: false
+  xy: 2, 507
+  size: 43, 11
+  orig: 700, 210
+  offset: 143, 29
+  index: -1
