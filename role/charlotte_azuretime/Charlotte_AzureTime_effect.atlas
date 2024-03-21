@@ -1,0 +1,480 @@
+
+Charlotte_AzureTime_effect.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bullet/bullet10005
+  rotate: true
+  xy: 1662, 82
+  size: 758, 235
+  orig: 951, 289
+  offset: 137, 21
+  index: -1
+bullet/bullet10010
+  rotate: false
+  xy: 434, 3
+  size: 297, 162
+  orig: 951, 289
+  offset: 76, 116
+  index: -1
+bullet/bullet10011
+  rotate: false
+  xy: 2, 4
+  size: 234, 134
+  orig: 951, 289
+  offset: 85, 143
+  index: -1
+bullet/bullet10012
+  rotate: true
+  xy: 1913, 1626
+  size: 201, 107
+  orig: 951, 289
+  offset: 96, 170
+  index: -1
+bullet/bulletdg_00000
+  rotate: false
+  xy: 1276, 842
+  size: 629, 597
+  orig: 643, 633
+  offset: 6, 6
+  index: -1
+bullet/bulletdg_00001
+  rotate: false
+  xy: 639, 1441
+  size: 635, 605
+  orig: 643, 633
+  offset: 0, 6
+  index: -1
+bullet/bulletdg_00002
+  rotate: false
+  xy: 2, 838
+  size: 629, 596
+  orig: 643, 633
+  offset: 6, 6
+  index: -1
+bullet/bulletdg_00003
+  rotate: false
+  xy: 639, 838
+  size: 635, 601
+  orig: 643, 633
+  offset: 0, 6
+  index: -1
+bullet/bulletdg_00004
+  rotate: false
+  xy: 1276, 1441
+  size: 635, 605
+  orig: 643, 633
+  offset: 0, 6
+  index: -1
+bullet/bulletdg_00005
+  rotate: false
+  xy: 2, 1436
+  size: 635, 610
+  orig: 643, 633
+  offset: 0, 6
+  index: -1
+bullet/dm_00001
+  rotate: false
+  xy: 927, 17
+  size: 679, 125
+  orig: 728, 218
+  offset: 37, 9
+  index: -1
+bullet/dm_00005
+  rotate: true
+  xy: 733, 139
+  size: 697, 192
+  orig: 728, 218
+  offset: 2, 9
+  index: -1
+bullet/stone_00002
+  rotate: false
+  xy: 1907, 1197
+  size: 80, 66
+  orig: 88, 69
+  offset: 3, 0
+  index: -1
+dg/dg0000
+  rotate: false
+  xy: 931, 144
+  size: 729, 696
+  orig: 729, 696
+  offset: 0, 0
+  index: -1
+dg/dg0001
+  rotate: false
+  xy: 2, 140
+  size: 729, 696
+  orig: 729, 696
+  offset: 0, 0
+  index: -1
+fire/fire0011
+  rotate: false
+  xy: 2, 524
+  size: 214, 312
+  orig: 269, 452
+  offset: 26, 95
+  index: -1
+fire/fire0012
+  rotate: false
+  xy: 927, 530
+  size: 172, 306
+  orig: 269, 452
+  offset: 29, 99
+  index: -1
+fire/fire0017
+  rotate: false
+  xy: 1913, 1454
+  size: 125, 170
+  orig: 269, 452
+  offset: 64, 127
+  index: -1
+yw/FX_yan01_00000
+  rotate: true
+  xy: 1913, 1322
+  size: 130, 66
+  orig: 281, 170
+  offset: 144, 6
+  index: -1
+yw/FX_yan01_00001
+  rotate: false
+  xy: 238, 9
+  size: 187, 129
+  orig: 281, 170
+  offset: 87, 7
+  index: -1
+yw/FX_yan01_00002
+  rotate: true
+  xy: 1899, 429
+  size: 176, 143
+  orig: 281, 170
+  offset: 90, 6
+  index: -1
+yw/FX_yan01_00005
+  rotate: true
+  xy: 1101, 622
+  size: 214, 142
+  orig: 281, 170
+  offset: 42, 4
+  index: -1
+yw/FX_yan01_00006
+  rotate: true
+  xy: 1899, 607
+  size: 233, 142
+  orig: 281, 170
+  offset: 22, 3
+  index: -1
+yw/FX_yan01_00007
+  rotate: true
+  xy: 1913, 1829
+  size: 217, 124
+  orig: 281, 170
+  offset: 20, 6
+  index: -1
+yw/FX_yan01_00008
+  rotate: false
+  xy: 1907, 1265
+  size: 131, 55
+  orig: 281, 170
+  offset: 18, 10
+  index: -1
+
+Charlotte_AzureTime_effect2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bullet/bullet10003
+  rotate: false
+  xy: 750, 92
+  size: 724, 219
+  orig: 951, 289
+  offset: 187, 12
+  index: -1
+bullet/bullet10004
+  rotate: false
+  xy: 2, 398
+  size: 752, 232
+  orig: 951, 289
+  offset: 163, 12
+  index: -1
+bullet/bullet10006
+  rotate: false
+  xy: 2, 178
+  size: 746, 218
+  orig: 951, 289
+  offset: 103, 48
+  index: -1
+bullet/bullet10008
+  rotate: false
+  xy: 2, 3
+  size: 706, 173
+  orig: 951, 289
+  offset: 73, 103
+  index: -1
+dg/dg0002
+  rotate: false
+  xy: 2, 1348
+  size: 729, 696
+  orig: 729, 696
+  offset: 0, 0
+  index: -1
+dg/dg0003
+  rotate: 180
+  xy: 699, 1348
+  size: 729, 696
+  orig: 729, 696
+  offset: 0, 0
+  index: -1
+dg/dg0004
+  rotate: false
+  xy: 1206, 1330
+  size: 729, 696
+  orig: 729, 696
+  offset: 0, 0
+  index: -1
+dg/dg0005
+  rotate: false
+  xy: 2, 650
+  size: 729, 696
+  orig: 729, 696
+  offset: 0, 0
+  index: -1
+dg/dg0006
+  rotate: false
+  xy: 715, 632
+  size: 729, 696
+  orig: 729, 696
+  offset: 0, 0
+  index: -1
+dg/dg0007
+  rotate: false
+  xy: 1206, 313
+  size: 729, 696
+  orig: 729, 696
+  offset: 0, 0
+  index: -1
+dl_00005
+  rotate: false
+  xy: 1446, 1124
+  size: 570, 205
+  orig: 570, 205
+  offset: 0, 0
+  index: -1
+fire/fire0000
+  rotate: true
+  xy: 1476, 83
+  size: 228, 404
+  orig: 269, 452
+  offset: 28, 1
+  index: -1
+fire/fire0002
+  rotate: true
+  xy: 756, 375
+  size: 255, 390
+  orig: 269, 452
+  offset: 4, 19
+  index: -1
+fire/fire0004
+  rotate: false
+  xy: 733, 1004
+  size: 221, 342
+  orig: 269, 452
+  offset: 6, 67
+  index: -1
+fire/fire0013
+  rotate: false
+  xy: 2, 1746
+  size: 154, 298
+  orig: 269, 452
+  offset: 36, 104
+  index: -1
+fire/fire0014
+  rotate: false
+  xy: 2, 1057
+  size: 155, 289
+  orig: 269, 452
+  offset: 36, 110
+  index: -1
+fire/fire0015
+  rotate: false
+  xy: 158, 1766
+  size: 154, 278
+  orig: 269, 452
+  offset: 37, 115
+  index: -1
+yw/FX_yan01_00003
+  rotate: false
+  xy: 1843, 1330
+  size: 167, 149
+  orig: 281, 170
+  offset: 95, 5
+  index: -1
+yw/FX_yan01_00004
+  rotate: true
+  xy: 159, 1145
+  size: 201, 148
+  orig: 281, 170
+  offset: 67, 4
+  index: -1
+
+Charlotte_AzureTime_effect3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bullet/bullet10000
+  rotate: true
+  xy: 900, 1019
+  size: 615, 176
+  orig: 951, 289
+  offset: 260, 13
+  index: -1
+bullet/bullet10001
+  rotate: false
+  xy: 2, 180
+  size: 655, 190
+  orig: 951, 289
+  offset: 236, 12
+  index: -1
+bullet/bullet10002
+  rotate: false
+  xy: 2, 936
+  size: 691, 204
+  orig: 951, 289
+  offset: 211, 12
+  index: -1
+bullet/bullet10007
+  rotate: false
+  xy: 2, 1142
+  size: 730, 204
+  orig: 951, 289
+  offset: 84, 67
+  index: -1
+bullet/bullet10009
+  rotate: true
+  xy: 1078, 1019
+  size: 617, 169
+  orig: 951, 289
+  offset: 71, 109
+  index: -1
+bullet/dm_00000
+  rotate: true
+  xy: 1051, 325
+  size: 692, 153
+  orig: 728, 218
+  offset: 10, 9
+  index: -1
+bullet/dm_00002
+  rotate: false
+  xy: 2, 372
+  size: 706, 178
+  orig: 728, 218
+  offset: 16, 9
+  index: -1
+bullet/dm_00003
+  rotate: false
+  xy: 2, 742
+  size: 693, 192
+  orig: 728, 218
+  offset: 23, 9
+  index: -1
+bullet/dm_00004
+  rotate: false
+  xy: 2, 552
+  size: 676, 188
+  orig: 728, 218
+  offset: 30, 9
+  index: -1
+bullet/dm_00006
+  rotate: true
+  xy: 733, 1350
+  size: 694, 165
+  orig: 728, 218
+  offset: 0, 9
+  index: -1
+bullet/dm_00007
+  rotate: true
+  xy: 876, 372
+  size: 645, 173
+  orig: 728, 218
+  offset: 49, 9
+  index: -1
+bullet/dm_00008
+  rotate: false
+  xy: 2, 3
+  size: 677, 175
+  orig: 728, 218
+  offset: 22, 9
+  index: -1
+bullet/dm_00009
+  rotate: true
+  xy: 710, 372
+  size: 703, 164
+  orig: 728, 218
+  offset: 25, 9
+  index: -1
+dg/dg0008
+  rotate: false
+  xy: 2, 1348
+  size: 729, 696
+  orig: 729, 696
+  offset: 0, 0
+  index: -1
+fire/fire0001
+  rotate: false
+  xy: 900, 1645
+  size: 230, 399
+  orig: 269, 452
+  offset: 27, 9
+  index: -1
+fire/fire0003
+  rotate: true
+  xy: 681, 116
+  size: 254, 350
+  orig: 269, 452
+  offset: 4, 59
+  index: -1
+fire/fire0005
+  rotate: false
+  xy: 1360, 1689
+  size: 201, 355
+  orig: 269, 452
+  offset: 26, 52
+  index: -1
+fire/fire0006
+  rotate: false
+  xy: 1132, 1669
+  size: 226, 375
+  orig: 269, 452
+  offset: 28, 57
+  index: -1
+fire/fire0007
+  rotate: true
+  xy: 1033, 93
+  size: 230, 368
+  orig: 269, 452
+  offset: 27, 65
+  index: -1
+fire/fire0008
+  rotate: false
+  xy: 1206, 325
+  size: 233, 358
+  orig: 269, 452
+  offset: 26, 75
+  index: -1
+fire/fire0009
+  rotate: false
+  xy: 1249, 685
+  size: 232, 347
+  orig: 269, 452
+  offset: 26, 85
+  index: -1
+fire/fire0010
+  rotate: false
+  xy: 1249, 1034
+  size: 213, 338
+  orig: 269, 452
+  offset: 25, 90
+  index: -1

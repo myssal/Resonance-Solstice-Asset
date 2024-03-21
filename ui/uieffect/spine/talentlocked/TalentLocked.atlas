@@ -1,0 +1,27 @@
+
+TalentLocked.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liantiao_00000
+  rotate: false
+  xy: 2, 78
+  size: 149, 36
+  orig: 160, 38
+  offset: 7, 1
+  index: -1
+liantiao_00001
+  rotate: false
+  xy: 2, 40
+  size: 149, 36
+  orig: 160, 38
+  offset: 7, 1
+  index: -1
+liantiao_00002
+  rotate: false
+  xy: 2, 2
+  size: 149, 36
+  orig: 160, 38
+  offset: 7, 1
+  index: -1

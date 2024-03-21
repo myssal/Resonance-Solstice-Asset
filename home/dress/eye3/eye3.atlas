@@ -1,0 +1,90 @@
+
+eye3.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+R_eye
+  rotate: false
+  xy: 2, 2
+  size: 135, 43
+  orig: 448, 447
+  offset: 177, 288
+  index: -1
+R_eye_back
+  rotate: false
+  xy: 139, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+R_eye_back_f
+  rotate: false
+  xy: 139, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+R_eye_f
+  rotate: false
+  xy: 139, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+eye_back
+  rotate: false
+  xy: 139, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+eye_back_f
+  rotate: false
+  xy: 139, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+eye_back_t
+  rotate: false
+  xy: 139, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+eye_back_t_f
+  rotate: false
+  xy: 139, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 2, 47
+  size: 135, 44
+  orig: 448, 447
+  offset: 164, 280
+  index: -1
+eye_f
+  rotate: false
+  xy: 2, 47
+  size: 135, 44
+  orig: 448, 447
+  offset: 164, 280
+  index: -1
+eye_front_t
+  rotate: true
+  xy: 139, 5
+  size: 86, 54
+  orig: 448, 447
+  offset: 240, 102
+  index: -1
+eye_front_t_f
+  rotate: true
+  xy: 139, 5
+  size: 86, 54
+  orig: 448, 447
+  offset: 240, 102
+  index: -1

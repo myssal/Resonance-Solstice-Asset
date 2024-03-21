@@ -1,0 +1,69 @@
+
+head1.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+R_hat_among
+  rotate: false
+  xy: 2, 21
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+R_hat_back
+  rotate: false
+  xy: 2, 21
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+R_hat_front
+  rotate: false
+  xy: 2, 21
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hat_among
+  rotate: false
+  xy: 2, 21
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hat_among_t
+  rotate: false
+  xy: 2, 21
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hat_back
+  rotate: false
+  xy: 2, 21
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hat_back_t
+  rotate: false
+  xy: 2, 21
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hat_front
+  rotate: false
+  xy: 49, 2
+  size: 28, 71
+  orig: 448, 447
+  offset: 221, 304
+  index: -1
+hat_front_t
+  rotate: false
+  xy: 2, 24
+  size: 45, 49
+  orig: 448, 447
+  offset: 259, 115
+  index: -1
