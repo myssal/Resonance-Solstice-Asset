@@ -1,0 +1,125 @@
+
+Verlaine_Skin_Yumekuishug_bot.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dogbullet
+  rotate: true
+  xy: 189, 35
+  size: 141, 118
+  orig: 141, 118
+  offset: 0, 0
+  index: -1
+wawa_head
+  rotate: 270
+  xy: 396, 75
+  size: 101, 111
+  orig: 101, 111
+  offset: 0, 0
+  index: -1
+wawa_head2
+  rotate: false
+  xy: 487, 39
+  size: 99, 109
+  orig: 99, 109
+  offset: 0, 0
+  index: -1
+wawa_hudiejie
+  rotate: true
+  xy: 682, 83
+  size: 93, 70
+  orig: 95, 72
+  offset: 1, 1
+  index: -1
+wawa_lingdang
+  rotate: false
+  xy: 189, 6
+  size: 26, 27
+  orig: 28, 29
+  offset: 1, 1
+  index: -1
+wawa_shenti
+  rotate: true
+  xy: 309, 40
+  size: 126, 99
+  orig: 126, 99
+  offset: 0, 0
+  index: -1
+wawa_weiba
+  rotate: true
+  xy: 681, 21
+  size: 60, 73
+  orig: 62, 75
+  offset: 1, 1
+  index: -1
+wawa_xuanyun
+  rotate: false
+  xy: 581, 34
+  size: 99, 109
+  orig: 99, 109
+  offset: 0, 0
+  index: -1
+wawa_youhuitui_shang
+  rotate: true
+  xy: 448, 20
+  size: 43, 49
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+wawa_youhuitui_xia
+  rotate: false
+  xy: 405, 27
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+wawa_youqiantui_shang
+  rotate: false
+  xy: 373, 5
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+wawa_youqiantui_xia
+  rotate: true
+  xy: 561, 12
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+wawa_zuohoutu_jiao
+  rotate: 180
+  xy: 495, 9
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+wawa_zuohoutu_xia
+  rotate: 270
+  xy: 280, 19
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+wawa_zuoqiantui_jiao
+  rotate: 270
+  xy: 325, 3
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+wawa_zuoqiantui_xia
+  rotate: 270
+  xy: 603, 5
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+yinying1
+  rotate: false
+  xy: 2, 28
+  size: 185, 148
+  orig: 287, 201
+  offset: 67, 4
+  index: -1
