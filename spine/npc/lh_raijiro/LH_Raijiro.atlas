@@ -1,0 +1,195 @@
+
+LH_Raijiro.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bdy
+  rotate: false
+  xy: 426, 3
+  size: 182, 163
+  orig: 182, 163
+  offset: 0, 0
+  index: -1
+bdz
+  rotate: false
+  xy: 452, 784
+  size: 149, 155
+  orig: 149, 155
+  offset: 0, 0
+  index: -1
+cs1
+  rotate: true
+  xy: 340, 963
+  size: 201, 159
+  orig: 201, 159
+  offset: 0, 0
+  index: -1
+cs2
+  rotate: false
+  xy: 122, 14
+  size: 302, 190
+  orig: 302, 190
+  offset: 0, 0
+  index: -1
+cs3
+  rotate: 270
+  xy: 334, 672
+  size: 257, 204
+  orig: 257, 204
+  offset: 0, 0
+  index: -1
+cs4
+  rotate: false
+  xy: 449, 355
+  size: 150, 144
+  orig: 150, 144
+  offset: 0, 0
+  index: -1
+cs5
+  rotate: true
+  xy: 362, 146
+  size: 209, 182
+  orig: 209, 182
+  offset: 0, 0
+  index: -1
+hdj1
+  rotate: false
+  xy: 2, 1579
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+hdj2
+  rotate: false
+  xy: 245, 4
+  size: 71, 60
+  orig: 71, 60
+  offset: 0, 0
+  index: -1
+hdj3
+  rotate: false
+  xy: 156, 9
+  size: 87, 55
+  orig: 87, 55
+  offset: 0, 0
+  index: -1
+qn
+  rotate: false
+  xy: 2, 613
+  size: 328, 215
+  orig: 328, 215
+  offset: 0, 0
+  index: -1
+qw
+  rotate: false
+  xy: 2, 830
+  size: 336, 239
+  orig: 336, 239
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 2, 1070
+  size: 363, 243
+  orig: 363, 243
+  offset: 0, 0
+  index: -1
+stk
+  rotate: false
+  xy: 2, 113
+  size: 88, 87
+  orig: 88, 87
+  offset: 0, 0
+  index: -1
+t
+  rotate: false
+  xy: 2, 1315
+  size: 437, 628
+  orig: 444, 628
+  offset: 5, 0
+  index: -1
+xtk
+  rotate: false
+  xy: 2, 22
+  size: 86, 89
+  orig: 86, 89
+  offset: 0, 0
+  index: -1
+yaod
+  rotate: true
+  xy: 2, 1608
+  size: 335, 34
+  orig: 335, 34
+  offset: 0, 0
+  index: -1
+ydb
+  rotate: false
+  xy: 439, 1322
+  size: 127, 125
+  orig: 127, 125
+  offset: 0, 0
+  index: -1
+yj
+  rotate: true
+  xy: 63, 362
+  size: 309, 385
+  orig: 309, 385
+  offset: 0, 0
+  index: -1
+ys
+  rotate: true
+  xy: 419, 1450
+  size: 204, 191
+  orig: 204, 191
+  offset: 0, 0
+  index: -1
+yxb
+  rotate: true
+  xy: 416, 1608
+  size: 175, 126
+  orig: 175, 126
+  offset: 0, 0
+  index: -1
+yxz
+  rotate: false
+  xy: 496, 941
+  size: 124, 140
+  orig: 124, 140
+  offset: 0, 0
+  index: -1
+zdb
+  rotate: false
+  xy: 366, 1166
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+zj
+  rotate: 270
+  xy: 2, 203
+  size: 226, 422
+  orig: 226, 422
+  offset: 0, 0
+  index: -1
+zs
+  rotate: false
+  xy: 449, 497
+  size: 113, 174
+  orig: 113, 174
+  offset: 0, 0
+  index: -1
+zx
+  rotate: 270
+  xy: 508, 1083
+  size: 122, 124
+  orig: 122, 124
+  offset: 0, 0
+  index: -1
+zxb
+  rotate: false
+  xy: 399, 1785
+  size: 147, 158
+  orig: 147, 158
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,377 @@
+
+Arcana_Pajama.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Y_bi01
+  rotate: false
+  xy: 209, 54
+  size: 26, 35
+  orig: 28, 37
+  offset: 1, 1
+  index: -1
+Y_bi02
+  rotate: true
+  xy: 731, 263
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+Z_bi01
+  rotate: false
+  xy: 757, 188
+  size: 27, 36
+  orig: 29, 38
+  offset: 1, 1
+  index: -1
+Z_bi02
+  rotate: true
+  xy: 690, 298
+  size: 42, 45
+  orig: 44, 47
+  offset: 1, 1
+  index: -1
+bianzi1
+  rotate: false
+  xy: 789, 137
+  size: 19, 44
+  orig: 19, 44
+  offset: 0, 0
+  index: -1
+bianzi2
+  rotate: false
+  xy: 775, 263
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+bianzi3
+  rotate: false
+  xy: 792, 67
+  size: 14, 39
+  orig: 16, 41
+  offset: 1, 1
+  index: -1
+bianzi3_1
+  rotate: true
+  xy: 209, 21
+  size: 68, 157
+  orig: 68, 157
+  offset: 0, 0
+  index: -1
+brow1
+  rotate: false
+  xy: 511, 3
+  size: 54, 5
+  orig: 54, 5
+  offset: 0, 0
+  index: -1
+brow2
+  rotate: false
+  xy: 737, 308
+  size: 50, 15
+  orig: 50, 15
+  offset: 0, 0
+  index: -1
+brow3
+  rotate: true
+  xy: 668, 6
+  size: 58, 6
+  orig: 58, 6
+  offset: 0, 0
+  index: -1
+face1
+  rotate: true
+  xy: 728, 129
+  size: 65, 24
+  orig: 67, 26
+  offset: 1, 1
+  index: -1
+face2
+  rotate: true
+  xy: 780, 226
+  size: 59, 15
+  orig: 61, 18
+  offset: 1, 1
+  index: -1
+face3
+  rotate: false
+  xy: 737, 325
+  size: 61, 11
+  orig: 63, 13
+  offset: 1, 1
+  index: -1
+face4
+  rotate: false
+  xy: 126, 2
+  size: 61, 10
+  orig: 63, 12
+  offset: 1, 1
+  index: -1
+face5
+  rotate: true
+  xy: 731, 196
+  size: 65, 24
+  orig: 65, 24
+  offset: 0, 0
+  index: -1
+fagu
+  rotate: false
+  xy: 2, 25
+  size: 128, 64
+  orig: 130, 66
+  offset: 1, 1
+  index: -1
+fagu2
+  rotate: false
+  xy: 742, 38
+  size: 37, 40
+  orig: 39, 42
+  offset: 1, 1
+  index: -1
+feetl
+  rotate: 180
+  xy: 654, 234
+  size: 35, 106
+  orig: 35, 106
+  offset: 0, 0
+  index: -1
+feetr
+  rotate: true
+  xy: 457, 7
+  size: 37, 106
+  orig: 37, 106
+  offset: 0, 0
+  index: -1
+gaoguang
+  rotate: false
+  xy: 412, 5
+  size: 24, 15
+  orig: 68, 17
+  offset: 1, 1
+  index: -1
+handl_01
+  rotate: true
+  xy: 781, 38
+  size: 27, 26
+  orig: 28, 26
+  offset: 1, 0
+  index: -1
+handl_01_2
+  rotate: false
+  xy: 783, 109
+  size: 25, 26
+  orig: 28, 26
+  offset: 2, 0
+  index: -1
+handl_02
+  rotate: true
+  xy: 742, 3
+  size: 33, 36
+  orig: 35, 38
+  offset: 1, 1
+  index: -1
+handl_03
+  rotate: true
+  xy: 786, 188
+  size: 26, 24
+  orig: 28, 26
+  offset: 1, 1
+  index: -1
+handr_01
+  rotate: true
+  xy: 780, 7
+  size: 29, 26
+  orig: 31, 28
+  offset: 1, 1
+  index: -1
+handr_02
+  rotate: false
+  xy: 642, 15
+  size: 24, 45
+  orig: 27, 47
+  offset: 2, 0
+  index: -1
+handr_03
+  rotate: false
+  xy: 754, 150
+  size: 30, 36
+  orig: 32, 38
+  offset: 1, 1
+  index: -1
+liuhai01
+  rotate: 270
+  xy: 273, 6
+  size: 62, 75
+  orig: 62, 75
+  offset: 0, 0
+  index: -1
+liuhai02
+  rotate: true
+  xy: 362, 17
+  size: 52, 93
+  orig: 52, 93
+  offset: 0, 0
+  index: -1
+liuhai03
+  rotate: false
+  xy: 677, 3
+  size: 32, 75
+  orig: 34, 77
+  offset: 1, 1
+  index: -1
+liuhai4
+  rotate: false
+  xy: 691, 234
+  size: 38, 62
+  orig: 40, 64
+  offset: 1, 1
+  index: -1
+qunzi
+  rotate: 180
+  xy: 579, 153
+  size: 94, 171
+  orig: 94, 171
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 599, 59
+  size: 92, 76
+  orig: 92, 76
+  offset: 0, 0
+  index: -1
+toufa01
+  rotate: false
+  xy: 461, 45
+  size: 136, 128
+  orig: 136, 128
+  offset: 0, 0
+  index: -1
+weaponn_01
+  rotate: false
+  xy: 366, 87
+  size: 93, 253
+  orig: 95, 302
+  offset: 1, 1
+  index: -1
+weaponn_02
+  rotate: true
+  xy: 698, 80
+  size: 47, 46
+  orig: 49, 48
+  offset: 1, 1
+  index: -1
+weaponn_03
+  rotate: true
+  xy: 2, 2
+  size: 21, 122
+  orig: 21, 122
+  offset: 0, 0
+  index: -1
+weaponn_04
+  rotate: true
+  xy: 209, 5
+  size: 14, 64
+  orig: 14, 64
+  offset: 0, 0
+  index: -1
+weaponn_05
+  rotate: true
+  xy: 346, 3
+  size: 14, 64
+  orig: 14, 64
+  offset: 0, 0
+  index: -1
+weaponn_06
+  rotate: false
+  xy: 675, 110
+  size: 21, 122
+  orig: 21, 122
+  offset: 0, 0
+  index: -1
+weaponn_07
+  rotate: false
+  xy: 132, 14
+  size: 75, 75
+  orig: 77, 77
+  offset: 1, 1
+  index: -1
+weaponn_guang
+  rotate: false
+  xy: 461, 175
+  size: 118, 165
+  orig: 127, 174
+  offset: 5, 7
+  index: -1
+xbianzi_1
+  rotate: false
+  xy: 698, 129
+  size: 28, 73
+  orig: 28, 73
+  offset: 0, 0
+  index: -1
+xbianzi_2
+  rotate: false
+  xy: 711, 5
+  size: 29, 73
+  orig: 29, 73
+  offset: 0, 0
+  index: -1
+yifu
+  rotate: false
+  xy: 569, 6
+  size: 71, 49
+  orig: 73, 51
+  offset: 1, 1
+  index: -1
+yiling
+  rotate: 270
+  xy: 754, 81
+  size: 67, 36
+  orig: 67, 36
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 2, 91
+  size: 362, 249
+  orig: 366, 264
+  offset: 2, 2
+  index: -1
+zui1
+  rotate: false
+  xy: 201, 10
+  size: 4, 2
+  orig: 7, 4
+  offset: 1, 1
+  index: -1
+zui2
+  rotate: false
+  xy: 438, 3
+  size: 12, 12
+  orig: 13, 15
+  offset: 0, 2
+  index: -1
+zui3
+  rotate: false
+  xy: 275, 3
+  size: 12, 5
+  orig: 14, 7
+  offset: 1, 1
+  index: -1
+zui4
+  rotate: false
+  xy: 338, 7
+  size: 6, 3
+  orig: 8, 5
+  offset: 1, 1
+  index: -1
+zui5
+  rotate: false
+  xy: 189, 4
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1

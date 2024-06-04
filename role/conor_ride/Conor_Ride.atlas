@@ -1,0 +1,293 @@
+
+Conor_Ride.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Y_bi01
+  rotate: false
+  xy: 890, 431
+  size: 25, 38
+  orig: 27, 40
+  offset: 1, 1
+  index: -1
+Y_bi02
+  rotate: false
+  xy: 476, 100
+  size: 30, 42
+  orig: 34, 42
+  offset: 2, 0
+  index: -1
+Y_leg1
+  rotate: true
+  xy: 114, 20
+  size: 42, 112
+  orig: 42, 112
+  offset: 0, 0
+  index: -1
+Y_shou01
+  rotate: false
+  xy: 890, 402
+  size: 29, 27
+  orig: 31, 29
+  offset: 1, 1
+  index: -1
+Z_bi01
+  rotate: false
+  xy: 890, 471
+  size: 30, 43
+  orig: 32, 45
+  offset: 1, 1
+  index: -1
+Z_bi02
+  rotate: false
+  xy: 306, 243
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+Z_leg1
+  rotate: true
+  xy: 228, 10
+  size: 40, 109
+  orig: 40, 109
+  offset: 0, 0
+  index: -1
+Z_shou01
+  rotate: false
+  xy: 859, 129
+  size: 29, 28
+  orig: 31, 30
+  offset: 1, 1
+  index: -1
+body
+  rotate: 270
+  xy: 917, 26
+  size: 70, 97
+  orig: 70, 97
+  offset: 0, 0
+  index: -1
+body02
+  rotate: 270
+  xy: 654, 6
+  size: 73, 91
+  orig: 73, 91
+  offset: 0, 0
+  index: -1
+dunzhuan
+  rotate: false
+  xy: 2, 339
+  size: 337, 339
+  orig: 339, 339
+  offset: 2, 0
+  index: -1
+face_Hit01
+  rotate: true
+  xy: 273, 269
+  size: 68, 36
+  orig: 68, 36
+  offset: 0, 0
+  index: -1
+face_Standby01
+  rotate: false
+  xy: 2, 9
+  size: 72, 39
+  orig: 72, 39
+  offset: 0, 0
+  index: -1
+face_Standby02
+  rotate: false
+  xy: 820, 159
+  size: 66, 39
+  orig: 66, 39
+  offset: 0, 0
+  index: -1
+face_attack01
+  rotate: false
+  xy: 747, 13
+  size: 72, 42
+  orig: 72, 42
+  offset: 0, 0
+  index: -1
+face_die01
+  rotate: false
+  xy: 821, 3
+  size: 66, 35
+  orig: 66, 35
+  offset: 0, 0
+  index: -1
+face_victory01
+  rotate: false
+  xy: 339, 9
+  size: 72, 40
+  orig: 72, 40
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 923, 273
+  size: 96, 81
+  orig: 96, 81
+  offset: 0, 0
+  index: -1
+head02
+  rotate: false
+  xy: 476, 98
+  size: 177, 133
+  orig: 177, 133
+  offset: 0, 0
+  index: -1
+head03
+  rotate: true
+  xy: 890, 516
+  size: 162, 131
+  orig: 162, 131
+  offset: 0, 0
+  index: -1
+heiying01
+  rotate: true
+  xy: 666, 200
+  size: 200, 255
+  orig: 203, 261
+  offset: 2, 1
+  index: -1
+heiying02
+  rotate: true
+  xy: 666, 402
+  size: 276, 222
+  orig: 286, 233
+  offset: 2, 7
+  index: -1
+pifeng01
+  rotate: false
+  xy: 2, 50
+  size: 162, 128
+  orig: 162, 128
+  offset: 0, 0
+  index: -1
+pifeng02
+  rotate: true
+  xy: 892, 83
+  size: 161, 130
+  orig: 161, 130
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 625, 106
+  size: 37, 27
+  orig: 37, 39
+  offset: 0, 3
+  index: -1
+shou12
+  rotate: false
+  xy: 923, 231
+  size: 48, 41
+  orig: 48, 44
+  offset: 0, 3
+  index: -1
+toufa01
+  rotate: false
+  xy: 810, 40
+  size: 105, 96
+  orig: 105, 96
+  offset: 0, 0
+  index: -1
+toufa01_02
+  rotate: true
+  xy: 515, 3
+  size: 32, 84
+  orig: 32, 84
+  offset: 0, 0
+  index: -1
+toufa02
+  rotate: false
+  xy: 647, 73
+  size: 171, 126
+  orig: 171, 127
+  offset: 0, 1
+  index: -1
+toufa_guang
+  rotate: false
+  xy: 413, 6
+  size: 100, 30
+  orig: 100, 30
+  offset: 0, 0
+  index: -1
+wuqi01
+  rotate: true
+  xy: 2, 180
+  size: 72, 293
+  orig: 72, 293
+  offset: 0, 0
+  index: -1
+wuqi02
+  rotate: true
+  xy: 341, 233
+  size: 118, 294
+  orig: 118, 297
+  offset: 0, 0
+  index: -1
+wuqi03
+  rotate: true
+  xy: 2, 254
+  size: 83, 269
+  orig: 83, 269
+  offset: 0, 0
+  index: -1
+wuqizheng04
+  rotate: true
+  xy: 2, 254
+  size: 83, 269
+  orig: 83, 269
+  offset: 0, 0
+  index: -1
+wuqibei01
+  rotate: false
+  xy: 973, 261
+  size: 36, 10
+  orig: 36, 10
+  offset: 0, 0
+  index: -1
+wuqibei02
+  rotate: true
+  xy: 297, 113
+  size: 118, 177
+  orig: 118, 177
+  offset: 0, 0
+  index: -1
+wuqibei03
+  rotate: false
+  xy: 923, 356
+  size: 90, 158
+  orig: 99, 161
+  offset: 4, 0
+  index: -1
+wuqizheng01
+  rotate: true
+  xy: 297, 51
+  size: 60, 176
+  orig: 60, 178
+  offset: 0, 0
+  index: -1
+wuqizheng02
+  rotate: true
+  xy: 475, 37
+  size: 59, 177
+  orig: 59, 177
+  offset: 0, 0
+  index: -1
+wuqizheng03
+  rotate: true
+  xy: 159, 64
+  size: 89, 136
+  orig: 95, 139
+  offset: 3, 0
+  index: -1
+xuanzhuandaoguang
+  rotate: true
+  xy: 341, 353
+  size: 325, 323
+  orig: 357, 357
+  offset: 16, 17
+  index: -1

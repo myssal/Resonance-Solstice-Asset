@@ -1,0 +1,76 @@
+
+LH_Jika.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diao_01
+  rotate: false
+  xy: 330, 702
+  size: 136, 141
+  orig: 136, 141
+  offset: 0, 0
+  index: -1
+diao_02
+  rotate: false
+  xy: 299, 353
+  size: 131, 194
+  orig: 131, 194
+  offset: 0, 0
+  index: -1
+diao_03
+  rotate: false
+  xy: 316, 549
+  size: 134, 151
+  orig: 134, 151
+  offset: 0, 0
+  index: -1
+diao_04
+  rotate: false
+  xy: 302, 135
+  size: 130, 170
+  orig: 130, 170
+  offset: 0, 0
+  index: -1
+diao_05
+  rotate: 180
+  xy: 268, 3
+  size: 215, 134
+  orig: 215, 134
+  offset: 0, 0
+  index: -1
+diao_06
+  rotate: false
+  xy: 2, 29
+  size: 331, 890
+  orig: 408, 890
+  offset: 0, 0
+  index: -1
+diao_07
+  rotate: false
+  xy: 153, 883
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+diao_08
+  rotate: false
+  xy: 334, 845
+  size: 54, 72
+  orig: 54, 72
+  offset: 0, 0
+  index: -1
+diao_09
+  rotate: false
+  xy: 2, 848
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+diao_10
+  rotate: false
+  xy: 2, 15
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1

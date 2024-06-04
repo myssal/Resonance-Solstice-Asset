@@ -1,0 +1,20 @@
+
+Dustin_effect.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/logo
+  rotate: false
+  xy: 2, 2
+  size: 1125, 388
+  orig: 1436, 433
+  offset: 160, 1
+  index: -1
+effect/qiu_00055
+  rotate: false
+  xy: 1129, 281
+  size: 104, 109
+  orig: 120, 125
+  offset: 9, 6
+  index: -1
