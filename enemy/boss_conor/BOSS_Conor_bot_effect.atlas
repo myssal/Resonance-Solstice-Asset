@@ -1,0 +1,753 @@
+
+BOSS_Conor_bot_effect.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_blast_00000
+  rotate: false
+  xy: 826, 22
+  size: 149, 122
+  orig: 384, 384
+  offset: 124, 140
+  index: -1
+chushou_00001
+  rotate: false
+  xy: 977, 89
+  size: 137, 55
+  orig: 960, 480
+  offset: 227, 211
+  index: -1
+chushou_00010
+  rotate: true
+  xy: 1847, 822
+  size: 482, 179
+  orig: 960, 480
+  offset: 161, 117
+  index: -1
+chushou_00015
+  rotate: true
+  xy: 649, 9
+  size: 135, 175
+  orig: 960, 480
+  offset: 162, 105
+  index: -1
+chushou_00016
+  rotate: false
+  xy: 1932, 16
+  size: 99, 150
+  orig: 960, 480
+  offset: 159, 126
+  index: -1
+chushou_00017
+  rotate: false
+  xy: 1116, 90
+  size: 79, 54
+  orig: 960, 480
+  offset: 165, 154
+  index: -1
+idle_fire_shang_00001
+  rotate: true
+  xy: 1847, 558
+  size: 262, 195
+  orig: 307, 307
+  offset: 21, 55
+  index: -1
+jianjiagongji_00005
+  rotate: false
+  xy: 2, 129
+  size: 645, 345
+  orig: 960, 600
+  offset: 5, 209
+  index: -1
+jianjiagongji_00006
+  rotate: false
+  xy: 2, 476
+  size: 649, 372
+  orig: 960, 600
+  offset: 3, 213
+  index: -1
+jianjiagongji_00007
+  rotate: false
+  xy: 653, 146
+  size: 666, 357
+  orig: 960, 600
+  offset: 200, 127
+  index: -1
+jianjiagongji_00008
+  rotate: true
+  xy: 1486, 624
+  size: 680, 359
+  orig: 960, 600
+  offset: 207, 112
+  index: -1
+jianjiagongji_00009
+  rotate: false
+  xy: 2, 850
+  size: 709, 390
+  orig: 960, 600
+  offset: 211, 83
+  index: -1
+jianjiagongji_00010
+  rotate: false
+  xy: 744, 852
+  size: 729, 389
+  orig: 960, 600
+  offset: 191, 82
+  index: -1
+jianjiagongji_00011
+  rotate: false
+  xy: 1321, 168
+  size: 689, 335
+  orig: 960, 600
+  offset: 173, 139
+  index: -1
+jianjiagongji_00018
+  rotate: false
+  xy: 1422, 512
+  size: 257, 110
+  orig: 960, 600
+  offset: 352, 210
+  index: -1
+weiyigongji_00003
+  rotate: false
+  xy: 1876, 1348
+  size: 140, 65
+  orig: 840, 480
+  offset: 96, 136
+  index: -1
+weiyigongji_00004
+  rotate: false
+  xy: 1321, 2
+  size: 237, 164
+  orig: 840, 480
+  offset: 52, 138
+  index: -1
+weiyigongji_00006
+  rotate: true
+  xy: 1876, 1731
+  size: 315, 158
+  orig: 840, 480
+  offset: 46, 139
+  index: -1
+weiyigongji_00007
+  rotate: true
+  xy: 1876, 1415
+  size: 314, 143
+  orig: 840, 480
+  offset: 85, 140
+  index: -1
+weiyigongji_00009
+  rotate: false
+  xy: 713, 505
+  size: 707, 345
+  orig: 840, 480
+  offset: 88, 99
+  index: -1
+weiyigongji_00010
+  rotate: false
+  xy: 744, 1243
+  size: 740, 399
+  orig: 840, 480
+  offset: 91, 46
+  index: -1
+weiyigongji_00011
+  rotate: false
+  xy: 2, 1242
+  size: 740, 400
+  orig: 840, 480
+  offset: 91, 46
+  index: -1
+weiyigongji_00012
+  rotate: false
+  xy: 2, 1644
+  size: 740, 402
+  orig: 840, 480
+  offset: 91, 46
+  index: -1
+weiyigongji_00013
+  rotate: false
+  xy: 744, 1644
+  size: 740, 402
+  orig: 840, 480
+  offset: 91, 46
+  index: -1
+weiyigongji_00014
+  rotate: true
+  xy: 1486, 1306
+  size: 740, 388
+  orig: 840, 480
+  offset: 91, 46
+  index: -1
+weiyigongji_00019
+  rotate: false
+  xy: 1775, 4
+  size: 155, 162
+  orig: 840, 480
+  offset: 93, 115
+  index: -1
+weiyigongji_00020
+  rotate: false
+  xy: 1681, 534
+  size: 91, 88
+  orig: 840, 480
+  offset: 125, 120
+  index: -1
+weiyigongji_blast_00020
+  rotate: true
+  xy: 1560, 16
+  size: 150, 213
+  orig: 307, 307
+  offset: 103, 81
+  index: -1
+
+BOSS_Conor_bot_effect2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_blast_00001
+  rotate: false
+  xy: 1436, 413
+  size: 336, 290
+  orig: 384, 384
+  offset: 25, 51
+  index: -1
+attack_blast_00003
+  rotate: false
+  xy: 2, 423
+  size: 325, 276
+  orig: 384, 384
+  offset: 42, 61
+  index: -1
+attack_blast_00007
+  rotate: false
+  xy: 2, 165
+  size: 317, 256
+  orig: 384, 384
+  offset: 59, 79
+  index: -1
+attack_blast_00009
+  rotate: false
+  xy: 630, 248
+  size: 317, 253
+  orig: 384, 384
+  offset: 59, 82
+  index: -1
+chushou_00002
+  rotate: false
+  xy: 2, 1229
+  size: 276, 171
+  orig: 960, 480
+  offset: 169, 144
+  index: -1
+chushou_00007
+  rotate: false
+  xy: 1059, 605
+  size: 375, 308
+  orig: 960, 480
+  offset: 48, 139
+  index: -1
+chushou_00008
+  rotate: false
+  xy: 724, 1729
+  size: 661, 316
+  orig: 960, 480
+  offset: 102, 109
+  index: -1
+chushou_00009
+  rotate: false
+  xy: 1387, 1727
+  size: 634, 318
+  orig: 960, 480
+  offset: 139, 67
+  index: -1
+chushou_00011
+  rotate: false
+  xy: 507, 716
+  size: 550, 219
+  orig: 960, 480
+  offset: 164, 114
+  index: -1
+chushou_00012
+  rotate: false
+  xy: 507, 503
+  size: 482, 211
+  orig: 960, 480
+  offset: 160, 153
+  index: -1
+chushou_00014
+  rotate: false
+  xy: 1605, 19
+  size: 189, 193
+  orig: 960, 480
+  offset: 162, 106
+  index: -1
+chushou_daoguang_00010
+  rotate: false
+  xy: 593, 1218
+  size: 701, 247
+  orig: 960, 360
+  offset: 116, 47
+  index: -1
+chushou_daoguang_00011
+  rotate: false
+  xy: 1296, 1183
+  size: 648, 253
+  orig: 960, 360
+  offset: 290, 79
+  index: -1
+idle_fire_shang_00005
+  rotate: false
+  xy: 701, 7
+  size: 234, 239
+  orig: 307, 307
+  offset: 20, 23
+  index: -1
+idle_fire_shang_00007
+  rotate: true
+  xy: 280, 1220
+  size: 180, 247
+  orig: 307, 307
+  offset: 69, 32
+  index: -1
+idle_fire_shang_00014
+  rotate: false
+  xy: 1774, 415
+  size: 261, 288
+  orig: 307, 307
+  offset: 26, 12
+  index: -1
+jianjiagongji_00001
+  rotate: true
+  xy: 1822, 28
+  size: 385, 189
+  orig: 960, 600
+  offset: 239, 204
+  index: -1
+jianjiagongji_00002
+  rotate: false
+  xy: 593, 1467
+  size: 730, 260
+  orig: 960, 600
+  offset: 139, 177
+  index: -1
+jianjiagongji_00003
+  rotate: false
+  xy: 624, 937
+  size: 532, 279
+  orig: 960, 600
+  offset: 89, 209
+  index: -1
+jianjiagongji_00004
+  rotate: false
+  xy: 2, 1402
+  size: 589, 332
+  orig: 960, 600
+  offset: 30, 208
+  index: -1
+jianjiagongji_00012
+  rotate: false
+  xy: 2, 963
+  size: 620, 253
+  orig: 960, 600
+  offset: 166, 224
+  index: -1
+jianjiagongji_00013
+  rotate: false
+  xy: 2, 701
+  size: 503, 260
+  orig: 960, 600
+  offset: 152, 215
+  index: -1
+jianjiagongji_00014
+  rotate: true
+  xy: 1658, 705
+  size: 476, 267
+  orig: 960, 600
+  offset: 90, 218
+  index: -1
+jianjiagongji_00015
+  rotate: false
+  xy: 1158, 915
+  size: 498, 266
+  orig: 960, 600
+  offset: 60, 219
+  index: -1
+jianjiagongji_00016
+  rotate: false
+  xy: 1397, 214
+  size: 423, 197
+  orig: 960, 600
+  offset: 154, 216
+  index: -1
+jianjiagongji_00017
+  rotate: false
+  xy: 321, 24
+  size: 378, 184
+  orig: 960, 600
+  offset: 230, 212
+  index: -1
+shine_00000
+  rotate: true
+  xy: 329, 210
+  size: 291, 299
+  orig: 307, 307
+  offset: 8, 4
+  index: -1
+weiyigongji_00005
+  rotate: false
+  xy: 949, 158
+  size: 357, 223
+  orig: 840, 480
+  offset: 0, 141
+  index: -1
+weiyigongji_00008
+  rotate: false
+  xy: 2, 1736
+  size: 720, 309
+  orig: 840, 480
+  offset: 90, 129
+  index: -1
+weiyigongji_00015
+  rotate: false
+  xy: 1325, 1438
+  size: 659, 287
+  orig: 840, 480
+  offset: 92, 110
+  index: -1
+weiyigongji_00016
+  rotate: false
+  xy: 991, 383
+  size: 404, 220
+  orig: 840, 480
+  offset: 92, 111
+  index: -1
+weiyigongji_00017
+  rotate: false
+  xy: 1308, 2
+  size: 295, 210
+  orig: 840, 480
+  offset: 91, 101
+  index: -1
+weiyigongji_00018
+  rotate: false
+  xy: 1436, 718
+  size: 208, 195
+  orig: 840, 480
+  offset: 91, 105
+  index: -1
+
+BOSS_Conor_bot_effect3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_blast_00005
+  rotate: false
+  xy: 2, 1129
+  size: 312, 253
+  orig: 384, 384
+  offset: 61, 80
+  index: -1
+attack_blast_00011
+  rotate: true
+  xy: 472, 43
+  size: 194, 241
+  orig: 384, 384
+  offset: 61, 94
+  index: -1
+attack_blast_00013
+  rotate: true
+  xy: 1494, 33
+  size: 191, 236
+  orig: 384, 384
+  offset: 63, 99
+  index: -1
+chushou_00003
+  rotate: false
+  xy: 1065, 250
+  size: 259, 201
+  orig: 960, 480
+  offset: 164, 128
+  index: -1
+chushou_00004
+  rotate: false
+  xy: 1201, 1140
+  size: 281, 242
+  orig: 960, 480
+  offset: 91, 117
+  index: -1
+chushou_00005
+  rotate: false
+  xy: 316, 1126
+  size: 302, 256
+  orig: 960, 480
+  offset: 25, 136
+  index: -1
+chushou_00006
+  rotate: false
+  xy: 576, 891
+  size: 259, 232
+  orig: 960, 480
+  offset: 41, 149
+  index: -1
+chushou_00013
+  rotate: false
+  xy: 260, 266
+  size: 263, 209
+  orig: 960, 480
+  offset: 160, 124
+  index: -1
+chushou_daoguang_00012
+  rotate: false
+  xy: 1732, 2
+  size: 193, 181
+  orig: 960, 360
+  offset: 742, 125
+  index: -1
+idel_fire_xia_00000
+  rotate: true
+  xy: 1585, 226
+  size: 219, 225
+  orig: 307, 307
+  offset: 32, 37
+  index: -1
+idel_fire_xia_00001
+  rotate: true
+  xy: 1020, 40
+  size: 208, 225
+  orig: 307, 307
+  offset: 34, 44
+  index: -1
+idel_fire_xia_00002
+  rotate: true
+  xy: 2, 32
+  size: 201, 225
+  orig: 307, 307
+  offset: 37, 51
+  index: -1
+idel_fire_xia_00003
+  rotate: true
+  xy: 238, 54
+  size: 210, 231
+  orig: 307, 307
+  offset: 37, 50
+  index: -1
+idel_fire_xia_00004
+  rotate: true
+  xy: 2, 235
+  size: 215, 235
+  orig: 307, 307
+  offset: 38, 52
+  index: -1
+idel_fire_xia_00005
+  rotate: true
+  xy: 550, 675
+  size: 214, 275
+  orig: 307, 307
+  offset: 38, 18
+  index: -1
+idel_fire_xia_00006
+  rotate: true
+  xy: 262, 701
+  size: 208, 286
+  orig: 307, 307
+  offset: 40, 13
+  index: -1
+idel_fire_xia_00007
+  rotate: true
+  xy: 804, 468
+  size: 203, 272
+  orig: 307, 307
+  offset: 47, 12
+  index: -1
+idel_fire_xia_00008
+  rotate: true
+  xy: 529, 459
+  size: 214, 273
+  orig: 307, 307
+  offset: 39, 13
+  index: -1
+idel_fire_xia_00009
+  rotate: true
+  xy: 1443, 681
+  size: 219, 271
+  orig: 307, 307
+  offset: 35, 15
+  index: -1
+idel_fire_xia_00010
+  rotate: true
+  xy: 262, 477
+  size: 222, 265
+  orig: 307, 307
+  offset: 32, 17
+  index: -1
+idel_fire_xia_00011
+  rotate: true
+  xy: 1177, 685
+  size: 227, 264
+  orig: 307, 307
+  offset: 28, 22
+  index: -1
+idel_fire_xia_00012
+  rotate: true
+  xy: 911, 899
+  size: 228, 264
+  orig: 307, 307
+  offset: 26, 26
+  index: -1
+idel_fire_xia_00013
+  rotate: true
+  xy: 1486, 902
+  size: 230, 267
+  orig: 307, 307
+  offset: 25, 25
+  index: -1
+idel_fire_xia_00014
+  rotate: true
+  xy: 1755, 680
+  size: 228, 260
+  orig: 307, 307
+  offset: 26, 36
+  index: -1
+idle_fire_shang_00000
+  rotate: false
+  xy: 837, 673
+  size: 263, 224
+  orig: 307, 307
+  offset: 23, 23
+  index: -1
+idle_fire_shang_00002
+  rotate: false
+  xy: 804, 264
+  size: 259, 202
+  orig: 307, 307
+  offset: 20, 45
+  index: -1
+idle_fire_shang_00003
+  rotate: false
+  xy: 2, 452
+  size: 256, 225
+  orig: 307, 307
+  offset: 20, 23
+  index: -1
+idle_fire_shang_00004
+  rotate: false
+  xy: 1614, 447
+  size: 250, 231
+  orig: 307, 307
+  offset: 19, 20
+  index: -1
+idle_fire_shang_00006
+  rotate: true
+  xy: 1247, 40
+  size: 190, 245
+  orig: 307, 307
+  offset: 56, 27
+  index: -1
+idle_fire_shang_00008
+  rotate: true
+  xy: 766, 71
+  size: 191, 252
+  orig: 307, 307
+  offset: 61, 32
+  index: -1
+idle_fire_shang_00009
+  rotate: true
+  xy: 1326, 249
+  size: 197, 257
+  orig: 307, 307
+  offset: 56, 31
+  index: -1
+idle_fire_shang_00010
+  rotate: true
+  xy: 2, 679
+  size: 232, 258
+  orig: 307, 307
+  offset: 51, 35
+  index: -1
+idle_fire_shang_00011
+  rotate: true
+  xy: 1484, 1134
+  size: 248, 272
+  orig: 307, 307
+  offset: 41, 26
+  index: -1
+idle_fire_shang_00012
+  rotate: true
+  xy: 911, 1129
+  size: 253, 288
+  orig: 307, 307
+  offset: 35, 7
+  index: -1
+idle_fire_shang_00013
+  rotate: true
+  xy: 620, 1125
+  size: 257, 289
+  orig: 307, 307
+  offset: 30, 7
+  index: -1
+weiyigongji_blast_00011
+  rotate: true
+  xy: 1359, 448
+  size: 231, 253
+  orig: 307, 307
+  offset: 45, 36
+  index: -1
+weiyigongji_blast_00012
+  rotate: true
+  xy: 525, 239
+  size: 218, 239
+  orig: 307, 307
+  offset: 42, 44
+  index: -1
+weiyigongji_blast_00013
+  rotate: true
+  xy: 1102, 453
+  size: 230, 255
+  orig: 307, 307
+  offset: 29, 28
+  index: -1
+weiyigongji_blast_00014
+  rotate: true
+  xy: 1758, 910
+  size: 235, 266
+  orig: 307, 307
+  offset: 30, 17
+  index: -1
+weiyigongji_blast_00015
+  rotate: true
+  xy: 1758, 1147
+  size: 235, 283
+  orig: 307, 307
+  offset: 30, 13
+  index: -1
+weiyigongji_blast_00016
+  rotate: true
+  xy: 1201, 915
+  size: 218, 283
+  orig: 307, 307
+  offset: 47, 13
+  index: -1
+weiyigongji_blast_00017
+  rotate: true
+  xy: 2, 913
+  size: 214, 285
+  orig: 307, 307
+  offset: 51, 12
+  index: -1
+weiyigongji_blast_00018
+  rotate: true
+  xy: 289, 911
+  size: 213, 285
+  orig: 307, 307
+  offset: 52, 12
+  index: -1
+weiyigongji_blast_00019
+  rotate: false
+  xy: 1812, 185
+  size: 188, 260
+  orig: 307, 307
+  offset: 76, 36
+  index: -1

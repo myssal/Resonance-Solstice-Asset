@@ -1,0 +1,90 @@
+
+Paladi_bot02.png
+size: 128,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0_guang
+  rotate: false
+  xy: 57, 85
+  size: 11, 7
+  orig: 14, 9
+  offset: 2, 1
+  index: -1
+0_jiao1
+  rotate: 270
+  xy: 23, 4
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+0_jiao2
+  rotate: true
+  xy: 2, 34
+  size: 27, 50
+  orig: 28, 50
+  offset: 1, 0
+  index: -1
+0_n_shou1
+  rotate: false
+  xy: 54, 35
+  size: 22, 22
+  orig: 25, 24
+  offset: 2, 1
+  index: -1
+0_n_shou2
+  rotate: false
+  xy: 2, 101
+  size: 57, 35
+  orig: 59, 37
+  offset: 1, 1
+  index: -1
+0_n_shou3
+  rotate: false
+  xy: 2, 62
+  size: 54, 37
+  orig: 54, 37
+  offset: 0, 0
+  index: -1
+0_qiang
+  rotate: false
+  xy: 2, 175
+  size: 73, 93
+  orig: 73, 94
+  offset: 0, 1
+  index: -1
+0_shen
+  rotate: false
+  xy: 2, 270
+  size: 73, 99
+  orig: 73, 99
+  offset: 0, 0
+  index: -1
+0_shou1
+  rotate: true
+  xy: 2, 138
+  size: 49, 42
+  orig: 51, 44
+  offset: 1, 1
+  index: -1
+0_shou2
+  rotate: false
+  xy: 2, 5
+  size: 19, 26
+  orig: 21, 28
+  offset: 1, 1
+  index: -1
+0_shou3
+  rotate: false
+  xy: 57, 59
+  size: 17, 24
+  orig: 19, 26
+  offset: 1, 1
+  index: -1
+0_shou4
+  rotate: false
+  xy: 46, 138
+  size: 31, 32
+  orig: 33, 34
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,167 @@
+
+Akira_bot_effect.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow2_00067
+  rotate: false
+  xy: 651, 1607
+  size: 135, 69
+  orig: 268, 174
+  offset: 65, 51
+  index: -1
+kuosan/kuosan_00085
+  rotate: false
+  xy: 2, 1612
+  size: 327, 320
+  orig: 413, 406
+  offset: 43, 48
+  index: -1
+kuosan/kuosan_00086
+  rotate: false
+  xy: 2, 1290
+  size: 327, 320
+  orig: 413, 406
+  offset: 43, 48
+  index: -1
+kuosan/kuosan_00087
+  rotate: false
+  xy: 2, 968
+  size: 327, 320
+  orig: 413, 406
+  offset: 43, 48
+  index: -1
+kuosan/kuosan_00088
+  rotate: false
+  xy: 2, 646
+  size: 327, 320
+  orig: 413, 406
+  offset: 43, 48
+  index: -1
+kuosan/kuosan_00089
+  rotate: false
+  xy: 2, 324
+  size: 327, 320
+  orig: 413, 406
+  offset: 43, 48
+  index: -1
+kuosan/kuosan_00090
+  rotate: false
+  xy: 2, 2
+  size: 327, 320
+  orig: 413, 406
+  offset: 43, 48
+  index: -1
+kuosan/kuosan_00091
+  rotate: true
+  xy: 331, 1607
+  size: 325, 318
+  orig: 413, 406
+  offset: 44, 49
+  index: -1
+kuosan/kuosan_00092
+  rotate: true
+  xy: 331, 1283
+  size: 322, 315
+  orig: 413, 406
+  offset: 45, 50
+  index: -1
+kuosan/kuosan_00093
+  rotate: true
+  xy: 331, 962
+  size: 319, 312
+  orig: 413, 406
+  offset: 47, 52
+  index: -1
+kuosan/kuosan_00094
+  rotate: false
+  xy: 331, 651
+  size: 317, 309
+  orig: 413, 406
+  offset: 48, 53
+  index: -1
+kuosan/kuosan_00095
+  rotate: false
+  xy: 331, 342
+  size: 315, 307
+  orig: 413, 406
+  offset: 49, 54
+  index: -1
+kuosan/kuosan_00096
+  rotate: false
+  xy: 331, 35
+  size: 312, 305
+  orig: 413, 406
+  offset: 50, 55
+  index: -1
+kuosan/kuosan_00097
+  rotate: true
+  xy: 645, 971
+  size: 310, 303
+  orig: 413, 406
+  offset: 51, 56
+  index: -1
+kuosan/kuosan_00098
+  rotate: true
+  xy: 645, 32
+  size: 308, 298
+  orig: 413, 406
+  offset: 52, 59
+  index: -1
+kuosan/kuosan_00099
+  rotate: true
+  xy: 648, 1299
+  size: 306, 296
+  orig: 413, 406
+  offset: 53, 60
+  index: -1
+quan2_00085
+  rotate: false
+  xy: 650, 872
+  size: 210, 60
+  orig: 371, 166
+  offset: 80, 51
+  index: -1
+yan3/FX_yan03_01
+  rotate: false
+  xy: 650, 572
+  size: 173, 97
+  orig: 260, 150
+  offset: 74, 14
+  index: -1
+yan3/FX_yan03_02
+  rotate: false
+  xy: 650, 771
+  size: 162, 99
+  orig: 260, 150
+  offset: 55, 17
+  index: -1
+yan3/FX_yan03_03
+  rotate: false
+  xy: 648, 458
+  size: 173, 112
+  orig: 260, 150
+  offset: 37, 19
+  index: -1
+yan3/FX_yan03_04
+  rotate: false
+  xy: 648, 342
+  size: 175, 114
+  orig: 260, 150
+  offset: 31, 21
+  index: -1
+yan3/FX_yan03_05
+  rotate: false
+  xy: 650, 671
+  size: 169, 98
+  orig: 260, 150
+  offset: 27, 42
+  index: -1
+yan3/FX_yan03_06
+  rotate: false
+  xy: 331, 12
+  size: 38, 21
+  orig: 260, 150
+  offset: 40, 99
+  index: -1

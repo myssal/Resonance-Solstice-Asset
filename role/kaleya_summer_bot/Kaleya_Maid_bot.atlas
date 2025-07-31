@@ -1,0 +1,34 @@
+
+Kaleya_Maid_bot.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2-zd1_01
+  rotate: false
+  xy: 2, 3
+  size: 70, 67
+  orig: 138, 132
+  offset: 35, 32
+  index: -1
+2-zd1_01_guang
+  rotate: true
+  xy: 501, 16
+  size: 120, 116
+  orig: 128, 128
+  offset: 8, 4
+  index: -1
+2-zd1_02
+  rotate: false
+  xy: 364, 4
+  size: 135, 132
+  orig: 138, 132
+  offset: 0, 0
+  index: -1
+xian
+  rotate: false
+  xy: 2, 70
+  size: 360, 66
+  orig: 360, 221
+  offset: 0, 77
+  index: -1

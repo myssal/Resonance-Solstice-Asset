@@ -1,0 +1,160 @@
+
+zombie_warrior.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houfa
+  rotate: false
+  xy: 503, 218
+  size: 229, 163
+  orig: 229, 163
+  offset: 0, 0
+  index: -1
+mao
+  rotate: false
+  xy: 217, 5
+  size: 66, 77
+  orig: 66, 77
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: false
+  xy: 4, 281
+  size: 317, 247
+  orig: 317, 247
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: 270
+  xy: 591, 87
+  size: 145, 202
+  orig: 145, 202
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 103, 55
+  size: 101, 110
+  orig: 101, 110
+  offset: 0, 0
+  index: -1
+toukui1
+  rotate: false
+  xy: 736, 236
+  size: 86, 99
+  orig: 86, 99
+  offset: 0, 0
+  index: -1
+toukui2
+  rotate: true
+  xy: 341, 98
+  size: 154, 184
+  orig: 154, 184
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: 180
+  xy: 128, 160
+  size: 420, 322
+  orig: 420, 322
+  offset: 0, 0
+  index: -1
+wuqi_guang
+  rotate: true
+  xy: 513, 485
+  size: 378, 267
+  orig: 378, 267
+  offset: 0, 0
+  index: -1
+xian
+  rotate: false
+  xy: 430, 29
+  size: 58, 65
+  orig: 58, 65
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: false
+  xy: 4, 532
+  size: 505, 331
+  orig: 505, 331
+  offset: 0, 0
+  index: -1
+yougebo1
+  rotate: false
+  xy: 325, 442
+  size: 101, 86
+  orig: 101, 86
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: true
+  xy: 606, 378
+  size: 103, 189
+  orig: 103, 191
+  offset: 0, 2
+  index: -1
+youshou
+  rotate: false
+  xy: 287, 17
+  size: 72, 65
+  orig: 72, 65
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: false
+  xy: 363, 22
+  size: 63, 72
+  orig: 63, 72
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: false
+  xy: 618, 21
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+youshoubi1
+  rotate: 180
+  xy: 706, 5
+  size: 106, 101
+  orig: 108, 101
+  offset: 2, 0
+  index: -1
+youshoubi2
+  rotate: false
+  xy: 4, 19
+  size: 92, 82
+  orig: 92, 82
+  offset: 0, 0
+  index: -1
+zuogebo
+  rotate: false
+  xy: 223, 86
+  size: 114, 105
+  orig: 114, 105
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: false
+  xy: 4, 105
+  size: 95, 205
+  orig: 95, 205
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 545, 420
+  size: 61, 55
+  orig: 61, 55
+  offset: 0, 0
+  index: -1
+zuoshoubi
+  rotate: 270
+  xy: 503, 21
+  size: 90, 111
+  orig: 90, 112
+  offset: 0, 1
+  index: -1

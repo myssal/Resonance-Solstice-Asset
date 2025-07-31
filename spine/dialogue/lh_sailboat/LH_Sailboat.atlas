@@ -1,0 +1,118 @@
+
+LH_Sailboat.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm
+  rotate: true
+  xy: 2, 20
+  size: 242, 494
+  orig: 242, 494
+  offset: 0, 0
+  index: -1
+arm2
+  rotate: false
+  xy: 650, 539
+  size: 148, 453
+  orig: 148, 453
+  offset: 0, 0
+  index: -1
+hou
+  rotate: true
+  xy: 719, 1005
+  size: 450, 122
+  orig: 450, 124
+  offset: 0, 0
+  index: -1
+lingzi
+  rotate: false
+  xy: 505, 1491
+  size: 264, 217
+  orig: 264, 217
+  offset: 0, 0
+  index: -1
+ping
+  rotate: false
+  xy: 794, 166
+  size: 122, 447
+  orig: 125, 449
+  offset: 1, 1
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 1018
+  size: 503, 880
+  orig: 503, 880
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 506, 1710
+  size: 136, 169
+  orig: 141, 172
+  offset: 4, 2
+  index: -1
+shou2
+  rotate: false
+  xy: 726, 1653
+  size: 64, 114
+  orig: 67, 116
+  offset: 1, 1
+  index: -1
+shou3
+  rotate: false
+  xy: 644, 1769
+  size: 149, 128
+  orig: 154, 130
+  offset: 3, 1
+  index: -1
+tou
+  rotate: false
+  xy: 2, 264
+  size: 484, 414
+  orig: 484, 414
+  offset: 0, 0
+  index: -1
+waitao
+  rotate: 270
+  xy: 2, 680
+  size: 379, 552
+  orig: 379, 552
+  offset: 0, 0
+  index: -1
+waitao1
+  rotate: false
+  xy: 796, 1454
+  size: 95, 444
+  orig: 95, 444
+  offset: 0, 0
+  index: -1
+waitao3
+  rotate: true
+  xy: 493, 963
+  size: 493, 224
+  orig: 493, 224
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: 270
+  xy: 461, 3
+  size: 534, 417
+  orig: 534, 417
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 196, 1862
+  size: 39, 35
+  orig: 42, 38
+  offset: 2, 1
+  index: -1
+zui
+  rotate: false
+  xy: 795, 880
+  size: 121, 86
+  orig: 123, 89
+  offset: 1, 2
+  index: -1

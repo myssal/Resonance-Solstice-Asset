@@ -1,0 +1,69 @@
+
+Ikara_bot01.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Llongtou
+  rotate: false
+  xy: 2, 439
+  size: 2091, 1038
+  orig: 2091, 1038
+  offset: 0, 0
+  index: -1
+Llongya
+  rotate: 180
+  xy: 3064, 6
+  size: 527, 462
+  orig: 596, 488
+  offset: 7, 26
+  index: -1
+Lzhua_1
+  rotate: true
+  xy: 2466, 202
+  size: 263, 678
+  orig: 283, 698
+  offset: 10, 10
+  index: -1
+Lzhua_hen_1
+  rotate: false
+  xy: 3467, 284
+  size: 95, 602
+  orig: 115, 622
+  offset: 10, 10
+  index: -1
+Lzhua_hen_2
+  rotate: true
+  xy: 662, 202
+  size: 268, 1802
+  orig: 289, 1822
+  offset: 11, 10
+  index: -1
+Lzhua_hen_2_2
+  rotate: true
+  xy: 2, 49
+  size: 151, 1708
+  orig: 289, 1822
+  offset: 11, 104
+  index: -1
+Lzhua_hen_3
+  rotate: true
+  xy: 1712, 3
+  size: 197, 1087
+  orig: 218, 1108
+  offset: 11, 11
+  index: -1
+Lzhua_hen_diwen1
+  rotate: true
+  xy: 2, 1241
+  size: 236, 635
+  orig: 257, 656
+  offset: 11, 11
+  index: -1
+Lzhua_hen_diwen2
+  rotate: true
+  xy: 1964, 472
+  size: 677, 1342
+  orig: 699, 1362
+  offset: 12, 10
+  index: -1

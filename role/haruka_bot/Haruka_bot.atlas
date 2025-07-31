@@ -1,0 +1,202 @@
+
+Haruka_bot.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AZB_0
+  rotate: false
+  xy: 137, 64
+  size: 26, 30
+  orig: 29, 32
+  offset: 1, 1
+  index: -1
+AZB_1
+  rotate: false
+  xy: 337, 228
+  size: 28, 37
+  orig: 31, 47
+  offset: 1, 7
+  index: -1
+AZB_10
+  rotate: false
+  xy: 316, 65
+  size: 142, 70
+  orig: 142, 70
+  offset: 0, 0
+  index: -1
+AZB_11
+  rotate: false
+  xy: 180, 143
+  size: 72, 40
+  orig: 74, 42
+  offset: 1, 1
+  index: -1
+AZB_12
+  rotate: false
+  xy: 266, 229
+  size: 69, 30
+  orig: 71, 32
+  offset: 1, 1
+  index: -1
+AZB_13
+  rotate: true
+  xy: 180, 49
+  size: 86, 134
+  orig: 88, 136
+  offset: 1, 1
+  index: -1
+AZB_14
+  rotate: false
+  xy: 460, 55
+  size: 45, 80
+  orig: 47, 82
+  offset: 1, 1
+  index: -1
+AZB_15
+  rotate: true
+  xy: 2, 27
+  size: 67, 133
+  orig: 69, 135
+  offset: 1, 1
+  index: -1
+AZB_16
+  rotate: true
+  xy: 2, 96
+  size: 87, 176
+  orig: 89, 178
+  offset: 1, 1
+  index: -1
+AZB_17
+  rotate: false
+  xy: 478, 303
+  size: 31, 48
+  orig: 33, 50
+  offset: 1, 1
+  index: -1
+AZB_18
+  rotate: false
+  xy: 478, 213
+  size: 22, 88
+  orig: 24, 90
+  offset: 1, 1
+  index: -1
+AZB_19
+  rotate: true
+  xy: 316, 2
+  size: 61, 136
+  orig: 63, 138
+  offset: 1, 1
+  index: -1
+AZB_20
+  rotate: false
+  xy: 478, 353
+  size: 26, 49
+  orig: 28, 51
+  offset: 1, 1
+  index: -1
+AZB_21
+  rotate: true
+  xy: 266, 137
+  size: 86, 180
+  orig: 88, 182
+  offset: 1, 1
+  index: -1
+AZB_4
+  rotate: true
+  xy: 2, 186
+  size: 74, 262
+  orig: 76, 264
+  offset: 1, 1
+  index: -1
+AZB_5
+  rotate: false
+  xy: 415, 225
+  size: 61, 261
+  orig: 63, 263
+  offset: 1, 1
+  index: -1
+AZB_6
+  rotate: false
+  xy: 387, 238
+  size: 17, 27
+  orig: 19, 29
+  offset: 1, 1
+  index: -1
+AZB_6_1
+  rotate: false
+  xy: 478, 404
+  size: 17, 24
+  orig: 19, 29
+  offset: 1, 4
+  index: -1
+AZB_6_2
+  rotate: false
+  xy: 2, 10
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+AZB_7
+  rotate: false
+  xy: 367, 237
+  size: 18, 28
+  orig: 20, 30
+  offset: 1, 1
+  index: -1
+AZB_7_1
+  rotate: false
+  xy: 285, 22
+  size: 18, 25
+  orig: 20, 30
+  offset: 1, 4
+  index: -1
+AZB_7_2
+  rotate: false
+  xy: 34, 10
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+AZB_8
+  rotate: false
+  xy: 454, 4
+  size: 42, 49
+  orig: 44, 51
+  offset: 1, 1
+  index: -1
+AZB_9
+  rotate: false
+  xy: 137, 11
+  size: 146, 36
+  orig: 146, 36
+  offset: 0, 0
+  index: -1
+dizuo
+  rotate: false
+  xy: 2, 271
+  size: 204, 215
+  orig: 206, 217
+  offset: 1, 1
+  index: -1
+gth
+  rotate: false
+  xy: 448, 137
+  size: 62, 74
+  orig: 65, 76
+  offset: 1, 1
+  index: -1
+youshou
+  rotate: false
+  xy: 208, 261
+  size: 106, 225
+  orig: 108, 227
+  offset: 1, 1
+  index: -1
+zuoshou
+  rotate: false
+  xy: 316, 267
+  size: 97, 219
+  orig: 99, 221
+  offset: 1, 1
+  index: -1

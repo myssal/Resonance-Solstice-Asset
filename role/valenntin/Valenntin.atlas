@@ -1,0 +1,335 @@
+
+Valenntin.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Birdcage_01
+  rotate: true
+  xy: 351, 156
+  size: 120, 107
+  orig: 120, 107
+  offset: 0, 0
+  index: -1
+Birdcage_03
+  rotate: true
+  xy: 591, 21
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+Birdcage_04
+  rotate: false
+  xy: 832, 35
+  size: 33, 59
+  orig: 33, 59
+  offset: 0, 0
+  index: -1
+Birdcage_05
+  rotate: false
+  xy: 953, 183
+  size: 49, 93
+  orig: 49, 93
+  offset: 0, 0
+  index: -1
+Birdcage_06
+  rotate: true
+  xy: 312, 56
+  size: 40, 118
+  orig: 40, 118
+  offset: 0, 0
+  index: -1
+Birdcage_07
+  rotate: true
+  xy: 546, 65
+  size: 43, 120
+  orig: 43, 120
+  offset: 0, 0
+  index: -1
+Birdcage_08
+  rotate: true
+  xy: 460, 130
+  size: 146, 113
+  orig: 146, 113
+  offset: 0, 0
+  index: -1
+Birdcage_09
+  rotate: false
+  xy: 460, 231
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+Birdcage_10
+  rotate: false
+  xy: 272, 18
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+Birdcage_11
+  rotate: true
+  xy: 392, 2
+  size: 33, 61
+  orig: 33, 61
+  offset: 0, 0
+  index: -1
+Birdcage_12
+  rotate: true
+  xy: 953, 160
+  size: 21, 60
+  orig: 21, 60
+  offset: 0, 0
+  index: -1
+Birdcage_13
+  rotate: true
+  xy: 217, 141
+  size: 135, 132
+  orig: 135, 132
+  offset: 0, 0
+  index: -1
+Birdcage_14
+  rotate: true
+  xy: 575, 175
+  size: 101, 86
+  orig: 101, 92
+  offset: 0, 0
+  index: -1
+Birdcage_15
+  rotate: true
+  xy: 663, 169
+  size: 107, 98
+  orig: 107, 98
+  offset: 0, 0
+  index: -1
+Birdcage_16
+  rotate: 180
+  xy: 679, 8
+  size: 59, 38
+  orig: 59, 38
+  offset: 0, 0
+  index: -1
+Birdcage_17
+  rotate: true
+  xy: 217, 72
+  size: 67, 93
+  orig: 67, 93
+  offset: 0, 0
+  index: -1
+Birdcage_19
+  rotate: true
+  xy: 642, 26
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+Birdcage_20
+  rotate: false
+  xy: 2, 48
+  size: 213, 228
+  orig: 220, 253
+  offset: 6, 5
+  index: -1
+Birdcage_21
+  rotate: false
+  xy: 473, 61
+  size: 71, 72
+  orig: 86, 87
+  offset: 8, 7
+  index: -1
+Birdcage_22
+  rotate: false
+  xy: 351, 160
+  size: 36, 15
+  orig: 36, 16
+  offset: 0, 0
+  index: -1
+Birdcage_g_10001
+  rotate: true
+  xy: 2, 17
+  size: 29, 60
+  orig: 40, 70
+  offset: 5, 2
+  index: -1
+Birdcage_g_10002
+  rotate: true
+  xy: 64, 18
+  size: 28, 61
+  orig: 40, 70
+  offset: 5, 2
+  index: -1
+Birdcage_g_10003
+  rotate: true
+  xy: 127, 18
+  size: 28, 61
+  orig: 40, 70
+  offset: 6, 2
+  index: -1
+Birdcage_g_10004
+  rotate: true
+  xy: 472, 29
+  size: 30, 63
+  orig: 40, 70
+  offset: 5, 2
+  index: -1
+Birdcage_g_10005
+  rotate: true
+  xy: 369, 28
+  size: 31, 61
+  orig: 40, 70
+  offset: 3, 2
+  index: -1
+Birdcage_g_10006
+  rotate: true
+  xy: 951, 24
+  size: 29, 62
+  orig: 40, 70
+  offset: 4, 2
+  index: -1
+Birdcage_g_10007
+  rotate: true
+  xy: 867, 13
+  size: 27, 62
+  orig: 40, 70
+  offset: 5, 2
+  index: -1
+Birdcage_g_10008
+  rotate: true
+  xy: 755, 21
+  size: 30, 60
+  orig: 40, 70
+  offset: 3, 2
+  index: -1
+Birdcage_g_60001
+  rotate: true
+  xy: 890, 98
+  size: 59, 116
+  orig: 80, 130
+  offset: 11, 3
+  index: -1
+Birdcage_g_60002
+  rotate: true
+  xy: 755, 96
+  size: 57, 117
+  orig: 80, 130
+  offset: 11, 3
+  index: -1
+Birdcage_g_60003
+  rotate: false
+  xy: 696, 48
+  size: 57, 119
+  orig: 80, 130
+  offset: 13, 3
+  index: -1
+Birdcage_g_60004
+  rotate: false
+  xy: 763, 155
+  size: 61, 121
+  orig: 80, 130
+  offset: 10, 3
+  index: -1
+Birdcage_g_60005
+  rotate: false
+  xy: 826, 158
+  size: 62, 118
+  orig: 80, 130
+  offset: 8, 3
+  index: -1
+Birdcage_g_60006
+  rotate: true
+  xy: 575, 110
+  size: 58, 119
+  orig: 80, 130
+  offset: 9, 3
+  index: -1
+Birdcage_g_60007
+  rotate: true
+  xy: 351, 98
+  size: 56, 120
+  orig: 80, 130
+  offset: 10, 3
+  index: -1
+Birdcage_g_60008
+  rotate: false
+  xy: 890, 159
+  size: 61, 117
+  orig: 80, 130
+  offset: 6, 3
+  index: -1
+face_Hit01
+  rotate: false
+  xy: 217, 27
+  size: 53, 43
+  orig: 54, 43
+  offset: 0, 0
+  index: -1
+face_Standby01
+  rotate: false
+  xy: 755, 53
+  size: 75, 41
+  orig: 75, 41
+  offset: 0, 0
+  index: -1
+face_Standby02
+  rotate: false
+  xy: 951, 55
+  size: 71, 41
+  orig: 71, 41
+  offset: 0, 0
+  index: -1
+face_attack01
+  rotate: false
+  xy: 874, 42
+  size: 75, 54
+  orig: 75, 54
+  offset: 0, 0
+  index: -1
+face_die01
+  rotate: true
+  xy: 432, 37
+  size: 59, 38
+  orig: 59, 38
+  offset: 0, 0
+  index: -1
+yougebo
+  rotate: false
+  xy: 546, 16
+  size: 34, 47
+  orig: 36, 49
+  offset: 1, 1
+  index: -1
+youshou
+  rotate: false
+  xy: 817, 7
+  size: 26, 26
+  orig: 28, 28
+  offset: 1, 1
+  index: -1
+youshoubi
+  rotate: true
+  xy: 473, 138
+  size: 31, 39
+  orig: 33, 41
+  offset: 1, 1
+  index: -1
+zuogebo
+  rotate: false
+  xy: 318, 102
+  size: 31, 42
+  orig: 33, 44
+  offset: 1, 1
+  index: -1
+zuoshou
+  rotate: false
+  xy: 455, 3
+  size: 26, 24
+  orig: 28, 26
+  offset: 1, 1
+  index: -1
+zuoshoubi
+  rotate: false
+  xy: 330, 14
+  size: 31, 40
+  orig: 34, 42
+  offset: 2, 1
+  index: -1

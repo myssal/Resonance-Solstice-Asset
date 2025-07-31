@@ -1,0 +1,41 @@
+
+Caroline_bot_1_effect.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+quan1/quan0000
+  rotate: false
+  xy: 2, 1414
+  size: 1365, 366
+  orig: 1399, 390
+  offset: 13, 13
+  index: -1
+quan1/quan0006
+  rotate: false
+  xy: 2, 703
+  size: 1339, 352
+  orig: 1399, 390
+  offset: 19, 25
+  index: -1
+quan1/quan0012
+  rotate: false
+  xy: 2, 352
+  size: 1338, 349
+  orig: 1399, 390
+  offset: 24, 27
+  index: -1
+quan1/quan0018
+  rotate: false
+  xy: 2, 2
+  size: 1329, 348
+  orig: 1399, 390
+  offset: 24, 26
+  index: -1
+quan1/quan0024
+  rotate: false
+  xy: 2, 1057
+  size: 1367, 355
+  orig: 1399, 390
+  offset: 17, 23
+  index: -1

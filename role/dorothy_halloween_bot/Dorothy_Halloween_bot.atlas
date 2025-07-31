@@ -1,0 +1,62 @@
+
+Dorothy_Halloween_bot.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bb
+  rotate: false
+  xy: 240, 25
+  size: 35, 91
+  orig: 37, 93
+  offset: 1, 1
+  index: -1
+bbt1
+  rotate: false
+  xy: 337, 57
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1
+dilei02
+  rotate: false
+  xy: 277, 82
+  size: 74, 34
+  orig: 76, 36
+  offset: 1, 1
+  index: -1
+hongdian_00034
+  rotate: false
+  xy: 2, 2
+  size: 236, 235
+  orig: 337, 337
+  offset: 52, 48
+  index: -1
+hongdian_00034_BH
+  rotate: true
+  xy: 240, 118
+  size: 119, 118
+  orig: 169, 169
+  offset: 26, 24
+  index: -1
+jiqi01
+  rotate: false
+  xy: 277, 7
+  size: 28, 73
+  orig: 30, 75
+  offset: 1, 1
+  index: -1
+jiqi02
+  rotate: false
+  xy: 307, 7
+  size: 28, 73
+  orig: 30, 75
+  offset: 1, 1
+  index: -1
+jiqi_jiao01
+  rotate: false
+  xy: 337, 16
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1

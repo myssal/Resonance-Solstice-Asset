@@ -1,0 +1,34 @@
+
+Raziel_Human_bot.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wuqi2_1
+  rotate: false
+  xy: 239, 48
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+wuqi2_2
+  rotate: false
+  xy: 167, 22
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+wuqi3
+  rotate: false
+  xy: 4, 4
+  size: 87, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1
+wuqi4
+  rotate: true
+  xy: 95, 21
+  size: 69, 68
+  orig: 69, 68
+  offset: 0, 0
+  index: -1

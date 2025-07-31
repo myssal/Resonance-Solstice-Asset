@@ -1,0 +1,62 @@
+
+Dorothy_Summer_bot.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bb
+  rotate: true
+  xy: 4, 90
+  size: 54, 111
+  orig: 54, 111
+  offset: 0, 0
+  index: -1
+bbt1
+  rotate: true
+  xy: 99, 9
+  size: 38, 48
+  orig: 54, 66
+  offset: 7, 9
+  index: -1
+dilei02
+  rotate: true
+  xy: 119, 50
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+hongdian_00034
+  rotate: false
+  xy: 4, 321
+  size: 169, 169
+  orig: 169, 169
+  offset: 0, 0
+  index: -1
+hongdian_00034_BH
+  rotate: false
+  xy: 4, 148
+  size: 169, 169
+  orig: 169, 169
+  offset: 0, 0
+  index: -1
+jiqi01
+  rotate: true
+  xy: 4, 36
+  size: 50, 91
+  orig: 50, 91
+  offset: 0, 0
+  index: -1
+jiqi02
+  rotate: true
+  xy: 4, 36
+  size: 50, 91
+  orig: 50, 91
+  offset: 0, 0
+  index: -1
+jiqi_jiao01
+  rotate: true
+  xy: 4, 4
+  size: 29, 44
+  orig: 45, 60
+  offset: 8, 8
+  index: -1

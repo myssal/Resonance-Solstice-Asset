@@ -1,0 +1,90 @@
+
+shoes3.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_shone
+  rotate: true
+  xy: 2, 2
+  size: 40, 43
+  orig: 448, 447
+  offset: 220, 32
+  index: -1
+L_shone_t
+  rotate: false
+  xy: 2, 130
+  size: 44, 41
+  orig: 448, 447
+  offset: 106, 93
+  index: -1
+L_socks
+  rotate: false
+  xy: 47, 127
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+L_socks_t
+  rotate: false
+  xy: 47, 127
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+R_L_socks
+  rotate: false
+  xy: 47, 127
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+R_R_socks
+  rotate: false
+  xy: 47, 127
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+R_socks
+  rotate: false
+  xy: 47, 127
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+R_socks_t
+  rotate: false
+  xy: 47, 127
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+R_L_shone
+  rotate: true
+  xy: 2, 87
+  size: 41, 43
+  orig: 448, 447
+  offset: 214, 32
+  index: -1
+R_R_shone
+  rotate: true
+  xy: 2, 44
+  size: 41, 43
+  orig: 448, 447
+  offset: 177, 32
+  index: -1
+R_shone
+  rotate: false
+  xy: 2, 173
+  size: 43, 43
+  orig: 448, 447
+  offset: 178, 33
+  index: -1
+R_shone_t
+  rotate: true
+  xy: 47, 174
+  size: 42, 39
+  orig: 448, 447
+  offset: 76, 33
+  index: -1

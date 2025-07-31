@@ -1,0 +1,62 @@
+
+Dorothy_bot.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bb
+  rotate: false
+  xy: 360, 118
+  size: 31, 80
+  orig: 31, 80
+  offset: 0, 0
+  index: -1
+bbt1
+  rotate: 270
+  xy: 363, 197
+  size: 40, 55
+  orig: 40, 55
+  offset: 0, 0
+  index: -1
+dilei02
+  rotate: false
+  xy: 240, 38
+  size: 172, 78
+  orig: 172, 78
+  offset: 0, 0
+  index: -1
+hongdian_00034
+  rotate: false
+  xy: 2, 2
+  size: 236, 235
+  orig: 337, 337
+  offset: 52, 48
+  index: -1
+hongdian_00034_BH
+  rotate: true
+  xy: 240, 118
+  size: 119, 118
+  orig: 169, 169
+  offset: 26, 24
+  index: -1
+jiqi01
+  rotate: true
+  xy: 240, 14
+  size: 22, 72
+  orig: 22, 72
+  offset: 0, 0
+  index: -1
+jiqi02
+  rotate: true
+  xy: 314, 14
+  size: 22, 72
+  orig: 22, 72
+  offset: 0, 0
+  index: -1
+jiqi_jiao01
+  rotate: false
+  xy: 393, 119
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1

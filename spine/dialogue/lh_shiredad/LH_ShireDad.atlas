@@ -1,0 +1,279 @@
+
+LH_ShireDad.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 597, 177
+  size: 181, 168
+  orig: 181, 168
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 215, 11
+  size: 125, 87
+  orig: 125, 87
+  offset: 0, 0
+  index: -1
+11
+  rotate: 180
+  xy: 233, 202
+  size: 335, 211
+  orig: 335, 211
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 347, 399
+  size: 219, 995
+  orig: 219, 995
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 556, 427
+  size: 235, 968
+  orig: 235, 976
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 68, 99
+  size: 107, 694
+  orig: 107, 694
+  offset: 0, 0
+  index: -1
+2
+  rotate: 270
+  xy: 540, 3
+  size: 123, 173
+  orig: 123, 173
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 264
+  size: 188, 663
+  orig: 188, 663
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 341, 1276
+  size: 33, 53
+  orig: 33, 53
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 2, 3
+  size: 149, 212
+  orig: 149, 212
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 420, 7
+  size: 132, 103
+  orig: 132, 103
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 159, 646
+  size: 177, 239
+  orig: 177, 239
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 2, 887
+  size: 395, 508
+  orig: 395, 510
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 190, 462
+  size: 147, 182
+  orig: 147, 182
+  offset: 0, 0
+  index: -1
+jingya10
+  rotate: false
+  xy: 376, 1276
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+jingya11
+  rotate: false
+  xy: 397, 1262
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+yxiayanpi
+  rotate: false
+  xy: 397, 1262
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+jingya12
+  rotate: false
+  xy: 2, 1368
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+yyankuang
+  rotate: false
+  xy: 2, 1368
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+jingya13
+  rotate: false
+  xy: 2, 1162
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+jingya3
+  rotate: false
+  xy: 345, 1222
+  size: 53, 24
+  orig: 53, 24
+  offset: 0, 0
+  index: -1
+jingya4
+  rotate: false
+  xy: 393, 1246
+  size: 37, 14
+  orig: 37, 14
+  offset: 0, 0
+  index: -1
+zxiayanpi
+  rotate: false
+  xy: 393, 1246
+  size: 37, 14
+  orig: 37, 14
+  offset: 0, 0
+  index: -1
+jingya5
+  rotate: false
+  xy: 2, 1380
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+zyankuang
+  rotate: false
+  xy: 2, 1380
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+jingya6
+  rotate: false
+  xy: 352, 1141
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+jingyazui
+  rotate: false
+  xy: 330, 1363
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+kaixinzui
+  rotate: false
+  xy: 386, 1208
+  size: 38, 5
+  orig: 38, 5
+  offset: 0, 0
+  index: -1
+meimao1
+  rotate: false
+  xy: 383, 1193
+  size: 47, 8
+  orig: 47, 8
+  offset: 0, 0
+  index: -1
+meimao2
+  rotate: false
+  xy: 396, 1237
+  size: 33, 8
+  orig: 33, 8
+  offset: 0, 0
+  index: -1
+ymeimao
+  rotate: false
+  xy: 386, 1214
+  size: 33, 8
+  orig: 33, 8
+  offset: 0, 0
+  index: -1
+yshangyanpi
+  rotate: false
+  xy: 348, 1179
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+ytong
+  rotate: false
+  xy: 376, 1299
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+yyanbai
+  rotate: false
+  xy: 350, 1160
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+zmeimao
+  rotate: false
+  xy: 293, 1387
+  size: 40, 7
+  orig: 40, 7
+  offset: 0, 0
+  index: -1
+zshangyanpi
+  rotate: false
+  xy: 343, 1247
+  size: 52, 28
+  orig: 52, 28
+  offset: 0, 0
+  index: -1
+ztong
+  rotate: false
+  xy: 339, 1345
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 2, 1391
+  size: 35, 4
+  orig: 35, 4
+  offset: 0, 0
+  index: -1
+zyanbai
+  rotate: false
+  xy: 347, 1202
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1

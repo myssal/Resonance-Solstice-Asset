@@ -1,0 +1,237 @@
+
+looter_dingchui.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beidail
+  rotate: true
+  xy: 777, 165
+  size: 92, 153
+  orig: 92, 153
+  offset: 0, 0
+  index: -1
+beidair
+  rotate: false
+  xy: 202, 194
+  size: 118, 145
+  orig: 118, 145
+  offset: 0, 0
+  index: -1
+chui1
+  rotate: true
+  xy: 464, 598
+  size: 395, 340
+  orig: 395, 340
+  offset: 0, 0
+  index: -1
+chui2
+  rotate: false
+  xy: 341, 451
+  size: 470, 143
+  orig: 470, 143
+  offset: 0, 0
+  index: -1
+chui3
+  rotate: false
+  xy: 5, 226
+  size: 193, 113
+  orig: 193, 113
+  offset: 0, 0
+  index: -1
+chui4
+  rotate: false
+  xy: 341, 314
+  size: 468, 133
+  orig: 468, 133
+  offset: 0, 0
+  index: -1
+dangl
+  rotate: false
+  xy: 757, 67
+  size: 106, 94
+  orig: 106, 94
+  offset: 0, 0
+  index: -1
+dangr
+  rotate: false
+  xy: 628, 111
+  size: 125, 92
+  orig: 125, 92
+  offset: 0, 0
+  index: -1
+datuil
+  rotate: true
+  xy: 324, 204
+  size: 106, 148
+  orig: 106, 148
+  offset: 0, 0
+  index: -1
+datuir
+  rotate: true
+  xy: 5, 122
+  size: 100, 132
+  orig: 100, 132
+  offset: 0, 0
+  index: -1
+datuir_2
+  rotate: true
+  xy: 476, 204
+  size: 106, 148
+  orig: 106, 148
+  offset: 0, 0
+  index: -1
+dead
+  rotate: false
+  xy: 5, 598
+  size: 455, 396
+  orig: 455, 396
+  offset: 0, 0
+  index: -1
+gebol
+  rotate: false
+  xy: 441, 96
+  size: 105, 104
+  orig: 105, 104
+  offset: 0, 0
+  index: -1
+gebol_02
+  rotate: true
+  xy: 141, 100
+  size: 90, 111
+  orig: 90, 111
+  offset: 0, 0
+  index: -1
+gebor
+  rotate: true
+  xy: 5, 24
+  size: 94, 99
+  orig: 94, 99
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 813, 261
+  size: 173, 153
+  orig: 173, 153
+  offset: 0, 0
+  index: -1
+handl
+  rotate: false
+  xy: 915, 797
+  size: 69, 59
+  orig: 69, 59
+  offset: 0, 0
+  index: -1
+handl2
+  rotate: false
+  xy: 867, 17
+  size: 82, 67
+  orig: 82, 67
+  offset: 0, 0
+  index: -1
+handl_2
+  rotate: false
+  xy: 550, 132
+  size: 69, 68
+  orig: 69, 68
+  offset: 0, 0
+  index: -1
+handr
+  rotate: false
+  xy: 867, 88
+  size: 77, 73
+  orig: 77, 73
+  offset: 0, 0
+  index: -1
+handr_2
+  rotate: false
+  xy: 638, 27
+  size: 76, 80
+  orig: 76, 80
+  offset: 0, 0
+  index: -1
+handr_3
+  rotate: false
+  xy: 366, 15
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+hushoul
+  rotate: false
+  xy: 915, 860
+  size: 59, 134
+  orig: 59, 134
+  offset: 0, 0
+  index: -1
+jiaol
+  rotate: 180
+  xy: 525, 14
+  size: 110, 109
+  orig: 114, 119
+  offset: 2, 5
+  index: -1
+jiaor
+  rotate: true
+  xy: 108, 6
+  size: 92, 119
+  orig: 97, 121
+  offset: 3, 2
+  index: -1
+jiaor_2
+  rotate: 270
+  xy: 251, 7
+  size: 114, 112
+  orig: 114, 119
+  offset: 0, 2
+  index: -1
+qianbao
+  rotate: false
+  xy: 628, 207
+  size: 145, 103
+  orig: 145, 103
+  offset: 0, 0
+  index: -1
+ranqibao
+  rotate: true
+  xy: 815, 418
+  size: 176, 170
+  orig: 176, 170
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 808, 598
+  size: 175, 192
+  orig: 175, 192
+  offset: 0, 0
+  index: -1
+shoubil
+  rotate: true
+  xy: 324, 102
+  size: 98, 113
+  orig: 98, 113
+  offset: 0, 0
+  index: -1
+shoubil_2
+  rotate: true
+  xy: 808, 917
+  size: 77, 95
+  orig: 77, 95
+  offset: 0, 0
+  index: -1
+shoubir
+  rotate: false
+  xy: 808, 794
+  size: 103, 113
+  orig: 103, 113
+  offset: 0, 0
+  index: -1
+waifaguang
+  rotate: false
+  xy: 5, 343
+  size: 332, 251
+  orig: 332, 251
+  offset: 0, 0
+  index: -1

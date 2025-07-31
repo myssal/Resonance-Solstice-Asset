@@ -1,0 +1,174 @@
+
+DFW_UI_04.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 1401
+  size: 458, 620
+  orig: 471, 634
+  offset: 10, 5
+  index: -1
+han
+  rotate: false
+  xy: 475, 78
+  size: 35, 32
+  orig: 55, 53
+  offset: 10, 10
+  index: -1
+houlian
+  rotate: true
+  xy: 175, 2
+  size: 147, 173
+  orig: 167, 193
+  offset: 10, 10
+  index: -1
+houmao
+  rotate: false
+  xy: 2, 519
+  size: 269, 222
+  orig: 269, 223
+  offset: 0, 0
+  index: -1
+jinbi
+  rotate: false
+  xy: 291, 680
+  size: 218, 292
+  orig: 238, 312
+  offset: 10, 10
+  index: -1
+jinbi2
+  rotate: false
+  xy: 466, 1264
+  size: 98, 70
+  orig: 118, 90
+  offset: 10, 10
+  index: -1
+jinsudu
+  rotate: false
+  xy: 2, 974
+  size: 462, 425
+  orig: 462, 425
+  offset: 0, 0
+  index: -1
+mao1
+  rotate: true
+  xy: 246, 151
+  size: 135, 229
+  orig: 155, 249
+  offset: 10, 10
+  index: -1
+mao2
+  rotate: true
+  xy: 451, 204
+  size: 122, 115
+  orig: 122, 117
+  offset: 0, 2
+  index: -1
+mao3
+  rotate: false
+  xy: 273, 475
+  size: 223, 203
+  orig: 243, 223
+  offset: 10, 10
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 279
+  size: 238, 244
+  orig: 238, 244
+  offset: 0, 0
+  index: -1
+shenti1
+  rotate: true
+  xy: 462, 1787
+  size: 234, 86
+  orig: 234, 86
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 248, 288
+  size: 201, 185
+  orig: 201, 185
+  offset: 0, 0
+  index: -1
+tousuduxian
+  rotate: false
+  xy: 466, 1336
+  size: 77, 103
+  orig: 98, 123
+  offset: 11, 10
+  index: -1
+tousuduxian2
+  rotate: false
+  xy: 475, 112
+  size: 70, 37
+  orig: 90, 57
+  offset: 10, 10
+  index: -1
+wenhao
+  rotate: false
+  xy: 2, 127
+  size: 171, 159
+  orig: 191, 179
+  offset: 10, 10
+  index: -1
+xingxing
+  rotate: false
+  xy: 451, 328
+  size: 107, 145
+  orig: 128, 165
+  offset: 11, 10
+  index: -1
+youjiao
+  rotate: false
+  xy: 462, 1441
+  size: 86, 113
+  orig: 106, 133
+  offset: 10, 10
+  index: -1
+youshou
+  rotate: false
+  xy: 466, 1137
+  size: 58, 58
+  orig: 79, 78
+  offset: 11, 10
+  index: -1
+youshoubi
+  rotate: false
+  xy: 462, 1672
+  size: 109, 113
+  orig: 129, 133
+  offset: 10, 10
+  index: -1
+zhuantou
+  rotate: false
+  xy: 2, 743
+  size: 287, 229
+  orig: 309, 246
+  offset: 7, 9
+  index: -1
+zuojiao
+  rotate: false
+  xy: 350, 22
+  size: 123, 127
+  orig: 143, 147
+  offset: 10, 10
+  index: -1
+zuoshou
+  rotate: false
+  xy: 466, 1197
+  size: 79, 65
+  orig: 100, 85
+  offset: 11, 10
+  index: -1
+zuoshoubi
+  rotate: true
+  xy: 462, 1556
+  size: 114, 90
+  orig: 134, 111
+  offset: 10, 10
+  index: -1

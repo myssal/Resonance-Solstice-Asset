@@ -1,0 +1,69 @@
+
+BOSS_Conor_bot.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h_jia
+  rotate: false
+  xy: 2, 69
+  size: 286, 93
+  orig: 288, 95
+  offset: 1, 1
+  index: -1
+l_chushou
+  rotate: true
+  xy: 637, 16
+  size: 160, 131
+  orig: 163, 137
+  offset: 2, 5
+  index: -1
+l_jia
+  rotate: false
+  xy: 457, 31
+  size: 178, 145
+  orig: 180, 149
+  offset: 1, 2
+  index: -1
+l_jianjia
+  rotate: false
+  xy: 291, 178
+  size: 215, 155
+  orig: 218, 159
+  offset: 2, 2
+  index: -1
+r_chushou
+  rotate: false
+  xy: 508, 178
+  size: 166, 135
+  orig: 168, 137
+  offset: 1, 1
+  index: -1
+r_jia
+  rotate: false
+  xy: 676, 178
+  size: 142, 146
+  orig: 145, 150
+  offset: 1, 2
+  index: -1
+r_jianjia
+  rotate: false
+  xy: 291, 18
+  size: 164, 158
+  orig: 167, 162
+  offset: 1, 2
+  index: -1
+tou
+  rotate: false
+  xy: 770, 2
+  size: 97, 174
+  orig: 99, 178
+  offset: 1, 1
+  index: -1
+weiyi
+  rotate: false
+  xy: 2, 164
+  size: 287, 169
+  orig: 291, 174
+  offset: 2, 2
+  index: -1

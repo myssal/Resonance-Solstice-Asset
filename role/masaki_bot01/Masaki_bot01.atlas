@@ -1,0 +1,300 @@
+
+Masaki_bot01.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bot1_leigu1
+  rotate: false
+  xy: 1722, 25
+  size: 408, 185
+  orig: 408, 185
+  offset: 0, 0
+  index: -1
+bot1_leigu2
+  rotate: false
+  xy: 2, 441
+  size: 318, 78
+  orig: 318, 78
+  offset: 0, 0
+  index: -1
+bot1_leigu3
+  rotate: 180
+  xy: 981, 3
+  size: 403, 179
+  orig: 403, 179
+  offset: 0, 0
+  index: -1
+bot1_shenti
+  rotate: false
+  xy: 1311, 22
+  size: 1530, 292
+  orig: 1530, 293
+  offset: 0, 1
+  index: -1
+bot1_tou
+  rotate: false
+  xy: 2843, 107
+  size: 521, 206
+  orig: 521, 206
+  offset: 0, 0
+  index: -1
+bot2_leigu1
+  rotate: false
+  xy: 346, 335
+  size: 408, 184
+  orig: 408, 184
+  offset: 0, 0
+  index: -1
+bot2_leigu2
+  rotate: false
+  xy: 2316, 238
+  size: 316, 75
+  orig: 316, 75
+  offset: 0, 0
+  index: -1
+bot2_leigu3
+  rotate: false
+  xy: 75, 74
+  size: 403, 178
+  orig: 403, 178
+  offset: 0, 0
+  index: -1
+bot2_shenti
+  rotate: 180
+  xy: 2, 129
+  size: 1529, 289
+  orig: 1530, 293
+  offset: 0, 0
+  index: -1
+bot2_tou
+  rotate: false
+  xy: 3366, 107
+  size: 521, 206
+  orig: 521, 206
+  offset: 0, 0
+  index: -1
+huo/huo_00
+  rotate: false
+  xy: 778, 543
+  size: 773, 226
+  orig: 773, 226
+  offset: 0, 0
+  index: -1
+huo/huo_08
+  rotate: false
+  xy: 778, 543
+  size: 773, 226
+  orig: 773, 226
+  offset: 0, 0
+  index: -1
+huo/huo_01
+  rotate: false
+  xy: 1553, 543
+  size: 773, 226
+  orig: 773, 226
+  offset: 0, 0
+  index: -1
+huo/huo_09
+  rotate: false
+  xy: 1553, 543
+  size: 773, 226
+  orig: 773, 226
+  offset: 0, 0
+  index: -1
+huo/huo_02
+  rotate: false
+  xy: 2328, 543
+  size: 773, 226
+  orig: 773, 226
+  offset: 0, 0
+  index: -1
+huo/huo_10
+  rotate: false
+  xy: 2328, 543
+  size: 773, 226
+  orig: 773, 226
+  offset: 0, 0
+  index: -1
+huo/huo_03
+  rotate: false
+  xy: 3103, 543
+  size: 773, 226
+  orig: 773, 226
+  offset: 0, 0
+  index: -1
+huo/huo_11
+  rotate: false
+  xy: 3103, 543
+  size: 773, 226
+  orig: 773, 226
+  offset: 0, 0
+  index: -1
+huo/huo_04
+  rotate: false
+  xy: 778, 315
+  size: 773, 226
+  orig: 773, 226
+  offset: 0, 0
+  index: -1
+huo/huo_12
+  rotate: false
+  xy: 778, 315
+  size: 773, 226
+  orig: 773, 226
+  offset: 0, 0
+  index: -1
+huo/huo_05
+  rotate: false
+  xy: 1553, 315
+  size: 773, 226
+  orig: 773, 226
+  offset: 0, 0
+  index: -1
+huo/huo_13
+  rotate: false
+  xy: 1553, 315
+  size: 773, 226
+  orig: 773, 226
+  offset: 0, 0
+  index: -1
+huo/huo_06
+  rotate: false
+  xy: 2328, 315
+  size: 773, 226
+  orig: 773, 226
+  offset: 0, 0
+  index: -1
+huo/huo_14
+  rotate: false
+  xy: 2328, 315
+  size: 773, 226
+  orig: 773, 226
+  offset: 0, 0
+  index: -1
+huo/huo_07
+  rotate: false
+  xy: 3103, 315
+  size: 773, 226
+  orig: 773, 226
+  offset: 0, 0
+  index: -1
+huo/huo_15
+  rotate: false
+  xy: 3103, 315
+  size: 773, 226
+  orig: 773, 226
+  offset: 0, 0
+  index: -1
+huo2/huo2_00
+  rotate: false
+  xy: 2, 1271
+  size: 774, 248
+  orig: 774, 248
+  offset: 0, 0
+  index: -1
+huo2/huo2_01
+  rotate: false
+  xy: 778, 1271
+  size: 774, 248
+  orig: 774, 248
+  offset: 0, 0
+  index: -1
+huo2/huo2_02
+  rotate: false
+  xy: 1554, 1271
+  size: 774, 248
+  orig: 774, 248
+  offset: 0, 0
+  index: -1
+huo2/huo2_03
+  rotate: false
+  xy: 2330, 1271
+  size: 774, 248
+  orig: 774, 248
+  offset: 0, 0
+  index: -1
+huo2/huo2_04
+  rotate: false
+  xy: 3106, 1271
+  size: 774, 248
+  orig: 774, 248
+  offset: 0, 0
+  index: -1
+huo2/huo2_05
+  rotate: false
+  xy: 2, 1021
+  size: 774, 248
+  orig: 774, 248
+  offset: 0, 0
+  index: -1
+huo2/huo2_06
+  rotate: false
+  xy: 778, 1021
+  size: 774, 248
+  orig: 774, 248
+  offset: 0, 0
+  index: -1
+huo2/huo2_07
+  rotate: false
+  xy: 1554, 1021
+  size: 774, 248
+  orig: 774, 248
+  offset: 0, 0
+  index: -1
+huo2/huo2_08
+  rotate: false
+  xy: 2330, 1021
+  size: 774, 248
+  orig: 774, 248
+  offset: 0, 0
+  index: -1
+huo2/huo2_09
+  rotate: false
+  xy: 3106, 1021
+  size: 774, 248
+  orig: 774, 248
+  offset: 0, 0
+  index: -1
+huo2/huo2_10
+  rotate: false
+  xy: 2, 771
+  size: 774, 248
+  orig: 774, 248
+  offset: 0, 0
+  index: -1
+huo2/huo2_11
+  rotate: false
+  xy: 778, 771
+  size: 774, 248
+  orig: 774, 248
+  offset: 0, 0
+  index: -1
+huo2/huo2_12
+  rotate: false
+  xy: 1554, 771
+  size: 774, 248
+  orig: 774, 248
+  offset: 0, 0
+  index: -1
+huo2/huo2_13
+  rotate: false
+  xy: 2330, 771
+  size: 774, 248
+  orig: 774, 248
+  offset: 0, 0
+  index: -1
+huo2/huo2_14
+  rotate: false
+  xy: 3106, 771
+  size: 774, 248
+  orig: 774, 248
+  offset: 0, 0
+  index: -1
+huo2/huo2_15
+  rotate: false
+  xy: 2, 521
+  size: 774, 248
+  orig: 774, 248
+  offset: 0, 0
+  index: -1

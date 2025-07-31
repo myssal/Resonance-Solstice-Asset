@@ -1,0 +1,167 @@
+
+Ren_bot01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+YC_1
+  rotate: false
+  xy: 110, 30
+  size: 60, 117
+  orig: 361, 370
+  offset: 162, 162
+  index: -1
+YC_2
+  rotate: false
+  xy: 246, 425
+  size: 75, 83
+  orig: 361, 370
+  offset: 170, 165
+  index: -1
+YC_3
+  rotate: false
+  xy: 318, 184
+  size: 62, 71
+  orig: 361, 370
+  offset: 180, 142
+  index: -1
+YC_4
+  rotate: false
+  xy: 318, 112
+  size: 62, 68
+  orig: 361, 370
+  offset: 175, 115
+  index: -1
+YC_5
+  rotate: true
+  xy: 4, 212
+  size: 109, 95
+  orig: 361, 370
+  offset: 179, 86
+  index: -1
+YC_6
+  rotate: true
+  xy: 201, 213
+  size: 90, 73
+  orig: 361, 370
+  offset: 186, 99
+  index: -1
+YC_7
+  rotate: false
+  xy: 162, 422
+  size: 80, 86
+  orig: 361, 370
+  offset: 170, 134
+  index: -1
+YC_8
+  rotate: false
+  xy: 254, 340
+  size: 61, 81
+  orig: 361, 370
+  offset: 163, 181
+  index: -1
+ZC_1
+  rotate: false
+  xy: 82, 379
+  size: 76, 129
+  orig: 361, 370
+  offset: 106, 161
+  index: -1
+ZC_2
+  rotate: false
+  xy: 4, 7
+  size: 102, 97
+  orig: 361, 370
+  offset: 74, 148
+  index: -1
+ZC_3
+  rotate: false
+  xy: 4, 325
+  size: 74, 183
+  orig: 361, 370
+  offset: 111, 105
+  index: -1
+ZC_4
+  rotate: false
+  xy: 251, 126
+  size: 63, 83
+  orig: 361, 370
+  offset: 152, 99
+  index: -1
+ZC_5
+  rotate: false
+  xy: 4, 108
+  size: 100, 100
+  orig: 361, 370
+  offset: 161, 82
+  index: -1
+ZC_6
+  rotate: false
+  xy: 174, 68
+  size: 73, 94
+  orig: 361, 370
+  offset: 134, 80
+  index: -1
+ZC_7
+  rotate: false
+  xy: 103, 266
+  size: 82, 109
+  orig: 361, 370
+  offset: 101, 116
+  index: -1
+ZC_8
+  rotate: false
+  xy: 189, 307
+  size: 61, 111
+  orig: 361, 370
+  offset: 118, 162
+  index: -1
+jiao01
+  rotate: false
+  xy: 320, 5
+  size: 46, 50
+  orig: 361, 370
+  offset: 162, 99
+  index: -1
+jiao02
+  rotate: false
+  xy: 319, 383
+  size: 44, 60
+  orig: 361, 370
+  offset: 172, 98
+  index: -1
+shenti
+  rotate: false
+  xy: 270, 259
+  size: 82, 78
+  orig: 361, 370
+  offset: 132, 121
+  index: -1
+tou
+  rotate: 270
+  xy: 246, 5
+  size: 94, 79
+  orig: 361, 370
+  offset: 156, 131
+  index: -1
+tou_02
+  rotate: false
+  xy: 311, 59
+  size: 49, 49
+  orig: 361, 370
+  offset: 178, 144
+  index: -1
+weiba
+  rotate: true
+  xy: 108, 151
+  size: 112, 90
+  orig: 361, 370
+  offset: 91, 76
+  index: -1
+zui
+  rotate: false
+  xy: 319, 352
+  size: 48, 33
+  orig: 361, 370
+  offset: 193, 150
+  index: -1

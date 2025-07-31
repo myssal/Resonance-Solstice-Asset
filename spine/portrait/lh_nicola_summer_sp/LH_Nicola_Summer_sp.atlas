@@ -1,0 +1,446 @@
+
+LH_Nicola_Summer_sp.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai
+  rotate: false
+  xy: 62, 1317
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: false
+  xy: 2, 1331
+  size: 1687, 690
+  orig: 1687, 690
+  offset: 0, 0
+  index: -1
+daizi
+  rotate: true
+  xy: 610, 19
+  size: 244, 368
+  orig: 244, 368
+  offset: 0, 0
+  index: -1
+datui_y
+  rotate: true
+  xy: 1627, 56
+  size: 578, 411
+  orig: 578, 411
+  offset: 0, 0
+  index: -1
+fa11
+  rotate: 180
+  xy: 1112, 637
+  size: 152, 188
+  orig: 152, 188
+  offset: 0, 0
+  index: -1
+fa12
+  rotate: false
+  xy: 897, 221
+  size: 81, 234
+  orig: 81, 234
+  offset: 0, 0
+  index: -1
+fa13
+  rotate: false
+  xy: 2, 1287
+  size: 58, 42
+  orig: 58, 42
+  offset: 0, 0
+  index: -1
+fa14
+  rotate: false
+  xy: 381, 1201
+  size: 54, 59
+  orig: 54, 59
+  offset: 0, 0
+  index: -1
+fa7
+  rotate: false
+  xy: 750, 3
+  size: 262, 169
+  orig: 262, 169
+  offset: 0, 0
+  index: -1
+fa9
+  rotate: 180
+  xy: 1691, 1419
+  size: 251, 311
+  orig: 251, 311
+  offset: 0, 0
+  index: -1
+fazan
+  rotate: false
+  xy: 1274, 636
+  size: 546, 693
+  orig: 546, 693
+  offset: 0, 0
+  index: -1
+mao
+  rotate: false
+  xy: 772, 1214
+  size: 174, 116
+  orig: 174, 116
+  offset: 0, 0
+  index: -1
+mao3
+  rotate: false
+  xy: 295, 1258
+  size: 83, 71
+  orig: 83, 71
+  offset: 0, 0
+  index: -1
+mao_di
+  rotate: false
+  xy: 2, 909
+  size: 448, 421
+  orig: 448, 421
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 2, 58
+  size: 606, 525
+  orig: 606, 525
+  offset: 0, 0
+  index: -1
+meimao_y
+  rotate: false
+  xy: 772, 1046
+  size: 39, 85
+  orig: 39, 85
+  offset: 0, 0
+  index: -1
+meimao_z
+  rotate: false
+  xy: 83, 833
+  size: 70, 74
+  orig: 73, 75
+  offset: 0, 0
+  index: -1
+shangyanpi_y
+  rotate: false
+  xy: 380, 1262
+  size: 63, 67
+  orig: 63, 67
+  offset: 0, 0
+  index: -1
+shangyanpi_z
+  rotate: false
+  xy: 373, 585
+  size: 69, 81
+  orig: 69, 81
+  offset: 0, 0
+  index: -1
+shouzhi1
+  rotate: false
+  xy: 555, 587
+  size: 31, 85
+  orig: 31, 85
+  offset: 0, 0
+  index: -1
+shouzhi2
+  rotate: false
+  xy: 927, 489
+  size: 86, 113
+  orig: 86, 113
+  offset: 0, 0
+  index: -1
+shouzhi3
+  rotate: false
+  xy: 1149, 1228
+  size: 109, 102
+  orig: 109, 102
+  offset: 0, 0
+  index: -1
+shouzhi4
+  rotate: false
+  xy: 412, 605
+  size: 105, 78
+  orig: 105, 78
+  offset: 0, 0
+  index: -1
+shouzhi5
+  rotate: false
+  xy: 505, 591
+  size: 48, 93
+  orig: 48, 93
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 610, 264
+  size: 315, 319
+  orig: 315, 319
+  offset: 0, 0
+  index: -1
+wanou
+  rotate: false
+  xy: 1015, 49
+  size: 610, 585
+  orig: 610, 585
+  offset: 0, 0
+  index: -1
+xiayanpi_y
+  rotate: false
+  xy: 430, 970
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+xiayanpi_z
+  rotate: false
+  xy: 1210, 1281
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+yanbai_y
+  rotate: false
+  xy: 2, 954
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+yanbai_z
+  rotate: false
+  xy: 155, 855
+  size: 43, 52
+  orig: 43, 52
+  offset: 0, 0
+  index: -1
+yanqiu_y
+  rotate: false
+  xy: 251, 1292
+  size: 40, 37
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+yanqiu_z
+  rotate: false
+  xy: 200, 861
+  size: 39, 46
+  orig: 41, 47
+  offset: 1, 1
+  index: -1
+yifu_h
+  rotate: false
+  xy: 1691, 1732
+  size: 345, 289
+  orig: 345, 289
+  offset: 0, 0
+  index: -1
+youdabi
+  rotate: false
+  xy: 451, 1022
+  size: 319, 307
+  orig: 319, 307
+  offset: 0, 0
+  index: -1
+youshouzhang
+  rotate: false
+  xy: 2, 780
+  size: 79, 172
+  orig: 79, 172
+  offset: 0, 0
+  index: -1
+zhi
+  rotate: false
+  xy: 62, 1308
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 772, 1198
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+zuobianzi
+  rotate: false
+  xy: 2, 585
+  size: 1270, 745
+  orig: 1270, 745
+  offset: 0, 0
+  index: -1
+zuoxiu1
+  rotate: 180
+  xy: 1760, 1183
+  size: 253, 548
+  orig: 253, 548
+  offset: 0, 0
+  index: -1
+zuoxiu4
+  rotate: true
+  xy: 1822, 707
+  size: 250, 219
+  orig: 250, 219
+  offset: 0, 0
+  index: -1
+zuoxiu5
+  rotate: false
+  xy: 1822, 953
+  size: 223, 247
+  orig: 223, 247
+  offset: 0, 0
+  index: -1
+
+LH_Nicola_Summer_sp2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fa1
+  rotate: 270
+  xy: 2, 4
+  size: 340, 417
+  orig: 340, 417
+  offset: 0, 0
+  index: -1
+fa10
+  rotate: false
+  xy: 1214, 124
+  size: 270, 219
+  orig: 270, 219
+  offset: 0, 0
+  index: -1
+fa2
+  rotate: true
+  xy: 812, 33
+  size: 350, 399
+  orig: 350, 399
+  offset: 0, 0
+  index: -1
+fa3
+  rotate: false
+  xy: 1862, 1131
+  size: 183, 162
+  orig: 183, 162
+  offset: 0, 0
+  index: -1
+fa4
+  rotate: false
+  xy: 532, 275
+  size: 311, 240
+  orig: 311, 240
+  offset: 0, 0
+  index: -1
+fa5
+  rotate: false
+  xy: 186, 151
+  size: 296, 228
+  orig: 296, 228
+  offset: 0, 0
+  index: -1
+fa6
+  rotate: false
+  xy: 1065, 818
+  size: 242, 291
+  orig: 242, 291
+  offset: 0, 0
+  index: -1
+fa8
+  rotate: false
+  xy: 1782, 139
+  size: 263, 260
+  orig: 263, 260
+  offset: 0, 0
+  index: -1
+mao2
+  rotate: false
+  xy: 1739, 1653
+  size: 201, 270
+  orig: 201, 270
+  offset: 0, 0
+  index: -1
+qianjing1
+  rotate: false
+  xy: 1193, 344
+  size: 460, 425
+  orig: 460, 425
+  offset: 0, 0
+  index: -1
+qianjing2
+  rotate: false
+  xy: 2, 1254
+  size: 460, 669
+  orig: 460, 669
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 1377, 1170
+  size: 754, 667
+  orig: 754, 667
+  offset: 0, 0
+  index: -1
+xiong
+  rotate: 270
+  xy: 2, 249
+  size: 452, 544
+  orig: 452, 544
+  offset: 0, 0
+  index: -1
+youbianzi
+  rotate: 270
+  xy: 464, 846
+  size: 465, 789
+  orig: 465, 789
+  offset: 0, 0
+  index: -1
+youxiaobi
+  rotate: 180
+  xy: 1268, 771
+  size: 555, 600
+  orig: 555, 600
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 1731, 609
+  size: 314, 325
+  orig: 314, 325
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: false
+  xy: 1329, 4
+  size: 717, 605
+  orig: 717, 605
+  offset: 0, 0
+  index: -1
+zuotui1
+  rotate: true
+  xy: 994, 1198
+  size: 725, 381
+  orig: 725, 382
+  offset: 0, 0
+  index: -1
+zuotui2
+  rotate: false
+  xy: 2, 702
+  size: 454, 550
+  orig: 454, 550
+  offset: 0, 0
+  index: -1
+zuoxiu2
+  rotate: false
+  xy: 536, 373
+  size: 655, 545
+  orig: 655, 545
+  offset: 0, 0
+  index: -1
+zuoxiu3
+  rotate: true
+  xy: 464, 1282
+  size: 642, 529
+  orig: 642, 529
+  offset: 0, 0
+  index: -1

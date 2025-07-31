@@ -1,0 +1,146 @@
+
+Shire_bot.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang1
+  rotate: true
+  xy: 333, 59
+  size: 41, 28
+  orig: 41, 28
+  offset: 0, 0
+  index: -1
+eshenti
+  rotate: false
+  xy: 359, 29
+  size: 75, 77
+  orig: 75, 77
+  offset: 0, 0
+  index: -1
+etou
+  rotate: 270
+  xy: 384, 4
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+ewuqi1
+  rotate: false
+  xy: 249, 13
+  size: 81, 28
+  orig: 83, 30
+  offset: 1, 1
+  index: -1
+ewuqi2
+  rotate: false
+  xy: 139, 7
+  size: 81, 25
+  orig: 83, 27
+  offset: 1, 1
+  index: -1
+eyoujiao
+  rotate: true
+  xy: 79, 3
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+ezuojiao
+  rotate: true
+  xy: 41, 7
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+hongyan_00024
+  rotate: false
+  xy: 2, 89
+  size: 257, 100
+  orig: 317, 157
+  offset: 29, 28
+  index: -1
+yan/diyan_01
+  rotate: true
+  xy: 2, 6
+  size: 27, 37
+  orig: 80, 68
+  offset: 27, 6
+  index: -1
+yan/diyan_02
+  rotate: true
+  xy: 433, 11
+  size: 45, 47
+  orig: 80, 68
+  offset: 16, 4
+  index: -1
+yan/diyan_03
+  rotate: false
+  xy: 139, 34
+  size: 59, 53
+  orig: 80, 68
+  offset: 8, 2
+  index: -1
+yan/diyan_04
+  rotate: false
+  xy: 73, 31
+  size: 64, 56
+  orig: 80, 68
+  offset: 6, 2
+  index: -1
+yan/diyan_05
+  rotate: false
+  xy: 437, 58
+  size: 68, 58
+  orig: 80, 68
+  offset: 4, 3
+  index: -1
+yan/diyan_06
+  rotate: true
+  xy: 437, 118
+  size: 71, 56
+  orig: 80, 68
+  offset: 4, 5
+  index: -1
+yan/diyan_07
+  rotate: true
+  xy: 379, 117
+  size: 72, 56
+  orig: 80, 68
+  offset: 5, 7
+  index: -1
+yan/diyan_08
+  rotate: false
+  xy: 261, 43
+  size: 70, 56
+  orig: 80, 68
+  offset: 5, 8
+  index: -1
+yan/diyan_09
+  rotate: false
+  xy: 2, 35
+  size: 69, 52
+  orig: 80, 68
+  offset: 5, 13
+  index: -1
+yan/diyan_10
+  rotate: false
+  xy: 200, 37
+  size: 47, 50
+  orig: 80, 68
+  offset: 5, 14
+  index: -1
+yan/diyan_11
+  rotate: true
+  xy: 333, 15
+  size: 32, 49
+  orig: 80, 68
+  offset: 7, 14
+  index: -1
+yayinying
+  rotate: false
+  xy: 261, 101
+  size: 116, 88
+  orig: 124, 94
+  offset: 2, 1
+  index: -1

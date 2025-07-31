@@ -1,0 +1,62 @@
+
+Millie_bot_5.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shetou1_00
+  rotate: true
+  xy: 1703, 143
+  size: 461, 217
+  orig: 871, 382
+  offset: 205, 82
+  index: -1
+shetou2_00
+  rotate: true
+  xy: 1462, 143
+  size: 448, 200
+  orig: 860, 363
+  offset: 206, 81
+  index: -1
+zui1_00
+  rotate: false
+  xy: 1470, 593
+  size: 231, 811
+  orig: 1177, 1223
+  offset: 492, 213
+  index: -1
+zui2_00
+  rotate: true
+  xy: 2, 28
+  size: 673, 719
+  orig: 1236, 1310
+  offset: 287, 296
+  index: -1
+zui3_00
+  rotate: false
+  xy: 1703, 606
+  size: 218, 798
+  orig: 1160, 1174
+  offset: 454, 193
+  index: -1
+zui4_00
+  rotate: false
+  xy: 2, 703
+  size: 742, 701
+  orig: 1379, 1268
+  offset: 312, 284
+  index: -1
+zui5_00
+  rotate: false
+  xy: 746, 2
+  size: 714, 700
+  orig: 1432, 1405
+  offset: 359, 352
+  index: -1
+zui6_00
+  rotate: true
+  xy: 746, 704
+  size: 700, 722
+  orig: 1406, 1448
+  offset: 353, 362
+  index: -1

@@ -1,0 +1,300 @@
+
+BOSS_RedRaziel.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bgz1_b
+  rotate: false
+  xy: 556, 153
+  size: 214, 104
+  orig: 214, 104
+  offset: 0, 0
+  index: -1
+bgz2_b
+  rotate: true
+  xy: 826, 223
+  size: 199, 121
+  orig: 199, 121
+  offset: 0, 0
+  index: -1
+bgz3_b
+  rotate: 270
+  xy: 772, 45
+  size: 145, 180
+  orig: 145, 180
+  offset: 0, 0
+  index: -1
+bgz4
+  rotate: true
+  xy: 4, 126
+  size: 49, 591
+  orig: 49, 591
+  offset: 0, 0
+  index: -1
+bq1
+  rotate: false
+  xy: 385, 71
+  size: 73, 50
+  orig: 73, 50
+  offset: 0, 0
+  index: -1
+bq10
+  rotate: false
+  xy: 698, 56
+  size: 87, 73
+  orig: 87, 73
+  offset: 0, 0
+  index: -1
+bq11
+  rotate: false
+  xy: 4, 54
+  size: 89, 68
+  orig: 89, 68
+  offset: 0, 0
+  index: -1
+bq2
+  rotate: false
+  xy: 462, 72
+  size: 71, 49
+  orig: 71, 49
+  offset: 0, 0
+  index: -1
+bq3
+  rotate: true
+  xy: 956, 73
+  size: 69, 50
+  orig: 69, 50
+  offset: 0, 0
+  index: -1
+bq4
+  rotate: false
+  xy: 537, 51
+  size: 71, 48
+  orig: 71, 48
+  offset: 0, 0
+  index: -1
+bq5
+  rotate: 180
+  xy: 938, 359
+  size: 68, 63
+  orig: 68, 63
+  offset: 0, 0
+  index: -1
+bq6
+  rotate: false
+  xy: 599, 103
+  size: 95, 70
+  orig: 95, 70
+  offset: 0, 0
+  index: -1
+bq7
+  rotate: true
+  xy: 356, 182
+  size: 69, 41
+  orig: 69, 41
+  offset: 0, 0
+  index: -1
+bq8
+  rotate: false
+  xy: 462, 28
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+bq9
+  rotate: false
+  xy: 946, 234
+  size: 67, 42
+  orig: 67, 42
+  offset: 0, 0
+  index: -1
+gh2_b
+  rotate: true
+  xy: 655, 286
+  size: 136, 82
+  orig: 136, 82
+  offset: 0, 0
+  index: -1
+gh_a
+  rotate: true
+  xy: 741, 286
+  size: 136, 81
+  orig: 136, 81
+  offset: 0, 0
+  index: -1
+kz1_a
+  rotate: false
+  xy: 254, 28
+  size: 79, 40
+  orig: 79, 40
+  offset: 0, 0
+  index: -1
+l_a
+  rotate: false
+  xy: 786, 194
+  size: 96, 93
+  orig: 96, 93
+  offset: 0, 0
+  index: -1
+lh1_as
+  rotate: true
+  xy: 337, 22
+  size: 46, 114
+  orig: 46, 114
+  offset: 0, 0
+  index: -1
+lh2_a
+  rotate: true
+  xy: 697, 190
+  size: 38, 82
+  orig: 38, 82
+  offset: 0, 0
+  index: -1
+lh3_a
+  rotate: true
+  xy: 603, 19
+  size: 80, 90
+  orig: 80, 90
+  offset: 0, 0
+  index: -1
+lh4_a
+  rotate: true
+  xy: 789, 19
+  size: 38, 93
+  orig: 38, 93
+  offset: 0, 0
+  index: -1
+lh5_a
+  rotate: false
+  xy: 802, 126
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+mz1_a
+  rotate: false
+  xy: 302, 72
+  size: 79, 49
+  orig: 79, 49
+  offset: 0, 0
+  index: -1
+mzc_a
+  rotate: true
+  xy: 951, 280
+  size: 75, 55
+  orig: 75, 55
+  offset: 0, 0
+  index: -1
+ncmz_b
+  rotate: true
+  xy: 560, 261
+  size: 161, 91
+  orig: 161, 91
+  offset: 0, 0
+  index: -1
+qf2_b
+  rotate: false
+  xy: 356, 178
+  size: 200, 244
+  orig: 200, 244
+  offset: 0, 0
+  index: -1
+sb1_a
+  rotate: 270
+  xy: 105, 10
+  size: 46, 66
+  orig: 46, 66
+  offset: 0, 0
+  index: -1
+sb_a
+  rotate: true
+  xy: 183, 6
+  size: 57, 67
+  orig: 57, 67
+  offset: 0, 0
+  index: -1
+sfsb2_a
+  rotate: false
+  xy: 733, 8
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+sfsb_b
+  rotate: true
+  xy: 956, 33
+  size: 36, 61
+  orig: 36, 61
+  offset: 0, 0
+  index: -1
+sfsbhh_a
+  rotate: true
+  xy: 612, 72
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+st_a
+  rotate: true
+  xy: 97, 49
+  size: 72, 95
+  orig: 72, 95
+  offset: 0, 0
+  index: -1
+st_b
+  rotate: true
+  xy: 894, 146
+  size: 73, 94
+  orig: 73, 94
+  offset: 0, 0
+  index: -1
+t1_a
+  rotate: true
+  xy: 195, 55
+  size: 66, 103
+  orig: 66, 103
+  offset: 0, 0
+  index: -1
+t2_a
+  rotate: true
+  xy: 664, 232
+  size: 50, 104
+  orig: 50, 104
+  offset: 0, 0
+  index: -1
+tf_a
+  rotate: false
+  xy: 512, 312
+  size: 36, 79
+  orig: 36, 79
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 4, 196
+  size: 348, 226
+  orig: 348, 226
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 854, 94
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 698, 134
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: true
+  xy: 684, 8
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1

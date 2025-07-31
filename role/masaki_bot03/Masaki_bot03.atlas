@@ -1,0 +1,90 @@
+
+Masaki_bot03.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bot03_dierduo
+  rotate: false
+  xy: 399, 440
+  size: 74, 46
+  orig: 94, 66
+  offset: 10, 10
+  index: -1
+bot03_dierduo2
+  rotate: false
+  xy: 476, 14
+  size: 66, 35
+  orig: 86, 55
+  offset: 10, 10
+  index: -1
+bot03_diyinying
+  rotate: false
+  xy: 4, 3
+  size: 470, 87
+  orig: 470, 88
+  offset: 0, 0
+  index: -1
+bot03_shenti1
+  rotate: 270
+  xy: 2, 81
+  size: 267, 375
+  orig: 267, 375
+  offset: 0, 0
+  index: -1
+bot03_shenti2
+  rotate: true
+  xy: 19, 311
+  size: 256, 378
+  orig: 258, 378
+  offset: 0, 0
+  index: -1
+bot03_shenti3
+  rotate: false
+  xy: 2, 541
+  size: 447, 230
+  orig: 448, 230
+  offset: 0, 0
+  index: -1
+bot03_shenti4
+  rotate: true
+  xy: 422, 276
+  size: 494, 222
+  orig: 494, 222
+  offset: 0, 0
+  index: -1
+bot03_yanjing1
+  rotate: false
+  xy: 381, 553
+  size: 123, 47
+  orig: 150, 71
+  offset: 14, 12
+  index: -1
+bot03_yanjing2
+  rotate: false
+  xy: 566, 103
+  size: 77, 53
+  orig: 99, 76
+  offset: 11, 11
+  index: -1
+bot03_zui
+  rotate: false
+  xy: 476, 51
+  size: 88, 50
+  orig: 113, 76
+  offset: 12, 13
+  index: -1
+bot04_yanjing1
+  rotate: false
+  xy: 398, 488
+  size: 89, 63
+  orig: 108, 80
+  offset: 9, 7
+  index: -1
+bot04_yanjing2
+  rotate: false
+  xy: 143, 251
+  size: 94, 59
+  orig: 108, 80
+  offset: 7, 10
+  index: -1

@@ -1,0 +1,244 @@
+
+mofamaotouying.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_l_cb_guan
+  rotate: false
+  xy: 1516, 456
+  size: 321, 315
+  orig: 760, 760
+  offset: 103, 185
+  index: -1
+1_l_cb_kai
+  rotate: false
+  xy: 2, 767
+  size: 544, 397
+  orig: 760, 760
+  offset: 27, 272
+  index: -1
+1_l_tui1
+  rotate: false
+  xy: 336, 14
+  size: 223, 158
+  orig: 760, 760
+  offset: 247, 174
+  index: -1
+1_r_cb_guan
+  rotate: false
+  xy: 879, 186
+  size: 346, 269
+  orig: 760, 760
+  offset: 234, 222
+  index: -1
+1_r_cb_kai
+  rotate: 270
+  xy: 1516, 758
+  size: 405, 326
+  orig: 760, 760
+  offset: 355, 309
+  index: -1
+1_r_tui2
+  rotate: false
+  xy: 987, 20
+  size: 183, 149
+  orig: 760, 760
+  offset: 332, 186
+  index: -1
+1_shen
+  rotate: true
+  xy: 1160, 437
+  size: 359, 356
+  orig: 760, 760
+  offset: 218, 215
+  index: -1
+1_tou
+  rotate: false
+  xy: 1200, 188
+  size: 268, 209
+  orig: 760, 760
+  offset: 266, 405
+  index: -1
+1_wei
+  rotate: false
+  xy: 762, 4
+  size: 223, 220
+  orig: 760, 760
+  offset: 170, 155
+  index: -1
+2_l_cb
+  rotate: false
+  xy: 299, 216
+  size: 267, 224
+  orig: 760, 760
+  offset: 126, 201
+  index: -1
+2_lian
+  rotate: false
+  xy: 1519, 47
+  size: 168, 117
+  orig: 760, 760
+  offset: 327, 343
+  index: -1
+2_lian_1
+  rotate: false
+  xy: 1824, 572
+  size: 80, 100
+  orig: 760, 760
+  offset: 417, 362
+  index: -1
+2_r_cb
+  rotate: false
+  xy: 1470, 190
+  size: 240, 207
+  orig: 760, 760
+  offset: 290, 199
+  index: -1
+2_shen
+  rotate: false
+  xy: 351, 439
+  size: 347, 293
+  orig: 760, 760
+  offset: 192, 191
+  index: -1
+2_tou
+  rotate: 270
+  xy: 1705, 184
+  size: 278, 193
+  orig: 760, 760
+  offset: 236, 324
+  index: -1
+2_wei
+  rotate: false
+  xy: 1171, 50
+  size: 202, 113
+  orig: 760, 760
+  offset: 89, 237
+  index: -1
+3_l_cb_guan
+  rotate: true
+  xy: 2, 206
+  size: 233, 297
+  orig: 760, 760
+  offset: 195, 202
+  index: -1
+3_l_cb_kai
+  rotate: 180
+  xy: 1042, 779
+  size: 474, 384
+  orig: 760, 760
+  offset: 0, 239
+  index: -1
+3_l_tui
+  rotate: false
+  xy: 1372, 48
+  size: 173, 132
+  orig: 760, 760
+  offset: 258, 178
+  index: -1
+3_r_cb_guan
+  rotate: false
+  xy: 698, 453
+  size: 300, 314
+  orig: 760, 760
+  offset: 263, 183
+  index: -1
+3_r_cb_kai
+  rotate: 180
+  xy: 539, 763
+  size: 504, 400
+  orig: 760, 760
+  offset: 256, 255
+  index: -1
+3_r_tui
+  rotate: false
+  xy: 558, 53
+  size: 201, 163
+  orig: 760, 760
+  offset: 320, 176
+  index: -1
+3_shen
+  rotate: false
+  xy: 2, 441
+  size: 357, 325
+  orig: 760, 760
+  offset: 207, 222
+  index: -1
+3_tou
+  rotate: false
+  xy: 557, 210
+  size: 240, 220
+  orig: 760, 760
+  offset: 284, 400
+  index: -1
+3_wei
+  rotate: false
+  xy: 115, 18
+  size: 224, 209
+  orig: 760, 760
+  offset: 191, 163
+  index: -1
+lian1
+  rotate: false
+  xy: 1686, 65
+  size: 159, 134
+  orig: 760, 760
+  offset: 354, 397
+  index: -1
+lian1_1
+  rotate: false
+  xy: 996, 455
+  size: 115, 120
+  orig: 760, 760
+  offset: 428, 409
+  index: -1
+lian2
+  rotate: false
+  xy: 998, 576
+  size: 148, 68
+  orig: 760, 760
+  offset: 348, 430
+  index: -1
+lian3
+  rotate: true
+  xy: 1838, 452
+  size: 115, 60
+  orig: 760, 760
+  offset: 378, 432
+  index: -1
+lian4
+  rotate: false
+  xy: 999, 646
+  size: 113, 82
+  orig: 760, 760
+  offset: 380, 432
+  index: -1
+lian5
+  rotate: true
+  xy: 2, 51
+  size: 159, 134
+  orig: 760, 760
+  offset: 354, 397
+  index: -1
+lian6
+  rotate: true
+  xy: 1813, 672
+  size: 113, 63
+  orig: 760, 760
+  offset: 380, 430
+  index: -1
+lian7
+  rotate: true
+  xy: 796, 342
+  size: 113, 64
+  orig: 760, 760
+  offset: 380, 429
+  index: -1
+lian8
+  rotate: false
+  xy: 80, 11
+  size: 68, 60
+  orig: 760, 760
+  offset: 426, 407
+  index: -1

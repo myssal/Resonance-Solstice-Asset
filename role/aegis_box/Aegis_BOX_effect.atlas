@@ -1,0 +1,188 @@
+
+Aegis_BOX_effect.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baofa0000
+  rotate: false
+  xy: 2, 141
+  size: 383, 334
+  orig: 580, 564
+  offset: 90, 94
+  index: -1
+baofa0001
+  rotate: false
+  xy: 2, 477
+  size: 429, 382
+  orig: 580, 564
+  offset: 63, 70
+  index: -1
+baofa0002
+  rotate: true
+  xy: 910, 380
+  size: 494, 424
+  orig: 580, 564
+  offset: 37, 49
+  index: -1
+baofa0003
+  rotate: false
+  xy: 1392, 451
+  size: 468, 458
+  orig: 580, 564
+  offset: 44, 32
+  index: -1
+baofa0004
+  rotate: false
+  xy: 1392, 911
+  size: 465, 475
+  orig: 580, 564
+  offset: 53, 30
+  index: -1
+baofa0005
+  rotate: false
+  xy: 910, 876
+  size: 480, 510
+  orig: 580, 564
+  offset: 61, 26
+  index: -1
+baofa0006
+  rotate: false
+  xy: 2, 861
+  size: 485, 525
+  orig: 580, 564
+  offset: 75, 34
+  index: -1
+bullet
+  rotate: true
+  xy: 1972, 1301
+  size: 85, 25
+  orig: 85, 25
+  offset: 0, 0
+  index: -1
+bullet0000
+  rotate: false
+  xy: 713, 539
+  size: 154, 71
+  orig: 179, 85
+  offset: 12, 7
+  index: -1
+bullet0001
+  rotate: false
+  xy: 713, 469
+  size: 155, 68
+  orig: 179, 85
+  offset: 11, 9
+  index: -1
+dun
+  rotate: false
+  xy: 433, 208
+  size: 278, 579
+  orig: 289, 595
+  offset: 7, 7
+  index: -1
+dun2
+  rotate: false
+  xy: 489, 789
+  size: 419, 597
+  orig: 435, 618
+  offset: 8, 15
+  index: -1
+shoot/shoot0000
+  rotate: false
+  xy: 1862, 492
+  size: 134, 200
+  orig: 320, 343
+  offset: 5, 72
+  index: -1
+shoot/shoot0001
+  rotate: true
+  xy: 1055, 239
+  size: 139, 215
+  orig: 320, 343
+  offset: 11, 67
+  index: -1
+shoot/shoot0002
+  rotate: true
+  xy: 729, 48
+  size: 153, 245
+  orig: 320, 343
+  offset: 22, 63
+  index: -1
+shoot/shoot0003
+  rotate: true
+  xy: 1383, 53
+  size: 174, 276
+  orig: 320, 343
+  offset: 44, 46
+  index: -1
+shoot/shoot0004
+  rotate: false
+  xy: 1668, 108
+  size: 212, 341
+  orig: 320, 343
+  offset: 72, 1
+  index: -1
+shoot/shoot0005
+  rotate: true
+  xy: 1336, 229
+  size: 220, 330
+  orig: 320, 343
+  offset: 56, 5
+  index: -1
+xian0000
+  rotate: true
+  xy: 713, 612
+  size: 175, 189
+  orig: 433, 237
+  offset: 258, 24
+  index: -1
+xian0001
+  rotate: false
+  xy: 1055, 58
+  size: 326, 169
+  orig: 433, 237
+  offset: 107, 34
+  index: -1
+xian0002
+  rotate: false
+  xy: 713, 203
+  size: 340, 175
+  orig: 433, 237
+  offset: 87, 31
+  index: -1
+xian0003
+  rotate: false
+  xy: 387, 43
+  size: 340, 158
+  orig: 433, 237
+  offset: 66, 40
+  index: -1
+xian0004
+  rotate: false
+  xy: 2, 2
+  size: 338, 137
+  orig: 433, 237
+  offset: 45, 50
+  index: -1
+xian0005
+  rotate: true
+  xy: 1862, 694
+  size: 335, 97
+  orig: 433, 237
+  offset: 24, 70
+  index: -1
+xian0006
+  rotate: true
+  xy: 1859, 1031
+  size: 355, 111
+  orig: 433, 237
+  offset: 5, 63
+  index: -1
+xian0007
+  rotate: false
+  xy: 1661, 59
+  size: 324, 47
+  orig: 433, 237
+  offset: 5, 95
+  index: -1

@@ -1,0 +1,55 @@
+
+Masaki_bot05.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bot5_shenti
+  rotate: false
+  xy: 4, 166
+  size: 155, 162
+  orig: 155, 162
+  offset: 0, 0
+  index: -1
+bot5_weiba
+  rotate: false
+  xy: 4, 85
+  size: 70, 77
+  orig: 70, 77
+  offset: 0, 0
+  index: -1
+bot5_wuqi
+  rotate: true
+  xy: 163, 54
+  size: 274, 72
+  orig: 274, 72
+  offset: 0, 0
+  index: -1
+bot5_youjiao
+  rotate: 180
+  xy: 89, 43
+  size: 70, 60
+  orig: 77, 69
+  offset: 4, 5
+  index: -1
+bot5_youshou
+  rotate: false
+  xy: 138, 4
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+bot5_zuojiao
+  rotate: true
+  xy: 4, 31
+  size: 51, 71
+  orig: 59, 77
+  offset: 6, 4
+  index: -1
+bot5_zuoshou
+  rotate: false
+  xy: 78, 103
+  size: 54, 59
+  orig: 54, 59
+  offset: 0, 0
+  index: -1

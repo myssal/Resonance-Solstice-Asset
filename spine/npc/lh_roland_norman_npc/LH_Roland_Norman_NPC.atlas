@@ -1,0 +1,62 @@
+
+LH_Roland_Norman_NPC.png
+size: 512,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_1
+  rotate: false
+  xy: 276, 1649
+  size: 108, 27
+  orig: 109, 27
+  offset: 1, 0
+  index: -1
+1_2
+  rotate: 270
+  xy: 197, 4
+  size: 190, 227
+  orig: 190, 227
+  offset: 0, 0
+  index: -1
+1_3
+  rotate: false
+  xy: 2, 687
+  size: 371, 990
+  orig: 548, 990
+  offset: 0, 0
+  index: -1
+1_4
+  rotate: false
+  xy: 370, 1601
+  size: 69, 63
+  orig: 69, 63
+  offset: 0, 0
+  index: -1
+1_5
+  rotate: true
+  xy: 2, 158
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+1_6
+  rotate: false
+  xy: 353, 552
+  size: 122, 1124
+  orig: 141, 1144
+  offset: 0, 0
+  index: -1
+1_7
+  rotate: true
+  xy: 2, 328
+  size: 118, 445
+  orig: 118, 445
+  offset: 0, 0
+  index: -1
+1_8
+  rotate: true
+  xy: 2, 447
+  size: 146, 462
+  orig: 146, 462
+  offset: 0, 0
+  index: -1

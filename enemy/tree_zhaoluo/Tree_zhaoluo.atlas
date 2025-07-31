@@ -1,0 +1,55 @@
+
+Tree_zhaoluo.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dead_25
+  rotate: false
+  xy: 4, 384
+  size: 382, 448
+  orig: 382, 448
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: false
+  xy: 283, 260
+  size: 85, 120
+  orig: 85, 120
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 283, 157
+  size: 102, 99
+  orig: 102, 99
+  offset: 0, 0
+  index: -1
+shi
+  rotate: true
+  xy: 17, 5
+  size: 68, 76
+  orig: 68, 76
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 4, 142
+  size: 238, 275
+  orig: 238, 275
+  offset: 0, 0
+  index: -1
+xianwei1
+  rotate: true
+  xy: 197, 26
+  size: 90, 169
+  orig: 91, 173
+  offset: 0, 0
+  index: -1
+xianwei2
+  rotate: true
+  xy: 4, 22
+  size: 116, 189
+  orig: 118, 189
+  offset: 0, 0
+  index: -1

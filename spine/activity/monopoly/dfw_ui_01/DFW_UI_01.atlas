@@ -1,0 +1,167 @@
+
+DFW_UI_01.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_1
+  rotate: true
+  xy: 686, 30
+  size: 126, 167
+  orig: 126, 167
+  offset: 0, 0
+  index: -1
+1_2
+  rotate: 270
+  xy: 461, 115
+  size: 244, 383
+  orig: 244, 383
+  offset: 0, 0
+  index: -1
+1_3
+  rotate: true
+  xy: 166, 100
+  size: 81, 221
+  orig: 81, 221
+  offset: 0, 0
+  index: -1
+1_4
+  rotate: false
+  xy: 966, 766
+  size: 52, 37
+  orig: 52, 37
+  offset: 0, 0
+  index: -1
+1_5
+  rotate: false
+  xy: 846, 150
+  size: 174, 119
+  orig: 174, 119
+  offset: 0, 0
+  index: -1
+1_6
+  rotate: false
+  xy: 937, 458
+  size: 83, 89
+  orig: 84, 89
+  offset: 1, 0
+  index: -1
+1_7
+  rotate: false
+  xy: 718, 597
+  size: 183, 206
+  orig: 184, 206
+  offset: 0, 0
+  index: -1
+1_8
+  rotate: false
+  xy: 903, 779
+  size: 32, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+2_1
+  rotate: false
+  xy: 855, 35
+  size: 108, 113
+  orig: 108, 113
+  offset: 0, 0
+  index: -1
+2_10
+  rotate: false
+  xy: 718, 344
+  size: 217, 251
+  orig: 217, 251
+  offset: 0, 0
+  index: -1
+2_11
+  rotate: true
+  xy: 271, 7
+  size: 91, 93
+  orig: 91, 93
+  offset: 0, 0
+  index: -1
+2_12
+  rotate: true
+  xy: 166, 12
+  size: 86, 103
+  orig: 88, 103
+  offset: 1, 0
+  index: -1
+2_13
+  rotate: false
+  xy: 2, 93
+  size: 162, 88
+  orig: 163, 88
+  offset: 0, 0
+  index: -1
+2_2
+  rotate: false
+  xy: 79, 25
+  size: 69, 66
+  orig: 69, 66
+  offset: 0, 0
+  index: -1
+2_3
+  rotate: false
+  xy: 2, 19
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+2_4
+  rotate: false
+  xy: 491, 3
+  size: 69, 66
+  orig: 69, 66
+  offset: 0, 0
+  index: -1
+2_5
+  rotate: false
+  xy: 366, 14
+  size: 78, 84
+  orig: 78, 84
+  offset: 0, 0
+  index: -1
+2_6
+  rotate: false
+  xy: 937, 784
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+2_7
+  rotate: 180
+  xy: 849, 549
+  size: 172, 226
+  orig: 172, 226
+  offset: 0, 0
+  index: -1
+2_8
+  rotate: false
+  xy: 844, 271
+  size: 177, 162
+  orig: 177, 162
+  offset: 0, 0
+  index: -1
+2_9
+  rotate: 180
+  xy: 426, 53
+  size: 232, 181
+  orig: 232, 181
+  offset: 0, 0
+  index: -1
+3_1
+  rotate: true
+  xy: 461, 361
+  size: 442, 255
+  orig: 442, 255
+  offset: 0, 0
+  index: -1
+3_2
+  rotate: false
+  xy: 2, 183
+  size: 457, 620
+  orig: 457, 620
+  offset: 0, 0
+  index: -1

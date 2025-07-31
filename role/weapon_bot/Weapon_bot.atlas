@@ -1,0 +1,104 @@
+
+Weapon_bot.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 401, 99
+  size: 59, 59
+  orig: 64, 64
+  offset: 3, 2
+  index: -1
+jiyi01
+  rotate: false
+  xy: 438, 4
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+jiyi01_2
+  rotate: true
+  xy: 372, 27
+  size: 131, 27
+  orig: 131, 27
+  offset: 0, 0
+  index: -1
+jiyi02
+  rotate: false
+  xy: 347, 7
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+jiyi02_2
+  rotate: false
+  xy: 372, 4
+  size: 64, 21
+  orig: 64, 22
+  offset: 0, 1
+  index: -1
+jiyi03
+  rotate: false
+  xy: 462, 42
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+jiyi03_2
+  rotate: true
+  xy: 462, 66
+  size: 92, 12
+  orig: 92, 12
+  offset: 0, 0
+  index: -1
+jiyi04
+  rotate: false
+  xy: 456, 14
+  size: 12, 11
+  orig: 12, 15
+  offset: 0, 3
+  index: -1
+jiyi04_2
+  rotate: false
+  xy: 438, 27
+  size: 33, 13
+  orig: 34, 17
+  offset: 0, 3
+  index: -1
+jiyi04_3
+  rotate: false
+  xy: 308, 6
+  size: 37, 15
+  orig: 37, 15
+  offset: 0, 0
+  index: -1
+jiyi1
+  rotate: false
+  xy: 2, 2
+  size: 152, 156
+  orig: 156, 157
+  offset: 2, 1
+  index: -1
+jiyi2
+  rotate: false
+  xy: 156, 4
+  size: 150, 154
+  orig: 152, 163
+  offset: 1, 3
+  index: -1
+zhuji
+  rotate: true
+  xy: 308, 23
+  size: 135, 62
+  orig: 135, 62
+  offset: 0, 0
+  index: -1
+zhuji_qiang
+  rotate: false
+  xy: 401, 46
+  size: 59, 51
+  orig: 59, 51
+  offset: 0, 0
+  index: -1

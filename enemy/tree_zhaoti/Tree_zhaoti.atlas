@@ -1,0 +1,181 @@
+
+Tree_zhaoti.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bo
+  rotate: false
+  xy: 126, 61
+  size: 110, 101
+  orig: 110, 101
+  offset: 0, 0
+  index: -1
+dead_25
+  rotate: false
+  xy: 4, 523
+  size: 328, 451
+  orig: 328, 451
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 180, 388
+  size: 141, 131
+  orig: 141, 131
+  offset: 0, 0
+  index: -1
+shenti2
+  rotate: true
+  xy: 4, 361
+  size: 158, 172
+  orig: 158, 172
+  offset: 0, 0
+  index: -1
+shitou1
+  rotate: false
+  xy: 240, 72
+  size: 91, 90
+  orig: 91, 90
+  offset: 0, 0
+  index: -1
+shitou2
+  rotate: false
+  xy: 269, 176
+  size: 71, 77
+  orig: 71, 77
+  offset: 0, 0
+  index: -1
+shitou20
+  rotate: false
+  xy: 4, 26
+  size: 64, 39
+  orig: 64, 39
+  offset: 0, 0
+  index: -1
+shitou3
+  rotate: true
+  xy: 126, 166
+  size: 87, 139
+  orig: 87, 139
+  offset: 0, 0
+  index: -1
+shitou4
+  rotate: false
+  xy: 325, 455
+  size: 63, 64
+  orig: 63, 64
+  offset: 0, 0
+  index: -1
+shitou5
+  rotate: false
+  xy: 336, 700
+  size: 47, 58
+  orig: 47, 58
+  offset: 0, 0
+  index: -1
+shitou6
+  rotate: false
+  xy: 336, 523
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+shitou7
+  rotate: false
+  xy: 335, 16
+  size: 52, 69
+  orig: 52, 69
+  offset: 0, 0
+  index: -1
+shitou8
+  rotate: false
+  xy: 325, 388
+  size: 56, 52
+  orig: 56, 52
+  offset: 0, 0
+  index: -1
+shitou9
+  rotate: false
+  xy: 321, 310
+  size: 69, 74
+  orig: 69, 74
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 4, 258
+  size: 170, 99
+  orig: 170, 99
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: true
+  xy: 4, 69
+  size: 72, 100
+  orig: 72, 100
+  offset: 0, 0
+  index: -1
+wang1
+  rotate: true
+  xy: 217, 5
+  size: 64, 113
+  orig: 72, 121
+  offset: 3, 3
+  index: -1
+wang2
+  rotate: false
+  xy: 336, 763
+  size: 56, 79
+  orig: 65, 94
+  offset: 5, 11
+  index: -1
+zhakai1
+  rotate: false
+  xy: 180, 257
+  size: 137, 127
+  orig: 137, 127
+  offset: 0, 0
+  index: -1
+zhakai2
+  rotate: false
+  xy: 336, 842
+  size: 32, 133
+  orig: 41, 141
+  offset: 5, 4
+  index: -1
+zhakai3
+  rotate: false
+  xy: 4, 145
+  size: 118, 109
+  orig: 118, 109
+  offset: 0, 0
+  index: -1
+zhakai4
+  rotate: false
+  xy: 336, 607
+  size: 45, 90
+  orig: 54, 101
+  offset: 4, 5
+  index: -1
+zhuazi1
+  rotate: true
+  xy: 335, 89
+  size: 83, 48
+  orig: 83, 48
+  offset: 0, 0
+  index: -1
+zhuazi2
+  rotate: false
+  xy: 72, 23
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1
+zhuazi3
+  rotate: true
+  xy: 344, 176
+  size: 83, 46
+  orig: 83, 46
+  offset: 0, 0
+  index: -1

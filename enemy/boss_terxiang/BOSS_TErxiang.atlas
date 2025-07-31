@@ -1,0 +1,125 @@
+
+BOSS_TErxiang.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 212
+  size: 650, 425
+  orig: 674, 476
+  offset: 10, 13
+  index: -1
+1_ke1
+  rotate: false
+  xy: 351, 181
+  size: 45, 29
+  orig: 68, 56
+  offset: 13, 17
+  index: -1
+1_ke2
+  rotate: true
+  xy: 2, 20
+  size: 90, 47
+  orig: 111, 67
+  offset: 10, 10
+  index: -1
+1_ke3
+  rotate: false
+  xy: 1298, 106
+  size: 101, 115
+  orig: 121, 135
+  offset: 10, 10
+  index: -1
+1_ke4
+  rotate: true
+  xy: 871, 44
+  size: 193, 212
+  orig: 213, 233
+  offset: 10, 10
+  index: -1
+1_ke5
+  rotate: true
+  xy: 654, 44
+  size: 197, 215
+  orig: 217, 235
+  offset: 10, 10
+  index: -1
+1_ke6
+  rotate: false
+  xy: 1340, 554
+  size: 51, 83
+  orig: 72, 106
+  offset: 11, 10
+  index: -1
+1_ke7
+  rotate: false
+  xy: 557, 49
+  size: 87, 92
+  orig: 108, 112
+  offset: 11, 10
+  index: -1
+2_tou1
+  rotate: false
+  xy: 654, 243
+  size: 373, 394
+  orig: 373, 394
+  offset: 0, 0
+  index: -1
+3_shou1
+  rotate: true
+  xy: 2, 95
+  size: 115, 543
+  orig: 115, 655
+  offset: 0, 112
+  index: -1
+3_shou2
+  rotate: 180
+  xy: 1215, 83
+  size: 81, 364
+  orig: 81, 364
+  offset: 0, 0
+  index: -1
+3_shou3
+  rotate: true
+  xy: 61, 12
+  size: 105, 494
+  orig: 105, 494
+  offset: 0, 0
+  index: -1
+3_shou4
+  rotate: 270
+  xy: 1093, 3
+  size: 101, 273
+  orig: 101, 273
+  offset: 0, 0
+  index: -1
+3_shou5
+  rotate: 180
+  xy: 1049, 58
+  size: 108, 511
+  orig: 108, 511
+  offset: 0, 0
+  index: -1
+3_shou6
+  rotate: false
+  xy: 1327, 375
+  size: 72, 103
+  orig: 72, 103
+  offset: 0, 0
+  index: -1
+3_shou7
+  rotate: 180
+  xy: 1253, 254
+  size: 121, 383
+  orig: 121, 383
+  offset: 0, 0
+  index: -1
+3_shou8
+  rotate: 180
+  xy: 1140, 240
+  size: 112, 397
+  orig: 112, 397
+  offset: 0, 0
+  index: -1

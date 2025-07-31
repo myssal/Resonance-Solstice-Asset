@@ -1,0 +1,286 @@
+
+LH_SummerShizuru_sp.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai
+  rotate: false
+  xy: 2000, 1570
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+bg1
+  rotate: false
+  xy: 2, 895
+  size: 1800, 752
+  orig: 1800, 752
+  offset: 0, 0
+  index: -1
+bozi
+  rotate: false
+  xy: 1925, 839
+  size: 112, 156
+  orig: 112, 158
+  offset: 0, 2
+  index: -1
+bu1
+  rotate: false
+  xy: 1962, 1432
+  size: 73, 215
+  orig: 73, 215
+  offset: 0, 0
+  index: -1
+bu2
+  rotate: false
+  xy: 1962, 1181
+  size: 82, 153
+  orig: 82, 153
+  offset: 0, 0
+  index: -1
+bu3
+  rotate: false
+  xy: 2, 536
+  size: 1224, 357
+  orig: 1224, 385
+  offset: 0, 0
+  index: -1
+daizi
+  rotate: true
+  xy: 2, 109
+  size: 188, 248
+  orig: 188, 249
+  offset: 0, 0
+  index: -1
+damuzhi
+  rotate: false
+  xy: 1628, 820
+  size: 133, 73
+  orig: 133, 75
+  offset: 0, 2
+  index: -1
+fa1
+  rotate: false
+  xy: 1925, 640
+  size: 91, 198
+  orig: 94, 198
+  offset: 0, 0
+  index: -1
+fa10
+  rotate: true
+  xy: 1423, 746
+  size: 147, 203
+  orig: 147, 203
+  offset: 0, 0
+  index: -1
+fa2
+  rotate: false
+  xy: 1050, 48
+  size: 201, 112
+  orig: 201, 112
+  offset: 0, 0
+  index: -1
+fa3
+  rotate: true
+  xy: 527, 398
+  size: 157, 156
+  orig: 157, 156
+  offset: 0, 0
+  index: -1
+fa4
+  rotate: false
+  xy: 726, 14
+  size: 183, 177
+  orig: 183, 177
+  offset: 0, 0
+  index: -1
+fa5
+  rotate: false
+  xy: 1077, 203
+  size: 354, 338
+  orig: 354, 338
+  offset: 0, 0
+  index: -1
+fa6
+  rotate: 180
+  xy: 316, 58
+  size: 474, 230
+  orig: 474, 230
+  offset: 0, 0
+  index: -1
+fa7
+  rotate: 180
+  xy: 703, 102
+  size: 571, 489
+  orig: 571, 501
+  offset: 0, 12
+  index: -1
+fa8
+  rotate: false
+  xy: 2, 277
+  size: 650, 388
+  orig: 650, 388
+  offset: 0, 0
+  index: -1
+fa9
+  rotate: false
+  xy: 88, 52
+  size: 226, 144
+  orig: 226, 144
+  offset: 0, 0
+  index: -1
+fayy
+  rotate: 180
+  xy: 1263, 3
+  size: 233, 198
+  orig: 233, 198
+  offset: 0, 0
+  index: -1
+meimao_y
+  rotate: false
+  xy: 1144, 859
+  size: 86, 34
+  orig: 86, 35
+  offset: 0, 1
+  index: -1
+meimao_z
+  rotate: false
+  xy: 1962, 1318
+  size: 47, 16
+  orig: 47, 17
+  offset: 0, 1
+  index: -1
+shangyanpi_y
+  rotate: false
+  xy: 1804, 905
+  size: 107, 90
+  orig: 107, 90
+  offset: 0, 0
+  index: -1
+shangyanpi_z
+  rotate: false
+  xy: 1962, 1030
+  size: 53, 82
+  orig: 53, 82
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 1227, 385
+  size: 509, 695
+  orig: 509, 695
+  offset: 0, 0
+  index: -1
+shouzhang
+  rotate: false
+  xy: 320, 4
+  size: 132, 164
+  orig: 132, 164
+  offset: 0, 0
+  index: -1
+shouzhi
+  rotate: false
+  xy: 1962, 1336
+  size: 82, 94
+  orig: 82, 97
+  offset: 0, 3
+  index: -1
+shuizhu
+  rotate: false
+  xy: 2024, 1514
+  size: 9, 14
+  orig: 9, 15
+  offset: 0, 1
+  index: -1
+tongkong_y
+  rotate: false
+  xy: 1996, 1587
+  size: 43, 60
+  orig: 45, 60
+  offset: 2, 0
+  index: -1
+tongkong_z
+  rotate: false
+  xy: 2017, 1530
+  size: 26, 55
+  orig: 26, 55
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 1754, 157
+  size: 292, 300
+  orig: 292, 300
+  offset: 0, 0
+  index: -1
+waitao
+  rotate: true
+  xy: 1430, 175
+  size: 246, 322
+  orig: 246, 326
+  offset: 0, 0
+  index: -1
+xiayanpi_y
+  rotate: false
+  xy: 1962, 1004
+  size: 62, 23
+  orig: 62, 23
+  offset: 0, 0
+  index: -1
+xiayanpi_z
+  rotate: false
+  xy: 1962, 1286
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+yanbai_y
+  rotate: false
+  xy: 1975, 1113
+  size: 71, 66
+  orig: 71, 66
+  offset: 0, 0
+  index: -1
+yanbai_z
+  rotate: false
+  xy: 145, 831
+  size: 38, 62
+  orig: 38, 62
+  offset: 0, 0
+  index: -1
+youdabi
+  rotate: true
+  xy: 1549, 59
+  size: 153, 203
+  orig: 153, 203
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 2, 813
+  size: 141, 80
+  orig: 141, 80
+  offset: 0, 0
+  index: -1
+youxiaobi
+  rotate: false
+  xy: 1804, 1309
+  size: 156, 338
+  orig: 156, 339
+  offset: 0, 1
+  index: -1
+zuodabi
+  rotate: false
+  xy: 1804, 997
+  size: 156, 310
+  orig: 156, 310
+  offset: 0, 0
+  index: -1
+zuoxiaobi
+  rotate: false
+  xy: 1754, 44
+  size: 232, 111
+  orig: 232, 111
+  offset: 0, 0
+  index: -1

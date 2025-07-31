@@ -1,0 +1,159 @@
+
+Hayabusa_jinlun.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/dilie2_00075
+  rotate: true
+  xy: 1681, 293
+  size: 674, 148
+  orig: 674, 148
+  offset: 0, 0
+  index: -1
+tx/dilie_62
+  rotate: true
+  xy: 1685, 969
+  size: 678, 252
+  orig: 788, 412
+  offset: 68, 46
+  index: -1
+tx/guge2_00
+  rotate: false
+  xy: 1831, 866
+  size: 180, 101
+  orig: 260, 175
+  offset: 40, 44
+  index: -1
+tx/guge_00
+  rotate: false
+  xy: 1831, 777
+  size: 159, 87
+  orig: 260, 175
+  offset: 50, 45
+  index: -1
+tx/shachen/shachen_03
+  rotate: false
+  xy: 1092, 7
+  size: 548, 529
+  orig: 807, 696
+  offset: 145, 25
+  index: -1
+tx/shachen/shachen_04
+  rotate: true
+  xy: 2, 2
+  size: 537, 540
+  orig: 807, 696
+  offset: 162, 28
+  index: -1
+tx/shachen/shachen_05
+  rotate: true
+  xy: 544, 5
+  size: 531, 546
+  orig: 807, 696
+  offset: 172, 33
+  index: -1
+tx/shachen/shachen_10
+  rotate: false
+  xy: 2, 541
+  size: 538, 540
+  orig: 807, 696
+  offset: 202, 60
+  index: -1
+tx/shachen/shachen_11
+  rotate: false
+  xy: 566, 538
+  size: 545, 546
+  orig: 807, 696
+  offset: 203, 62
+  index: -1
+tx/shachen/shachen_12
+  rotate: true
+  xy: 1127, 538
+  size: 550, 552
+  orig: 807, 696
+  offset: 204, 64
+  index: -1
+tx/shachen/shachen_13
+  rotate: false
+  xy: 1127, 1090
+  size: 556, 557
+  orig: 807, 696
+  offset: 204, 65
+  index: -1
+tx/shachen/shachen_14
+  rotate: false
+  xy: 566, 1086
+  size: 559, 561
+  orig: 807, 696
+  offset: 205, 66
+  index: -1
+tx/shachen/shachen_15
+  rotate: false
+  xy: 2, 1083
+  size: 562, 564
+  orig: 807, 696
+  offset: 206, 67
+  index: -1
+
+Hayabusa_jinlun2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/shachen/shachen_00
+  rotate: false
+  xy: 2, 2
+  size: 563, 467
+  orig: 807, 696
+  offset: 83, 22
+  index: -1
+tx/shachen/shachen_01
+  rotate: true
+  xy: 544, 471
+  size: 562, 493
+  orig: 807, 696
+  offset: 105, 22
+  index: -1
+tx/shachen/shachen_02
+  rotate: false
+  xy: 2, 1052
+  size: 556, 514
+  orig: 807, 696
+  offset: 126, 23
+  index: -1
+tx/shachen/shachen_06
+  rotate: true
+  xy: 1100, 1046
+  size: 520, 547
+  orig: 807, 696
+  offset: 183, 40
+  index: -1
+tx/shachen/shachen_07
+  rotate: true
+  xy: 1100, 534
+  size: 510, 544
+  orig: 807, 696
+  offset: 197, 49
+  index: -1
+tx/shachen/shachen_08
+  rotate: true
+  xy: 2, 529
+  size: 521, 540
+  orig: 807, 696
+  offset: 199, 56
+  index: -1
+tx/shachen/shachen_09
+  rotate: true
+  xy: 560, 1035
+  size: 531, 538
+  orig: 807, 696
+  offset: 200, 58
+  index: -1
+tx/shachen/shachen_16
+  rotate: true
+  xy: 1039, 59
+  size: 473, 565
+  orig: 807, 696
+  offset: 206, 68
+  index: -1

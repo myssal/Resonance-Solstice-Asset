@@ -1,0 +1,279 @@
+
+Raziel_Angel.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bgz3_b
+  rotate: 180
+  xy: 828, 108
+  size: 145, 180
+  orig: 145, 180
+  offset: 0, 0
+  index: -1
+bgz4
+  rotate: true
+  xy: 399, 291
+  size: 49, 591
+  orig: 49, 591
+  offset: 0, 0
+  index: -1
+bq1
+  rotate: false
+  xy: 714, 64
+  size: 73, 50
+  orig: 73, 50
+  offset: 0, 0
+  index: -1
+bq10
+  rotate: false
+  xy: 590, 135
+  size: 96, 73
+  orig: 96, 73
+  offset: 0, 0
+  index: -1
+bq2
+  rotate: false
+  xy: 690, 118
+  size: 96, 72
+  orig: 96, 72
+  offset: 0, 0
+  index: -1
+bq4
+  rotate: false
+  xy: 134, 59
+  size: 71, 48
+  orig: 71, 48
+  offset: 0, 0
+  index: -1
+bq5
+  rotate: 270
+  xy: 880, 56
+  size: 68, 63
+  orig: 68, 63
+  offset: 0, 0
+  index: -1
+bq6
+  rotate: false
+  xy: 444, 119
+  size: 96, 73
+  orig: 96, 73
+  offset: 0, 0
+  index: -1
+bq7
+  rotate: false
+  xy: 626, 20
+  size: 69, 41
+  orig: 69, 41
+  offset: 0, 0
+  index: -1
+bq8
+  rotate: false
+  xy: 542, 15
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+bq9
+  rotate: false
+  xy: 699, 18
+  size: 67, 42
+  orig: 67, 42
+  offset: 0, 0
+  index: -1
+gh2_b
+  rotate: false
+  xy: 590, 212
+  size: 170, 75
+  orig: 170, 75
+  offset: 0, 0
+  index: -1
+kz1_a
+  rotate: false
+  xy: 277, 52
+  size: 79, 40
+  orig: 79, 40
+  offset: 0, 0
+  index: -1
+l_a
+  rotate: false
+  xy: 764, 194
+  size: 96, 93
+  orig: 96, 93
+  offset: 0, 0
+  index: -1
+lh1_as
+  rotate: true
+  xy: 360, 16
+  size: 46, 114
+  orig: 46, 114
+  offset: 0, 0
+  index: -1
+lh2_a
+  rotate: true
+  xy: 853, 17
+  size: 38, 82
+  orig: 38, 82
+  offset: 0, 0
+  index: -1
+lh3_a
+  rotate: true
+  xy: 183, 18
+  size: 80, 90
+  orig: 80, 90
+  offset: 0, 0
+  index: -1
+lh4_a
+  rotate: true
+  xy: 262, 10
+  size: 38, 93
+  orig: 38, 93
+  offset: 0, 0
+  index: -1
+lh5_a
+  rotate: true
+  xy: 941, 13
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+mz1_a
+  rotate: false
+  xy: 631, 65
+  size: 79, 49
+  orig: 79, 49
+  offset: 0, 0
+  index: -1
+mzc_a
+  rotate: false
+  xy: 435, 60
+  size: 75, 55
+  orig: 75, 55
+  offset: 0, 0
+  index: -1
+ncmz_b
+  rotate: false
+  xy: 425, 196
+  size: 161, 91
+  orig: 161, 91
+  offset: 0, 0
+  index: -1
+qf2_b
+  rotate: 180
+  xy: 241, 96
+  size: 200, 244
+  orig: 200, 244
+  offset: 0, 0
+  index: -1
+sb1_a1
+  rotate: true
+  xy: 478, 13
+  size: 43, 60
+  orig: 43, 60
+  offset: 0, 0
+  index: -1
+sb1_a2
+  rotate: true
+  xy: 71, 49
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+sb_a1
+  rotate: false
+  xy: 791, 46
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+sb_a2
+  rotate: true
+  xy: 4, 50
+  size: 57, 63
+  orig: 57, 63
+  offset: 0, 0
+  index: -1
+sfsb2_a
+  rotate: true
+  xy: 4, 4
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+sfsb_b
+  rotate: false
+  xy: 545, 131
+  size: 36, 61
+  orig: 36, 61
+  offset: 0, 0
+  index: -1
+sfsbhh_a
+  rotate: false
+  xy: 209, 72
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+st_a
+  rotate: true
+  xy: 532, 59
+  size: 72, 95
+  orig: 72, 95
+  offset: 0, 0
+  index: -1
+st_b
+  rotate: false
+  xy: 947, 76
+  size: 73, 94
+  orig: 73, 94
+  offset: 0, 0
+  index: -1
+t1_a
+  rotate: true
+  xy: 813, 138
+  size: 66, 103
+  orig: 66, 103
+  offset: 0, 0
+  index: -1
+t2_a
+  rotate: false
+  xy: 964, 183
+  size: 50, 104
+  orig: 50, 104
+  offset: 0, 0
+  index: -1
+tf_a
+  rotate: 180
+  xy: 241, 136
+  size: 36, 79
+  orig: 36, 79
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 4, 111
+  size: 233, 229
+  orig: 233, 229
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 908, 214
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 52, 14
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: false
+  xy: 134, 10
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1

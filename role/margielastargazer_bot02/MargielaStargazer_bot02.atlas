@@ -1,0 +1,153 @@
+
+MargielaStargazer_bot02.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_jianbang1
+  rotate: false
+  xy: 415, 790
+  size: 172, 197
+  orig: 172, 197
+  offset: 0, 0
+  index: -1
+B_pifeng
+  rotate: false
+  xy: 415, 750
+  size: 583, 601
+  orig: 583, 656
+  offset: 0, 0
+  index: -1
+B_shou1
+  rotate: false
+  xy: 893, 718
+  size: 57, 80
+  orig: 57, 80
+  offset: 0, 0
+  index: -1
+B_shou2
+  rotate: false
+  xy: 931, 1134
+  size: 57, 80
+  orig: 57, 80
+  offset: 0, 0
+  index: -1
+B_shou3
+  rotate: false
+  xy: 591, 801
+  size: 84, 99
+  orig: 84, 99
+  offset: 0, 0
+  index: -1
+B_yougebo
+  rotate: false
+  xy: 445, 176
+  size: 181, 126
+  orig: 181, 126
+  offset: 0, 0
+  index: -1
+B_youshoubi
+  rotate: true
+  xy: 319, 79
+  size: 93, 180
+  orig: 93, 180
+  offset: 0, 0
+  index: -1
+B_zuogebo
+  rotate: false
+  xy: 661, 50
+  size: 147, 112
+  orig: 147, 112
+  offset: 0, 0
+  index: -1
+ss_pifeng
+  rotate: 270
+  xy: 415, 306
+  size: 477, 559
+  orig: 479, 559
+  offset: 2, 0
+  index: -1
+ss_shipin1
+  rotate: false
+  xy: 940, 349
+  size: 55, 83
+  orig: 55, 83
+  offset: 0, 0
+  index: -1
+ss_tou
+  rotate: true
+  xy: 4, 83
+  size: 132, 174
+  orig: 132, 174
+  offset: 0, 0
+  index: -1
+ss_weibo
+  rotate: false
+  xy: 661, 119
+  size: 329, 258
+  orig: 329, 259
+  offset: 0, 1
+  index: -1
+ss_wuqi1
+  rotate: false
+  xy: 4, 550
+  size: 407, 800
+  orig: 407, 800
+  offset: 0, 0
+  index: -1
+ss_wuqi2
+  rotate: true
+  xy: 4, 219
+  size: 327, 437
+  orig: 327, 437
+  offset: 0, 0
+  index: -1
+ss_xiongjia
+  rotate: false
+  xy: 503, 65
+  size: 154, 107
+  orig: 154, 107
+  offset: 0, 0
+  index: -1
+ss_yougebo
+  rotate: true
+  xy: 114, 4
+  size: 78, 169
+  orig: 78, 169
+  offset: 0, 0
+  index: -1
+ss_youshou
+  rotate: false
+  xy: 4, 5
+  size: 89, 76
+  orig: 89, 76
+  offset: 0, 0
+  index: -1
+ss_youshoubi
+  rotate: false
+  xy: 812, 12
+  size: 137, 103
+  orig: 137, 103
+  offset: 0, 0
+  index: -1
+ss_zuogebo
+  rotate: true
+  xy: 182, 86
+  size: 129, 133
+  orig: 129, 133
+  offset: 0, 0
+  index: -1
+ss_zuoshou
+  rotate: false
+  xy: 936, 613
+  size: 66, 101
+  orig: 66, 101
+  offset: 0, 0
+  index: -1
+ss_zuoshoubi
+  rotate: false
+  xy: 922, 1230
+  size: 80, 120
+  orig: 80, 120
+  offset: 0, 0
+  index: -1

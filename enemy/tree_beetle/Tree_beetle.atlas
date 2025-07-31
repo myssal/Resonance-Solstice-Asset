@@ -1,0 +1,181 @@
+
+Tree_beetle.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ci1
+  rotate: false
+  xy: 327, 580
+  size: 232, 270
+  orig: 232, 270
+  offset: 0, 0
+  index: -1
+ci2
+  rotate: true
+  xy: 206, 45
+  size: 123, 177
+  orig: 123, 177
+  offset: 0, 0
+  index: -1
+ci3
+  rotate: true
+  xy: 446, 111
+  size: 108, 203
+  orig: 108, 203
+  offset: 0, 0
+  index: -1
+ci4
+  rotate: false
+  xy: 446, 227
+  size: 65, 144
+  orig: 65, 144
+  offset: 0, 0
+  index: -1
+dead_25
+  rotate: false
+  xy: 4, 463
+  size: 319, 387
+  orig: 319, 387
+  offset: 0, 0
+  index: -1
+huo1
+  rotate: false
+  xy: 784, 428
+  size: 217, 201
+  orig: 217, 201
+  offset: 0, 0
+  index: -1
+huo10
+  rotate: false
+  xy: 225, 172
+  size: 217, 199
+  orig: 217, 199
+  offset: 0, 0
+  index: -1
+huo11
+  rotate: false
+  xy: 769, 24
+  size: 217, 196
+  orig: 217, 196
+  offset: 0, 0
+  index: -1
+huo2
+  rotate: true
+  xy: 563, 633
+  size: 217, 204
+  orig: 217, 204
+  offset: 0, 0
+  index: -1
+huo3
+  rotate: false
+  xy: 4, 259
+  size: 217, 200
+  orig: 217, 200
+  offset: 0, 0
+  index: -1
+huo4
+  rotate: false
+  xy: 784, 224
+  size: 217, 200
+  orig: 217, 200
+  offset: 0, 0
+  index: -1
+huo5
+  rotate: true
+  xy: 771, 633
+  size: 217, 202
+  orig: 217, 202
+  offset: 0, 0
+  index: -1
+huo6
+  rotate: true
+  xy: 4, 38
+  size: 217, 198
+  orig: 217, 198
+  offset: 0, 0
+  index: -1
+huo7
+  rotate: false
+  xy: 548, 223
+  size: 217, 200
+  orig: 217, 200
+  offset: 0, 0
+  index: -1
+huo8
+  rotate: false
+  xy: 563, 427
+  size: 217, 202
+  orig: 217, 202
+  offset: 0, 0
+  index: -1
+huo9
+  rotate: false
+  xy: 327, 375
+  size: 217, 201
+  orig: 217, 201
+  offset: 0, 0
+  index: -1
+jio1
+  rotate: false
+  xy: 702, 33
+  size: 59, 90
+  orig: 59, 90
+  offset: 0, 0
+  index: -1
+jio2
+  rotate: false
+  xy: 530, 30
+  size: 63, 77
+  orig: 63, 77
+  offset: 0, 0
+  index: -1
+jio3
+  rotate: false
+  xy: 597, 66
+  size: 45, 42
+  orig: 52, 48
+  offset: 4, 3
+  index: -1
+jio4
+  rotate: true
+  xy: 597, 6
+  size: 66, 111
+  orig: 70, 116
+  offset: 3, 2
+  index: -1
+jio5
+  rotate: false
+  xy: 225, 381
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+jio6
+  rotate: false
+  xy: 702, 127
+  size: 58, 92
+  orig: 58, 92
+  offset: 0, 0
+  index: -1
+jio7
+  rotate: true
+  xy: 387, 127
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+jio8
+  rotate: false
+  xy: 653, 93
+  size: 45, 126
+  orig: 45, 126
+  offset: 0, 0
+  index: -1
+zz
+  rotate: false
+  xy: 387, 36
+  size: 139, 71
+  orig: 139, 71
+  offset: 0, 0
+  index: -1

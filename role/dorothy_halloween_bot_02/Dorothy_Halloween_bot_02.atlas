@@ -1,0 +1,132 @@
+
+Dorothy_Halloween_bot_02.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/d/d0000
+  rotate: false
+  xy: 404, 678
+  size: 28, 27
+  orig: 203, 207
+  offset: 66, 102
+  index: -1
+effect/d/d0001
+  rotate: false
+  xy: 375, 3
+  size: 77, 55
+  orig: 203, 207
+  offset: 54, 84
+  index: -1
+effect/d/d0002
+  rotate: false
+  xy: 400, 568
+  size: 100, 74
+  orig: 203, 207
+  offset: 44, 76
+  index: -1
+effect/d/d0003
+  rotate: false
+  xy: 280, 652
+  size: 122, 91
+  orig: 203, 207
+  offset: 38, 69
+  index: -1
+effect/d/d0004
+  rotate: true
+  xy: 375, 60
+  size: 146, 111
+  orig: 203, 207
+  offset: 26, 56
+  index: -1
+effect/d/d0005
+  rotate: true
+  xy: 280, 757
+  size: 171, 130
+  orig: 203, 207
+  offset: 17, 45
+  index: -1
+effect/d/d0006
+  rotate: true
+  xy: 247, 459
+  size: 191, 151
+  orig: 203, 207
+  offset: 8, 39
+  index: -1
+effect/d/d0007
+  rotate: true
+  xy: 206, 208
+  size: 198, 177
+  orig: 203, 207
+  offset: 4, 22
+  index: -1
+effect/d/d0008
+  rotate: false
+  xy: 2, 16
+  size: 200, 192
+  orig: 203, 207
+  offset: 2, 13
+  index: -1
+effect/d/d0009
+  rotate: true
+  xy: 2, 210
+  size: 196, 202
+  orig: 203, 207
+  offset: 3, 5
+  index: -1
+effect/d/d0010
+  rotate: false
+  xy: 204, 2
+  size: 169, 204
+  orig: 203, 207
+  offset: 4, 2
+  index: -1
+effect/dilei
+  rotate: false
+  xy: 404, 644
+  size: 91, 32
+  orig: 92, 32
+  offset: 0, 0
+  index: -1
+effect/hongdian_00034
+  rotate: true
+  xy: 385, 208
+  size: 119, 118
+  orig: 169, 169
+  offset: 26, 24
+  index: -1
+effect/hongdian_00034_BH
+  rotate: true
+  xy: 385, 329
+  size: 119, 118
+  orig: 169, 169
+  offset: 26, 24
+  index: -1
+effect/leiquan1_00060
+  rotate: false
+  xy: 2, 408
+  size: 243, 242
+  orig: 245, 246
+  offset: 1, 2
+  index: -1
+effect/leiquan2_00045
+  rotate: false
+  xy: 2, 652
+  size: 276, 276
+  orig: 280, 280
+  offset: 2, 2
+  index: -1
+effect/saomiao
+  rotate: false
+  xy: 400, 450
+  size: 108, 116
+  orig: 124, 129
+  offset: 11, 8
+  index: -1
+effect/star
+  rotate: false
+  xy: 454, 4
+  size: 54, 54
+  orig: 69, 70
+  offset: 8, 8
+  index: -1

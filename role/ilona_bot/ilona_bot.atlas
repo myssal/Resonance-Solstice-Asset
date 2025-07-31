@@ -1,0 +1,153 @@
+
+ilona_bot.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H_Hjiao01
+  rotate: true
+  xy: 829, 8
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+H_Hjiao02
+  rotate: false
+  xy: 875, 35
+  size: 28, 57
+  orig: 28, 57
+  offset: 0, 0
+  index: -1
+H_Qjiao01
+  rotate: false
+  xy: 755, 29
+  size: 32, 63
+  orig: 32, 63
+  offset: 0, 0
+  index: -1
+H_Qjiao02
+  rotate: true
+  xy: 875, 6
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+H_Qjiao03
+  rotate: false
+  xy: 789, 4
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+Q_Hjiao01
+  rotate: false
+  xy: 829, 46
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+Q_Hjiao02
+  rotate: true
+  xy: 412, 5
+  size: 24, 55
+  orig: 24, 55
+  offset: 0, 0
+  index: -1
+Q_Qjiao01
+  rotate: false
+  xy: 791, 28
+  size: 34, 64
+  orig: 34, 64
+  offset: 0, 0
+  index: -1
+Q_Qjiao02
+  rotate: true
+  xy: 755, 4
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+Q_Qjiao03
+  rotate: true
+  xy: 903, 51
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+bengdai1
+  rotate: true
+  xy: 471, 8
+  size: 14, 34
+  orig: 14, 34
+  offset: 0, 0
+  index: -1
+bengdai2
+  rotate: true
+  xy: 518, 18
+  size: 74, 63
+  orig: 74, 63
+  offset: 0, 0
+  index: -1
+gou_bozi01
+  rotate: false
+  xy: 585, 21
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: -1
+gou_bozi02
+  rotate: false
+  xy: 703, 14
+  size: 48, 60
+  orig: 48, 60
+  offset: 0, 0
+  index: -1
+gou_shenti
+  rotate: false
+  xy: 404, 26
+  size: 110, 66
+  orig: 110, 66
+  offset: 0, 0
+  index: -1
+gou_tou
+  rotate: true
+  xy: 644, 25
+  size: 67, 55
+  orig: 67, 55
+  offset: 0, 0
+  index: -1
+heiying_gou
+  rotate: false
+  xy: 4, 7
+  size: 172, 85
+  orig: 172, 85
+  offset: 0, 0
+  index: -1
+lingjian
+  rotate: true
+  xy: 913, 16
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+tanhuan
+  rotate: false
+  xy: 643, 6
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+wuqi1
+  rotate: false
+  xy: 180, 6
+  size: 108, 86
+  orig: 108, 86
+  offset: 0, 0
+  index: -1
+wuqi2
+  rotate: false
+  xy: 292, 6
+  size: 108, 86
+  orig: 108, 86
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+BOSS_AaSword.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guan1
+  rotate: false
+  xy: 1390, 164
+  size: 227, 459
+  orig: 227, 459
+  offset: 0, 0
+  index: -1
+guan2
+  rotate: false
+  xy: 1650, 27
+  size: 105, 131
+  orig: 108, 133
+  offset: 1, 2
+  index: -1
+guan3
+  rotate: false
+  xy: 1560, 1477
+  size: 226, 307
+  orig: 226, 307
+  offset: 0, 0
+  index: -1
+guan4
+  rotate: false
+  xy: 1635, 265
+  size: 146, 104
+  orig: 146, 108
+  offset: 0, 1
+  index: -1
+guanxian/guangxian_00
+  rotate: false
+  xy: 4, 1532
+  size: 618, 378
+  orig: 618, 378
+  offset: 0, 0
+  index: -1
+guanxian/guangxian_01
+  rotate: false
+  xy: 4, 1150
+  size: 618, 378
+  orig: 618, 378
+  offset: 0, 0
+  index: -1
+guanxian/guangxian_02
+  rotate: false
+  xy: 4, 768
+  size: 618, 378
+  orig: 618, 378
+  offset: 0, 0
+  index: -1
+guanxian/guangxian_03
+  rotate: false
+  xy: 4, 386
+  size: 618, 378
+  orig: 618, 378
+  offset: 0, 0
+  index: -1
+guanxian/guangxian_04
+  rotate: false
+  xy: 4, 4
+  size: 618, 378
+  orig: 618, 378
+  offset: 0, 0
+  index: -1
+guanxian/guangxian_05
+  rotate: true
+  xy: 626, 4
+  size: 618, 378
+  orig: 618, 378
+  offset: 0, 0
+  index: -1
+guanxian/guangxian_06
+  rotate: true
+  xy: 626, 1292
+  size: 618, 378
+  orig: 618, 378
+  offset: 0, 0
+  index: -1
+guanxian/guangxian_07
+  rotate: true
+  xy: 626, 670
+  size: 618, 378
+  orig: 618, 378
+  offset: 0, 0
+  index: -1
+guanxian/guangxian_08
+  rotate: true
+  xy: 1008, 4
+  size: 618, 378
+  orig: 618, 378
+  offset: 0, 0
+  index: -1
+guanxian/guangxian_09
+  rotate: true
+  xy: 1008, 1292
+  size: 618, 378
+  orig: 618, 378
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 1080, 942
+  size: 305, 126
+  orig: 305, 127
+  offset: 0, 1
+  index: -1
+piao1
+  rotate: false
+  xy: 1390, 1567
+  size: 52, 114
+  orig: 55, 114
+  offset: 2, 0
+  index: -1
+piao2
+  rotate: false
+  xy: 1615, 369
+  size: 151, 85
+  orig: 152, 90
+  offset: 1, 4
+  index: -1
+piao3
+  rotate: false
+  xy: 1278, 1197
+  size: 103, 85
+  orig: 105, 86
+  offset: 2, 1
+  index: -1
+piao4
+  rotate: false
+  xy: 1390, 1370
+  size: 102, 176
+  orig: 102, 176
+  offset: 0, 0
+  index: -1
+piao5
+  rotate: false
+  xy: 1008, 958
+  size: 322, 330
+  orig: 322, 330
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1390, 1562
+  size: 242, 348
+  orig: 243, 349
+  offset: 1, 0
+  index: -1
+shenti2
+  rotate: false
+  xy: 1384, 942
+  size: 265, 571
+  orig: 265, 571
+  offset: 0, 0
+  index: -1
+weibo
+  rotate: 180
+  xy: 1418, 10
+  size: 275, 257
+  orig: 275, 257
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: true
+  xy: 1008, 626
+  size: 311, 682
+  orig: 311, 682
+  offset: 0, 0
+  index: -1

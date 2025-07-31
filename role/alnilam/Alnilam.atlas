@@ -1,0 +1,160 @@
+
+Alnilam.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+st00
+  rotate: true
+  xy: 42, 425
+  size: 39, 54
+  orig: 39, 54
+  offset: 0, 0
+  index: -1
+st01
+  rotate: false
+  xy: 2, 311
+  size: 99, 154
+  orig: 99, 154
+  offset: 0, 0
+  index: -1
+tou00
+  rotate: true
+  xy: 173, 115
+  size: 57, 38
+  orig: 57, 38
+  offset: 0, 0
+  index: -1
+tou01
+  rotate: false
+  xy: 132, 186
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+youbi01
+  rotate: false
+  xy: 2, 63
+  size: 46, 63
+  orig: 46, 63
+  offset: 0, 0
+  index: -1
+youbi02
+  rotate: 180
+  xy: 97, 251
+  size: 60, 214
+  orig: 67, 214
+  offset: 0, 0
+  index: -1
+youbi03
+  rotate: 180
+  xy: 60, 47
+  size: 87, 39
+  orig: 87, 39
+  offset: 0, 0
+  index: -1
+youjiao01
+  rotate: true
+  xy: 73, 127
+  size: 43, 116
+  orig: 43, 116
+  offset: 0, 0
+  index: -1
+youjiao02
+  rotate: true
+  xy: 2, 270
+  size: 40, 97
+  orig: 40, 97
+  offset: 0, 0
+  index: -1
+youshou00
+  rotate: false
+  xy: 109, 9
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+youshou01
+  rotate: false
+  xy: 67, 4
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+youshou02
+  rotate: 180
+  xy: 3, 24
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+youshou03
+  rotate: 180
+  xy: 2, 215
+  size: 129, 48
+  orig: 129, 48
+  offset: 0, 0
+  index: -1
+zuobi01
+  rotate: false
+  xy: 155, 258
+  size: 52, 207
+  orig: 52, 207
+  offset: 0, 0
+  index: -1
+zuobi02
+  rotate: 180
+  xy: 41, 24
+  size: 70, 32
+  orig: 70, 32
+  offset: 0, 0
+  index: -1
+zuojiao01
+  rotate: 270
+  xy: 62, 85
+  size: 54, 109
+  orig: 54, 109
+  offset: 0, 0
+  index: -1
+zuojiao02
+  rotate: true
+  xy: 48, 169
+  size: 57, 93
+  orig: 57, 93
+  offset: 0, 0
+  index: -1
+zuoshou01
+  rotate: true
+  xy: 145, 55
+  size: 59, 60
+  orig: 59, 60
+  offset: 0, 0
+  index: -1
+zuoshou02
+  rotate: true
+  xy: 2, 123
+  size: 92, 69
+  orig: 92, 69
+  offset: 0, 0
+  index: -1
+zuoshou03
+  rotate: 270
+  xy: 177, 13
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+zuoshou04
+  rotate: false
+  xy: 147, 24
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+zuoshou05
+  rotate: false
+  xy: 79, 404
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1

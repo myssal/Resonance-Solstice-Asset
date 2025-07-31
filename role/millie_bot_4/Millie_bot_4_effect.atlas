@@ -1,0 +1,90 @@
+
+Millie_bot_4_effect.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/tw0000
+  rotate: false
+  xy: 2, 116
+  size: 527, 76
+  orig: 531, 76
+  offset: 3, 0
+  index: -1
+effect/tw0001
+  rotate: false
+  xy: 531, 117
+  size: 513, 75
+  orig: 531, 76
+  offset: 8, 1
+  index: -1
+effect/tw0002
+  rotate: false
+  xy: 1046, 120
+  size: 498, 72
+  orig: 531, 76
+  offset: 15, 3
+  index: -1
+effect/tw0003
+  rotate: false
+  xy: 1546, 129
+  size: 484, 63
+  orig: 531, 76
+  offset: 19, 3
+  index: -1
+effect/tw0004
+  rotate: false
+  xy: 1546, 64
+  size: 435, 63
+  orig: 531, 76
+  offset: 60, 3
+  index: -1
+effect/tw0005
+  rotate: false
+  xy: 1046, 55
+  size: 346, 63
+  orig: 531, 76
+  offset: 139, 3
+  index: -1
+effect/tw0006
+  rotate: false
+  xy: 531, 54
+  size: 340, 61
+  orig: 531, 76
+  offset: 136, 4
+  index: -1
+effect/tw0007
+  rotate: false
+  xy: 2, 53
+  size: 317, 61
+  orig: 531, 76
+  offset: 149, 4
+  index: -1
+effect/tw0008
+  rotate: false
+  xy: 1394, 2
+  size: 312, 60
+  orig: 531, 76
+  offset: 144, 5
+  index: -1
+effect/tw0009
+  rotate: false
+  xy: 321, 55
+  size: 197, 59
+  orig: 531, 76
+  offset: 249, 5
+  index: -1
+effect/tw0010
+  rotate: false
+  xy: 1708, 7
+  size: 194, 55
+  orig: 531, 76
+  offset: 242, 9
+  index: -1
+effect/tw0011
+  rotate: false
+  xy: 2, 8
+  size: 190, 43
+  orig: 531, 76
+  offset: 234, 18
+  index: -1

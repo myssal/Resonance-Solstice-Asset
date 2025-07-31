@@ -1,0 +1,27 @@
+
+Millie_bot_3.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/e1
+  rotate: false
+  xy: 177, 490
+  size: 107, 101
+  orig: 107, 101
+  offset: 0, 0
+  index: -1
+image/e2
+  rotate: false
+  xy: 2, 3
+  size: 217, 205
+  orig: 217, 205
+  offset: 0, 0
+  index: -1
+image/mowuyan
+  rotate: false
+  xy: 2, 210
+  size: 326, 384
+  orig: 329, 384
+  offset: 3, 0
+  index: -1

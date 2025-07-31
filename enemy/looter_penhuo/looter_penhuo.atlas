@@ -1,0 +1,230 @@
+
+looter_penhuo.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beidail
+  rotate: true
+  xy: 655, 214
+  size: 92, 153
+  orig: 92, 153
+  offset: 0, 0
+  index: -1
+beidair
+  rotate: false
+  xy: 870, 333
+  size: 118, 145
+  orig: 118, 145
+  offset: 0, 0
+  index: -1
+dangl
+  rotate: false
+  xy: 575, 116
+  size: 106, 94
+  orig: 106, 94
+  offset: 0, 0
+  index: -1
+dangr
+  rotate: false
+  xy: 309, 143
+  size: 125, 92
+  orig: 125, 92
+  offset: 0, 0
+  index: -1
+datuil
+  rotate: true
+  xy: 5, 236
+  size: 106, 148
+  orig: 106, 148
+  offset: 0, 0
+  index: -1
+datuir
+  rotate: true
+  xy: 870, 229
+  size: 100, 132
+  orig: 100, 132
+  offset: 0, 0
+  index: -1
+datuir_2
+  rotate: true
+  xy: 157, 236
+  size: 106, 148
+  orig: 106, 148
+  offset: 0, 0
+  index: -1
+dead
+  rotate: false
+  xy: 5, 346
+  size: 469, 312
+  orig: 469, 312
+  offset: 0, 0
+  index: -1
+gebol
+  rotate: false
+  xy: 122, 128
+  size: 105, 104
+  orig: 105, 104
+  offset: 0, 0
+  index: -1
+gebol_02
+  rotate: true
+  xy: 812, 135
+  size: 90, 111
+  orig: 90, 111
+  offset: 0, 0
+  index: -1
+gebor
+  rotate: true
+  xy: 685, 116
+  size: 94, 99
+  orig: 94, 99
+  offset: 0, 0
+  index: -1
+guangzi
+  rotate: true
+  xy: 774, 6
+  size: 101, 135
+  orig: 117, 153
+  offset: 8, 9
+  index: -1
+hand
+  rotate: false
+  xy: 478, 266
+  size: 173, 153
+  orig: 173, 153
+  offset: 0, 0
+  index: -1
+handl
+  rotate: false
+  xy: 231, 173
+  size: 69, 59
+  orig: 69, 59
+  offset: 0, 0
+  index: -1
+handl2
+  rotate: true
+  xy: 709, 30
+  size: 82, 67
+  orig: 82, 67
+  offset: 0, 0
+  index: -1
+handl_2
+  rotate: false
+  xy: 951, 20
+  size: 69, 68
+  orig: 69, 68
+  offset: 0, 0
+  index: -1
+handr
+  rotate: false
+  xy: 628, 39
+  size: 77, 73
+  orig: 77, 73
+  offset: 0, 0
+  index: -1
+handr_2
+  rotate: false
+  xy: 346, 59
+  size: 76, 80
+  orig: 76, 80
+  offset: 0, 0
+  index: -1
+handr_3
+  rotate: false
+  xy: 143, 47
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+hushoul
+  rotate: true
+  xy: 5, 65
+  size: 59, 134
+  orig: 59, 134
+  offset: 0, 0
+  index: -1
+jiaol
+  rotate: 270
+  xy: 231, 53
+  size: 113, 113
+  orig: 114, 119
+  offset: 0, 3
+  index: -1
+jiaor
+  rotate: true
+  xy: 427, 64
+  size: 92, 114
+  orig: 97, 121
+  offset: 3, 4
+  index: -1
+jiaor_2
+  rotate: 180
+  xy: 905, 93
+  size: 114, 112
+  orig: 114, 119
+  offset: 0, 3
+  index: -1
+qianbao
+  rotate: false
+  xy: 309, 239
+  size: 145, 103
+  orig: 145, 103
+  offset: 0, 0
+  index: -1
+qiang
+  rotate: true
+  xy: 659, 310
+  size: 152, 207
+  orig: 152, 207
+  offset: 0, 0
+  index: -1
+qiangglow_00024
+  rotate: true
+  xy: 478, 423
+  size: 235, 177
+  orig: 235, 177
+  offset: 0, 0
+  index: -1
+ranqibao
+  rotate: true
+  xy: 838, 482
+  size: 176, 170
+  orig: 176, 170
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 659, 466
+  size: 175, 192
+  orig: 175, 192
+  offset: 0, 0
+  index: -1
+shoubil
+  rotate: true
+  xy: 5, 134
+  size: 98, 113
+  orig: 98, 113
+  offset: 0, 0
+  index: -1
+shoubil_2
+  rotate: true
+  xy: 788, 54
+  size: 77, 95
+  orig: 77, 95
+  offset: 0, 0
+  index: -1
+shoubir
+  rotate: true
+  xy: 458, 159
+  size: 103, 113
+  orig: 103, 113
+  offset: 0, 0
+  index: -1
+zdqk
+  rotate: true
+  xy: 544, 41
+  size: 71, 80
+  orig: 71, 80
+  offset: 0, 0
+  index: -1

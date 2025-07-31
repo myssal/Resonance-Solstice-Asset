@@ -1,0 +1,237 @@
+
+BOSS_AaSword_effect.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jian
+  rotate: false
+  xy: 3401, 1987
+  size: 96, 399
+  orig: 104, 410
+  offset: 4, 6
+  index: -1
+jian_h/jian_h_00
+  rotate: false
+  xy: 2329, 247
+  size: 1009, 287
+  orig: 1230, 546
+  offset: 201, 168
+  index: -1
+jian_h/jian_h_01
+  rotate: false
+  xy: 2, 1105
+  size: 1082, 292
+  orig: 1230, 546
+  offset: 126, 164
+  index: -1
+jian_h/jian_h_03
+  rotate: false
+  xy: 2, 2717
+  size: 1168, 362
+  orig: 1230, 546
+  offset: 28, 128
+  index: -1
+jian_h/jian_h_04
+  rotate: false
+  xy: 2135, 16
+  size: 1162, 229
+  orig: 1230, 546
+  offset: 44, 238
+  index: -1
+jian_h/jian_h_05
+  rotate: false
+  xy: 1154, 294
+  size: 1173, 254
+  orig: 1230, 546
+  offset: 30, 210
+  index: -1
+jian_h/jian_h_06
+  rotate: false
+  xy: 1172, 1794
+  size: 1030, 224
+  orig: 1230, 546
+  offset: 28, 228
+  index: -1
+jian_h/jian_h_08
+  rotate: false
+  xy: 1155, 2
+  size: 978, 290
+  orig: 1230, 546
+  offset: 22, 230
+  index: -1
+jian_h/jian_h_09
+  rotate: false
+  xy: 2218, 1741
+  size: 1141, 322
+  orig: 1230, 546
+  offset: 24, 194
+  index: -1
+jian_h/jian_h_10
+  rotate: false
+  xy: 2, 505
+  size: 1150, 269
+  orig: 1230, 546
+  offset: 48, 220
+  index: -1
+jian_h/jian_h_11
+  rotate: false
+  xy: 2365, 536
+  size: 1076, 291
+  orig: 1230, 546
+  offset: 125, 209
+  index: -1
+jian_h/jian_h_13
+  rotate: true
+  xy: 3519, 1909
+  size: 1170, 315
+  orig: 1230, 546
+  offset: 30, 208
+  index: -1
+jian_h/jian_h_14
+  rotate: false
+  xy: 2, 1399
+  size: 1166, 303
+  orig: 1230, 546
+  offset: 30, 217
+  index: -1
+jian_h/jian_h_15
+  rotate: false
+  xy: 1172, 2733
+  size: 1174, 346
+  orig: 1230, 546
+  offset: 27, 140
+  index: -1
+jian_h/jian_h_16
+  rotate: false
+  xy: 2339, 2388
+  size: 1178, 336
+  orig: 1230, 546
+  offset: 26, 153
+  index: -1
+jian_h/jian_h_18
+  rotate: false
+  xy: 2218, 2065
+  size: 1181, 321
+  orig: 1230, 546
+  offset: 25, 161
+  index: -1
+jian_h/jian_h_19
+  rotate: false
+  xy: 1182, 550
+  size: 1181, 277
+  orig: 1230, 546
+  offset: 24, 167
+  index: -1
+jian_q/jian_q_00
+  rotate: false
+  xy: 2, 776
+  size: 1178, 290
+  orig: 1230, 546
+  offset: 32, 116
+  index: -1
+jian_q/jian_q_01
+  rotate: true
+  xy: 3836, 1913
+  size: 1166, 247
+  orig: 1230, 546
+  offset: 43, 118
+  index: -1
+jian_q/jian_q_03
+  rotate: false
+  xy: 2, 44
+  size: 1151, 248
+  orig: 1230, 546
+  offset: 43, 114
+  index: -1
+jian_q/jian_q_04
+  rotate: false
+  xy: 2288, 1430
+  size: 1157, 309
+  orig: 1230, 546
+  offset: 42, 79
+  index: -1
+jian_q/jian_q_05
+  rotate: false
+  xy: 2288, 1126
+  size: 1173, 302
+  orig: 1230, 546
+  offset: 27, 51
+  index: -1
+jian_q/jian_q_06
+  rotate: false
+  xy: 2, 1704
+  size: 1168, 314
+  orig: 1230, 546
+  offset: 27, 45
+  index: -1
+jian_q/jian_q_08
+  rotate: false
+  xy: 1169, 2020
+  size: 1047, 368
+  orig: 1230, 546
+  offset: 33, 42
+  index: -1
+jian_q/jian_q_09
+  rotate: false
+  xy: 1170, 1068
+  size: 1019, 342
+  orig: 1230, 546
+  offset: 37, 38
+  index: -1
+jian_q/jian_q_10
+  rotate: true
+  xy: 3463, 884
+  size: 1023, 334
+  orig: 1230, 546
+  offset: 37, 40
+  index: -1
+jian_q/jian_q_11
+  rotate: false
+  xy: 1172, 2390
+  size: 1165, 341
+  orig: 1230, 546
+  offset: 32, 41
+  index: -1
+jian_q/jian_q_13
+  rotate: false
+  xy: 2348, 2726
+  size: 1142, 353
+  orig: 1230, 546
+  offset: 45, 52
+  index: -1
+jian_q/jian_q_14
+  rotate: false
+  xy: 2, 2054
+  size: 1149, 327
+  orig: 1230, 546
+  offset: 42, 79
+  index: -1
+jian_q/jian_q_15
+  rotate: false
+  xy: 1172, 1412
+  size: 1114, 327
+  orig: 1230, 546
+  offset: 86, 75
+  index: -1
+jian_q/jian_q_16
+  rotate: false
+  xy: 2191, 829
+  size: 1166, 295
+  orig: 1230, 546
+  offset: 42, 77
+  index: -1
+jian_q/jian_q_18
+  rotate: false
+  xy: 2, 2383
+  size: 1165, 332
+  orig: 1230, 546
+  offset: 43, 84
+  index: -1
+jian_q/jian_q_19
+  rotate: true
+  xy: 3799, 725
+  size: 1182, 286
+  orig: 1230, 546
+  offset: 26, 96
+  index: -1

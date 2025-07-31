@@ -1,0 +1,209 @@
+
+Wensheng_ootd_effect.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/new/diyan/diyan_29
+  rotate: false
+  xy: 823, 349
+  size: 422, 144
+  orig: 1001, 550
+  offset: 294, 187
+  index: -1
+effect/new/diyan/diyan_30
+  rotate: false
+  xy: 2, 372
+  size: 535, 134
+  orig: 1001, 550
+  offset: 217, 188
+  index: -1
+effect/new/diyan/diyan_31
+  rotate: false
+  xy: 2, 241
+  size: 468, 129
+  orig: 1001, 550
+  offset: 258, 197
+  index: -1
+effect/new/diyan/diyan_32
+  rotate: false
+  xy: 823, 211
+  size: 440, 136
+  orig: 1001, 550
+  offset: 291, 195
+  index: -1
+effect/new/diyan/diyan_33
+  rotate: false
+  xy: 2, 116
+  size: 433, 123
+  orig: 1001, 550
+  offset: 288, 198
+  index: -1
+effect/new/diyan/diyan_34
+  rotate: false
+  xy: 1265, 157
+  size: 453, 120
+  orig: 1001, 550
+  offset: 283, 197
+  index: -1
+effect/new/diyan/diyan_35
+  rotate: false
+  xy: 437, 93
+  size: 455, 116
+  orig: 1001, 550
+  offset: 281, 191
+  index: -1
+effect/new/diyan/diyan_36
+  rotate: false
+  xy: 2, 2
+  size: 341, 112
+  orig: 1001, 550
+  offset: 335, 200
+  index: -1
+effect/new/diyan/diyan_37
+  rotate: false
+  xy: 894, 91
+  size: 344, 118
+  orig: 1001, 550
+  offset: 335, 200
+  index: -1
+effect/new/diyan/diyan_38
+  rotate: false
+  xy: 1240, 43
+  size: 353, 112
+  orig: 1001, 550
+  offset: 327, 200
+  index: -1
+effect/new/longjuan/longjuan_29
+  rotate: false
+  xy: 2, 1485
+  size: 607, 342
+  orig: 811, 571
+  offset: 100, 92
+  index: -1
+effect/new/longjuan/longjuan_30
+  rotate: false
+  xy: 611, 1490
+  size: 596, 337
+  orig: 811, 571
+  offset: 108, 90
+  index: -1
+effect/new/longjuan/longjuan_31
+  rotate: false
+  xy: 1209, 1493
+  size: 580, 334
+  orig: 811, 571
+  offset: 120, 89
+  index: -1
+effect/new/longjuan/longjuan_32
+  rotate: false
+  xy: 560, 828
+  size: 555, 336
+  orig: 811, 571
+  offset: 134, 88
+  index: -1
+effect/new/longjuan/longjuan_33
+  rotate: false
+  xy: 2, 1147
+  size: 556, 336
+  orig: 811, 571
+  offset: 134, 90
+  index: -1
+effect/new/longjuan/longjuan_34
+  rotate: false
+  xy: 1209, 1156
+  size: 566, 335
+  orig: 811, 571
+  offset: 138, 92
+  index: -1
+effect/new/longjuan/longjuan_35
+  rotate: false
+  xy: 1117, 822
+  size: 540, 332
+  orig: 811, 571
+  offset: 144, 93
+  index: -1
+effect/new/longjuan/longjuan_36
+  rotate: false
+  xy: 2, 508
+  size: 540, 320
+  orig: 811, 571
+  offset: 145, 93
+  index: -1
+effect/new/longjuan/longjuan_37
+  rotate: false
+  xy: 2, 830
+  size: 553, 315
+  orig: 811, 571
+  offset: 139, 94
+  index: -1
+effect/new/longjuan/longjuan_38
+  rotate: false
+  xy: 611, 1166
+  size: 585, 322
+  orig: 811, 571
+  offset: 122, 95
+  index: -1
+effect/new/longjuanglow_29
+  rotate: false
+  xy: 544, 504
+  size: 498, 322
+  orig: 811, 571
+  offset: 153, 97
+  index: -1
+effect/new/yan/yan_16
+  rotate: true
+  xy: 1467, 279
+  size: 275, 342
+  orig: 848, 522
+  offset: 150, 58
+  index: -1
+effect/new/yan/yan_17
+  rotate: false
+  xy: 1044, 495
+  size: 421, 325
+  orig: 848, 522
+  offset: 150, 49
+  index: -1
+effect/new/yan/yan_18
+  rotate: false
+  xy: 1467, 556
+  size: 497, 264
+  orig: 848, 522
+  offset: 157, 49
+  index: -1
+effect/new/yan/yan_19
+  rotate: true
+  xy: 1791, 1341
+  size: 486, 235
+  orig: 848, 522
+  offset: 188, 49
+  index: -1
+effect/new/yan/yan_20
+  rotate: false
+  xy: 1659, 830
+  size: 377, 324
+  orig: 848, 522
+  offset: 314, 49
+  index: -1
+effect/new/yan/yan_21
+  rotate: false
+  xy: 1811, 212
+  size: 175, 342
+  orig: 848, 522
+  offset: 518, 77
+  index: -1
+effect/new/yan/yan_22
+  rotate: true
+  xy: 539, 252
+  size: 250, 282
+  orig: 848, 522
+  offset: 440, 163
+  index: -1
+effect/new/yan/yan_23
+  rotate: false
+  xy: 1720, 17
+  size: 273, 193
+  orig: 848, 522
+  offset: 379, 256
+  index: -1

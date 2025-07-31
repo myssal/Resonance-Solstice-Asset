@@ -1,0 +1,174 @@
+
+Tree_throb.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ci1
+  rotate: false
+  xy: 278, 380
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+ci10
+  rotate: 270
+  xy: 265, 134
+  size: 69, 47
+  orig: 69, 47
+  offset: 0, 0
+  index: -1
+ci2
+  rotate: true
+  xy: 217, 264
+  size: 66, 62
+  orig: 66, 62
+  offset: 0, 0
+  index: -1
+ci3
+  rotate: 180
+  xy: 263, 4
+  size: 60, 52
+  orig: 60, 52
+  offset: 0, 0
+  index: -1
+ci4
+  rotate: false
+  xy: 253, 50
+  size: 41, 89
+  orig: 41, 89
+  offset: 0, 0
+  index: -1
+ci5
+  rotate: false
+  xy: 232, 141
+  size: 44, 107
+  orig: 44, 107
+  offset: 0, 0
+  index: -1
+ci6
+  rotate: true
+  xy: 129, 201
+  size: 69, 45
+  orig: 69, 45
+  offset: 0, 0
+  index: -1
+ci7
+  rotate: false
+  xy: 272, 295
+  size: 51, 40
+  orig: 51, 40
+  offset: 0, 0
+  index: -1
+ci8
+  rotate: false
+  xy: 274, 214
+  size: 37, 79
+  orig: 37, 79
+  offset: 0, 0
+  index: -1
+ci9
+  rotate: false
+  xy: 274, 429
+  size: 50, 65
+  orig: 50, 65
+  offset: 0, 0
+  index: -1
+dead_25
+  rotate: false
+  xy: 2, 272
+  size: 176, 221
+  orig: 343, 370
+  offset: 110, 21
+  index: -1
+fanguang
+  rotate: true
+  xy: 2, 147
+  size: 123, 125
+  orig: 123, 125
+  offset: 0, 0
+  index: -1
+guang_bai
+  rotate: false
+  xy: 132, 3
+  size: 65, 65
+  orig: 75, 75
+  offset: 5, 5
+  index: -1
+guang_lan
+  rotate: false
+  xy: 199, 6
+  size: 62, 62
+  orig: 72, 72
+  offset: 5, 5
+  index: -1
+guang_zi
+  rotate: true
+  xy: 180, 400
+  size: 93, 92
+  orig: 105, 105
+  offset: 6, 7
+  index: -1
+jiao1
+  rotate: true
+  xy: 295, 338
+  size: 47, 28
+  orig: 47, 28
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: 270
+  xy: 294, 43
+  size: 49, 31
+  orig: 49, 31
+  offset: 0, 0
+  index: -1
+jiao3
+  rotate: true
+  xy: 302, 92
+  size: 40, 18
+  orig: 40, 18
+  offset: 0, 0
+  index: -1
+jiao_bianxing
+  rotate: false
+  xy: 307, 261
+  size: 18, 55
+  orig: 20, 55
+  offset: 2, 0
+  index: -1
+muqiu
+  rotate: false
+  xy: 231, 332
+  size: 50, 50
+  orig: 51, 51
+  offset: 0, 1
+  index: -1
+qiu
+  rotate: false
+  xy: 171, 197
+  size: 30, 30
+  orig: 32, 34
+  offset: 1, 2
+  index: -1
+qiu1
+  rotate: false
+  xy: 2, 19
+  size: 129, 127
+  orig: 129, 127
+  offset: 0, 0
+  index: -1
+qiu2
+  rotate: false
+  xy: 128, 70
+  size: 123, 125
+  orig: 123, 125
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 180, 235
+  size: 62, 164
+  orig: 82, 173
+  offset: 20, 0
+  index: -1

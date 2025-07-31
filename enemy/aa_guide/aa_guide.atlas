@@ -1,0 +1,83 @@
+
+aa_guide.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dead
+  rotate: false
+  xy: 2, 6
+  size: 174, 166
+  orig: 200, 205
+  offset: 10, 14
+  index: -1
+dian
+  rotate: false
+  xy: 415, 55
+  size: 117, 117
+  orig: 125, 125
+  offset: 4, 3
+  index: -1
+guan_g
+  rotate: true
+  xy: 415, 24
+  size: 29, 73
+  orig: 29, 73
+  offset: 0, 0
+  index: -1
+guanzi
+  rotate: false
+  xy: 632, 60
+  size: 44, 112
+  orig: 45, 112
+  offset: 0, 0
+  index: -1
+h_1
+  rotate: false
+  xy: 627, 6
+  size: 30, 52
+  orig: 30, 54
+  offset: 0, 2
+  index: -1
+h_2
+  rotate: true
+  xy: 490, 6
+  size: 47, 26
+  orig: 48, 26
+  offset: 1, 0
+  index: -1
+qiu1
+  rotate: 180
+  xy: 527, 10
+  size: 103, 162
+  orig: 117, 162
+  offset: 2, 0
+  index: -1
+qiu2
+  rotate: false
+  xy: 178, 18
+  size: 141, 155
+  orig: 141, 159
+  offset: 0, 4
+  index: -1
+qiu2_g
+  rotate: false
+  xy: 321, 2
+  size: 92, 170
+  orig: 97, 173
+  offset: 1, 2
+  index: -1
+y1
+  rotate: false
+  xy: 178, 33
+  size: 9, 25
+  orig: 9, 25
+  offset: 0, 0
+  index: -1
+y2
+  rotate: true
+  xy: 270, 9
+  size: 19, 47
+  orig: 19, 47
+  offset: 0, 0
+  index: -1

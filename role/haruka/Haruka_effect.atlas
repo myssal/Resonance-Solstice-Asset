@@ -1,0 +1,76 @@
+
+Haruka_effect.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/dg0000
+  rotate: false
+  xy: 2, 129
+  size: 313, 327
+  orig: 355, 343
+  offset: 3, 10
+  index: -1
+skill/dg0001
+  rotate: true
+  xy: 617, 131
+  size: 325, 283
+  orig: 355, 343
+  offset: 11, 51
+  index: -1
+skill/dg0002
+  rotate: false
+  xy: 902, 134
+  size: 278, 322
+  orig: 355, 343
+  offset: 68, 19
+  index: -1
+skill/dg0003
+  rotate: false
+  xy: 317, 130
+  size: 298, 326
+  orig: 355, 343
+  offset: 52, 2
+  index: -1
+skill/dg0004
+  rotate: true
+  xy: 1182, 152
+  size: 304, 291
+  orig: 355, 343
+  offset: 50, 9
+  index: -1
+skill/dg0005
+  rotate: true
+  xy: 1475, 155
+  size: 301, 280
+  orig: 355, 343
+  offset: 47, 12
+  index: -1
+skill/dg0006
+  rotate: true
+  xy: 1757, 155
+  size: 295, 251
+  orig: 355, 343
+  offset: 44, 27
+  index: -1
+skill/dg0007
+  rotate: false
+  xy: 1475, 3
+  size: 242, 150
+  orig: 355, 343
+  offset: 42, 31
+  index: -1
+skill/zhuanA0001
+  rotate: false
+  xy: 1719, 2
+  size: 231, 151
+  orig: 244, 158
+  offset: 6, 3
+  index: -1
+wuqi
+  rotate: false
+  xy: 2, 36
+  size: 52, 91
+  orig: 54, 93
+  offset: 1, 1
+  index: -1

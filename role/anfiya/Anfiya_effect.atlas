@@ -1,0 +1,146 @@
+
+Anfiya_effect.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dilie
+  rotate: false
+  xy: 2, 11
+  size: 371, 59
+  orig: 374, 63
+  offset: 2, 1
+  index: -1
+gutou_1
+  rotate: false
+  xy: 802, 218
+  size: 25, 70
+  orig: 27, 73
+  offset: 1, 2
+  index: -1
+gutou_10
+  rotate: false
+  xy: 500, 143
+  size: 110, 183
+  orig: 114, 186
+  offset: 1, 1
+  index: -1
+gutou_1_guang
+  rotate: false
+  xy: 781, 143
+  size: 29, 73
+  orig: 31, 76
+  offset: 1, 2
+  index: -1
+gutou_2
+  rotate: false
+  xy: 667, 9
+  size: 55, 132
+  orig: 57, 135
+  offset: 1, 1
+  index: -1
+gutou_2_guang
+  rotate: false
+  xy: 518, 2
+  size: 74, 139
+  orig: 81, 146
+  offset: 2, 3
+  index: -1
+gutou_3
+  rotate: false
+  xy: 763, 25
+  size: 30, 116
+  orig: 32, 118
+  offset: 1, 1
+  index: -1
+gutou_3_guang
+  rotate: false
+  xy: 724, 20
+  size: 37, 121
+  orig: 39, 125
+  offset: 1, 2
+  index: -1
+gutou_4
+  rotate: false
+  xy: 400, 82
+  size: 98, 244
+  orig: 101, 247
+  offset: 2, 2
+  index: -1
+gutou_4_guang
+  rotate: false
+  xy: 154, 72
+  size: 112, 254
+  orig: 116, 261
+  offset: 2, 4
+  index: -1
+gutou_5
+  rotate: false
+  xy: 672, 143
+  size: 46, 144
+  orig: 49, 146
+  offset: 2, 1
+  index: -1
+gutou_5_guang
+  rotate: false
+  xy: 612, 143
+  size: 58, 149
+  orig: 64, 155
+  offset: 4, 3
+  index: -1
+gutou_6
+  rotate: false
+  xy: 268, 107
+  size: 130, 219
+  orig: 134, 222
+  offset: 2, 1
+  index: -1
+gutou_6_guang
+  rotate: false
+  xy: 2, 98
+  size: 150, 228
+  orig: 156, 234
+  offset: 4, 2
+  index: -1
+gutou_7
+  rotate: false
+  xy: 720, 229
+  size: 49, 78
+  orig: 51, 81
+  offset: 1, 2
+  index: -1
+gutou_7_guang
+  rotate: false
+  xy: 720, 143
+  size: 59, 84
+  orig: 66, 90
+  offset: 2, 3
+  index: -1
+gutou_8
+  rotate: false
+  xy: 594, 5
+  size: 71, 136
+  orig: 74, 139
+  offset: 2, 1
+  index: -1
+gutou_8_guang
+  rotate: true
+  xy: 375, 4
+  size: 76, 141
+  orig: 80, 145
+  offset: 2, 2
+  index: -1
+gutou_9
+  rotate: false
+  xy: 795, 57
+  size: 24, 84
+  orig: 26, 86
+  offset: 1, 1
+  index: -1
+gutou_9_guang
+  rotate: false
+  xy: 771, 229
+  size: 29, 88
+  orig: 34, 92
+  offset: 3, 3
+  index: -1

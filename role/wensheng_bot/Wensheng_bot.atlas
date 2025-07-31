@@ -1,0 +1,195 @@
+
+Wensheng_bot.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/new/bingdiao/bingdiao_100
+  rotate: false
+  xy: 419, 372
+  size: 155, 309
+  orig: 444, 550
+  offset: 143, 106
+  index: -1
+effect/new/bingdiao/bingdiao_102
+  rotate: false
+  xy: 576, 372
+  size: 155, 309
+  orig: 444, 550
+  offset: 143, 106
+  index: -1
+effect/new/bingdiao/bingdiao_104
+  rotate: false
+  xy: 733, 372
+  size: 155, 309
+  orig: 444, 550
+  offset: 143, 106
+  index: -1
+effect/new/bingdiao/bingdiao_106
+  rotate: false
+  xy: 890, 372
+  size: 155, 309
+  orig: 444, 550
+  offset: 143, 106
+  index: -1
+effect/new/bingdiao/bingdiao_108
+  rotate: false
+  xy: 1047, 372
+  size: 155, 309
+  orig: 444, 550
+  offset: 143, 106
+  index: -1
+effect/new/bingdiao/bingdiao_110
+  rotate: false
+  xy: 1204, 372
+  size: 155, 309
+  orig: 444, 550
+  offset: 143, 106
+  index: -1
+effect/new/bingdiao/bingdiao_112
+  rotate: false
+  xy: 1361, 372
+  size: 155, 309
+  orig: 444, 550
+  offset: 143, 106
+  index: -1
+effect/new/bingdiao/bingdiao_114
+  rotate: false
+  xy: 1518, 372
+  size: 155, 309
+  orig: 444, 550
+  offset: 143, 106
+  index: -1
+effect/new/bingdiao/bingdiao_116
+  rotate: false
+  xy: 1675, 372
+  size: 155, 309
+  orig: 444, 550
+  offset: 143, 106
+  index: -1
+effect/new/bingdiao/bingdiao_118
+  rotate: false
+  xy: 1832, 372
+  size: 155, 309
+  orig: 444, 550
+  offset: 143, 106
+  index: -1
+effect/new/bingdiao/bingdiao_120
+  rotate: true
+  xy: 2, 241
+  size: 155, 309
+  orig: 444, 550
+  offset: 143, 106
+  index: -1
+effect/new/bingdiao/bingdiao_122
+  rotate: true
+  xy: 313, 215
+  size: 155, 309
+  orig: 444, 550
+  offset: 143, 106
+  index: -1
+effect/new/bingdiao/bingdiao_94
+  rotate: true
+  xy: 624, 215
+  size: 155, 309
+  orig: 444, 550
+  offset: 143, 106
+  index: -1
+effect/new/bingdiao/bingdiao_96
+  rotate: true
+  xy: 935, 215
+  size: 155, 309
+  orig: 444, 550
+  offset: 143, 106
+  index: -1
+effect/new/bingdiao/bingdiao_98
+  rotate: true
+  xy: 1246, 215
+  size: 155, 309
+  orig: 444, 550
+  offset: 143, 106
+  index: -1
+effect/new/binghua_40
+  rotate: false
+  xy: 2, 32
+  size: 223, 207
+  orig: 402, 400
+  offset: 91, 87
+  index: -1
+effect/new/bingshi1_38
+  rotate: true
+  xy: 1593, 59
+  size: 138, 222
+  orig: 276, 280
+  offset: 68, 29
+  index: -1
+effect/new/bingshi2_110
+  rotate: false
+  xy: 1047, 72
+  size: 292, 141
+  orig: 426, 275
+  offset: 67, 63
+  index: -1
+effect/new/dian01
+  rotate: false
+  xy: 2, 436
+  size: 241, 245
+  orig: 256, 264
+  offset: 8, 9
+  index: -1
+effect/new/dilie_36
+  rotate: false
+  xy: 1593, 2
+  size: 315, 55
+  orig: 530, 276
+  offset: 108, 107
+  index: -1
+effect/new/shouji4/shouji4_33
+  rotate: false
+  xy: 502, 48
+  size: 274, 165
+  orig: 372, 246
+  offset: 29, 28
+  index: -1
+effect/new/shouji4/shouji4_34
+  rotate: false
+  xy: 778, 47
+  size: 267, 166
+  orig: 372, 246
+  offset: 43, 33
+  index: -1
+effect/new/shouji4/shouji4_35
+  rotate: true
+  xy: 245, 398
+  size: 283, 172
+  orig: 372, 246
+  offset: 41, 35
+  index: -1
+effect/new/shouji4/shouji4_36
+  rotate: true
+  xy: 1835, 92
+  size: 278, 168
+  orig: 372, 246
+  offset: 53, 39
+  index: -1
+effect/new/shouji4/shouji4_37
+  rotate: false
+  xy: 1557, 199
+  size: 276, 171
+  orig: 372, 246
+  offset: 61, 42
+  index: -1
+effect/new/shouji4/shouji4_38
+  rotate: false
+  xy: 227, 45
+  size: 273, 168
+  orig: 372, 246
+  offset: 64, 45
+  index: -1
+effect/new/shouji4/shouji4_39
+  rotate: false
+  xy: 1341, 38
+  size: 250, 159
+  orig: 372, 246
+  offset: 87, 54
+  index: -1

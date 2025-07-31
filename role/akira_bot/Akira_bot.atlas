@@ -1,0 +1,69 @@
+
+Akira_bot.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zaoxueji1
+  rotate: false
+  xy: 2, 131
+  size: 79, 25
+  orig: 81, 27
+  offset: 1, 1
+  index: -1
+zaoxueji1_0
+  rotate: false
+  xy: 2, 104
+  size: 79, 25
+  orig: 81, 27
+  offset: 1, 1
+  index: -1
+zaoxueji1_1
+  rotate: false
+  xy: 2, 77
+  size: 79, 25
+  orig: 81, 27
+  offset: 1, 1
+  index: -1
+zaoxueji1_2
+  rotate: false
+  xy: 2, 50
+  size: 79, 25
+  orig: 81, 27
+  offset: 1, 1
+  index: -1
+zaoxueji2
+  rotate: false
+  xy: 61, 16
+  size: 13, 32
+  orig: 15, 34
+  offset: 1, 1
+  index: -1
+zaoxueji3
+  rotate: false
+  xy: 2, 2
+  size: 15, 9
+  orig: 17, 11
+  offset: 1, 1
+  index: -1
+zaoxueji4
+  rotate: false
+  xy: 61, 2
+  size: 19, 12
+  orig: 21, 14
+  offset: 1, 1
+  index: -1
+zaoxueji5
+  rotate: false
+  xy: 2, 13
+  size: 57, 35
+  orig: 59, 37
+  offset: 1, 1
+  index: -1
+zaoxueji6
+  rotate: false
+  xy: 2, 158
+  size: 76, 47
+  orig: 78, 49
+  offset: 1, 1
+  index: -1

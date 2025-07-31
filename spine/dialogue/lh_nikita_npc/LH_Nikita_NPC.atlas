@@ -1,0 +1,181 @@
+
+LH_Nikita_NPC.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_10
+  rotate: false
+  xy: 2, 248
+  size: 297, 499
+  orig: 297, 499
+  offset: 0, 0
+  index: -1
+1_11
+  rotate: true
+  xy: 907, 96
+  size: 131, 213
+  orig: 131, 213
+  offset: 0, 0
+  index: -1
+1_12
+  rotate: true
+  xy: 1125, 604
+  size: 142, 209
+  orig: 142, 209
+  offset: 0, 0
+  index: -1
+1_13
+  rotate: true
+  xy: 723, 201
+  size: 115, 438
+  orig: 115, 438
+  offset: 0, 0
+  index: -1
+1_14
+  rotate: false
+  xy: 1960, 477
+  size: 86, 96
+  orig: 86, 96
+  offset: 0, 0
+  index: -1
+1_15
+  rotate: true
+  xy: 36, 133
+  size: 123, 202
+  orig: 136, 202
+  offset: 10, 0
+  index: -1
+1_16
+  rotate: false
+  xy: 1845, 161
+  size: 161, 586
+  orig: 225, 639
+  offset: 64, 53
+  index: -1
+1_17
+  rotate: false
+  xy: 279, 665
+  size: 126, 82
+  orig: 136, 82
+  offset: 10, 0
+  index: -1
+1_18
+  rotate: false
+  xy: 1752, 219
+  size: 129, 207
+  orig: 129, 207
+  offset: 0, 0
+  index: -1
+1_19
+  rotate: true
+  xy: 1324, 132
+  size: 136, 568
+  orig: 181, 568
+  offset: 0, 0
+  index: -1
+1_2
+  rotate: false
+  xy: 478, 495
+  size: 89, 109
+  orig: 89, 109
+  offset: 0, 0
+  index: -1
+1_20
+  rotate: false
+  xy: 748, 525
+  size: 129, 71
+  orig: 129, 71
+  offset: 0, 0
+  index: -1
+1_21
+  rotate: false
+  xy: 1264, 266
+  size: 258, 480
+  orig: 258, 480
+  offset: 0, 0
+  index: -1
+1_22
+  rotate: true
+  xy: 1521, 518
+  size: 229, 200
+  orig: 229, 200
+  offset: 0, 0
+  index: -1
+1_23
+  rotate: 180
+  xy: 908, 145
+  size: 389, 601
+  orig: 392, 601
+  offset: 3, 0
+  index: -1
+1_24
+  rotate: 180
+  xy: 552, 217
+  size: 368, 530
+  orig: 368, 530
+  offset: 0, 0
+  index: -1
+1_25
+  rotate: false
+  xy: 236, 111
+  size: 330, 635
+  orig: 330, 635
+  offset: 0, 0
+  index: -1
+1_26
+  rotate: false
+  xy: 1475, 333
+  size: 380, 414
+  orig: 380, 415
+  offset: 0, 1
+  index: -1
+1_3
+  rotate: false
+  xy: 810, 394
+  size: 78, 133
+  orig: 78, 133
+  offset: 0, 0
+  index: -1
+1_4
+  rotate: true
+  xy: 715, 4
+  size: 206, 254
+  orig: 206, 254
+  offset: 0, 0
+  index: -1
+1_5
+  rotate: false
+  xy: 1504, 502
+  size: 96, 83
+  orig: 96, 83
+  offset: 0, 0
+  index: -1
+1_6
+  rotate: false
+  xy: 1907, 573
+  size: 95, 173
+  orig: 95, 173
+  offset: 0, 0
+  index: -1
+1_7
+  rotate: true
+  xy: 498, 90
+  size: 168, 162
+  orig: 168, 162
+  offset: 0, 0
+  index: -1
+1_8
+  rotate: false
+  xy: 403, 675
+  size: 60, 71
+  orig: 60, 71
+  offset: 0, 0
+  index: -1
+1_9
+  rotate: false
+  xy: 877, 355
+  size: 200, 252
+  orig: 200, 252
+  offset: 0, 0
+  index: -1

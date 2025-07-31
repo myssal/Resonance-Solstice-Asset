@@ -1,0 +1,62 @@
+
+LH_Anfiya_Baihua.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beilian
+  rotate: false
+  xy: 2, 1868
+  size: 126, 79
+  orig: 126, 79
+  offset: 0, 0
+  index: -1
+chushou1
+  rotate: true
+  xy: 467, 721
+  size: 312, 425
+  orig: 312, 425
+  offset: 0, 0
+  index: -1
+chushou2
+  rotate: 180
+  xy: 2, 362
+  size: 637, 474
+  orig: 637, 474
+  offset: 0, 0
+  index: -1
+chushou3
+  rotate: false
+  xy: 608, 1555
+  size: 246, 392
+  orig: 246, 392
+  offset: 0, 0
+  index: -1
+chushou4
+  rotate: false
+  xy: 529, 55
+  size: 336, 520
+  orig: 336, 520
+  offset: 0, 0
+  index: -1
+chushou5
+  rotate: false
+  xy: 2, 782
+  size: 604, 1165
+  orig: 604, 1165
+  offset: 0, 0
+  index: -1
+xiangzih
+  rotate: true
+  xy: 501, 1065
+  size: 459, 391
+  orig: 459, 391
+  offset: 0, 0
+  index: -1
+xiangziq
+  rotate: false
+  xy: 2, 3
+  size: 525, 357
+  orig: 525, 357
+  offset: 0, 0
+  index: -1

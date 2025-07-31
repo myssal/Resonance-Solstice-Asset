@@ -1,0 +1,27 @@
+
+MargielaStargazer_bot01.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shitou1
+  rotate: true
+  xy: 4, 199
+  size: 211, 297
+  orig: 211, 297
+  offset: 0, 0
+  index: -1
+shitou2
+  rotate: false
+  xy: 4, 414
+  size: 279, 403
+  orig: 279, 403
+  offset: 0, 0
+  index: -1
+shitou3
+  rotate: true
+  xy: 4, 4
+  size: 191, 256
+  orig: 191, 256
+  offset: 0, 0
+  index: -1

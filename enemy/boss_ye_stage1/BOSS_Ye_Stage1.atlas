@@ -1,0 +1,171 @@
+
+BOSS_Ye_Stage1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sguang
+  rotate: false
+  xy: 2, 2
+  size: 1465, 963
+  orig: 1490, 987
+  offset: 13, 12
+  index: -1
+Sshenti
+  rotate: false
+  xy: 2, 967
+  size: 1932, 1003
+  orig: 1967, 1063
+  offset: 17, 42
+  index: -1
+Txiaotui
+  rotate: false
+  xy: 1469, 40
+  size: 399, 925
+  orig: 428, 975
+  offset: 18, 32
+  index: -1
+
+BOSS_Ye_Stage12.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Qdamuzhi
+  rotate: false
+  xy: 1737, 211
+  size: 291, 356
+  orig: 312, 376
+  offset: 10, 10
+  index: -1
+Qshoubi
+  rotate: false
+  xy: 2, 892
+  size: 1056, 1135
+  orig: 1076, 1155
+  offset: 10, 10
+  index: -1
+Qshouzhang
+  rotate: true
+  xy: 936, 2
+  size: 419, 799
+  orig: 439, 819
+  offset: 10, 10
+  index: -1
+Sshou
+  rotate: true
+  xy: 1632, 569
+  size: 647, 382
+  orig: 723, 420
+  offset: 66, 28
+  index: -1
+Ttou
+  rotate: true
+  xy: 2, 27
+  size: 863, 932
+  orig: 899, 967
+  offset: 18, 17
+  index: -1
+shiti3
+  rotate: true
+  xy: 1737, 7
+  size: 202, 301
+  orig: 229, 319
+  offset: 1, 1
+  index: -1
+yanmu
+  rotate: true
+  xy: 1632, 1218
+  size: 809, 375
+  orig: 815, 420
+  offset: 6, 24
+  index: -1
+zuobi
+  rotate: false
+  xy: 1060, 423
+  size: 570, 1604
+  orig: 633, 1642
+  offset: 26, 34
+  index: -1
+
+BOSS_Ye_Stage13.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Qguang2
+  rotate: true
+  xy: 556, 227
+  size: 725, 812
+  orig: 750, 838
+  offset: 13, 13
+  index: -1
+Qsizhi
+  rotate: false
+  xy: 1371, 912
+  size: 594, 855
+  orig: 636, 875
+  offset: 32, 10
+  index: -1
+Tdatui
+  rotate: false
+  xy: 2, 682
+  size: 553, 1085
+  orig: 586, 1115
+  offset: 16, 12
+  index: -1
+Tguang
+  rotate: false
+  xy: 557, 954
+  size: 738, 813
+  orig: 762, 837
+  offset: 12, 12
+  index: -1
+Thexin
+  rotate: false
+  xy: 2, 23
+  size: 519, 657
+  orig: 554, 701
+  offset: 16, 27
+  index: -1
+Tyan
+  rotate: false
+  xy: 1371, 325
+  size: 583, 585
+  orig: 613, 620
+  offset: 15, 17
+  index: -1
+shiti1
+  rotate: true
+  xy: 523, 21
+  size: 204, 459
+  orig: 217, 467
+  offset: 5, 2
+  index: -1
+shiti2
+  rotate: false
+  xy: 1736, 2
+  size: 286, 321
+  orig: 292, 324
+  offset: 0, 2
+  index: -1
+yanmu2
+  rotate: false
+  xy: 1371, 14
+  size: 363, 309
+  orig: 402, 356
+  offset: 6, 27
+  index: -1
+
+BOSS_Ye_Stage14.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Qguang1
+  rotate: false
+  xy: 2, 2
+  size: 681, 851
+  orig: 710, 876
+  offset: 15, 13
+  index: -1

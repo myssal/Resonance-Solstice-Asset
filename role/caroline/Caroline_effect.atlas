@@ -1,0 +1,480 @@
+
+Caroline_effect.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bullet/1-zd_00028
+  rotate: true
+  xy: 1877, 16
+  size: 370, 121
+  orig: 415, 131
+  offset: 31, 5
+  index: -1
+dian_00034
+  rotate: false
+  xy: 1874, 1549
+  size: 121, 121
+  orig: 196, 214
+  offset: 36, 47
+  index: -1
+dianji/daji0000
+  rotate: true
+  xy: 1814, 1145
+  size: 340, 212
+  orig: 465, 383
+  offset: 50, 84
+  index: -1
+dianji/daji0004
+  rotate: false
+  xy: 1170, 25
+  size: 358, 356
+  orig: 465, 383
+  offset: 78, 10
+  index: -1
+dianji/daji0005
+  rotate: false
+  xy: 1781, 650
+  size: 264, 286
+  orig: 465, 383
+  offset: 107, 42
+  index: -1
+dianji/daji0007
+  rotate: false
+  xy: 1530, 27
+  size: 345, 354
+  orig: 465, 383
+  offset: 109, 16
+  index: -1
+dianji/daji0013
+  rotate: false
+  xy: 1781, 388
+  size: 265, 260
+  orig: 465, 383
+  offset: 143, 101
+  index: -1
+kq/kq0000
+  rotate: false
+  xy: 1814, 964
+  size: 180, 179
+  orig: 284, 275
+  offset: 54, 58
+  index: -1
+ql
+  rotate: false
+  xy: 2, 2
+  size: 1166, 379
+  orig: 1196, 384
+  offset: 14, 2
+  index: -1
+quan2/quan20000
+  rotate: false
+  xy: 2, 938
+  size: 1810, 547
+  orig: 2025, 679
+  offset: 129, 60
+  index: -1
+quan2/quan20005
+  rotate: false
+  xy: 2, 383
+  size: 1777, 553
+  orig: 2025, 679
+  offset: 135, 54
+  index: -1
+quan2/quan20008
+  rotate: false
+  xy: 2, 1487
+  size: 1870, 545
+  orig: 2025, 679
+  offset: 47, 86
+  index: -1
+xian
+  rotate: true
+  xy: 1874, 1672
+  size: 360, 133
+  orig: 360, 221
+  offset: 0, 44
+  index: -1
+
+Caroline_effect2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bullet/1-zd_00031
+  rotate: true
+  xy: 1909, 1147
+  size: 338, 121
+  orig: 415, 131
+  offset: 63, 5
+  index: -1
+dianji/daji0002
+  rotate: true
+  xy: 1733, 144
+  size: 332, 301
+  orig: 465, 383
+  offset: 56, 57
+  index: -1
+dianji/daji0006
+  rotate: false
+  xy: 1611, 1136
+  size: 296, 347
+  orig: 465, 383
+  offset: 93, 19
+  index: -1
+dianji/daji0008
+  rotate: true
+  xy: 1769, 1702
+  size: 288, 274
+  orig: 465, 383
+  offset: 100, 61
+  index: -1
+dianji/daji0010
+  rotate: false
+  xy: 1805, 853
+  size: 239, 281
+  orig: 465, 383
+  offset: 160, 68
+  index: -1
+dianji/daji0012
+  rotate: false
+  xy: 1611, 1036
+  size: 99, 98
+  orig: 465, 383
+  offset: 216, 112
+  index: -1
+dianji2/daji20003
+  rotate: true
+  xy: 1805, 558
+  size: 293, 216
+  orig: 307, 286
+  offset: 4, 28
+  index: -1
+dianji2/daji20013
+  rotate: true
+  xy: 1769, 1487
+  size: 213, 261
+  orig: 307, 286
+  offset: 29, 18
+  index: -1
+quan2/quan20001
+  rotate: false
+  xy: 2, 1485
+  size: 1765, 505
+  orig: 2025, 679
+  offset: 143, 84
+  index: -1
+quan2/quan20003
+  rotate: false
+  xy: 2, 935
+  size: 1607, 548
+  orig: 2025, 679
+  offset: 233, 44
+  index: -1
+quan2/quan20007
+  rotate: false
+  xy: 2, 2
+  size: 1729, 474
+  orig: 2025, 679
+  offset: 157, 99
+  index: -1
+quan2/quan20009
+  rotate: false
+  xy: 2, 478
+  size: 1801, 455
+  orig: 2025, 679
+  offset: 81, 137
+  index: -1
+
+Caroline_effect3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball/ball0018
+  rotate: false
+  xy: 1384, 439
+  size: 230, 230
+  orig: 303, 301
+  offset: 36, 39
+  index: -1
+ball/ball0019
+  rotate: false
+  xy: 487, 218
+  size: 225, 225
+  orig: 303, 301
+  offset: 43, 38
+  index: -1
+ball/ball0020
+  rotate: true
+  xy: 971, 216
+  size: 221, 222
+  orig: 303, 301
+  offset: 46, 39
+  index: -1
+ball/ball0021
+  rotate: true
+  xy: 1575, 1749
+  size: 221, 223
+  orig: 303, 301
+  offset: 46, 39
+  index: -1
+ball/ball0022
+  rotate: false
+  xy: 262, 216
+  size: 221, 223
+  orig: 303, 301
+  offset: 48, 40
+  index: -1
+ball/ball0024
+  rotate: false
+  xy: 1195, 219
+  size: 218, 218
+  orig: 303, 301
+  offset: 49, 42
+  index: -1
+ball/ball0025
+  rotate: false
+  xy: 2, 21
+  size: 218, 218
+  orig: 303, 301
+  offset: 49, 42
+  index: -1
+ball/ball0026
+  rotate: false
+  xy: 2, 450
+  size: 239, 238
+  orig: 303, 301
+  offset: 38, 22
+  index: -1
+ball/ball0027
+  rotate: false
+  xy: 1195, 2
+  size: 218, 215
+  orig: 303, 301
+  offset: 49, 44
+  index: -1
+ball/ball0029
+  rotate: false
+  xy: 548, 672
+  size: 256, 236
+  orig: 303, 301
+  offset: 41, 23
+  index: -1
+ball/ball0030
+  rotate: false
+  xy: 1415, 15
+  size: 220, 216
+  orig: 303, 301
+  offset: 47, 43
+  index: -1
+bullet/1-zd_00029
+  rotate: false
+  xy: 609, 18
+  size: 370, 103
+  orig: 415, 131
+  offset: 31, 15
+  index: -1
+bullet/1-zd_00030
+  rotate: false
+  xy: 222, 21
+  size: 385, 100
+  orig: 415, 131
+  offset: 16, 15
+  index: -1
+ci/ci0000
+  rotate: false
+  xy: 2, 241
+  size: 258, 198
+  orig: 325, 270
+  offset: 3, 39
+  index: -1
+ci/ci0001
+  rotate: false
+  xy: 1616, 233
+  size: 248, 211
+  orig: 325, 270
+  offset: 18, 31
+  index: -1
+ci/ci0002
+  rotate: false
+  xy: 971, 439
+  size: 237, 224
+  orig: 325, 270
+  offset: 33, 26
+  index: -1
+ci/ci0003
+  rotate: false
+  xy: 1384, 671
+  size: 236, 244
+  orig: 325, 270
+  offset: 52, 16
+  index: -1
+ci/ci0004
+  rotate: true
+  xy: 1130, 665
+  size: 250, 252
+  orig: 325, 270
+  offset: 51, 9
+  index: -1
+ci/ci0005
+  rotate: true
+  xy: 243, 441
+  size: 230, 242
+  orig: 325, 270
+  offset: 56, 17
+  index: -1
+ci/ci0006
+  rotate: true
+  xy: 714, 218
+  size: 202, 241
+  orig: 325, 270
+  offset: 83, 17
+  index: -1
+dianji/daji0001
+  rotate: false
+  xy: 1517, 1185
+  size: 252, 254
+  orig: 465, 383
+  offset: 148, 110
+  index: -1
+dianji/daji0003
+  rotate: false
+  xy: 855, 914
+  size: 273, 260
+  orig: 465, 383
+  offset: 126, 90
+  index: -1
+dianji/daji0009
+  rotate: false
+  xy: 919, 1176
+  size: 318, 301
+  orig: 465, 383
+  offset: 58, 55
+  index: -1
+dianji/daji0011
+  rotate: false
+  xy: 583, 1189
+  size: 334, 288
+  orig: 465, 383
+  offset: 14, 70
+  index: -1
+dianji2/daji20001
+  rotate: false
+  xy: 1622, 667
+  size: 232, 248
+  orig: 307, 286
+  offset: 10, 14
+  index: -1
+dianji2/daji20005
+  rotate: false
+  xy: 2, 690
+  size: 283, 218
+  orig: 307, 286
+  offset: 21, 44
+  index: -1
+dianji2/daji20006
+  rotate: true
+  xy: 287, 673
+  size: 235, 259
+  orig: 307, 286
+  offset: 53, 22
+  index: -1
+dianji2/daji20007
+  rotate: false
+  xy: 1616, 446
+  size: 241, 219
+  orig: 307, 286
+  offset: 21, 33
+  index: -1
+dianji2/daji20008
+  rotate: false
+  xy: 1130, 917
+  size: 271, 257
+  orig: 307, 286
+  offset: 29, 7
+  index: -1
+dianji2/daji20010
+  rotate: false
+  xy: 583, 915
+  size: 270, 272
+  orig: 307, 286
+  offset: 18, 5
+  index: -1
+dianji2/daji20012
+  rotate: false
+  xy: 487, 445
+  size: 244, 225
+  orig: 307, 286
+  offset: 17, 5
+  index: -1
+fangshe
+  rotate: false
+  xy: 1575, 1441
+  size: 248, 256
+  orig: 256, 256
+  offset: 2, 0
+  index: -1
+kq/kq0001
+  rotate: true
+  xy: 1771, 1231
+  size: 208, 206
+  orig: 284, 275
+  offset: 40, 44
+  index: -1
+kq/kq0002
+  rotate: false
+  xy: 733, 438
+  size: 236, 232
+  orig: 284, 275
+  offset: 26, 29
+  index: -1
+kq/kq0003
+  rotate: false
+  xy: 806, 672
+  size: 247, 240
+  orig: 284, 275
+  offset: 20, 23
+  index: -1
+kq/kq0004
+  rotate: true
+  xy: 1658, 917
+  size: 258, 246
+  orig: 284, 275
+  offset: 14, 17
+  index: -1
+kq/kq0005
+  rotate: true
+  xy: 1403, 917
+  size: 266, 253
+  orig: 284, 275
+  offset: 9, 12
+  index: -1
+kq/kq0006
+  rotate: false
+  xy: 1239, 1212
+  size: 276, 265
+  orig: 284, 275
+  offset: 3, 5
+  index: -1
+lz
+  rotate: false
+  xy: 2, 910
+  size: 579, 567
+  orig: 616, 636
+  offset: 18, 41
+  index: -1
+quan2/quan20002
+  rotate: false
+  xy: 2, 1479
+  size: 1571, 491
+  orig: 2025, 679
+  offset: 252, 72
+  index: -1
+tw
+  rotate: false
+  xy: 222, 123
+  size: 493, 91
+  orig: 499, 95
+  offset: 4, 2
+  index: -1

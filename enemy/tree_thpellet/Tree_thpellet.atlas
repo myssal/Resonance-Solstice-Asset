@@ -1,0 +1,195 @@
+
+Tree_thpellet.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha1
+  rotate: false
+  xy: 1103, 374
+  size: 127, 127
+  orig: 128, 128
+  offset: 1, 0
+  index: -1
+baozha2
+  rotate: false
+  xy: 1103, 562
+  size: 207, 208
+  orig: 232, 232
+  offset: 10, 14
+  index: -1
+beidian/beidian_0000
+  rotate: true
+  xy: 375, 738
+  size: 369, 362
+  orig: 500, 500
+  offset: 69, 69
+  index: -1
+beidian/beidian_0002
+  rotate: false
+  xy: 2, 1106
+  size: 368, 378
+  orig: 500, 500
+  offset: 68, 69
+  index: -1
+beidian/beidian_0004
+  rotate: false
+  xy: 2, 1486
+  size: 367, 381
+  orig: 500, 500
+  offset: 69, 69
+  index: -1
+beidian/beidian_0006
+  rotate: false
+  xy: 738, 2
+  size: 363, 365
+  orig: 500, 500
+  offset: 68, 67
+  index: -1
+beidian/beidian_0008
+  rotate: true
+  xy: 739, 1502
+  size: 365, 363
+  orig: 500, 500
+  offset: 68, 69
+  index: -1
+beidian/beidian_0010
+  rotate: false
+  xy: 371, 2
+  size: 365, 365
+  orig: 500, 500
+  offset: 67, 67
+  index: -1
+beidian/beidian_0012
+  rotate: true
+  xy: 2, 738
+  size: 366, 368
+  orig: 500, 500
+  offset: 66, 65
+  index: -1
+beidian/beidian_0014
+  rotate: false
+  xy: 2, 2
+  size: 367, 366
+  orig: 500, 500
+  offset: 66, 67
+  index: -1
+beidian/beidian_0016
+  rotate: true
+  xy: 371, 1486
+  size: 367, 366
+  orig: 500, 500
+  offset: 66, 67
+  index: -1
+beidian/beidian_0018
+  rotate: true
+  xy: 2, 370
+  size: 366, 368
+  orig: 500, 500
+  offset: 67, 67
+  index: -1
+beidian/beidian_0020
+  rotate: false
+  xy: 372, 369
+  size: 365, 367
+  orig: 500, 500
+  offset: 67, 67
+  index: -1
+beidian/beidian_0022
+  rotate: false
+  xy: 372, 1119
+  size: 365, 365
+  orig: 500, 500
+  offset: 67, 68
+  index: -1
+beidian/beidian_0024
+  rotate: false
+  xy: 739, 1136
+  size: 363, 364
+  orig: 500, 500
+  offset: 68, 69
+  index: -1
+beidian/beidian_0026
+  rotate: false
+  xy: 739, 374
+  size: 362, 362
+  orig: 500, 500
+  offset: 69, 69
+  index: -1
+beidian/beidian_0028
+  rotate: false
+  xy: 739, 772
+  size: 362, 362
+  orig: 500, 500
+  offset: 69, 69
+  index: -1
+dian
+  rotate: false
+  xy: 1103, 29
+  size: 337, 343
+  orig: 500, 500
+  offset: 81, 79
+  index: -1
+guangquan
+  rotate: false
+  xy: 1312, 644
+  size: 94, 96
+  orig: 120, 120
+  offset: 13, 12
+  index: -1
+guangquan02
+  rotate: false
+  xy: 1103, 772
+  size: 151, 74
+  orig: 500, 500
+  offset: 125, 321
+  index: -1
+guangquan3
+  rotate: false
+  xy: 1310, 374
+  size: 96, 100
+  orig: 120, 120
+  offset: 12, 10
+  index: -1
+heiqiu
+  rotate: false
+  xy: 1364, 742
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+heiqiu_bai
+  rotate: false
+  xy: 1364, 812
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+lei/lei_0000
+  rotate: false
+  xy: 1312, 742
+  size: 50, 170
+  orig: 116, 186
+  offset: 48, 0
+  index: -1
+lei/lei_0001
+  rotate: false
+  xy: 1232, 374
+  size: 76, 165
+  orig: 116, 186
+  offset: 28, 0
+  index: -1
+lei/lei_0003
+  rotate: false
+  xy: 1370, 476
+  size: 55, 165
+  orig: 116, 186
+  offset: 29, 0
+  index: -1
+lei/lei_0004
+  rotate: false
+  xy: 1312, 476
+  size: 56, 166
+  orig: 116, 186
+  offset: 32, 0
+  index: -1

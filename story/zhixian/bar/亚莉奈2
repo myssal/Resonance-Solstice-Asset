@@ -1,0 +1,71 @@
+[文档]
+	标题 = Ep3/3-1战后
+	语言 = 默认
+	版本 = 1
+	日期 = 2023-8-30 14:32:17
+	作者 = 迢迢
+	CRC = 4134975312
+[/文档]
+
+
+[剧本]
+
+	--通用/背景效果/效果-全屏黑
+
+	--1899  //音乐/剧情用/活力
+
+	--通用/背景效果/背景-休息区
+
+	--通用/背景效果/效果-全屏转出
+
+	--713  //剧情spine/亚莉奈/大小175位置3亚莉奈1normal
+
+	--文本
+		文本类型 = GeneralText
+		亚莉奈::距离您上次离开我，只过去了42小时33分钟21秒……
+		CV = Plot/M2/Arina/UI_Plot_Arina_006
+		亚莉奈::而再上一次是72小时22分35秒。
+		CV = Plot/M2/Arina/UI_Plot_Arina_007
+		亚莉奈::再上次是……
+		CV = Plot/M2/Arina/UI_Plot_Arina_008
+	--通用/淡出和明暗/立绘3-spine淡出
+
+	--403  //剧情spine/亚莉奈/位置3亚莉奈1normal
+
+	--1473  //剧情spine/亚莉奈/位置3-null-亚莉奈5upset
+
+	--文本
+		文本类型 = GeneralText
+		亚莉奈::不过，今天您出现在这里，意味着……您还需要那些协议对吗？
+		CV = Plot/M2/Arina/UI_Plot_Arina_009
+		亚莉奈::我知道，我总是能猜中呢。
+		CV = Plot/M2/Arina/UI_Plot_Arina_010
+		亚莉奈::为什么总是很了解列车长的行踪？
+		CV = Plot/M2/Arina/UI_Plot_Arina_011
+	--通用/淡出和明暗/立绘3-spine淡出
+
+	--713  //剧情spine/亚莉奈/大小175位置3亚莉奈1normal
+
+	--文本
+		文本类型 = GeneralText
+		亚莉奈::那当然是我对列车长有着特别的关心……还有一点直觉。
+		CV = Plot/M2/Arina/UI_Plot_Arina_012
+	--716  //剧情spine/亚莉奈/大小175位置3-null-亚莉奈5upset
+
+	--文本
+		文本类型 = GeneralText
+		亚莉奈::虽然每次都能猜中，但有时候我还是会想象，假如有那么一天……列车长只是为了见我而来的……
+		CV = Plot/M2/Arina/UI_Plot_Arina_013
+	--581  //剧情spine/亚莉奈/大小175位置3-null-亚莉奈2smile
+
+	--文本
+		文本类型 = GeneralText
+		亚莉奈::呵呵，不过，即使您只为协议而来，只要能见到您，我也非常乐意。
+		CV = Plot/M2/Arina/UI_Plot_Arina_014
+		亚莉奈::因为您给予的一切，亚莉奈都甘之如饴……
+		CV = Plot/M2/Arina/UI_Plot_Arina_015
+		亚莉奈::这就要离开了吗……在没有见面的日子，请千万、千万不要忘记我的存在……
+		CV = Plot/M2/Arina/UI_Plot_Arina_016
+	--1892  //音乐/音乐淡出
+
+[/剧本]

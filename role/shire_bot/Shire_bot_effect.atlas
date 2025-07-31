@@ -1,0 +1,216 @@
+
+Shire_bot_effect.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball/baici0000
+  rotate: true
+  xy: 203, 1197
+  size: 238, 141
+  orig: 283, 174
+  offset: 7, 22
+  index: -1
+ball/baici0001
+  rotate: true
+  xy: 210, 1437
+  size: 231, 144
+  orig: 283, 174
+  offset: 27, 19
+  index: -1
+ball/baici0002
+  rotate: true
+  xy: 357, 1455
+  size: 213, 144
+  orig: 283, 174
+  offset: 46, 19
+  index: -1
+ball/baici0003
+  rotate: true
+  xy: 201, 974
+  size: 221, 156
+  orig: 283, 174
+  offset: 43, 12
+  index: -1
+ball/baici0004
+  rotate: true
+  xy: 347, 1234
+  size: 201, 154
+  orig: 283, 174
+  offset: 69, 15
+  index: -1
+ball/baici0005
+  rotate: true
+  xy: 369, 1670
+  size: 187, 152
+  orig: 283, 174
+  offset: 87, 15
+  index: -1
+ball/baici0006
+  rotate: false
+  xy: 369, 1910
+  size: 165, 78
+  orig: 283, 174
+  offset: 111, 87
+  index: -1
+ball/ball0000
+  rotate: false
+  xy: 198, 394
+  size: 186, 187
+  orig: 250, 249
+  offset: 32, 31
+  index: -1
+ball/ball0001
+  rotate: false
+  xy: 197, 197
+  size: 188, 189
+  orig: 250, 249
+  offset: 31, 30
+  index: -1
+ball/ball0002
+  rotate: false
+  xy: 195, 2
+  size: 189, 190
+  orig: 250, 249
+  offset: 30, 29
+  index: -1
+ball/ball0003
+  rotate: true
+  xy: 2, 2
+  size: 190, 191
+  orig: 250, 249
+  offset: 30, 29
+  index: -1
+ball/ball0004
+  rotate: true
+  xy: 2, 194
+  size: 192, 193
+  orig: 250, 249
+  offset: 29, 28
+  index: -1
+ball/ball0005
+  rotate: true
+  xy: 2, 388
+  size: 193, 194
+  orig: 250, 249
+  offset: 28, 27
+  index: -1
+ball/ball0006
+  rotate: true
+  xy: 2, 583
+  size: 194, 195
+  orig: 250, 249
+  offset: 28, 27
+  index: -1
+ball/ball0007
+  rotate: true
+  xy: 2, 974
+  size: 196, 197
+  orig: 250, 249
+  offset: 27, 26
+  index: -1
+ball/ball0008
+  rotate: true
+  xy: 2, 1172
+  size: 197, 198
+  orig: 250, 249
+  offset: 26, 25
+  index: -1
+ball/ball0009
+  rotate: true
+  xy: 2, 1371
+  size: 198, 200
+  orig: 250, 249
+  offset: 26, 24
+  index: -1
+ball/ezidan
+  rotate: false
+  xy: 386, 168
+  size: 100, 27
+  orig: 106, 31
+  offset: 4, 2
+  index: -1
+ball/kuosan0000
+  rotate: false
+  xy: 386, 596
+  size: 134, 135
+  orig: 216, 223
+  offset: 45, 44
+  index: -1
+ball/kuosan0001
+  rotate: false
+  xy: 386, 733
+  size: 153, 154
+  orig: 216, 223
+  offset: 35, 34
+  index: -1
+ball/kuosan0002
+  rotate: false
+  xy: 203, 795
+  size: 175, 177
+  orig: 216, 223
+  offset: 23, 23
+  index: -1
+ball/kuosan0003
+  rotate: false
+  xy: 199, 589
+  size: 185, 188
+  orig: 216, 223
+  offset: 17, 17
+  index: -1
+ball/kuosan0004
+  rotate: true
+  xy: 2, 779
+  size: 193, 199
+  orig: 216, 223
+  offset: 12, 12
+  index: -1
+ball/kuosan0005
+  rotate: true
+  xy: 2, 1571
+  size: 199, 207
+  orig: 216, 223
+  offset: 9, 9
+  index: -1
+ball/kuosan0006
+  rotate: false
+  xy: 2, 1772
+  size: 207, 216
+  orig: 216, 223
+  offset: 5, 5
+  index: -1
+ball/qh1
+  rotate: true
+  xy: 360, 1056
+  size: 176, 168
+  orig: 216, 204
+  offset: 20, 18
+  index: -1
+ball/qh2
+  rotate: true
+  xy: 211, 1784
+  size: 204, 156
+  orig: 252, 196
+  offset: 21, 20
+  index: -1
+ball/qh3
+  rotate: true
+  xy: 380, 889
+  size: 165, 155
+  orig: 213, 198
+  offset: 22, 21
+  index: -1
+ball/ym
+  rotate: false
+  xy: 386, 503
+  size: 61, 91
+  orig: 61, 91
+  offset: 0, 0
+  index: -1
+glowbai
+  rotate: false
+  xy: 211, 1674
+  size: 108, 108
+  orig: 228, 203
+  offset: 59, 46
+  index: -1

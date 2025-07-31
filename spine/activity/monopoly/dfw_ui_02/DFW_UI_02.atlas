@@ -1,0 +1,97 @@
+
+DFW_UI_02.png
+size: 512,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_1
+  rotate: true
+  xy: 243, 143
+  size: 145, 225
+  orig: 145, 225
+  offset: 0, 0
+  index: -1
+1_10
+  rotate: false
+  xy: 349, 5
+  size: 59, 81
+  orig: 59, 81
+  offset: 0, 0
+  index: -1
+1_11
+  rotate: false
+  xy: 2, 844
+  size: 445, 201
+  orig: 445, 201
+  offset: 0, 0
+  index: -1
+1_12
+  rotate: 270
+  xy: 2, 143
+  size: 197, 241
+  orig: 197, 241
+  offset: 0, 0
+  index: -1
+1_13
+  rotate: false
+  xy: 2, 1354
+  size: 457, 620
+  orig: 457, 620
+  offset: 0, 0
+  index: -1
+1_2
+  rotate: false
+  xy: 2, 1047
+  size: 450, 305
+  orig: 450, 305
+  offset: 0, 0
+  index: -1
+1_3
+  rotate: 270
+  xy: 324, 628
+  size: 214, 181
+  orig: 214, 181
+  offset: 0, 0
+  index: -1
+1_4
+  rotate: true
+  xy: 191, 4
+  size: 138, 156
+  orig: 138, 156
+  offset: 0, 0
+  index: -1
+1_5
+  rotate: true
+  xy: 122, 290
+  size: 328, 305
+  orig: 328, 305
+  offset: 0, 0
+  index: -1
+1_6
+  rotate: 270
+  xy: 191, 451
+  size: 245, 255
+  orig: 245, 255
+  offset: 0, 0
+  index: -1
+1_7
+  rotate: true
+  xy: 375, 22
+  size: 119, 84
+  orig: 119, 84
+  offset: 0, 0
+  index: -1
+1_8
+  rotate: true
+  xy: 2, 597
+  size: 245, 258
+  orig: 245, 258
+  offset: 0, 0
+  index: -1
+1_9
+  rotate: true
+  xy: 18, 23
+  size: 130, 171
+  orig: 130, 171
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+Komugi_bot01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 256, 4
+  size: 113, 111
+  orig: 128, 128
+  offset: 7, 7
+  index: -1
+dilie
+  rotate: false
+  xy: 4, 49
+  size: 248, 240
+  orig: 256, 256
+  offset: 4, 8
+  index: -1
+dilie03
+  rotate: false
+  xy: 256, 119
+  size: 160, 170
+  orig: 256, 256
+  offset: 49, 44
+  index: -1
+zhadan02
+  rotate: false
+  xy: 373, 9
+  size: 70, 106
+  orig: 70, 106
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,620 @@
+
+Suen_Maid_effect.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+quan1/quan1_29
+  rotate: true
+  xy: 1940, 17
+  size: 173, 86
+  orig: 931, 513
+  offset: 381, 207
+  index: -1
+quan1/quan1_30
+  rotate: false
+  xy: 750, 199
+  size: 248, 126
+  orig: 931, 513
+  offset: 346, 186
+  index: -1
+quan1/quan1_37
+  rotate: false
+  xy: 2, 6
+  size: 746, 319
+  orig: 931, 513
+  offset: 127, 135
+  index: -1
+quan1/quan1_38
+  rotate: false
+  xy: 1069, 858
+  size: 853, 349
+  orig: 931, 513
+  offset: 41, 55
+  index: -1
+quan2/quan2_35
+  rotate: false
+  xy: 1069, 481
+  size: 760, 375
+  orig: 931, 513
+  offset: 90, 60
+  index: -1
+quan2/quan2_36
+  rotate: false
+  xy: 915, 1209
+  size: 826, 413
+  orig: 931, 513
+  offset: 54, 44
+  index: -1
+quan2/quan2_37
+  rotate: false
+  xy: 913, 1624
+  size: 875, 422
+  orig: 931, 513
+  offset: 38, 46
+  index: -1
+quan2/quan2_38
+  rotate: false
+  xy: 2, 1613
+  size: 909, 433
+  orig: 931, 513
+  offset: 16, 25
+  index: -1
+quan2/quan2_39
+  rotate: false
+  xy: 2, 1219
+  size: 911, 392
+  orig: 931, 513
+  offset: 17, 63
+  index: -1
+quan3/quan3_55
+  rotate: true
+  xy: 1790, 1260
+  size: 786, 234
+  orig: 1258, 574
+  offset: 232, 159
+  index: -1
+quan3/quan3_57
+  rotate: false
+  xy: 1069, 192
+  size: 954, 287
+  orig: 1258, 574
+  offset: 146, 134
+  index: -1
+quan3/quan3_58
+  rotate: false
+  xy: 2, 605
+  size: 1020, 296
+  orig: 1258, 574
+  offset: 120, 133
+  index: -1
+quan3/quan3_59
+  rotate: false
+  xy: 2, 903
+  size: 1065, 304
+  orig: 1258, 574
+  offset: 92, 119
+  index: -1
+quan3/quan3_60
+  rotate: false
+  xy: 2, 327
+  size: 1065, 276
+  orig: 1258, 574
+  offset: 98, 145
+  index: -1
+xian1/xian1_31
+  rotate: true
+  xy: 1924, 481
+  size: 708, 115
+  orig: 906, 522
+  offset: 104, 211
+  index: -1
+xian1/xian1_35
+  rotate: true
+  xy: 1831, 530
+  size: 326, 88
+  orig: 906, 522
+  offset: 478, 224
+  index: -1
+xian1_2/xian1_2_28
+  rotate: false
+  xy: 750, 2
+  size: 728, 188
+  orig: 906, 522
+  offset: 92, 85
+  index: -1
+xingguang/xingguang_64
+  rotate: false
+  xy: 1480, 14
+  size: 458, 176
+  orig: 648, 382
+  offset: 92, 105
+  index: -1
+
+Suen_Maid_effect2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: true
+  xy: 1731, 738
+  size: 120, 107
+  orig: 160, 160
+  offset: 20, 22
+  index: -1
+jian1_48
+  rotate: false
+  xy: 2, 102
+  size: 288, 526
+  orig: 488, 749
+  offset: 91, 110
+  index: -1
+jian2_48
+  rotate: false
+  xy: 1731, 277
+  size: 258, 459
+  orig: 488, 749
+  offset: 92, 144
+  index: -1
+nengliang/nengliang_25
+  rotate: false
+  xy: 1470, 1689
+  size: 97, 90
+  orig: 451, 433
+  offset: 150, 108
+  index: -1
+quan1/quan1_31
+  rotate: false
+  xy: 467, 910
+  size: 354, 171
+  orig: 931, 513
+  offset: 291, 164
+  index: -1
+quan1/quan1_33
+  rotate: true
+  xy: 931, 42
+  size: 538, 265
+  orig: 931, 513
+  offset: 201, 118
+  index: -1
+quan1/quan1_34
+  rotate: false
+  xy: 2, 1375
+  size: 627, 305
+  orig: 931, 513
+  offset: 154, 98
+  index: -1
+quan1/quan1_35
+  rotate: false
+  xy: 766, 1687
+  size: 702, 347
+  orig: 931, 513
+  offset: 123, 75
+  index: -1
+quan1/quan1_36
+  rotate: false
+  xy: 2, 1682
+  size: 762, 352
+  orig: 931, 513
+  offset: 87, 90
+  index: -1
+quan1/quan1_39
+  rotate: false
+  xy: 1849, 1503
+  size: 147, 276
+  orig: 931, 513
+  offset: 755, 104
+  index: -1
+quan2/quan2_29
+  rotate: true
+  xy: 631, 1436
+  size: 244, 125
+  orig: 931, 513
+  offset: 345, 186
+  index: -1
+quan2/quan2_32
+  rotate: true
+  xy: 1198, 70
+  size: 510, 253
+  orig: 931, 513
+  offset: 215, 125
+  index: -1
+quan2/quan2_33
+  rotate: false
+  xy: 931, 582
+  size: 606, 295
+  orig: 931, 513
+  offset: 163, 106
+  index: -1
+quan2/quan2_34
+  rotate: false
+  xy: 766, 1345
+  size: 687, 340
+  orig: 931, 513
+  offset: 125, 79
+  index: -1
+quan3/quan3_50
+  rotate: true
+  xy: 1364, 879
+  size: 257, 80
+  orig: 1258, 574
+  offset: 494, 236
+  index: -1
+quan3/quan3_53
+  rotate: false
+  xy: 292, 2
+  size: 572, 173
+  orig: 1258, 574
+  offset: 340, 191
+  index: -1
+quan3/quan3_54
+  rotate: true
+  xy: 1455, 998
+  size: 687, 202
+  orig: 1258, 574
+  offset: 278, 178
+  index: -1
+quan3/quan3_56
+  rotate: false
+  xy: 2, 1083
+  size: 877, 260
+  orig: 1258, 574
+  offset: 186, 146
+  index: -1
+xian1/xian1_34
+  rotate: false
+  xy: 2, 3
+  size: 226, 97
+  orig: 906, 522
+  offset: 583, 219
+  index: -1
+xian1/xian1_36
+  rotate: true
+  xy: 786, 192
+  size: 232, 83
+  orig: 906, 522
+  offset: 557, 236
+  index: -1
+xian1_2/xian1_2_26
+  rotate: true
+  xy: 1539, 277
+  size: 719, 190
+  orig: 906, 522
+  offset: 94, 73
+  index: -1
+xian1_2/xian1_2_27
+  rotate: true
+  xy: 1659, 998
+  size: 725, 188
+  orig: 906, 522
+  offset: 93, 82
+  index: -1
+xian1_2/xian1_2_29
+  rotate: true
+  xy: 1849, 738
+  size: 727, 159
+  orig: 906, 522
+  offset: 94, 109
+  index: -1
+xingguang/xingguang_62
+  rotate: false
+  xy: 1731, 860
+  size: 105, 99
+  orig: 648, 382
+  offset: 269, 144
+  index: -1
+xingguang/xingguang_67
+  rotate: false
+  xy: 292, 177
+  size: 492, 247
+  orig: 648, 382
+  offset: 75, 70
+  index: -1
+xingguang/xingguang_68
+  rotate: false
+  xy: 1470, 1781
+  size: 491, 253
+  orig: 648, 382
+  offset: 75, 67
+  index: -1
+xingguang/xingguang_69
+  rotate: false
+  xy: 1453, 23
+  size: 482, 252
+  orig: 648, 382
+  offset: 80, 67
+  index: -1
+xingguang/xingguang_71
+  rotate: false
+  xy: 292, 489
+  size: 134, 139
+  orig: 648, 382
+  offset: 254, 124
+  index: -1
+zhen2_29
+  rotate: true
+  xy: 2, 630
+  size: 451, 463
+  orig: 536, 513
+  offset: 43, 26
+  index: -1
+zhen3
+  rotate: true
+  xy: 467, 426
+  size: 451, 462
+  orig: 506, 485
+  offset: 28, 12
+  index: -1
+zhen_26
+  rotate: true
+  xy: 881, 879
+  size: 464, 481
+  orig: 590, 579
+  offset: 63, 49
+  index: -1
+
+Suen_Maid_effect3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian_00023
+  rotate: true
+  xy: 1501, 2
+  size: 184, 187
+  orig: 319, 305
+  offset: 68, 56
+  index: -1
+nengliang/nengliang_27
+  rotate: false
+  xy: 573, 67
+  size: 217, 171
+  orig: 451, 433
+  offset: 104, 94
+  index: -1
+nengliang/nengliang_29
+  rotate: false
+  xy: 2, 29
+  size: 229, 209
+  orig: 451, 433
+  offset: 98, 91
+  index: -1
+nengliang/nengliang_31
+  rotate: true
+  xy: 887, 94
+  size: 249, 252
+  orig: 451, 433
+  offset: 98, 75
+  index: -1
+nengliang/nengliang_33
+  rotate: true
+  xy: 1225, 396
+  size: 257, 274
+  orig: 451, 433
+  offset: 87, 72
+  index: -1
+nengliang/nengliang_35
+  rotate: true
+  xy: 1579, 399
+  size: 267, 279
+  orig: 451, 433
+  offset: 90, 72
+  index: -1
+nengliang/nengliang_37
+  rotate: false
+  xy: 1284, 655
+  size: 293, 277
+  orig: 451, 433
+  offset: 81, 74
+  index: -1
+nengliang/nengliang_39
+  rotate: false
+  xy: 2, 587
+  size: 292, 273
+  orig: 451, 433
+  offset: 78, 82
+  index: -1
+nengliang/nengliang_41
+  rotate: false
+  xy: 1579, 668
+  size: 304, 264
+  orig: 451, 433
+  offset: 78, 83
+  index: -1
+nengliang/nengliang_43
+  rotate: false
+  xy: 296, 472
+  size: 306, 254
+  orig: 451, 433
+  offset: 75, 82
+  index: -1
+nengliang/nengliang_45
+  rotate: false
+  xy: 604, 340
+  size: 281, 246
+  orig: 451, 433
+  offset: 77, 79
+  index: -1
+nengliang/nengliang_47
+  rotate: false
+  xy: 887, 345
+  size: 282, 241
+  orig: 451, 433
+  offset: 76, 83
+  index: -1
+quan1/quan1_32
+  rotate: false
+  xy: 727, 1132
+  size: 446, 223
+  orig: 931, 513
+  offset: 246, 136
+  index: -1
+quan2/quan2_30
+  rotate: true
+  xy: 1878, 354
+  size: 312, 166
+  orig: 931, 513
+  offset: 314, 167
+  index: -1
+quan2/quan2_31
+  rotate: false
+  xy: 479, 728
+  size: 427, 206
+  orig: 931, 513
+  offset: 254, 145
+  index: -1
+quan3/quan3_51
+  rotate: false
+  xy: 233, 128
+  size: 338, 110
+  orig: 1258, 574
+  offset: 457, 222
+  index: -1
+quan3/quan3_52
+  rotate: false
+  xy: 2, 332
+  size: 480, 138
+  orig: 1258, 574
+  offset: 386, 206
+  index: -1
+star_04
+  rotate: false
+  xy: 1907, 1378
+  size: 135, 136
+  orig: 206, 210
+  offset: 36, 35
+  index: -1
+xian1/xian1_26
+  rotate: false
+  xy: 491, 1357
+  size: 685, 158
+  orig: 906, 522
+  offset: 98, 199
+  index: -1
+xian1/xian1_27
+  rotate: false
+  xy: 1178, 1208
+  size: 688, 156
+  orig: 906, 522
+  offset: 99, 201
+  index: -1
+xian1/xian1_28
+  rotate: false
+  xy: 1220, 1516
+  size: 703, 154
+  orig: 906, 522
+  offset: 100, 201
+  index: -1
+xian1/xian1_29
+  rotate: false
+  xy: 1175, 1067
+  size: 708, 139
+  orig: 906, 522
+  offset: 102, 206
+  index: -1
+xian1/xian1_30
+  rotate: false
+  xy: 479, 936
+  size: 710, 129
+  orig: 906, 522
+  offset: 102, 210
+  index: -1
+xian1/xian1_32
+  rotate: false
+  xy: 1171, 303
+  size: 705, 91
+  orig: 906, 522
+  offset: 107, 215
+  index: -1
+xian1/xian1_33
+  rotate: false
+  xy: 2, 240
+  size: 705, 90
+  orig: 906, 522
+  offset: 106, 216
+  index: -1
+xian1_2/xian1_2_30
+  rotate: false
+  xy: 491, 1517
+  size: 727, 153
+  orig: 906, 522
+  offset: 94, 114
+  index: -1
+xian1_2/xian1_2_31
+  rotate: false
+  xy: 1178, 1366
+  size: 727, 148
+  orig: 906, 522
+  offset: 94, 119
+  index: -1
+xian1_2/xian1_2_32
+  rotate: false
+  xy: 2, 1211
+  size: 723, 144
+  orig: 906, 522
+  offset: 98, 124
+  index: -1
+xian1_2/xian1_2_33
+  rotate: false
+  xy: 2, 1071
+  size: 720, 138
+  orig: 906, 522
+  offset: 98, 129
+  index: -1
+xian1_2/xian1_2_34
+  rotate: false
+  xy: 1191, 934
+  size: 698, 131
+  orig: 906, 522
+  offset: 103, 130
+  index: -1
+xian1_2/xian1_2_35
+  rotate: false
+  xy: 604, 588
+  size: 619, 121
+  orig: 906, 522
+  offset: 177, 131
+  index: -1
+xian1_2/xian1_2_36
+  rotate: false
+  xy: 1501, 188
+  size: 486, 113
+  orig: 906, 522
+  offset: 306, 135
+  index: -1
+xingguang/xingguang_61
+  rotate: false
+  xy: 1141, 142
+  size: 358, 159
+  orig: 648, 382
+  offset: 142, 114
+  index: -1
+xingguang/xingguang_63
+  rotate: true
+  xy: 1891, 930
+  size: 434, 149
+  orig: 648, 382
+  offset: 104, 119
+  index: -1
+xingguang/xingguang_65
+  rotate: false
+  xy: 2, 862
+  size: 475, 207
+  orig: 648, 382
+  offset: 83, 90
+  index: -1
+xingguang/xingguang_66
+  rotate: false
+  xy: 2, 1437
+  size: 487, 233
+  orig: 648, 382
+  offset: 78, 77
+  index: -1
+xingguang/xingguang_70
+  rotate: false
+  xy: 908, 711
+  size: 374, 221
+  orig: 648, 382
+  offset: 134, 83
+  index: -1

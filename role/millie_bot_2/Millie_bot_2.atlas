@@ -1,0 +1,34 @@
+
+Millie_bot_2.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/e1
+  rotate: false
+  xy: 79, 9
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+image/e2
+  rotate: false
+  xy: 79, 31
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+image/e3
+  rotate: false
+  xy: 2, 3
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+image/movebody
+  rotate: false
+  xy: 2, 74
+  size: 199, 379
+  orig: 199, 386
+  offset: 0, 0
+  index: -1

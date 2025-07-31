@@ -1,0 +1,146 @@
+
+zombie_guard.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gunhua1
+  rotate: true
+  xy: 633, 229
+  size: 220, 296
+  orig: 222, 338
+  offset: 1, 26
+  index: -1
+gunhua2
+  rotate: true
+  xy: 331, 4
+  size: 224, 278
+  orig: 251, 304
+  offset: 18, 22
+  index: -1
+gunhua3
+  rotate: true
+  xy: 331, 230
+  size: 219, 300
+  orig: 253, 330
+  offset: 13, 13
+  index: -1
+heiying
+  rotate: false
+  xy: 2, 198
+  size: 327, 251
+  orig: 334, 264
+  offset: 1, 12
+  index: -1
+tieyu1
+  rotate: false
+  xy: 2, 28
+  size: 184, 168
+  orig: 184, 168
+  offset: 0, 0
+  index: -1
+tieyu10
+  rotate: false
+  xy: 611, 12
+  size: 112, 138
+  orig: 112, 145
+  offset: 0, 0
+  index: -1
+tieyu11
+  rotate: false
+  xy: 957, 25
+  size: 65, 54
+  orig: 67, 56
+  offset: 1, 1
+  index: -1
+tieyu12
+  rotate: 270
+  xy: 4, 9
+  size: 71, 135
+  orig: 71, 135
+  offset: 0, 0
+  index: -1
+tieyu13
+  rotate: false
+  xy: 968, 212
+  size: 50, 47
+  orig: 52, 49
+  offset: 1, 1
+  index: -1
+tieyu14
+  rotate: false
+  xy: 611, 151
+  size: 260, 76
+  orig: 262, 78
+  offset: 1, 1
+  index: -1
+tieyu15
+  rotate: false
+  xy: 126, 156
+  size: 39, 40
+  orig: 41, 42
+  offset: 1, 1
+  index: -1
+tieyu1_guang
+  rotate: false
+  xy: 931, 339
+  size: 66, 110
+  orig: 66, 110
+  offset: 0, 0
+  index: -1
+tieyu2
+  rotate: 270
+  xy: 731, 3
+  size: 90, 102
+  orig: 90, 102
+  offset: 0, 0
+  index: -1
+tieyu3
+  rotate: false
+  xy: 274, 138
+  size: 51, 58
+  orig: 53, 60
+  offset: 1, 1
+  index: -1
+tieyu4
+  rotate: false
+  xy: 931, 261
+  size: 74, 76
+  orig: 74, 76
+  offset: 0, 0
+  index: -1
+tieyu5
+  rotate: false
+  xy: 720, 8
+  size: 170, 141
+  orig: 170, 154
+  offset: 0, 0
+  index: -1
+tieyu6
+  rotate: false
+  xy: 892, 19
+  size: 63, 41
+  orig: 63, 41
+  offset: 0, 0
+  index: -1
+tieyu7
+  rotate: false
+  xy: 931, 238
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+tieyu8
+  rotate: 180
+  xy: 873, 79
+  size: 140, 149
+  orig: 140, 149
+  offset: 0, 0
+  index: -1
+tieyu9
+  rotate: false
+  xy: 174, 36
+  size: 117, 160
+  orig: 117, 160
+  offset: 0, 0
+  index: -1

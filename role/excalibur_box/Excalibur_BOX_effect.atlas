@@ -1,0 +1,334 @@
+
+Excalibur_BOX_effect.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baofa0001
+  rotate: true
+  xy: 1694, 1695
+  size: 338, 334
+  orig: 520, 536
+  offset: 90, 91
+  index: -1
+baofa0004
+  rotate: true
+  xy: 1497, 64
+  size: 457, 458
+  orig: 520, 536
+  offset: 30, 29
+  index: -1
+baofa0005
+  rotate: true
+  xy: 2, 117
+  size: 461, 462
+  orig: 520, 536
+  offset: 28, 27
+  index: -1
+baofa0007
+  rotate: false
+  xy: 1057, 119
+  size: 438, 479
+  orig: 520, 536
+  offset: 68, 51
+  index: -1
+dg10003
+  rotate: false
+  xy: 466, 2
+  size: 984, 115
+  orig: 1234, 161
+  offset: 162, 22
+  index: -1
+dg10006
+  rotate: true
+  xy: 1987, 303
+  size: 737, 45
+  orig: 1234, 161
+  offset: 336, 54
+  index: -1
+dg20001
+  rotate: false
+  xy: 2, 580
+  size: 587, 427
+  orig: 837, 604
+  offset: 202, 33
+  index: -1
+dg20004
+  rotate: true
+  xy: 1694, 1042
+  size: 641, 322
+  orig: 837, 604
+  offset: 38, 239
+  index: -1
+dg30000
+  rotate: false
+  xy: 2, 1512
+  size: 848, 521
+  orig: 918, 527
+  offset: 6, 6
+  index: -1
+dg30001
+  rotate: false
+  xy: 852, 1510
+  size: 840, 523
+  orig: 918, 527
+  offset: 25, 4
+  index: -1
+dg30002
+  rotate: false
+  xy: 2, 1009
+  size: 827, 501
+  orig: 918, 527
+  offset: 42, 4
+  index: -1
+dg30003
+  rotate: false
+  xy: 831, 1042
+  size: 807, 466
+  orig: 918, 527
+  offset: 62, 4
+  index: -1
+dg30004
+  rotate: false
+  xy: 831, 600
+  size: 713, 440
+  orig: 918, 527
+  offset: 144, 4
+  index: -1
+dg30005
+  rotate: true
+  xy: 1546, 523
+  size: 517, 439
+  orig: 918, 527
+  offset: 256, 5
+  index: -1
+hit0005
+  rotate: true
+  xy: 591, 135
+  size: 463, 464
+  orig: 519, 523
+  offset: 28, 31
+  index: -1
+xian0002
+  rotate: true
+  xy: 591, 667
+  size: 340, 175
+  orig: 433, 237
+  offset: 87, 31
+  index: -1
+xian0005
+  rotate: true
+  xy: 466, 119
+  size: 335, 97
+  orig: 433, 237
+  offset: 24, 70
+  index: -1
+xian0006
+  rotate: false
+  xy: 2, 4
+  size: 355, 111
+  orig: 433, 237
+  offset: 5, 63
+  index: -1
+xian0007
+  rotate: false
+  xy: 1452, 15
+  size: 324, 47
+  orig: 433, 237
+  offset: 5, 95
+  index: -1
+
+Excalibur_BOX_effect2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10000
+  rotate: false
+  xy: 2, 335
+  size: 546, 238
+  orig: 618, 243
+  offset: 60, 2
+  index: -1
+10001
+  rotate: false
+  xy: 412, 848
+  size: 582, 238
+  orig: 618, 243
+  offset: 19, 3
+  index: -1
+10002
+  rotate: false
+  xy: 1349, 342
+  size: 560, 214
+  orig: 618, 243
+  offset: 28, 13
+  index: -1
+baofa0000
+  rotate: false
+  xy: 2, 47
+  size: 322, 286
+  orig: 520, 536
+  offset: 116, 113
+  index: -1
+baofa0002
+  rotate: true
+  xy: 1624, 848
+  size: 383, 382
+  orig: 520, 536
+  offset: 67, 67
+  index: -1
+baofa0003
+  rotate: false
+  xy: 1198, 848
+  size: 424, 424
+  orig: 520, 536
+  offset: 46, 46
+  index: -1
+baofa0006
+  rotate: false
+  xy: 885, 1546
+  size: 437, 463
+  orig: 520, 536
+  offset: 55, 45
+  index: -1
+dg10000
+  rotate: false
+  xy: 326, 15
+  size: 863, 104
+  orig: 1234, 161
+  offset: 53, 44
+  index: -1
+dg10001
+  rotate: false
+  xy: 412, 708
+  size: 1069, 138
+  orig: 1234, 161
+  offset: 7, 1
+  index: -1
+dg10002
+  rotate: false
+  xy: 2, 575
+  size: 996, 131
+  orig: 1234, 161
+  offset: 145, 7
+  index: -1
+dg10004
+  rotate: false
+  xy: 550, 228
+  size: 893, 112
+  orig: 1234, 161
+  offset: 248, 17
+  index: -1
+dg10005
+  rotate: false
+  xy: 326, 121
+  size: 866, 105
+  orig: 1234, 161
+  offset: 289, 20
+  index: -1
+dg20000
+  rotate: false
+  xy: 610, 1220
+  size: 586, 314
+  orig: 837, 604
+  offset: 175, 25
+  index: -1
+dg20002
+  rotate: false
+  xy: 455, 1536
+  size: 428, 473
+  orig: 837, 604
+  offset: 373, 75
+  index: -1
+dg20003
+  rotate: false
+  xy: 1324, 1710
+  size: 643, 299
+  orig: 837, 604
+  offset: 69, 278
+  index: -1
+dg20005
+  rotate: false
+  xy: 2, 1230
+  size: 606, 304
+  orig: 837, 604
+  offset: 48, 231
+  index: -1
+dg20006
+  rotate: false
+  xy: 1483, 558
+  size: 465, 288
+  orig: 837, 604
+  offset: 76, 229
+  index: -1
+hit0000
+  rotate: false
+  xy: 1765, 1446
+  size: 244, 262
+  orig: 519, 523
+  offset: 137, 137
+  index: -1
+hit0001
+  rotate: false
+  xy: 1445, 39
+  size: 282, 301
+  orig: 519, 523
+  offset: 120, 115
+  index: -1
+hit0002
+  rotate: false
+  xy: 1000, 352
+  size: 347, 354
+  orig: 519, 523
+  offset: 86, 88
+  index: -1
+hit0003
+  rotate: true
+  xy: 2, 823
+  size: 405, 408
+  orig: 519, 523
+  offset: 57, 58
+  index: -1
+hit0004
+  rotate: false
+  xy: 2, 1552
+  size: 451, 457
+  orig: 519, 523
+  offset: 34, 31
+  index: -1
+hit0006
+  rotate: false
+  xy: 1324, 1274
+  size: 439, 434
+  orig: 519, 523
+  offset: 44, 60
+  index: -1
+xian0000
+  rotate: false
+  xy: 1765, 1255
+  size: 175, 189
+  orig: 433, 237
+  offset: 258, 24
+  index: -1
+xian0001
+  rotate: false
+  xy: 550, 404
+  size: 326, 169
+  orig: 433, 237
+  offset: 107, 34
+  index: -1
+xian0003
+  rotate: true
+  xy: 996, 878
+  size: 340, 158
+  orig: 433, 237
+  offset: 66, 40
+  index: -1
+xian0004
+  rotate: true
+  xy: 1729, 2
+  size: 338, 137
+  orig: 433, 237
+  offset: 45, 50
+  index: -1

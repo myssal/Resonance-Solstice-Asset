@@ -1,0 +1,412 @@
+
+alicejuanerbuou.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anger
+  rotate: true
+  xy: 1441, 1594
+  size: 159, 84
+  orig: 758, 758
+  offset: 381, 272
+  index: -1
+anger2
+  rotate: true
+  xy: 1404, 829
+  size: 159, 93
+  orig: 758, 758
+  offset: 381, 263
+  index: -1
+default
+  rotate: true
+  xy: 1414, 1081
+  size: 159, 85
+  orig: 758, 758
+  offset: 381, 280
+  index: -1
+happy
+  rotate: false
+  xy: 1293, 680
+  size: 161, 111
+  orig: 758, 758
+  offset: 379, 263
+  index: -1
+happy02
+  rotate: false
+  xy: 1291, 449
+  size: 159, 120
+  orig: 758, 758
+  offset: 381, 260
+  index: -1
+happy03
+  rotate: true
+  xy: 1319, 1859
+  size: 159, 97
+  orig: 758, 758
+  offset: 381, 283
+  index: -1
+happy04
+  rotate: true
+  xy: 1407, 1242
+  size: 161, 88
+  orig: 758, 758
+  offset: 379, 286
+  index: -1
+ld
+  rotate: false
+  xy: 762, 2017
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ye2
+  rotate: false
+  xy: 762, 2017
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ze2
+  rotate: false
+  xy: 762, 2017
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nd
+  rotate: false
+  xy: 852, 8
+  size: 269, 214
+  orig: 758, 758
+  offset: 304, 198
+  index: -1
+nd_1
+  rotate: true
+  xy: 1296, 20
+  size: 232, 120
+  orig: 758, 758
+  offset: 331, 323
+  index: -1
+ndb
+  rotate: true
+  xy: 1074, 1351
+  size: 243, 202
+  orig: 758, 758
+  offset: 330, 213
+  index: -1
+ndb_1
+  rotate: true
+  xy: 1416, 1782
+  size: 211, 94
+  orig: 758, 758
+  offset: 341, 349
+  index: -1
+ndsj
+  rotate: true
+  xy: 1039, 914
+  size: 269, 214
+  orig: 758, 758
+  offset: 301, 176
+  index: -1
+sad
+  rotate: true
+  xy: 1317, 1225
+  size: 176, 88
+  orig: 758, 758
+  offset: 368, 277
+  index: -1
+shetou
+  rotate: false
+  xy: 1287, 1809
+  size: 19, 19
+  orig: 758, 758
+  offset: 460, 273
+  index: -1
+sleep
+  rotate: true
+  xy: 1452, 414
+  size: 155, 74
+  orig: 758, 758
+  offset: 382, 254
+  index: -1
+sleep2
+  rotate: true
+  xy: 1450, 177
+  size: 156, 74
+  orig: 758, 758
+  offset: 380, 254
+  index: -1
+speechless
+  rotate: true
+  xy: 1442, 1405
+  size: 171, 76
+  orig: 758, 758
+  offset: 372, 280
+  index: -1
+st1
+  rotate: true
+  xy: 762, 822
+  size: 363, 279
+  orig: 758, 758
+  offset: 217, 149
+  index: -1
+st1_1
+  rotate: true
+  xy: 1094, 222
+  size: 236, 204
+  orig: 758, 758
+  offset: 233, 188
+  index: -1
+st1sj
+  rotate: true
+  xy: 1255, 990
+  size: 199, 157
+  orig: 758, 758
+  offset: 299, 186
+  index: -1
+st2
+  rotate: true
+  xy: 852, 225
+  size: 301, 246
+  orig: 758, 758
+  offset: 194, 153
+  index: -1
+st21
+  rotate: true
+  xy: 762, 1595
+  size: 425, 343
+  orig: 758, 758
+  offset: 101, 117
+  index: -1
+st2b
+  rotate: true
+  xy: 522, 48
+  size: 456, 329
+  orig: 758, 758
+  offset: 98, 133
+  index: -1
+st2b_1
+  rotate: false
+  xy: 1265, 235
+  size: 191, 214
+  orig: 758, 758
+  offset: 320, 187
+  index: -1
+st2b_2
+  rotate: false
+  xy: 2, 1260
+  size: 758, 758
+  orig: 758, 758
+  offset: 0, 0
+  index: -1
+st2sj
+  rotate: true
+  xy: 1106, 1596
+  size: 233, 179
+  orig: 758, 758
+  offset: 223, 181
+  index: -1
+stb2
+  rotate: true
+  xy: 762, 1186
+  size: 410, 313
+  orig: 758, 758
+  offset: 203, 125
+  index: -1
+surprisal
+  rotate: false
+  xy: 1293, 571
+  size: 159, 104
+  orig: 758, 758
+  offset: 381, 277
+  index: -1
+wb
+  rotate: true
+  xy: 2, 97
+  size: 403, 519
+  orig: 758, 758
+  offset: 0, 134
+  index: -1
+wbb
+  rotate: false
+  xy: 2, 500
+  size: 758, 758
+  orig: 758, 758
+  offset: 0, 0
+  index: -1
+wbsj
+  rotate: true
+  xy: 1292, 793
+  size: 195, 110
+  orig: 758, 758
+  offset: 199, 152
+  index: -1
+ye1
+  rotate: true
+  xy: 1066, 682
+  size: 231, 225
+  orig: 758, 758
+  offset: 369, 366
+  index: -1
+yeb
+  rotate: false
+  xy: 1456, 719
+  size: 89, 108
+  orig: 758, 758
+  offset: 340, 374
+  index: -1
+yht1
+  rotate: false
+  xy: 1497, 1308
+  size: 44, 47
+  orig: 758, 758
+  offset: 311, 180
+  index: -1
+yht2
+  rotate: false
+  xy: 1499, 953
+  size: 43, 37
+  orig: 758, 758
+  offset: 310, 203
+  index: -1
+yhtb1
+  rotate: false
+  xy: 1468, 8
+  size: 50, 45
+  orig: 758, 758
+  offset: 242, 181
+  index: -1
+yhtb2
+  rotate: 180
+  xy: 1106, 1830
+  size: 212, 180
+  orig: 758, 758
+  offset: 144, 135
+  index: -1
+yqt1
+  rotate: false
+  xy: 1495, 1873
+  size: 46, 48
+  orig: 758, 758
+  offset: 441, 181
+  index: -1
+yqt2
+  rotate: false
+  xy: 1418, 1987
+  size: 37, 31
+  orig: 758, 758
+  offset: 441, 205
+  index: -1
+yqtb1
+  rotate: false
+  xy: 1497, 1357
+  size: 47, 46
+  orig: 758, 758
+  offset: 382, 181
+  index: -1
+yqtb2
+  rotate: false
+  xy: 1498, 1976
+  size: 45, 42
+  orig: 758, 758
+  offset: 379, 201
+  index: -1
+yqtsj
+  rotate: false
+  xy: 1412, 11
+  size: 54, 42
+  orig: 758, 758
+  offset: 452, 181
+  index: -1
+ze1
+  rotate: false
+  xy: 762, 528
+  size: 306, 297
+  orig: 758, 758
+  offset: 230, 313
+  index: -1
+zeb
+  rotate: true
+  xy: 1414, 992
+  size: 87, 121
+  orig: 758, 758
+  offset: 456, 365
+  index: -1
+zht1
+  rotate: false
+  xy: 1457, 366
+  size: 49, 46
+  orig: 758, 758
+  offset: 242, 180
+  index: -1
+zht2
+  rotate: 270
+  xy: 1123, 3
+  size: 219, 174
+  orig: 758, 758
+  offset: 183, 139
+  index: -1
+zhtb1
+  rotate: false
+  xy: 1497, 1261
+  size: 43, 45
+  orig: 758, 758
+  offset: 315, 181
+  index: -1
+zhtb2
+  rotate: false
+  xy: 1075, 1192
+  size: 241, 160
+  orig: 758, 758
+  offset: 216, 130
+  index: -1
+zhtsj
+  rotate: false
+  xy: 1454, 576
+  size: 95, 102
+  orig: 758, 758
+  offset: 220, 183
+  index: -1
+zqt1
+  rotate: false
+  xy: 1400, 56
+  size: 119, 121
+  orig: 758, 758
+  offset: 333, 141
+  index: -1
+zqt2
+  rotate: true
+  xy: 1287, 1597
+  size: 192, 154
+  orig: 758, 758
+  offset: 286, 144
+  index: -1
+zqt3
+  rotate: true
+  xy: 1278, 1404
+  size: 191, 163
+  orig: 758, 758
+  offset: 293, 134
+  index: -1
+zqtb1
+  rotate: false
+  xy: 1496, 1755
+  size: 46, 48
+  orig: 758, 758
+  offset: 440, 181
+  index: -1
+zqtb2
+  rotate: true
+  xy: 1093, 457
+  size: 223, 199
+  orig: 758, 758
+  offset: 339, 122
+  index: -1
+zqtsj
+  rotate: false
+  xy: 1319, 1811
+  size: 93, 46
+  orig: 758, 758
+  offset: 373, 175
+  index: -1

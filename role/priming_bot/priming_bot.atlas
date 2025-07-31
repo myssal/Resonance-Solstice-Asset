@@ -1,0 +1,97 @@
+
+priming_bot.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dog_erduo01
+  rotate: false
+  xy: 281, 30
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+dog_erduo02
+  rotate: false
+  xy: 269, 14
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+dog_guang
+  rotate: false
+  xy: 2, 2
+  size: 230, 230
+  orig: 240, 237
+  offset: 3, 3
+  index: -1
+dog_houjiaor
+  rotate: false
+  xy: 257, 30
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+dog_houjiaor-1
+  rotate: false
+  xy: 257, 10
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+dog_houjiaor02
+  rotate: false
+  xy: 234, 90
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+dog_qiangjiaol
+  rotate: false
+  xy: 234, 144
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+dog_qiangjiaol02
+  rotate: false
+  xy: 234, 51
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+dog_qiangjiaol03
+  rotate: false
+  xy: 234, 30
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+dog_qianjiaor
+  rotate: false
+  xy: 234, 118
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+dog_qianjiaor02
+  rotate: false
+  xy: 234, 15
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+dog_qianjiaor03
+  rotate: false
+  xy: 234, 66
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+dog_shenti
+  rotate: false
+  xy: 234, 170
+  size: 57, 62
+  orig: 57, 62
+  offset: 0, 0
+  index: -1

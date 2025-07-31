@@ -1,0 +1,125 @@
+
+lint_raccoon.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arml
+  rotate: true
+  xy: 79, 57
+  size: 57, 109
+  orig: 57, 133
+  offset: 0, 24
+  index: -1
+armr
+  rotate: 270
+  xy: 2, 19
+  size: 59, 109
+  orig: 59, 117
+  offset: 0, 8
+  index: -1
+armr2
+  rotate: true
+  xy: 189, 60
+  size: 66, 121
+  orig: 66, 127
+  offset: 0, 6
+  index: -1
+armr3
+  rotate: 270
+  xy: 176, 118
+  size: 79, 136
+  orig: 79, 136
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 181, 392
+  size: 138, 117
+  orig: 138, 117
+  offset: 0, 0
+  index: -1
+dead_35
+  rotate: false
+  xy: 2, 532
+  size: 246, 264
+  orig: 379, 474
+  offset: 64, 94
+  index: -1
+handl
+  rotate: false
+  xy: 166, 11
+  size: 50, 44
+  orig: 52, 46
+  offset: 1, 1
+  index: -1
+handl2
+  rotate: true
+  xy: 254, 3
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1
+handr
+  rotate: false
+  xy: 111, 3
+  size: 53, 52
+  orig: 55, 54
+  offset: 1, 1
+  index: -1
+handr2
+  rotate: false
+  xy: 250, 714
+  size: 66, 72
+  orig: 66, 72
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 381
+  size: 178, 149
+  orig: 178, 149
+  offset: 0, 0
+  index: -1
+legl
+  rotate: true
+  xy: 2, 115
+  size: 92, 152
+  orig: 92, 152
+  offset: 0, 0
+  index: -1
+legr
+  rotate: 270
+  xy: 66, 289
+  size: 106, 157
+  orig: 106, 157
+  offset: 0, 0
+  index: -1
+legr2
+  rotate: 270
+  xy: 84, 183
+  size: 104, 152
+  orig: 104, 152
+  offset: 0, 0
+  index: -1
+qiang
+  rotate: true
+  xy: 250, 532
+  size: 180, 75
+  orig: 182, 77
+  offset: 1, 1
+  index: -1
+qiang2
+  rotate: true
+  xy: 238, 219
+  size: 172, 75
+  orig: 177, 76
+  offset: 4, 0
+  index: -1
+zhen
+  rotate: true
+  xy: 300, 393
+  size: 91, 28
+  orig: 93, 30
+  offset: 1, 1
+  index: -1

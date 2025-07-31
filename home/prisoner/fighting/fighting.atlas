@@ -1,0 +1,104 @@
+
+fighting.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fighting_01
+  rotate: false
+  xy: 457, 161
+  size: 45, 61
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+fighting_02
+  rotate: false
+  xy: 457, 81
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+fighting_03
+  rotate: 270
+  xy: 430, 33
+  size: 40, 61
+  orig: 40, 61
+  offset: 0, 0
+  index: -1
+fighting_04
+  rotate: true
+  xy: 285, 32
+  size: 50, 73
+  orig: 50, 73
+  offset: 0, 0
+  index: -1
+fighting_05
+  rotate: false
+  xy: 457, 121
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+fighting_06
+  rotate: true
+  xy: 2, 25
+  size: 51, 76
+  orig: 51, 76
+  offset: 0, 0
+  index: -1
+fighting_07
+  rotate: false
+  xy: 176, 94
+  size: 170, 128
+  orig: 172, 130
+  offset: 1, 2
+  index: -1
+fighting_08
+  rotate: true
+  xy: 348, 74
+  size: 148, 107
+  orig: 151, 108
+  offset: 1, 1
+  index: -1
+fighting_09
+  rotate: false
+  xy: 2, 77
+  size: 172, 145
+  orig: 177, 147
+  offset: 2, 2
+  index: -1
+fighting_10
+  rotate: true
+  xy: 176, 16
+  size: 76, 107
+  orig: 79, 112
+  offset: 2, 4
+  index: -1
+fighting_11
+  rotate: false
+  xy: 79, 2
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+fighting_12
+  rotate: false
+  xy: 118, 2
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+fighting_13
+  rotate: false
+  xy: 360, 38
+  size: 68, 34
+  orig: 68, 34
+  offset: 0, 0
+  index: -1
+fighting_14
+  rotate: false
+  xy: 79, 41
+  size: 69, 34
+  orig: 69, 34
+  offset: 0, 0
+  index: -1

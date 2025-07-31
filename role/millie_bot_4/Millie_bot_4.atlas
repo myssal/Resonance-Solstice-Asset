@@ -1,0 +1,20 @@
+
+Millie_bot_4.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/bullet
+  rotate: 180
+  xy: 2, 3
+  size: 1570, 551
+  orig: 1570, 551
+  offset: 0, 0
+  index: -1
+image/eyeball1
+  rotate: false
+  xy: 2, 441
+  size: 105, 112
+  orig: 105, 112
+  offset: 0, 0
+  index: -1

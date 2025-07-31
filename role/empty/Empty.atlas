@@ -1,0 +1,13 @@
+
+Empty.png
+size: 16,16
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bag
+  rotate: false
+  xy: 4, 4
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+Raziel_Human_Reader_bot.png
+size: 128,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wuqi2_2
+  rotate: false
+  xy: 4, 4
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+wuqi3
+  rotate: false
+  xy: 4, 170
+  size: 59, 117
+  orig: 59, 117
+  offset: 0, 0
+  index: -1
+wuqi4
+  rotate: false
+  xy: 4, 74
+  size: 59, 92
+  orig: 59, 92
+  offset: 0, 0
+  index: -1

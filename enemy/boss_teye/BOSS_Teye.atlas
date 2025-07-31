@@ -1,0 +1,160 @@
+
+BOSS_Teye.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bei1
+  rotate: false
+  xy: 352, 434
+  size: 244, 259
+  orig: 244, 259
+  offset: 0, 0
+  index: -1
+bei2
+  rotate: false
+  xy: 732, 578
+  size: 241, 115
+  orig: 241, 115
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: 180
+  xy: 1131, 194
+  size: 181, 255
+  orig: 181, 255
+  offset: 0, 0
+  index: -1
+jiao3
+  rotate: true
+  xy: 2, 117
+  size: 396, 557
+  orig: 396, 557
+  offset: 0, 0
+  index: -1
+jiao4
+  rotate: true
+  xy: 2, 3
+  size: 690, 976
+  orig: 690, 976
+  offset: 0, 0
+  index: -1
+shenti1
+  rotate: false
+  xy: 2, 265
+  size: 153, 216
+  orig: 153, 216
+  offset: 0, 0
+  index: -1
+shenti2
+  rotate: true
+  xy: 1083, 28
+  size: 238, 165
+  orig: 238, 165
+  offset: 0, 0
+  index: -1
+tou1
+  rotate: 180
+  xy: 504, 563
+  size: 228, 130
+  orig: 228, 130
+  offset: 0, 0
+  index: -1
+tou2
+  rotate: false
+  xy: 1191, 663
+  size: 157, 195
+  orig: 157, 195
+  offset: 0, 0
+  index: -1
+tou3
+  rotate: false
+  xy: 899, 466
+  size: 280, 182
+  orig: 280, 182
+  offset: 0, 0
+  index: -1
+weiba1
+  rotate: true
+  xy: 1201, 860
+  size: 186, 132
+  orig: 186, 132
+  offset: 0, 0
+  index: -1
+weiba2
+  rotate: false
+  xy: 184, 522
+  size: 159, 171
+  orig: 159, 171
+  offset: 0, 0
+  index: -1
+weiba3
+  rotate: false
+  xy: 728, 358
+  size: 178, 240
+  orig: 178, 240
+  offset: 0, 0
+  index: -1
+weiba4
+  rotate: 180
+  xy: 466, 7
+  size: 248, 183
+  orig: 248, 185
+  offset: 0, 2
+  index: -1
+yan
+  rotate: false
+  xy: 270, 634
+  size: 59, 59
+  orig: 61, 61
+  offset: 1, 1
+  index: -1
+yinying
+  rotate: false
+  xy: 2, 695
+  size: 1187, 415
+  orig: 1189, 421
+  offset: 1, 4
+  index: -1
+youjiao1
+  rotate: false
+  xy: 116, 195
+  size: 94, 169
+  orig: 94, 169
+  offset: 0, 0
+  index: -1
+youjiao2
+  rotate: false
+  xy: 581, 293
+  size: 162, 301
+  orig: 162, 301
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 2, 66
+  size: 467, 186
+  orig: 467, 187
+  offset: 0, 1
+  index: -1
+zuojiao1
+  rotate: false
+  xy: 2, 527
+  size: 83, 126
+  orig: 83, 126
+  offset: 0, 0
+  index: -1
+zuojiao2
+  rotate: 180
+  xy: 1121, 415
+  size: 192, 278
+  orig: 192, 278
+  offset: 0, 0
+  index: -1
+zuojiao3
+  rotate: false
+  xy: 980, 81
+  size: 160, 400
+  orig: 160, 400
+  offset: 0, 0
+  index: -1

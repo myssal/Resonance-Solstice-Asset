@@ -1,0 +1,188 @@
+
+BOSS_DsConor.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baiying
+  rotate: false
+  xy: 2, 2
+  size: 709, 604
+  orig: 712, 703
+  offset: 2, 98
+  index: -1
+daoguang
+  rotate: false
+  xy: 1859, 255
+  size: 187, 177
+  orig: 210, 210
+  offset: 15, 3
+  index: -1
+houqunbai1
+  rotate: true
+  xy: 1066, 54
+  size: 552, 281
+  orig: 552, 281
+  offset: 0, 0
+  index: -1
+houqunbai2
+  rotate: true
+  xy: 1343, 41
+  size: 565, 250
+  orig: 565, 250
+  offset: 0, 0
+  index: -1
+jian
+  rotate: false
+  xy: 1595, 348
+  size: 69, 89
+  orig: 71, 91
+  offset: 1, 1
+  index: -1
+qunbai
+  rotate: false
+  xy: 1595, 324
+  size: 282, 282
+  orig: 282, 282
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1739, 106
+  size: 144, 227
+  orig: 144, 229
+  offset: 0, 2
+  index: -1
+si
+  rotate: true
+  xy: 1468, 80
+  size: 6, 490
+  orig: 6, 490
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 1879, 440
+  size: 159, 166
+  orig: 159, 166
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 1276, 128
+  size: 141, 124
+  orig: 141, 124
+  offset: 0, 0
+  index: -1
+toufa1_guang
+  rotate: false
+  xy: 1556, 157
+  size: 181, 165
+  orig: 181, 165
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 1066, 552
+  size: 53, 55
+  orig: 56, 59
+  offset: 3, 4
+  index: -1
+toufa3
+  rotate: false
+  xy: 1539, 576
+  size: 67, 31
+  orig: 67, 31
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: true
+  xy: 713, 29
+  size: 577, 351
+  orig: 577, 351
+  offset: 0, 0
+  index: -1
+yanpi
+  rotate: false
+  xy: 1098, 584
+  size: 28, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+yougebo
+  rotate: false
+  xy: 1180, 503
+  size: 51, 103
+  orig: 53, 105
+  offset: 1, 1
+  index: -1
+youjiao
+  rotate: false
+  xy: 1066, 364
+  size: 112, 242
+  orig: 112, 242
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: false
+  xy: 1441, 491
+  size: 65, 51
+  orig: 65, 51
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: false
+  xy: 1843, 546
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+youshou3
+  rotate: false
+  xy: 1263, 572
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+youshoubi
+  rotate: false
+  xy: 1147, 411
+  size: 76, 90
+  orig: 76, 90
+  offset: 0, 0
+  index: -1
+zuogebo
+  rotate: false
+  xy: 1321, 476
+  size: 118, 66
+  orig: 120, 68
+  offset: 1, 1
+  index: -1
+zuojiao
+  rotate: false
+  xy: 1869, 59
+  size: 175, 195
+  orig: 175, 206
+  offset: 0, 11
+  index: -1
+zuoshou1
+  rotate: false
+  xy: 1233, 563
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: false
+  xy: 1312, 393
+  size: 90, 82
+  orig: 90, 82
+  offset: 0, 0
+  index: -1
+zuoshoubi
+  rotate: false
+  xy: 1331, 544
+  size: 158, 62
+  orig: 160, 64
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,62 @@
+
+Olivien_bot01.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: 270
+  xy: 78, 67
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 4, 5
+  size: 75, 53
+  orig: 75, 53
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 91, 137
+  size: 61, 46
+  orig: 61, 46
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 4, 183
+  size: 97, 292
+  orig: 97, 292
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 83, 10
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 83, 347
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 4, 110
+  size: 83, 69
+  orig: 83, 70
+  offset: 0, 1
+  index: -1
+8
+  rotate: 180
+  xy: 4, 58
+  size: 82, 48
+  orig: 82, 48
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+ilona_Band_bot.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H_Hjiao02
+  rotate: false
+  xy: 532, 14
+  size: 26, 41
+  orig: 27, 42
+  offset: 1, 1
+  index: -1
+H_Qjiao01
+  rotate: false
+  xy: 456, 27
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+Q_Hjiao02
+  rotate: false
+  xy: 496, 11
+  size: 34, 37
+  orig: 35, 38
+  offset: 1, 1
+  index: -1
+Q_Qjiao01
+  rotate: false
+  xy: 654, 8
+  size: 35, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+gou_bozi01
+  rotate: false
+  xy: 373, 10
+  size: 79, 56
+  orig: 79, 56
+  offset: 0, 0
+  index: -1
+gou_bozi02
+  rotate: false
+  xy: 182, 7
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+gou_shenti
+  rotate: true
+  xy: 182, 30
+  size: 150, 98
+  orig: 151, 150
+  offset: 1, 17
+  index: -1
+gou_tou
+  rotate: true
+  xy: 464, 65
+  size: 114, 111
+  orig: 114, 114
+  offset: 0, 3
+  index: -1
+gou_tou2
+  rotate: 180
+  xy: 564, 19
+  size: 114, 111
+  orig: 114, 114
+  offset: 0, 3
+  index: -1
+gou_tou3
+  rotate: false
+  xy: 646, 68
+  size: 114, 111
+  orig: 114, 114
+  offset: 0, 3
+  index: -1
+gou_tou_1
+  rotate: false
+  xy: 244, 5
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+gou_tou_2
+  rotate: false
+  xy: 221, 7
+  size: 19, 21
+  orig: 19, 22
+  offset: 0, 1
+  index: -1
+gou_tou_3
+  rotate: false
+  xy: 691, 7
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+heiying_gou
+  rotate: false
+  xy: 4, 19
+  size: 174, 160
+  orig: 174, 160
+  offset: 0, 0
+  index: -1
+lingjian
+  rotate: true
+  xy: 276, 4
+  size: 61, 67
+  orig: 61, 67
+  offset: 0, 0
+  index: -1
+wuqi1
+  rotate: true
+  xy: 282, 69
+  size: 110, 87
+  orig: 110, 87
+  offset: 0, 0
+  index: -1
+wuqi2
+  rotate: true
+  xy: 373, 70
+  size: 109, 87
+  orig: 109, 87
+  offset: 0, 0
+  index: -1

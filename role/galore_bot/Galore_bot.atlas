@@ -1,0 +1,132 @@
+
+Galore_bot.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JN01_bao/JN01_bao_00000
+  rotate: true
+  xy: 1225, 86
+  size: 114, 262
+  orig: 240, 391
+  offset: 69, 24
+  index: -1
+JN01_bao/JN01_bao_00001
+  rotate: true
+  xy: 661, 31
+  size: 178, 319
+  orig: 240, 391
+  offset: 31, 39
+  index: -1
+JN01_bao/JN01_bao_00002
+  rotate: true
+  xy: 2, 29
+  size: 179, 277
+  orig: 240, 391
+  offset: 30, 82
+  index: -1
+JN01_bao/JN01_bao_00003
+  rotate: true
+  xy: 281, 27
+  size: 179, 258
+  orig: 240, 391
+  offset: 30, 106
+  index: -1
+JN01_bao/JN01_bao_00004
+  rotate: true
+  xy: 982, 20
+  size: 180, 241
+  orig: 240, 391
+  offset: 30, 124
+  index: -1
+JN02_dian01/JN02_dian01_00000
+  rotate: true
+  xy: 1476, 204
+  size: 266, 296
+  orig: 500, 500
+  offset: 136, 111
+  index: -1
+JN02_dian01/JN02_dian01_00002
+  rotate: false
+  xy: 2, 210
+  size: 334, 265
+  orig: 500, 500
+  offset: 95, 122
+  index: -1
+JN02_dian01/JN02_dian01_00004
+  rotate: false
+  xy: 661, 211
+  size: 316, 241
+  orig: 500, 500
+  offset: 93, 129
+  index: -1
+JN02_dian01/JN02_dian01_00006
+  rotate: false
+  xy: 338, 208
+  size: 321, 264
+  orig: 500, 500
+  offset: 100, 125
+  index: -1
+JN02_dian01/JN02_dian01_00008
+  rotate: true
+  xy: 1144, 202
+  size: 261, 281
+  orig: 500, 500
+  offset: 138, 102
+  index: -1
+JN02_dian02/JN02_dian02_00001
+  rotate: true
+  xy: 800, 454
+  size: 320, 342
+  orig: 500, 500
+  offset: 43, 80
+  index: -1
+JN02_dian02/JN02_dian02_00003
+  rotate: false
+  xy: 2, 477
+  size: 404, 297
+  orig: 500, 500
+  offset: 34, 99
+  index: -1
+JN02_dian02/JN02_dian02_00005
+  rotate: false
+  xy: 408, 474
+  size: 390, 300
+  orig: 500, 500
+  offset: 58, 121
+  index: -1
+JN02_dian02/JN02_dian02_00007
+  rotate: false
+  xy: 1476, 472
+  size: 333, 302
+  orig: 500, 500
+  offset: 58, 106
+  index: -1
+JN02_dian02/JN02_dian02_00008
+  rotate: true
+  xy: 1144, 465
+  size: 309, 330
+  orig: 500, 500
+  offset: 71, 70
+  index: -1
+JN03_pai
+  rotate: false
+  xy: 541, 82
+  size: 34, 124
+  orig: 113, 154
+  offset: 43, 15
+  index: -1
+dianguang
+  rotate: true
+  xy: 1774, 2
+  size: 208, 214
+  orig: 250, 250
+  offset: 21, 18
+  index: -1
+qiqiuren
+  rotate: false
+  xy: 1774, 212
+  size: 221, 258
+  orig: 244, 275
+  offset: 12, 11
+  index: -1

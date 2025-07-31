@@ -1,0 +1,418 @@
+
+Karen_effect.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg/gb_00064
+  rotate: false
+  xy: 592, 4
+  size: 254, 253
+  orig: 299, 302
+  offset: 23, 25
+  index: -1
+bg/gb_00066
+  rotate: false
+  xy: 819, 259
+  size: 294, 294
+  orig: 299, 302
+  offset: 3, 5
+  index: -1
+bg/gb_00067
+  rotate: false
+  xy: 2, 354
+  size: 298, 298
+  orig: 299, 302
+  offset: 1, 3
+  index: -1
+bg/gb_00068
+  rotate: false
+  xy: 1672, 391
+  size: 299, 299
+  orig: 299, 302
+  offset: 0, 2
+  index: -1
+bg/gb_00069
+  rotate: false
+  xy: 1115, 2
+  size: 262, 261
+  orig: 299, 302
+  offset: 18, 21
+  index: -1
+bullet
+  rotate: false
+  xy: 1558, 444
+  size: 109, 109
+  orig: 118, 118
+  offset: 5, 4
+  index: -1
+card
+  rotate: false
+  xy: 302, 450
+  size: 71, 97
+  orig: 73, 102
+  offset: 1, 3
+  index: -1
+card2
+  rotate: false
+  xy: 302, 549
+  size: 75, 103
+  orig: 80, 109
+  offset: 2, 3
+  index: -1
+card3
+  rotate: false
+  xy: 1379, 9
+  size: 61, 89
+  orig: 61, 89
+  offset: 0, 0
+  index: -1
+fire/fire0000
+  rotate: false
+  xy: 1481, 1083
+  size: 389, 401
+  orig: 438, 443
+  offset: 15, 21
+  index: -1
+fire/fire0001
+  rotate: true
+  xy: 2, 1033
+  size: 389, 401
+  orig: 438, 443
+  offset: 15, 21
+  index: -1
+fire/fire0002
+  rotate: false
+  xy: 673, 1083
+  size: 402, 401
+  orig: 438, 443
+  offset: 15, 21
+  index: -1
+fire/fire0003
+  rotate: false
+  xy: 1077, 1083
+  size: 402, 401
+  orig: 438, 443
+  offset: 15, 21
+  index: -1
+fire/fire0004
+  rotate: true
+  xy: 1232, 1486
+  size: 422, 401
+  orig: 438, 443
+  offset: 15, 21
+  index: -1
+fire/fire0005
+  rotate: true
+  xy: 1635, 1486
+  size: 422, 401
+  orig: 438, 443
+  offset: 15, 21
+  index: -1
+fire/fire0006
+  rotate: true
+  xy: 404, 692
+  size: 389, 401
+  orig: 438, 443
+  offset: 15, 21
+  index: -1
+fire/fire0007
+  rotate: true
+  xy: 808, 692
+  size: 389, 401
+  orig: 438, 443
+  offset: 15, 21
+  index: -1
+fire/fire0008
+  rotate: true
+  xy: 1211, 692
+  size: 383, 391
+  orig: 438, 443
+  offset: 18, 26
+  index: -1
+fire/fire0009
+  rotate: true
+  xy: 1604, 692
+  size: 383, 391
+  orig: 438, 443
+  offset: 18, 26
+  index: -1
+fire/fire0010
+  rotate: true
+  xy: 2, 654
+  size: 377, 383
+  orig: 438, 443
+  offset: 21, 30
+  index: -1
+glow_00012
+  rotate: false
+  xy: 848, 65
+  size: 230, 192
+  orig: 278, 235
+  offset: 24, 18
+  index: -1
+guang
+  rotate: false
+  xy: 2, 1424
+  size: 669, 619
+  orig: 745, 678
+  offset: 33, 29
+  index: -1
+gy
+  rotate: true
+  xy: 819, 555
+  size: 135, 851
+  orig: 136, 852
+  offset: 1, 0
+  index: -1
+hk/hk0000
+  rotate: false
+  xy: 458, 1106
+  size: 32, 30
+  orig: 234, 230
+  offset: 100, 93
+  index: -1
+hk/hk0001
+  rotate: false
+  xy: 292, 5
+  size: 90, 82
+  orig: 234, 230
+  offset: 72, 69
+  index: -1
+hk/hk0002
+  rotate: true
+  xy: 713, 265
+  size: 108, 98
+  orig: 234, 230
+  offset: 63, 62
+  index: -1
+hk/hk0003
+  rotate: false
+  xy: 592, 262
+  size: 119, 111
+  orig: 234, 230
+  offset: 58, 56
+  index: -1
+hk/hk0005
+  rotate: false
+  xy: 1888, 1916
+  size: 136, 127
+  orig: 234, 230
+  offset: 49, 49
+  index: -1
+hk/hk0011
+  rotate: false
+  xy: 1399, 401
+  size: 157, 152
+  orig: 234, 230
+  offset: 38, 38
+  index: -1
+hk/hk0012
+  rotate: false
+  xy: 1872, 1173
+  size: 159, 154
+  orig: 234, 230
+  offset: 37, 37
+  index: -1
+hk/hk0013
+  rotate: false
+  xy: 1872, 1329
+  size: 159, 155
+  orig: 234, 230
+  offset: 37, 37
+  index: -1
+kquan/kq0000
+  rotate: true
+  xy: 302, 89
+  size: 284, 288
+  orig: 292, 291
+  offset: 4, 1
+  index: -1
+kquan/kq0008
+  rotate: true
+  xy: 2, 68
+  size: 284, 288
+  orig: 292, 291
+  offset: 2, 2
+  index: -1
+kquan/kq0009
+  rotate: false
+  xy: 1115, 265
+  size: 282, 288
+  orig: 292, 291
+  offset: 2, 2
+  index: -1
+kquan/kq0010
+  rotate: false
+  xy: 1399, 100
+  size: 279, 289
+  orig: 292, 291
+  offset: 2, 1
+  index: -1
+kquan/kq0011
+  rotate: false
+  xy: 1680, 100
+  size: 274, 289
+  orig: 292, 291
+  offset: 2, 1
+  index: -1
+kquan/kq0014
+  rotate: false
+  xy: 405, 1138
+  size: 256, 284
+  orig: 292, 291
+  offset: 4, 5
+  index: -1
+pp/pp0000
+  rotate: false
+  xy: 384, 3
+  size: 85, 84
+  orig: 107, 109
+  offset: 11, 12
+  index: -1
+pp/pp0001
+  rotate: false
+  xy: 1872, 1082
+  size: 86, 89
+  orig: 107, 109
+  offset: 11, 10
+  index: -1
+pp/pp0002
+  rotate: false
+  xy: 471, 4
+  size: 84, 83
+  orig: 107, 109
+  offset: 13, 13
+  index: -1
+pp/pp0003
+  rotate: true
+  xy: 1960, 1090
+  size: 81, 78
+  orig: 107, 109
+  offset: 14, 16
+  index: -1
+pp/pp0004
+  rotate: false
+  xy: 302, 383
+  size: 69, 65
+  orig: 107, 109
+  offset: 21, 23
+  index: -1
+pp/pp0005
+  rotate: false
+  xy: 405, 1083
+  size: 51, 44
+  orig: 107, 109
+  offset: 30, 33
+  index: -1
+rainbow
+  rotate: false
+  xy: 387, 375
+  size: 430, 315
+  orig: 500, 500
+  offset: 36, 93
+  index: -1
+rainbowbig
+  rotate: false
+  xy: 673, 1486
+  size: 557, 557
+  orig: 631, 631
+  offset: 37, 37
+  index: -1
+tw
+  rotate: false
+  xy: 1232, 1976
+  size: 654, 67
+  orig: 661, 67
+  offset: 5, 0
+  index: -1
+
+Karen_effect2.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg/gb_00065
+  rotate: false
+  xy: 820, 130
+  size: 274, 274
+  orig: 299, 302
+  offset: 13, 15
+  index: -1
+bg/gb_00070
+  rotate: true
+  xy: 1368, 138
+  size: 266, 265
+  orig: 299, 302
+  offset: 16, 19
+  index: -1
+bg/gb_00071
+  rotate: true
+  xy: 1096, 133
+  size: 271, 270
+  orig: 299, 302
+  offset: 13, 17
+  index: -1
+bg/gb_00072
+  rotate: false
+  xy: 543, 129
+  size: 275, 275
+  orig: 299, 302
+  offset: 12, 14
+  index: -1
+hk/hk0004
+  rotate: false
+  xy: 543, 7
+  size: 128, 120
+  orig: 234, 230
+  offset: 53, 52
+  index: -1
+hk/hk0006
+  rotate: false
+  xy: 1368, 2
+  size: 142, 134
+  orig: 234, 230
+  offset: 46, 46
+  index: -1
+hk/hk0007
+  rotate: true
+  xy: 1790, 101
+  size: 146, 139
+  orig: 234, 230
+  offset: 44, 44
+  index: -1
+hk/hk0008
+  rotate: true
+  xy: 1787, 249
+  size: 150, 143
+  orig: 234, 230
+  offset: 42, 42
+  index: -1
+hk/hk0009
+  rotate: false
+  xy: 1635, 100
+  size: 153, 147
+  orig: 234, 230
+  offset: 40, 40
+  index: -1
+hk/hk0010
+  rotate: true
+  xy: 1635, 249
+  size: 155, 150
+  orig: 234, 230
+  offset: 39, 39
+  index: -1
+kquan/kq0012
+  rotate: false
+  xy: 2, 116
+  size: 270, 288
+  orig: 292, 291
+  offset: 2, 2
+  index: -1
+kquan/kq0013
+  rotate: false
+  xy: 274, 116
+  size: 267, 288
+  orig: 292, 291
+  offset: 2, 2
+  index: -1

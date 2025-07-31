@@ -1,0 +1,286 @@
+
+Tara.png
+size: 256,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Y_shou01
+  rotate: false
+  xy: 131, 688
+  size: 29, 28
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Y_shou02
+  rotate: false
+  xy: 2, 162
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+Y_shou03
+  rotate: true
+  xy: 2, 82
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+Y_shou04
+  rotate: true
+  xy: 86, 146
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+Y_shou05
+  rotate: true
+  xy: 103, 57
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+Z_shou02
+  rotate: true
+  xy: 103, 57
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+Z_shou01
+  rotate: false
+  xy: 100, 4
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Z_shou03
+  rotate: true
+  xy: 2, 47
+  size: 33, 37
+  orig: 33, 39
+  offset: 0, 1
+  index: -1
+add2
+  rotate: true
+  xy: 58, 118
+  size: 40, 89
+  orig: 40, 89
+  offset: 0, 0
+  index: -1
+add3
+  rotate: true
+  xy: 13, 33
+  size: 17, 86
+  orig: 17, 86
+  offset: 0, 0
+  index: -1
+add5
+  rotate: false
+  xy: 46, 13
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+add6
+  rotate: false
+  xy: 135, 166
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+arm1
+  rotate: false
+  xy: 123, 398
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+arm2
+  rotate: 180
+  xy: 104, 183
+  size: 52, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: -1
+arm4
+  rotate: 270
+  xy: 63, 3
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+arm5
+  rotate: false
+  xy: 38, 146
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+backhair
+  rotate: 180
+  xy: 62, 230
+  size: 89, 57
+  orig: 89, 57
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 23, 358
+  size: 87, 98
+  orig: 87, 98
+  offset: 0, 0
+  index: -1
+brow_fight
+  rotate: true
+  xy: 149, 118
+  size: 46, 11
+  orig: 46, 11
+  offset: 0, 0
+  index: -1
+brow_hurt
+  rotate: true
+  xy: 156, 6
+  size: 45, 7
+  orig: 46, 7
+  offset: 1, 0
+  index: -1
+brow_normal
+  rotate: true
+  xy: 153, 216
+  size: 52, 7
+  orig: 52, 7
+  offset: 0, 0
+  index: -1
+cap
+  rotate: false
+  xy: 2, 631
+  size: 127, 86
+  orig: 127, 86
+  offset: 0, 0
+  index: -1
+daizi1
+  rotate: false
+  xy: 106, 31
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+daizi2
+  rotate: false
+  xy: 2, 9
+  size: 42, 22
+  orig: 42, 22
+  offset: 0, 0
+  index: -1
+daizi3
+  rotate: false
+  xy: 127, 7
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+dead
+  rotate: false
+  xy: 2, 719
+  size: 152, 215
+  orig: 152, 215
+  offset: 0, 0
+  index: -1
+face09
+  rotate: false
+  xy: 144, 72
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+face1
+  rotate: true
+  xy: 131, 625
+  size: 61, 33
+  orig: 61, 33
+  offset: 0, 0
+  index: -1
+face2
+  rotate: false
+  xy: 56, 87
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+face3
+  rotate: false
+  xy: 2, 114
+  size: 52, 30
+  orig: 52, 30
+  offset: 0, 0
+  index: -1
+face4
+  rotate: true
+  xy: 144, 540
+  size: 65, 20
+  orig: 65, 20
+  offset: 0, 0
+  index: -1
+face5
+  rotate: true
+  xy: 2, 213
+  size: 61, 37
+  orig: 61, 37
+  offset: 0, 0
+  index: -1
+face6
+  rotate: false
+  xy: 41, 192
+  size: 61, 36
+  orig: 61, 36
+  offset: 0, 0
+  index: -1
+face8
+  rotate: false
+  xy: 103, 92
+  size: 61, 24
+  orig: 61, 24
+  offset: 0, 0
+  index: -1
+fronthair
+  rotate: false
+  xy: 2, 530
+  size: 140, 99
+  orig: 140, 99
+  offset: 0, 0
+  index: -1
+fronthair(2)
+  rotate: 270
+  xy: 2, 276
+  size: 87, 107
+  orig: 87, 107
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 443
+  size: 88, 85
+  orig: 97, 85
+  offset: 0, 0
+  index: -1
+ka_06
+  rotate: true
+  xy: 51, 56
+  size: 29, 44
+  orig: 37, 50
+  offset: 4, 3
+  index: -1
+leg1
+  rotate: 180
+  xy: 115, 431
+  size: 39, 107
+  orig: 39, 107
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: false
+  xy: 123, 289
+  size: 37, 107
+  orig: 37, 107
+  offset: 0, 0
+  index: -1

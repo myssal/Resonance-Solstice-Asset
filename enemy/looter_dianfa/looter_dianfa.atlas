@@ -1,0 +1,195 @@
+
+looter_dianfa.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+face
+  rotate: true
+  xy: 414, 209
+  size: 175, 143
+  orig: 175, 143
+  offset: 0, 0
+  index: -1
+feetl
+  rotate: false
+  xy: 786, 254
+  size: 107, 130
+  orig: 107, 130
+  offset: 0, 0
+  index: -1
+feetr
+  rotate: false
+  xy: 669, 111
+  size: 88, 147
+  orig: 88, 147
+  offset: 0, 0
+  index: -1
+handl
+  rotate: false
+  xy: 945, 6
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1
+handl01
+  rotate: true
+  xy: 171, 28
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+handl02
+  rotate: false
+  xy: 5, 27
+  size: 78, 73
+  orig: 78, 73
+  offset: 0, 0
+  index: -1
+handr
+  rotate: false
+  xy: 247, 28
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+handr02
+  rotate: false
+  xy: 866, 91
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+handr03
+  rotate: true
+  xy: 897, 266
+  size: 118, 108
+  orig: 118, 108
+  offset: 0, 0
+  index: -1
+handr04
+  rotate: false
+  xy: 460, 28
+  size: 94, 78
+  orig: 94, 78
+  offset: 0, 0
+  index: -1
+handr05
+  rotate: true
+  xy: 758, 6
+  size: 67, 69
+  orig: 67, 69
+  offset: 0, 0
+  index: -1
+handr06
+  rotate: true
+  xy: 87, 33
+  size: 67, 80
+  orig: 67, 80
+  offset: 0, 0
+  index: -1
+handr07
+  rotate: false
+  xy: 934, 171
+  size: 84, 91
+  orig: 84, 91
+  offset: 0, 0
+  index: -1
+handr08
+  rotate: false
+  xy: 669, 39
+  size: 85, 68
+  orig: 85, 68
+  offset: 0, 0
+  index: -1
+handr09
+  rotate: true
+  xy: 558, 29
+  size: 76, 91
+  orig: 76, 91
+  offset: 0, 0
+  index: -1
+heiying
+  rotate: false
+  xy: 5, 104
+  size: 237, 280
+  orig: 237, 280
+  offset: 0, 0
+  index: -1
+k
+  rotate: false
+  xy: 543, 109
+  size: 122, 104
+  orig: 122, 104
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 246, 194
+  size: 164, 191
+  orig: 164, 191
+  offset: 0, 0
+  index: -1
+yht
+  rotate: true
+  xy: 367, 37
+  size: 83, 89
+  orig: 83, 89
+  offset: 0, 0
+  index: -1
+ysb
+  rotate: false
+  xy: 670, 262
+  size: 112, 122
+  orig: 112, 122
+  offset: 0, 0
+  index: -1
+yst
+  rotate: true
+  xy: 397, 124
+  size: 81, 127
+  orig: 81, 127
+  offset: 0, 0
+  index: -1
+yxb
+  rotate: false
+  xy: 561, 245
+  size: 105, 139
+  orig: 105, 139
+  offset: 0, 0
+  index: -1
+zht
+  rotate: false
+  xy: 934, 78
+  size: 85, 89
+  orig: 85, 89
+  offset: 0, 0
+  index: -1
+zhw
+  rotate: true
+  xy: 866, 9
+  size: 65, 75
+  orig: 65, 75
+  offset: 0, 0
+  index: -1
+zsb
+  rotate: true
+  xy: 761, 77
+  size: 75, 101
+  orig: 75, 101
+  offset: 0, 0
+  index: -1
+zst
+  rotate: true
+  xy: 790, 156
+  size: 94, 140
+  orig: 94, 140
+  offset: 0, 0
+  index: -1
+zxb
+  rotate: true
+  xy: 246, 103
+  size: 87, 117
+  orig: 87, 117
+  offset: 0, 0
+  index: -1

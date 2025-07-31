@@ -1,0 +1,76 @@
+
+Tree_zhaomo.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+benti1
+  rotate: false
+  xy: 826, 88
+  size: 190, 258
+  orig: 190, 258
+  offset: 0, 0
+  index: -1
+benti2
+  rotate: false
+  xy: 225, 15
+  size: 108, 102
+  orig: 108, 102
+  offset: 0, 0
+  index: -1
+benti3
+  rotate: true
+  xy: 577, 218
+  size: 209, 315
+  orig: 209, 315
+  offset: 0, 0
+  index: -1
+benti4
+  rotate: false
+  xy: 4, 4
+  size: 287, 146
+  orig: 287, 146
+  offset: 0, 0
+  index: -1
+benti5
+  rotate: false
+  xy: 337, 100
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+benti6
+  rotate: 270
+  xy: 577, 27
+  size: 197, 247
+  orig: 197, 247
+  offset: 0, 0
+  index: -1
+dead
+  rotate: false
+  xy: 4, 154
+  size: 569, 273
+  orig: 569, 273
+  offset: 0, 0
+  index: -1
+duye1
+  rotate: false
+  xy: 183, 9
+  size: 19, 57
+  orig: 19, 57
+  offset: 0, 0
+  index: -1
+duye2
+  rotate: false
+  xy: 419, 31
+  size: 28, 93
+  orig: 28, 93
+  offset: 0, 0
+  index: -1
+duye3
+  rotate: false
+  xy: 386, 5
+  size: 29, 100
+  orig: 29, 100
+  offset: 0, 0
+  index: -1

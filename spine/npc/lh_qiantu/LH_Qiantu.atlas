@@ -1,0 +1,153 @@
+
+LH_Qiantu.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Y_s01
+  rotate: 270
+  xy: 1156, 7
+  size: 106, 107
+  orig: 106, 107
+  offset: 0, 0
+  index: -1
+Y_s02
+  rotate: false
+  xy: 1036, 45
+  size: 129, 172
+  orig: 129, 172
+  offset: 0, 0
+  index: -1
+Y_s03
+  rotate: true
+  xy: 1005, 218
+  size: 224, 200
+  orig: 224, 201
+  offset: 0, 0
+  index: -1
+Z_s01
+  rotate: false
+  xy: 805, 218
+  size: 198, 240
+  orig: 206, 240
+  offset: 0, 0
+  index: -1
+Z_s02
+  rotate: true
+  xy: 805, 14
+  size: 202, 229
+  orig: 209, 230
+  offset: 0, 0
+  index: -1
+erduo01
+  rotate: true
+  xy: 2, 654
+  size: 153, 74
+  orig: 153, 74
+  offset: 0, 0
+  index: -1
+erduo02
+  rotate: false
+  xy: 2, 8
+  size: 169, 103
+  orig: 169, 103
+  offset: 0, 0
+  index: -1
+erduo03
+  rotate: false
+  xy: 1016, 444
+  size: 168, 145
+  orig: 168, 145
+  offset: 0, 0
+  index: -1
+erji01
+  rotate: false
+  xy: 2, 257
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+erji02
+  rotate: false
+  xy: 2, 527
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+erji03
+  rotate: false
+  xy: 2, 592
+  size: 53, 60
+  orig: 53, 60
+  offset: 0, 0
+  index: -1
+erji04
+  rotate: false
+  xy: 2, 133
+  size: 41, 55
+  orig: 41, 55
+  offset: 0, 0
+  index: -1
+erji05
+  rotate: false
+  xy: 2, 190
+  size: 40, 64
+  orig: 40, 64
+  offset: 0, 0
+  index: -1
+erji06
+  rotate: false
+  xy: 77, 705
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+jian
+  rotate: false
+  xy: 967, 670
+  size: 210, 137
+  orig: 210, 140
+  offset: 0, 2
+  index: -1
+koudai
+  rotate: true
+  xy: 1066, 527
+  size: 142, 185
+  orig: 142, 185
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 621, 461
+  size: 393, 290
+  orig: 393, 290
+  offset: 0, 0
+  index: -1
+tui
+  rotate: false
+  xy: 562, 57
+  size: 241, 407
+  orig: 241, 407
+  offset: 0, 0
+  index: -1
+waitao
+  rotate: false
+  xy: 2, 3
+  size: 680, 805
+  orig: 680, 805
+  offset: 0, 0
+  index: -1
+yanjing01
+  rotate: false
+  xy: 1167, 115
+  size: 91, 70
+  orig: 91, 70
+  offset: 0, 0
+  index: -1
+yanjing02
+  rotate: false
+  xy: 577, 467
+  size: 106, 41
+  orig: 106, 72
+  offset: 0, 31
+  index: -1

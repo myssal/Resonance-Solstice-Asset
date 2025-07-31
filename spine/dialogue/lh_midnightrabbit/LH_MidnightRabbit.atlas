@@ -1,0 +1,132 @@
+
+LH_MidnightRabbit.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pifeng
+  rotate: false
+  xy: 1129, 483
+  size: 631, 309
+  orig: 631, 309
+  offset: 0, 0
+  index: -1
+pifeng1
+  rotate: 270
+  xy: 208, 43
+  size: 226, 676
+  orig: 226, 676
+  offset: 0, 0
+  index: -1
+pifeng2
+  rotate: false
+  xy: 2, 1063
+  size: 1029, 668
+  orig: 1029, 668
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 560, 614
+  size: 535, 441
+  orig: 535, 441
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 1032, 1057
+  size: 673, 562
+  orig: 674, 562
+  offset: 1, 0
+  index: -1
+wangguan
+  rotate: true
+  xy: 560, 344
+  size: 268, 378
+  orig: 269, 379
+  offset: 1, 0
+  index: -1
+weibo
+  rotate: false
+  xy: 1096, 684
+  size: 843, 372
+  orig: 843, 372
+  offset: 0, 0
+  index: -1
+yifu
+  rotate: true
+  xy: 2, 578
+  size: 484, 556
+  orig: 484, 556
+  offset: 0, 0
+  index: -1
+yifu2
+  rotate: false
+  xy: 1596, 1194
+  size: 382, 537
+  orig: 382, 537
+  offset: 0, 0
+  index: -1
+youdabi
+  rotate: false
+  xy: 2, 1154
+  size: 200, 194
+  orig: 200, 194
+  offset: 0, 0
+  index: -1
+youer1
+  rotate: false
+  xy: 759, 100
+  size: 629, 242
+  orig: 629, 242
+  offset: 0, 0
+  index: -1
+youer2
+  rotate: true
+  xy: 1679, 924
+  size: 269, 291
+  orig: 269, 291
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 290, 265
+  size: 240, 311
+  orig: 240, 312
+  offset: 0, 0
+  index: -1
+youxiaobi
+  rotate: 270
+  xy: 477, 4
+  size: 226, 285
+  orig: 226, 285
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 1392, 309
+  size: 472, 171
+  orig: 472, 171
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: true
+  xy: 1529, 96
+  size: 211, 258
+  orig: 211, 259
+  offset: 0, 0
+  index: -1
+zuoer
+  rotate: 270
+  xy: 940, 166
+  size: 447, 587
+  orig: 447, 587
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 2, 267
+  size: 286, 309
+  orig: 287, 309
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+Throw_Dice.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SZ_01
+  rotate: false
+  xy: 671, 610
+  size: 299, 327
+  orig: 299, 327
+  offset: 0, 0
+  index: -1
+SZ_02
+  rotate: false
+  xy: 366, 608
+  size: 301, 329
+  orig: 301, 329
+  offset: 0, 0
+  index: -1
+SZ_03
+  rotate: true
+  xy: 666, 4
+  size: 299, 326
+  orig: 299, 326
+  offset: 0, 0
+  index: -1
+SZ_04
+  rotate: true
+  xy: 671, 307
+  size: 299, 327
+  orig: 299, 327
+  offset: 0, 0
+  index: -1
+SZ_05
+  rotate: true
+  xy: 4, 301
+  size: 299, 327
+  orig: 299, 327
+  offset: 0, 0
+  index: -1
+SZ_06
+  rotate: true
+  xy: 335, 301
+  size: 299, 327
+  orig: 299, 327
+  offset: 0, 0
+  index: -1
+TX_zha
+  rotate: false
+  xy: 4, 41
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+yanwu
+  rotate: false
+  xy: 264, 169
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+yinzi
+  rotate: false
+  xy: 4, 604
+  size: 358, 333
+  orig: 358, 333
+  offset: 0, 0
+  index: -1

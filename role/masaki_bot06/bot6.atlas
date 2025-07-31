@@ -1,0 +1,55 @@
+
+bot6.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bot6_shenti
+  rotate: false
+  xy: 263, 81
+  size: 155, 161
+  orig: 155, 161
+  offset: 0, 0
+  index: -1
+bot6_weiba
+  rotate: true
+  xy: 263, 4
+  size: 73, 80
+  orig: 73, 80
+  offset: 0, 0
+  index: -1
+bot6_wuqi
+  rotate: false
+  xy: 4, 4
+  size: 255, 238
+  orig: 255, 238
+  offset: 0, 0
+  index: -1
+bot6_youjiao
+  rotate: true
+  xy: 413, 8
+  size: 73, 63
+  orig: 77, 69
+  offset: 2, 3
+  index: -1
+bot6_youshou
+  rotate: false
+  xy: 422, 152
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+bot6_zuojiao
+  rotate: false
+  xy: 422, 76
+  size: 52, 73
+  orig: 59, 79
+  offset: 4, 4
+  index: -1
+bot6_zuoshou
+  rotate: false
+  xy: 347, 14
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,188 @@
+
+Tree_candle.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball
+  rotate: false
+  xy: 222, 11
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+bozi
+  rotate: false
+  xy: 867, 18
+  size: 68, 73
+  orig: 68, 73
+  offset: 0, 0
+  index: -1
+chibang
+  rotate: false
+  xy: 736, 33
+  size: 128, 59
+  orig: 150, 81
+  offset: 10, 12
+  index: -1
+chibang1
+  rotate: false
+  xy: 401, 260
+  size: 59, 36
+  orig: 86, 62
+  offset: 13, 13
+  index: -1
+dead
+  rotate: false
+  xy: 4, 101
+  size: 332, 193
+  orig: 332, 193
+  offset: 0, 0
+  index: -1
+huoyan/huoyan_00
+  rotate: false
+  xy: 537, 189
+  size: 90, 105
+  orig: 90, 105
+  offset: 0, 0
+  index: -1
+huoyan/huoyan_01
+  rotate: false
+  xy: 631, 189
+  size: 90, 105
+  orig: 90, 105
+  offset: 0, 0
+  index: -1
+huoyan/huoyan_02
+  rotate: false
+  xy: 725, 189
+  size: 90, 105
+  orig: 90, 105
+  offset: 0, 0
+  index: -1
+huoyan/huoyan_03
+  rotate: false
+  xy: 819, 189
+  size: 90, 105
+  orig: 90, 105
+  offset: 0, 0
+  index: -1
+huoyan/huoyan_04
+  rotate: false
+  xy: 913, 189
+  size: 90, 105
+  orig: 90, 105
+  offset: 0, 0
+  index: -1
+huoyan/huoyan_05
+  rotate: true
+  xy: 531, 95
+  size: 90, 105
+  orig: 90, 105
+  offset: 0, 0
+  index: -1
+huoyan/huoyan_06
+  rotate: true
+  xy: 640, 95
+  size: 90, 105
+  orig: 90, 105
+  offset: 0, 0
+  index: -1
+huoyan/huoyan_07
+  rotate: true
+  xy: 749, 95
+  size: 90, 105
+  orig: 90, 105
+  offset: 0, 0
+  index: -1
+huoyan/huoyan_08
+  rotate: true
+  xy: 858, 95
+  size: 90, 105
+  orig: 90, 105
+  offset: 0, 0
+  index: -1
+huoyan/huoyan_09
+  rotate: true
+  xy: 340, 31
+  size: 90, 105
+  orig: 90, 105
+  offset: 0, 0
+  index: -1
+huoyan/huoyan_10
+  rotate: true
+  xy: 4, 7
+  size: 90, 105
+  orig: 90, 105
+  offset: 0, 0
+  index: -1
+huoyan/huoyan_11
+  rotate: true
+  xy: 113, 7
+  size: 90, 105
+  orig: 90, 105
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: false
+  xy: 806, 6
+  size: 58, 37
+  orig: 87, 64
+  offset: 14, 14
+  index: -1
+jiao2
+  rotate: false
+  xy: 948, 9
+  size: 73, 36
+  orig: 98, 62
+  offset: 12, 13
+  index: -1
+jiao3
+  rotate: false
+  xy: 970, 95
+  size: 49, 29
+  orig: 75, 58
+  offset: 13, 14
+  index: -1
+shenti
+  rotate: true
+  xy: 340, 125
+  size: 170, 123
+  orig: 191, 146
+  offset: 12, 10
+  index: -1
+tui1
+  rotate: false
+  xy: 951, 49
+  size: 69, 45
+  orig: 92, 70
+  offset: 14, 13
+  index: -1
+tui2
+  rotate: false
+  xy: 967, 125
+  size: 47, 61
+  orig: 71, 87
+  offset: 11, 14
+  index: -1
+zhuzi1
+  rotate: 270
+  xy: 449, 23
+  size: 69, 162
+  orig: 96, 186
+  offset: 13, 11
+  index: -1
+zhuzi2
+  rotate: 270
+  xy: 614, 9
+  size: 84, 120
+  orig: 105, 140
+  offset: 12, 8
+  index: -1
+zhuzi3
+  rotate: 180
+  xy: 458, 104
+  size: 76, 192
+  orig: 93, 213
+  offset: 9, 10
+  index: -1

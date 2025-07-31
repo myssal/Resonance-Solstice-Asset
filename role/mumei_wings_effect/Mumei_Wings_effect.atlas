@@ -1,0 +1,13 @@
+
+Mumei_Wings_effect.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shanbi
+  rotate: false
+  xy: 4, 4
+  size: 263, 299
+  orig: 263, 299
+  offset: 0, 0
+  index: -1
