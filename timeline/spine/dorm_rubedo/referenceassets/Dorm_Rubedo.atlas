@@ -1,0 +1,104 @@
+
+Dorm_Rubedo.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 15
+  size: 174, 63
+  orig: 174, 63
+  offset: 0, 0
+  index: -1
+foot_b
+  rotate: 180
+  xy: 187, 150
+  size: 124, 250
+  orig: 124, 250
+  offset: 0, 0
+  index: -1
+foot_f
+  rotate: false
+  xy: 2, 123
+  size: 128, 278
+  orig: 128, 278
+  offset: 0, 0
+  index: -1
+foot_l
+  rotate: true
+  xy: 48, 77
+  size: 66, 238
+  orig: 66, 238
+  offset: 0, 0
+  index: -1
+foot_r
+  rotate: 180
+  xy: 115, 132
+  size: 82, 268
+  orig: 82, 268
+  offset: 0, 0
+  index: -1
+q1
+  rotate: false
+  xy: 2, 275
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+q1_1
+  rotate: false
+  xy: 194, 151
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+q1_1_1
+  rotate: false
+  xy: 2, 343
+  size: 7, 25
+  orig: 7, 25
+  offset: 0, 0
+  index: -1
+q1_1_2
+  rotate: false
+  xy: 30, 344
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+q1_1_3
+  rotate: false
+  xy: 28, 367
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+q2
+  rotate: false
+  xy: 178, 3
+  size: 76, 75
+  orig: 76, 75
+  offset: 0, 0
+  index: -1
+q2_1
+  rotate: false
+  xy: 95, 145
+  size: 31, 69
+  orig: 31, 69
+  offset: 0, 0
+  index: -1
+q3
+  rotate: true
+  xy: 256, 7
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+q3_1
+  rotate: false
+  xy: 2, 333
+  size: 28, 67
+  orig: 28, 67
+  offset: 0, 0
+  index: -1

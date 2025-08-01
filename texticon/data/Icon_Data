@@ -1,0 +1,13 @@
+Key	Frames	X	Y	Size
+{Accelerate}	1	0	0	0.25
+{Atk}	1	0.25	0	0.25
+{AtkRange}	1	0.5	0	0.25
+{Cri}	1	0.75	0	0.25
+{CriDamage}	1	0	0.25	0.25
+{Def}	1	0.25	0.25	0.25
+{Diamond}	1	0.5	0.25	0.25
+{Gold}	1	0.75	0.25	0.25
+{Hp}	1	0	0.5	0.25
+{MagicalDef}	1	0.25	0.5	0.25
+{PhysicalDef}	1	0.5	0.5	0.25
+{SpecialAbility}	1	0.75	0.5	0.25

@@ -1,0 +1,41 @@
+
+UI_EndlessBattleUpgrade.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nd01
+  rotate: false
+  xy: 4, 55
+  size: 159, 159
+  orig: 161, 161
+  offset: 1, 1
+  index: -1
+nd02
+  rotate: false
+  xy: 371, 4
+  size: 242, 241
+  orig: 256, 259
+  offset: 4, 10
+  index: -1
+nd03
+  rotate: false
+  xy: 371, 249
+  size: 321, 331
+  orig: 334, 344
+  offset: 7, 7
+  index: -1
+nd04
+  rotate: false
+  xy: 4, 218
+  size: 363, 362
+  orig: 375, 373
+  offset: 6, 6
+  index: -1
+nd05
+  rotate: false
+  xy: 696, 249
+  size: 321, 331
+  orig: 334, 344
+  offset: 7, 7
+  index: -1

@@ -1,0 +1,187 @@
+
+jianyuhuodong.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 1136
+  size: 2041, 865
+  orig: 2042, 866
+  offset: 1, 0
+  index: -1
+QJ1
+  rotate: false
+  xy: 2, 800
+  size: 1170, 334
+  orig: 1172, 336
+  offset: 1, 1
+  index: -1
+QJ2
+  rotate: false
+  xy: 2, 488
+  size: 1067, 310
+  orig: 1069, 312
+  offset: 1, 1
+  index: -1
+TX/dstx_00000
+  rotate: false
+  xy: 1540, 844
+  size: 455, 290
+  orig: 455, 290
+  offset: 0, 0
+  index: -1
+TX/dstx_00001
+  rotate: false
+  xy: 1498, 552
+  size: 455, 290
+  orig: 455, 290
+  offset: 0, 0
+  index: -1
+TX/dstx_00002
+  rotate: false
+  xy: 1514, 260
+  size: 455, 290
+  orig: 455, 290
+  offset: 0, 0
+  index: -1
+deng1
+  rotate: false
+  xy: 1997, 1107
+  size: 27, 27
+  orig: 32, 31
+  offset: 3, 2
+  index: -1
+dstx2/dstx2_00000
+  rotate: false
+  xy: 2, 196
+  size: 455, 290
+  orig: 455, 290
+  offset: 0, 0
+  index: -1
+dstx2/dstx2_00001
+  rotate: false
+  xy: 459, 196
+  size: 455, 290
+  orig: 455, 290
+  offset: 0, 0
+  index: -1
+dstx2/dstx2_00002
+  rotate: false
+  xy: 916, 196
+  size: 455, 290
+  orig: 455, 290
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2, 96
+  size: 510, 98
+  orig: 510, 108
+  offset: 0, 0
+  index: -1
+jiqiren
+  rotate: true
+  xy: 1373, 2
+  size: 256, 263
+  orig: 271, 265
+  offset: 1, 1
+  index: -1
+jiqiren_shou1
+  rotate: false
+  xy: 1071, 608
+  size: 122, 90
+  orig: 142, 92
+  offset: 1, 1
+  index: -1
+jiqiren_shou2
+  rotate: false
+  xy: 1199, 501
+  size: 79, 62
+  orig: 82, 68
+  offset: 1, 1
+  index: -1
+ren
+  rotate: false
+  xy: 1174, 523
+  size: 364, 611
+  orig: 364, 611
+  offset: 0, 0
+  index: -1
+ren_biao
+  rotate: false
+  xy: 1955, 585
+  size: 85, 135
+  orig: 85, 135
+  offset: 0, 0
+  index: -1
+ren_biao_xian
+  rotate: false
+  xy: 1525, 1107
+  size: 7, 27
+  orig: 9, 31
+  offset: 1, 2
+  index: -1
+ren_er
+  rotate: false
+  xy: 1071, 707
+  size: 73, 91
+  orig: 75, 94
+  offset: 1, 2
+  index: -1
+ren_mei
+  rotate: false
+  xy: 1138, 519
+  size: 59, 87
+  orig: 62, 90
+  offset: 2, 2
+  index: -1
+ren_toufa02
+  rotate: true
+  xy: 1638, 145
+  size: 113, 403
+  orig: 113, 403
+  offset: 0, 0
+  index: -1
+ren_yan
+  rotate: false
+  xy: 1955, 722
+  size: 66, 120
+  orig: 69, 122
+  offset: 1, 1
+  index: -1
+ren_yan1
+  rotate: false
+  xy: 1071, 523
+  size: 65, 83
+  orig: 67, 85
+  offset: 1, 1
+  index: -1
+ren_yan2
+  rotate: false
+  xy: 1971, 528
+  size: 67, 55
+  orig: 70, 59
+  offset: 2, 1
+  index: -1
+
+jianyuhuodong2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ren_mao
+  rotate: 270
+  xy: 339, 3
+  size: 453, 365
+  orig: 468, 365
+  offset: 0, 0
+  index: -1
+ren_toufa01
+  rotate: false
+  xy: 2, 7
+  size: 379, 448
+  orig: 379, 448
+  offset: 0, 0
+  index: -1

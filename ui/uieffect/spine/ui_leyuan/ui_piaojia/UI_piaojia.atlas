@@ -1,0 +1,153 @@
+
+UI_piaojia.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+piaojia
+  rotate: false
+  xy: 2, 348
+  size: 306, 308
+  orig: 310, 310
+  offset: 2, 2
+  index: -1
+piaojia02
+  rotate: true
+  xy: 1514, 2
+  size: 182, 206
+  orig: 182, 206
+  offset: 0, 0
+  index: -1
+piaojia03_00000
+  rotate: false
+  xy: 1820, 146
+  size: 222, 220
+  orig: 222, 220
+  offset: 0, 0
+  index: -1
+piaojia03_00001
+  rotate: false
+  xy: 618, 127
+  size: 222, 220
+  orig: 222, 220
+  offset: 0, 0
+  index: -1
+piaojia03_00002
+  rotate: false
+  xy: 842, 127
+  size: 222, 220
+  orig: 222, 220
+  offset: 0, 0
+  index: -1
+piaojia03_00003
+  rotate: false
+  xy: 1066, 127
+  size: 222, 220
+  orig: 222, 220
+  offset: 0, 0
+  index: -1
+piaojia03_00004
+  rotate: false
+  xy: 1290, 127
+  size: 222, 220
+  orig: 222, 220
+  offset: 0, 0
+  index: -1
+piaojia03_00006
+  rotate: false
+  xy: 2, 126
+  size: 222, 220
+  orig: 222, 220
+  offset: 0, 0
+  index: -1
+piaojia03_00007
+  rotate: false
+  xy: 226, 126
+  size: 222, 220
+  orig: 222, 220
+  offset: 0, 0
+  index: -1
+piaojia04
+  rotate: true
+  xy: 1536, 368
+  size: 288, 190
+  orig: 288, 190
+  offset: 0, 0
+  index: -1
+piaojia05
+  rotate: true
+  xy: 1728, 368
+  size: 288, 190
+  orig: 288, 190
+  offset: 0, 0
+  index: -1
+piaojia_di
+  rotate: false
+  xy: 310, 348
+  size: 306, 308
+  orig: 310, 310
+  offset: 2, 2
+  index: -1
+piaojia_xing
+  rotate: false
+  xy: 2012, 440
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+touzi
+  rotate: false
+  xy: 618, 349
+  size: 304, 307
+  orig: 310, 310
+  offset: 3, 3
+  index: -1
+touzi01
+  rotate: false
+  xy: 1920, 481
+  size: 101, 175
+  orig: 101, 175
+  offset: 0, 0
+  index: -1
+touzi02
+  rotate: false
+  xy: 1920, 389
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+touzi03
+  rotate: true
+  xy: 450, 78
+  size: 268, 130
+  orig: 268, 130
+  offset: 0, 0
+  index: -1
+touzi04
+  rotate: false
+  xy: 924, 349
+  size: 304, 307
+  orig: 310, 310
+  offset: 3, 3
+  index: -1
+touzi05
+  rotate: false
+  xy: 1230, 349
+  size: 304, 307
+  orig: 310, 310
+  offset: 3, 3
+  index: -1
+touzi06
+  rotate: false
+  xy: 1722, 10
+  size: 270, 134
+  orig: 272, 134
+  offset: 1, 0
+  index: -1
+touzi07
+  rotate: false
+  xy: 1536, 186
+  size: 282, 180
+  orig: 282, 180
+  offset: 0, 0
+  index: -1
