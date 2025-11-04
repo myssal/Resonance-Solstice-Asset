@@ -1,0 +1,139 @@
+
+LH_Kulingzu.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+maozi1
+  rotate: true
+  xy: 990, 274
+  size: 488, 314
+  orig: 488, 314
+  offset: 0, 0
+  index: -1
+maozi2
+  rotate: false
+  xy: 2, 3
+  size: 139, 123
+  orig: 139, 123
+  offset: 0, 0
+  index: -1
+maozi3
+  rotate: false
+  xy: 1638, 663
+  size: 57, 99
+  orig: 58, 99
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: 180
+  xy: 691, 11
+  size: 206, 122
+  orig: 206, 122
+  offset: 0, 0
+  index: -1
+pifeng2
+  rotate: true
+  xy: 1306, 278
+  size: 484, 396
+  orig: 484, 396
+  offset: 0, 0
+  index: -1
+pifeng3
+  rotate: false
+  xy: 1306, 717
+  size: 76, 46
+  orig: 76, 46
+  offset: 0, 0
+  index: -1
+pifeng4
+  rotate: false
+  xy: 2, 128
+  size: 537, 634
+  orig: 537, 634
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: 180
+  xy: 537, 135
+  size: 451, 627
+  orig: 451, 627
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 1704, 445
+  size: 317, 228
+  orig: 318, 228
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 1785, 398
+  size: 163, 46
+  orig: 163, 46
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: 270
+  xy: 990, 57
+  size: 227, 416
+  orig: 227, 416
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: false
+  xy: 499, 31
+  size: 190, 104
+  orig: 190, 104
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 1934, 640
+  size: 108, 122
+  orig: 108, 122
+  offset: 0, 0
+  index: -1
+yumao1
+  rotate: false
+  xy: 1934, 456
+  size: 51, 182
+  orig: 51, 182
+  offset: 0, 0
+  index: -1
+yumao2
+  rotate: false
+  xy: 1987, 449
+  size: 47, 190
+  orig: 47, 190
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: true
+  xy: 1614, 179
+  size: 256, 432
+  orig: 256, 432
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: false
+  xy: 1323, 19
+  size: 173, 116
+  orig: 173, 117
+  offset: 0, 1
+  index: -1
+zuoshou
+  rotate: true
+  xy: 1878, 28
+  size: 139, 168
+  orig: 139, 168
+  offset: 0, 0
+  index: -1
+zuoyi
+  rotate: true
+  xy: 1498, 70
+  size: 251, 385
+  orig: 251, 385
+  offset: 0, 0
+  index: -1

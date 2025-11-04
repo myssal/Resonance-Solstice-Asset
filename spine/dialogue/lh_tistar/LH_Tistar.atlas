@@ -1,0 +1,20 @@
+
+LH_Tistar.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+maozi
+  rotate: false
+  xy: 2, 2
+  size: 171, 154
+  orig: 173, 155
+  offset: 0, 1
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 158
+  size: 1392, 1756
+  orig: 1417, 1968
+  offset: 25, 2
+  index: -1

@@ -1,0 +1,83 @@
+
+DRamis_bot.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ZHW/ZHWgaoguang
+  rotate: false
+  xy: 198, 7
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+ZHW/ZHWhexin
+  rotate: false
+  xy: 109, 179
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+ZHW/ZHWjiantou1
+  rotate: false
+  xy: 5, 76
+  size: 147, 63
+  orig: 147, 63
+  offset: 0, 0
+  index: -1
+ZHW/ZHWjiantou2
+  rotate: false
+  xy: 5, 9
+  size: 147, 63
+  orig: 147, 63
+  offset: 0, 0
+  index: -1
+ZHW/ZHWshenti1
+  rotate: 270
+  xy: 329, 6
+  size: 68, 87
+  orig: 76, 96
+  offset: 4, 4
+  index: -1
+ZHW/ZHWshenti2
+  rotate: false
+  xy: 164, 23
+  size: 118, 101
+  orig: 125, 109
+  offset: 3, 4
+  index: -1
+ZHW/ZHWshenti3
+  rotate: 270
+  xy: 270, 45
+  size: 117, 96
+  orig: 126, 107
+  offset: 5, 5
+  index: -1
+ZHW/ZHWshenti4
+  rotate: true
+  xy: 149, 72
+  size: 172, 92
+  orig: 176, 98
+  offset: 4, 4
+  index: -1
+ZHW/ZHWshuijing
+  rotate: false
+  xy: 315, 166
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+tutou02
+  rotate: 180
+  xy: 237, 111
+  size: 76, 96
+  orig: 77, 97
+  offset: 0, 0
+  index: -1
+tutouguang
+  rotate: false
+  xy: 5, 143
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
