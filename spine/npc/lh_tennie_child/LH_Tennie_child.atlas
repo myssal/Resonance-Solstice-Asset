@@ -1,0 +1,90 @@
+
+LH_Tennie_child.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: 180
+  xy: 31, 4
+  size: 186, 238
+  orig: 188, 238
+  offset: 2, 0
+  index: -1
+10
+  rotate: false
+  xy: 532, 545
+  size: 115, 181
+  orig: 115, 181
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 494, 76
+  size: 167, 171
+  orig: 167, 171
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 2, 425
+  size: 348, 471
+  orig: 348, 526
+  offset: 0, 55
+  index: -1
+2
+  rotate: 270
+  xy: 2, 306
+  size: 154, 593
+  orig: 154, 593
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 2, 213
+  size: 129, 577
+  orig: 129, 577
+  offset: 0, 0
+  index: -1
+4
+  rotate: 270
+  xy: 171, 84
+  size: 178, 382
+  orig: 178, 382
+  offset: 0, 0
+  index: -1
+5
+  rotate: 180
+  xy: 263, 422
+  size: 359, 451
+  orig: 361, 451
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 2, 540
+  size: 37, 64
+  orig: 39, 67
+  offset: 1, 2
+  index: -1
+7
+  rotate: false
+  xy: 595, 318
+  size: 65, 217
+  orig: 67, 217
+  offset: 1, 0
+  index: -1
+8
+  rotate: false
+  xy: 2, 600
+  size: 44, 91
+  orig: 45, 92
+  offset: 0, 0
+  index: -1
+9
+  rotate: 270
+  xy: 217, 4
+  size: 121, 185
+  orig: 121, 185
+  offset: 0, 0
+  index: -1
