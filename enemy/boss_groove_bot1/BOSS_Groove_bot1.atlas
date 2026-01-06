@@ -1,0 +1,27 @@
+
+BOSS_Groove_bot1.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banshou
+  rotate: true
+  xy: 2, 2
+  size: 127, 135
+  orig: 147, 155
+  offset: 10, 10
+  index: -1
+huangpai
+  rotate: true
+  xy: 2, 131
+  size: 139, 239
+  orig: 159, 260
+  offset: 10, 11
+  index: -1
+zha
+  rotate: false
+  xy: 2, 272
+  size: 303, 670
+  orig: 323, 690
+  offset: 10, 10
+  index: -1

@@ -1,0 +1,55 @@
+
+BOSS_Groove_bot2.png
+size: 256,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 60, 3
+  size: 56, 55
+  orig: 76, 75
+  offset: 10, 10
+  index: -1
+2
+  rotate: false
+  xy: 118, 2
+  size: 55, 56
+  orig: 75, 76
+  offset: 10, 10
+  index: -1
+3
+  rotate: false
+  xy: 2, 2
+  size: 56, 56
+  orig: 76, 76
+  offset: 10, 10
+  index: -1
+dian
+  rotate: false
+  xy: 2, 155
+  size: 215, 215
+  orig: 256, 256
+  offset: 21, 20
+  index: -1
+ludeng
+  rotate: false
+  xy: 2, 372
+  size: 238, 642
+  orig: 258, 664
+  offset: 10, 10
+  index: -1
+lunzi
+  rotate: false
+  xy: 175, 24
+  size: 35, 34
+  orig: 55, 54
+  offset: 10, 10
+  index: -1
+maozi2
+  rotate: false
+  xy: 2, 60
+  size: 239, 93
+  orig: 259, 113
+  offset: 10, 10
+  index: -1

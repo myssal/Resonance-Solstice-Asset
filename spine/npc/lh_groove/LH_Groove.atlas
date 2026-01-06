@@ -1,0 +1,181 @@
+
+LH_Groove.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 2, 1169
+  size: 150, 150
+  orig: 179, 179
+  offset: 15, 14
+  index: -1
+hongse
+  rotate: true
+  xy: 992, 1207
+  size: 111, 109
+  orig: 111, 109
+  offset: 0, 0
+  index: -1
+huangse
+  rotate: false
+  xy: 654, 1697
+  size: 114, 111
+  orig: 114, 111
+  offset: 0, 0
+  index: -1
+lvse
+  rotate: false
+  xy: 983, 1639
+  size: 111, 110
+  orig: 111, 110
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 2, 92
+  size: 569, 427
+  orig: 570, 427
+  offset: 0, 0
+  index: -1
+maozi_hou
+  rotate: true
+  xy: 878, 871
+  size: 447, 112
+  orig: 449, 112
+  offset: 0, 0
+  index: -1
+mianju
+  rotate: true
+  xy: 486, 1135
+  size: 184, 104
+  orig: 184, 104
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 2, 1321
+  size: 655, 662
+  orig: 655, 662
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: 180
+  xy: 2, 521
+  size: 620, 798
+  orig: 656, 798
+  offset: 0, 0
+  index: -1
+shouzhang
+  rotate: false
+  xy: 992, 1001
+  size: 100, 139
+  orig: 100, 139
+  offset: 0, 0
+  index: -1
+shouzhang2
+  rotate: 270
+  xy: 860, 3
+  size: 142, 225
+  orig: 142, 225
+  offset: 0, 0
+  index: -1
+shouzhi
+  rotate: false
+  xy: 2, 1084
+  size: 103, 85
+  orig: 108, 125
+  offset: 0, 6
+  index: -1
+shouzhi2
+  rotate: false
+  xy: 969, 617
+  size: 119, 77
+  orig: 120, 77
+  offset: 1, 0
+  index: -1
+shouzhi3
+  rotate: false
+  xy: 2, 30
+  size: 116, 61
+  orig: 116, 61
+  offset: 0, 0
+  index: -1
+shouzhi4
+  rotate: false
+  xy: 633, 1322
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+wenhao
+  rotate: false
+  xy: 656, 1810
+  size: 38, 64
+  orig: 38, 64
+  offset: 0, 0
+  index: -1
+youdabi
+  rotate: false
+  xy: 645, 1321
+  size: 263, 376
+  orig: 263, 393
+  offset: 0, 17
+  index: -1
+youshou
+  rotate: false
+  xy: 861, 134
+  size: 142, 214
+  orig: 142, 214
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 573, 47
+  size: 286, 472
+  orig: 286, 472
+  offset: 0, 0
+  index: -1
+youxiaobi
+  rotate: true
+  xy: 613, 591
+  size: 276, 405
+  orig: 276, 405
+  offset: 0, 0
+  index: -1
+zhuangshi
+  rotate: true
+  xy: 909, 1320
+  size: 317, 141
+  orig: 317, 141
+  offset: 0, 0
+  index: -1
+zuobi_hou
+  rotate: true
+  xy: 992, 840
+  size: 159, 109
+  orig: 159, 109
+  offset: 0, 0
+  index: -1
+zuodabi
+  rotate: true
+  xy: 658, 1699
+  size: 284, 334
+  orig: 284, 334
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 595, 867
+  size: 281, 452
+  orig: 285, 456
+  offset: 4, 4
+  index: -1
+zuoxiaobi
+  rotate: false
+  xy: 845, 350
+  size: 236, 310
+  orig: 236, 310
+  offset: 0, 0
+  index: -1

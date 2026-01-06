@@ -1,0 +1,279 @@
+
+BOSS_Groove.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bozi
+  rotate: false
+  xy: 2, 512
+  size: 293, 247
+  orig: 294, 247
+  offset: 1, 0
+  index: -1
+dead_40
+  rotate: false
+  xy: 2, 1398
+  size: 407, 632
+  orig: 603, 789
+  offset: 54, 13
+  index: -1
+duijiangji
+  rotate: false
+  xy: 2, 118
+  size: 141, 52
+  orig: 161, 72
+  offset: 10, 10
+  index: -1
+hongdeng
+  rotate: false
+  xy: 519, 1987
+  size: 36, 43
+  orig: 56, 63
+  offset: 10, 10
+  index: -1
+huangdeng
+  rotate: false
+  xy: 511, 1229
+  size: 37, 46
+  orig: 57, 66
+  offset: 10, 10
+  index: -1
+lvdeng
+  rotate: false
+  xy: 511, 1277
+  size: 38, 47
+  orig: 58, 67
+  offset: 10, 10
+  index: -1
+maozi
+  rotate: false
+  xy: 2, 761
+  size: 284, 260
+  orig: 338, 280
+  offset: 44, 10
+  index: -1
+mianju
+  rotate: false
+  xy: 382, 17
+  size: 89, 82
+  orig: 109, 102
+  offset: 10, 10
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 1022
+  size: 375, 401
+  orig: 376, 401
+  offset: 0, 0
+  index: -1
+shouzhang2
+  rotate: false
+  xy: 492, 518
+  size: 66, 54
+  orig: 74, 63
+  offset: 5, 5
+  index: -1
+shouzhi6
+  rotate: false
+  xy: 411, 1596
+  size: 113, 138
+  orig: 118, 140
+  offset: 1, 0
+  index: -1
+shouzhi7
+  rotate: false
+  xy: 511, 1701
+  size: 39, 78
+  orig: 48, 85
+  offset: 3, 3
+  index: -1
+shouzhi8
+  rotate: false
+  xy: 516, 343
+  size: 41, 62
+  orig: 48, 73
+  offset: 3, 3
+  index: -1
+shouzhi9
+  rotate: false
+  xy: 519, 835
+  size: 29, 47
+  orig: 41, 56
+  offset: 6, 4
+  index: -1
+youdabi
+  rotate: false
+  xy: 281, 564
+  size: 179, 177
+  orig: 181, 178
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: true
+  xy: 499, 1494
+  size: 127, 79
+  orig: 136, 84
+  offset: 4, 5
+  index: -1
+youjiao2
+  rotate: true
+  xy: 459, 566
+  size: 120, 85
+  orig: 120, 85
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 409, 101
+  size: 142, 120
+  orig: 162, 140
+  offset: 10, 10
+  index: -1
+youshou11
+  rotate: false
+  xy: 411, 1735
+  size: 87, 120
+  orig: 107, 140
+  offset: 10, 10
+  index: -1
+youshou111
+  rotate: false
+  xy: 417, 854
+  size: 101, 90
+  orig: 121, 110
+  offset: 10, 10
+  index: -1
+youtui
+  rotate: 180
+  xy: 388, 359
+  size: 140, 176
+  orig: 140, 176
+  offset: 0, 0
+  index: -1
+youtui2
+  rotate: 270
+  xy: 218, 385
+  size: 187, 189
+  orig: 187, 189
+  offset: 0, 0
+  index: -1
+youxiaobi
+  rotate: true
+  xy: 259, 245
+  size: 142, 158
+  orig: 162, 178
+  offset: 10, 10
+  index: -1
+youxiaobi2
+  rotate: true
+  xy: 393, 949
+  size: 142, 141
+  orig: 162, 161
+  offset: 10, 10
+  index: -1
+youxiaobi3
+  rotate: false
+  xy: 98, 172
+  size: 159, 141
+  orig: 179, 162
+  offset: 10, 11
+  index: -1
+zhang
+  rotate: false
+  xy: 411, 1481
+  size: 86, 113
+  orig: 106, 133
+  offset: 10, 10
+  index: -1
+zhi
+  rotate: true
+  xy: 2, 302
+  size: 155, 255
+  orig: 155, 255
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: false
+  xy: 411, 1857
+  size: 120, 173
+  orig: 123, 174
+  offset: 2, 0
+  index: -1
+zuobi2
+  rotate: 180
+  xy: 202, 60
+  size: 205, 148
+  orig: 205, 151
+  offset: 0, 1
+  index: -1
+zuobi3
+  rotate: false
+  xy: 419, 245
+  size: 112, 96
+  orig: 133, 116
+  offset: 11, 10
+  index: -1
+zuobi4
+  rotate: true
+  xy: 288, 742
+  size: 205, 127
+  orig: 225, 147
+  offset: 10, 10
+  index: -1
+zuojiao
+  rotate: false
+  xy: 411, 1399
+  size: 127, 79
+  orig: 136, 84
+  offset: 5, 5
+  index: -1
+zuoshou2
+  rotate: false
+  xy: 473, 3
+  size: 76, 96
+  orig: 96, 116
+  offset: 10, 10
+  index: -1
+zuoshou3
+  rotate: true
+  xy: 404, 1219
+  size: 177, 105
+  orig: 198, 125
+  offset: 10, 10
+  index: -1
+zuoshou4
+  rotate: false
+  xy: 404, 1093
+  size: 95, 112
+  orig: 117, 133
+  offset: 11, 10
+  index: -1
+zuoshou5
+  rotate: true
+  xy: 501, 1134
+  size: 83, 75
+  orig: 103, 95
+  offset: 10, 10
+  index: -1
+zuoshou_hou
+  rotate: false
+  xy: 500, 1780
+  size: 75, 84
+  orig: 95, 104
+  offset: 10, 10
+  index: -1
+zuoshou_qian
+  rotate: false
+  xy: 511, 1326
+  size: 70, 86
+  orig: 90, 106
+  offset: 10, 10
+  index: -1
+zuotui
+  rotate: 180
+  xy: 409, 686
+  size: 133, 167
+  orig: 140, 176
+  offset: 5, 4
+  index: -1
