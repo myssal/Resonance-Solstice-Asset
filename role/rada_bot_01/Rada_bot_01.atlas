@@ -1,0 +1,48 @@
+
+Rada_bot_01.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paotai1
+  rotate: false
+  xy: 205, 28
+  size: 97, 122
+  orig: 97, 122
+  offset: 0, 0
+  index: -1
+paotai2
+  rotate: true
+  xy: 419, 58
+  size: 92, 24
+  orig: 92, 24
+  offset: 0, 0
+  index: -1
+paotai3
+  rotate: false
+  xy: 299, 18
+  size: 80, 50
+  orig: 80, 50
+  offset: 0, 0
+  index: -1
+paotai4
+  rotate: true
+  xy: 306, 72
+  size: 78, 56
+  orig: 78, 56
+  offset: 0, 0
+  index: -1
+paotai5
+  rotate: false
+  xy: 5, 5
+  size: 196, 145
+  orig: 196, 145
+  offset: 0, 0
+  index: -1
+paotai6
+  rotate: true
+  xy: 366, 72
+  size: 76, 49
+  orig: 76, 49
+  offset: 0, 0
+  index: -1
