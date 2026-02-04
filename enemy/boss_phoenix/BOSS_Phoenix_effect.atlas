@@ -1,0 +1,27 @@
+
+BOSS_Phoenix_effect.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yazhang1
+  rotate: true
+  xy: 58, 6
+  size: 469, 452
+  orig: 512, 512
+  offset: 43, 60
+  index: -1
+yazhang2
+  rotate: false
+  xy: 5, 321
+  size: 411, 476
+  orig: 512, 512
+  offset: 60, 36
+  index: -1
+yazhang3
+  rotate: false
+  xy: 420, 346
+  size: 469, 452
+  orig: 512, 512
+  offset: 43, 60
+  index: -1

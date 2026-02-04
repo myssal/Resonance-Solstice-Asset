@@ -146,23 +146,23 @@ shenti
   index: -1
 shou02_03
   rotate: false
-  xy: 313, 18
-  size: 33, 37
+  xy: 313, 20
+  size: 32, 35
   orig: 45, 54
-  offset: 8, 6
+  offset: 7, 7
   index: -1
 shou02_041
   rotate: false
-  xy: 939, 176
-  size: 26, 36
-  orig: 26, 36
+  xy: 938, 169
+  size: 27, 36
+  orig: 27, 36
   offset: 0, 0
   index: -1
 shou_03
   rotate: false
-  xy: 614, 12
-  size: 40, 35
-  orig: 40, 35
+  xy: 614, 10
+  size: 38, 37
+  orig: 38, 37
   offset: 0, 0
   index: -1
 tou
