@@ -1,0 +1,321 @@
+
+CharlotteStillheart.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BQ_01
+  rotate: false
+  xy: 446, 64
+  size: 71, 34
+  orig: 71, 34
+  offset: 0, 0
+  index: -1
+BQ_02
+  rotate: false
+  xy: 293, 91
+  size: 71, 43
+  orig: 71, 43
+  offset: 0, 0
+  index: -1
+BQ_03
+  rotate: false
+  xy: 68, 46
+  size: 64, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: -1
+BQ_04
+  rotate: false
+  xy: 243, 38
+  size: 63, 22
+  orig: 63, 22
+  offset: 0, 0
+  index: -1
+BQ_05
+  rotate: false
+  xy: 5, 47
+  size: 59, 32
+  orig: 59, 32
+  offset: 0, 0
+  index: -1
+T_erduo
+  rotate: false
+  xy: 126, 11
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+T_lian
+  rotate: false
+  xy: 460, 144
+  size: 88, 84
+  orig: 88, 84
+  offset: 0, 0
+  index: -1
+Y_shou01
+  rotate: true
+  xy: 136, 40
+  size: 31, 52
+  orig: 31, 52
+  offset: 0, 0
+  index: -1
+Y_shou02
+  rotate: true
+  xy: 451, 29
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+Y_shou03
+  rotate: false
+  xy: 574, 6
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+Y_tui01
+  rotate: true
+  xy: 85, 129
+  size: 45, 80
+  orig: 45, 80
+  offset: 0, 0
+  index: -1
+Y_tui02
+  rotate: true
+  xy: 177, 75
+  size: 38, 73
+  orig: 38, 73
+  offset: 0, 0
+  index: -1
+Z_shou01
+  rotate: true
+  xy: 192, 37
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+Z_shou02
+  rotate: true
+  xy: 357, 40
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+Z_shou02_2
+  rotate: true
+  xy: 404, 29
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+Z_shou03
+  rotate: true
+  xy: 310, 26
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+Z_shou03_2
+  rotate: true
+  xy: 497, 16
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+Z_tui01
+  rotate: true
+  xy: 97, 75
+  size: 38, 76
+  orig: 38, 76
+  offset: 0, 0
+  index: -1
+Z_tui02
+  rotate: true
+  xy: 368, 75
+  size: 35, 74
+  orig: 35, 74
+  offset: 0, 0
+  index: -1
+daizi
+  rotate: true
+  xy: 535, 8
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+fagu01
+  rotate: false
+  xy: 225, 149
+  size: 105, 47
+  orig: 105, 47
+  offset: 0, 0
+  index: -1
+fagu02
+  rotate: false
+  xy: 672, 31
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+houfa
+  rotate: 180
+  xy: 460, 231
+  size: 158, 209
+  orig: 158, 209
+  offset: 0, 0
+  index: -1
+meimao01
+  rotate: false
+  xy: 97, 118
+  size: 60, 7
+  orig: 60, 7
+  offset: 0, 0
+  index: -1
+meimao02
+  rotate: false
+  xy: 5, 13
+  size: 54, 13
+  orig: 54, 13
+  offset: 0, 0
+  index: -1
+meimao03
+  rotate: false
+  xy: 153, 25
+  size: 60, 8
+  orig: 60, 8
+  offset: 0, 0
+  index: -1
+meimao04
+  rotate: false
+  xy: 153, 13
+  size: 59, 8
+  orig: 59, 8
+  offset: 0, 0
+  index: -1
+meimao05
+  rotate: false
+  xy: 63, 17
+  size: 59, 9
+  orig: 59, 9
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 334, 138
+  size: 91, 58
+  orig: 91, 58
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: 270
+  xy: 555, 74
+  size: 63, 61
+  orig: 63, 61
+  offset: 0, 0
+  index: -1
+toufa01
+  rotate: 270
+  xy: 521, 41
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+toufa02
+  rotate: 270
+  xy: 601, 117
+  size: 59, 99
+  orig: 59, 99
+  offset: 0, 0
+  index: -1
+toufa03
+  rotate: true
+  xy: 587, 30
+  size: 44, 81
+  orig: 44, 81
+  offset: 0, 0
+  index: -1
+toufa04
+  rotate: true
+  xy: 5, 121
+  size: 53, 76
+  orig: 53, 76
+  offset: 0, 0
+  index: -1
+toufa05
+  rotate: false
+  xy: 552, 143
+  size: 45, 84
+  orig: 45, 84
+  offset: 0, 0
+  index: -1
+toufa06
+  rotate: true
+  xy: 620, 78
+  size: 35, 73
+  orig: 35, 73
+  offset: 0, 0
+  index: -1
+toufa07
+  rotate: 270
+  xy: 411, 102
+  size: 40, 140
+  orig: 40, 140
+  offset: 0, 0
+  index: -1
+toufa08
+  rotate: 270
+  xy: 254, 61
+  size: 32, 99
+  orig: 32, 99
+  offset: 0, 0
+  index: -1
+toufa_guang
+  rotate: false
+  xy: 5, 83
+  size: 88, 34
+  orig: 88, 34
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: false
+  xy: 622, 170
+  size: 74, 270
+  orig: 74, 270
+  offset: 0, 0
+  index: -1
+wuqi_dai
+  rotate: true
+  xy: 169, 117
+  size: 28, 120
+  orig: 28, 120
+  offset: 0, 0
+  index: -1
+wuqi_dai_2
+  rotate: true
+  xy: 5, 30
+  size: 12, 95
+  orig: 12, 95
+  offset: 0, 0
+  index: -1
+wuqi_guang
+  rotate: false
+  xy: 5, 208
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+wuqi_ke
+  rotate: true
+  xy: 5, 178
+  size: 26, 216
+  orig: 26, 216
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 241, 200
+  size: 215, 240
+  orig: 215, 240
+  offset: 0, 0
+  index: -1
