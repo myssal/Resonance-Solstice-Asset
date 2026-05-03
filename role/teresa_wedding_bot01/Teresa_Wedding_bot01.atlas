@@ -1,0 +1,20 @@
+
+Teresa_Wedding_bot01.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bot02A
+  rotate: false
+  xy: 641, 5
+  size: 273, 106
+  orig: 273, 106
+  offset: 0, 0
+  index: -1
+bot02B
+  rotate: false
+  xy: 5, 13
+  size: 632, 98
+  orig: 632, 98
+  offset: 0, 0
+  index: -1
