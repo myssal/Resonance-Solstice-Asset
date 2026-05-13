@@ -1,0 +1,20 @@
+
+LH_Lanque_sp.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J2
+  rotate: false
+  xy: 2, 2
+  size: 2632, 1114
+  orig: 2642, 1124
+  offset: 5, 5
+  index: -1
+bai
+  rotate: false
+  xy: 2636, 1066
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

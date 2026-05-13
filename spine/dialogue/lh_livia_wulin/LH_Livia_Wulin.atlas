@@ -1,0 +1,244 @@
+
+LH_Livia_Wulin.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fa1
+  rotate: false
+  xy: 1681, 1594
+  size: 121, 111
+  orig: 121, 111
+  offset: 0, 0
+  index: -1
+fa2
+  rotate: false
+  xy: 898, 1207
+  size: 179, 236
+  orig: 179, 236
+  offset: 0, 0
+  index: -1
+fa3
+  rotate: false
+  xy: 1074, 1308
+  size: 87, 135
+  orig: 87, 135
+  offset: 0, 0
+  index: -1
+fa4
+  rotate: false
+  xy: 894, 1518
+  size: 64, 187
+  orig: 64, 187
+  offset: 0, 0
+  index: -1
+fa5
+  rotate: false
+  xy: 685, 971
+  size: 177, 183
+  orig: 177, 183
+  offset: 0, 0
+  index: -1
+fa6
+  rotate: false
+  xy: 1894, 228
+  size: 152, 134
+  orig: 152, 134
+  offset: 0, 0
+  index: -1
+fa7
+  rotate: false
+  xy: 864, 1131
+  size: 257, 129
+  orig: 257, 129
+  offset: 0, 0
+  index: -1
+fa8
+  rotate: false
+  xy: 1184, 1586
+  size: 67, 119
+  orig: 67, 119
+  offset: 0, 0
+  index: -1
+fa9
+  rotate: false
+  xy: 2, 2
+  size: 332, 305
+  orig: 332, 305
+  offset: 0, 0
+  index: -1
+jian
+  rotate: true
+  xy: 2, 489
+  size: 198, 876
+  orig: 198, 876
+  offset: 0, 0
+  index: -1
+jianqiao
+  rotate: false
+  xy: 2, 309
+  size: 775, 178
+  orig: 775, 178
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: true
+  xy: 1804, 1182
+  size: 523, 229
+  orig: 523, 229
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: false
+  xy: 618, 1663
+  size: 119, 42
+  orig: 119, 42
+  offset: 0, 0
+  index: -1
+miansha
+  rotate: 180
+  xy: 548, 689
+  size: 1254, 1016
+  orig: 1254, 1016
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 2, 727
+  size: 996, 978
+  orig: 996, 978
+  offset: 0, 0
+  index: -1
+sheng
+  rotate: false
+  xy: 739, 1655
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+sheng2
+  rotate: false
+  xy: 1950, 535
+  size: 70, 190
+  orig: 70, 190
+  offset: 0, 0
+  index: -1
+sheng3
+  rotate: false
+  xy: 584, 1675
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 1421, 727
+  size: 427, 625
+  orig: 427, 659
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: true
+  xy: 1358, 88
+  size: 332, 400
+  orig: 332, 432
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: 270
+  xy: 1144, 422
+  size: 461, 615
+  orig: 461, 744
+  offset: 0, 129
+  index: -1
+shou3
+  rotate: false
+  xy: 992, 1445
+  size: 190, 260
+  orig: 190, 260
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 950, 515
+  size: 193, 219
+  orig: 199, 224
+  offset: 6, 5
+  index: -1
+tui1
+  rotate: true
+  xy: 779, 208
+  size: 215, 538
+  orig: 215, 538
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: false
+  xy: 1760, 305
+  size: 188, 420
+  orig: 188, 420
+  offset: 0, 0
+  index: -1
+youshangyanpi
+  rotate: false
+  xy: 791, 1666
+  size: 71, 39
+  orig: 71, 39
+  offset: 0, 0
+  index: -1
+youxiayanpi
+  rotate: false
+  xy: 1609, 1684
+  size: 37, 21
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+youyanbai
+  rotate: false
+  xy: 1479, 1671
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+youyanqiu
+  rotate: false
+  xy: 1577, 1674
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 430, 1697
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+zuoshangyanpi
+  rotate: false
+  xy: 1528, 1667
+  size: 47, 38
+  orig: 47, 38
+  offset: 0, 0
+  index: -1
+zuoxiayanpi
+  rotate: false
+  xy: 536, 1686
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+zuoyanbai
+  rotate: false
+  xy: 2, 1671
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+zuoyanqiu
+  rotate: false
+  xy: 864, 1679
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
