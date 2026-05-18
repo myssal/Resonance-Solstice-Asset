@@ -1,0 +1,76 @@
+
+Hair_Girl6_Default.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+R_hairc_01
+  rotate: false
+  xy: 2, 122
+  size: 228, 155
+  orig: 656, 656
+  offset: 175, 376
+  index: -1
+R_hairc_02
+  rotate: false
+  xy: 308, 26
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+fringe_01_hat
+  rotate: false
+  xy: 308, 26
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+fringe_01_tang_hat
+  rotate: false
+  xy: 308, 26
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hairc_02
+  rotate: false
+  xy: 308, 26
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hairc_02_tang
+  rotate: false
+  xy: 308, 26
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+fringe_01
+  rotate: true
+  xy: 169, 2
+  size: 118, 137
+  orig: 656, 656
+  offset: 277, 360
+  index: -1
+fringe_01_tang
+  rotate: false
+  xy: 308, 29
+  size: 100, 91
+  orig: 656, 656
+  offset: 341, 192
+  index: -1
+hairc_01
+  rotate: false
+  xy: 232, 122
+  size: 217, 155
+  orig: 656, 656
+  offset: 191, 374
+  index: -1
+hairc_01_tang
+  rotate: false
+  xy: 2, 2
+  size: 165, 118
+  orig: 656, 656
+  offset: 329, 174
+  index: -1

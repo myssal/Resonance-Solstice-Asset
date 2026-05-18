@@ -1,0 +1,118 @@
+
+Paladi_Child_bot02.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0_hudiejie1
+  rotate: false
+  xy: 262, 7
+  size: 63, 44
+  orig: 77, 57
+  offset: 6, 7
+  index: -1
+0_hudiejie2
+  rotate: true
+  xy: 87, 3
+  size: 36, 39
+  orig: 51, 52
+  offset: 8, 7
+  index: -1
+0_hudiejie3
+  rotate: true
+  xy: 123, 3
+  size: 35, 39
+  orig: 47, 51
+  offset: 7, 6
+  index: -1
+0_jiao1
+  rotate: true
+  xy: 429, 65
+  size: 65, 56
+  orig: 65, 56
+  offset: 0, 0
+  index: -1
+0_jiao2
+  rotate: false
+  xy: 429, 7
+  size: 61, 56
+  orig: 61, 56
+  offset: 0, 0
+  index: -1
+0_qiang1
+  rotate: true
+  xy: 366, 5
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+0_qiang2
+  rotate: true
+  xy: 50, 5
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+0_qiang3
+  rotate: false
+  xy: 327, 4
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+0_qiang4
+  rotate: true
+  xy: 208, 4
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+0_shen
+  rotate: true
+  xy: 208, 41
+  size: 91, 82
+  orig: 98, 90
+  offset: 4, 4
+  index: -1
+0_shou1
+  rotate: false
+  xy: 77, 39
+  size: 65, 91
+  orig: 65, 91
+  offset: 0, 0
+  index: -1
+0_shou2
+  rotate: false
+  xy: 366, 41
+  size: 61, 89
+  orig: 61, 89
+  offset: 0, 0
+  index: -1
+0_shou3
+  rotate: false
+  xy: 2, 39
+  size: 73, 91
+  orig: 73, 91
+  offset: 0, 0
+  index: -1
+0_shou33
+  rotate: false
+  xy: 2, 5
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+0_shou4
+  rotate: false
+  xy: 144, 37
+  size: 62, 93
+  orig: 62, 93
+  offset: 0, 0
+  index: -1
+0_tou
+  rotate: true
+  xy: 287, 43
+  size: 88, 78
+  orig: 99, 89
+  offset: 5, 6
+  index: -1

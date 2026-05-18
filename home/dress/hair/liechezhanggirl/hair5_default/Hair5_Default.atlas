@@ -1,0 +1,76 @@
+
+Hair5_Default.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+R_hairc_01
+  rotate: false
+  xy: 2, 150
+  size: 219, 183
+  orig: 451, 450
+  offset: 105, 233
+  index: -1
+R_hairc_02
+  rotate: false
+  xy: 439, 332
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+fringe_01_hat
+  rotate: false
+  xy: 439, 332
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+fringe_01_tang_hat
+  rotate: false
+  xy: 439, 332
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hairc_02
+  rotate: false
+  xy: 439, 332
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hairc_02_tang
+  rotate: false
+  xy: 439, 332
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+fringe_01
+  rotate: true
+  xy: 2, 11
+  size: 137, 147
+  orig: 451, 450
+  offset: 158, 238
+  index: -1
+fringe_01_tang
+  rotate: true
+  xy: 385, 52
+  size: 101, 95
+  orig: 448, 447
+  offset: 243, 84
+  index: -1
+hairc_01
+  rotate: false
+  xy: 223, 155
+  size: 214, 178
+  orig: 451, 450
+  offset: 107, 232
+  index: -1
+hairc_01_tang
+  rotate: true
+  xy: 223, 2
+  size: 151, 160
+  orig: 448, 447
+  offset: 210, 25
+  index: -1

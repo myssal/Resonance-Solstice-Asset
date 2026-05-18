@@ -1,0 +1,76 @@
+
+Hair2_Default.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+R_hairc_01
+  rotate: false
+  xy: 2, 294
+  size: 193, 160
+  orig: 451, 450
+  offset: 120, 269
+  index: -1
+R_hairc_02
+  rotate: false
+  xy: 149, 3
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+fringe_01_hat
+  rotate: false
+  xy: 149, 3
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+fringe_01_tang_hat
+  rotate: false
+  xy: 149, 3
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hairc_02
+  rotate: false
+  xy: 149, 3
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hairc_02_tang
+  rotate: false
+  xy: 149, 3
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+fringe_01
+  rotate: true
+  xy: 2, 2
+  size: 139, 145
+  orig: 451, 450
+  offset: 152, 282
+  index: -1
+fringe_01_tang
+  rotate: true
+  xy: 196, 187
+  size: 105, 104
+  orig: 448, 447
+  offset: 239, 94
+  index: -1
+hairc_01
+  rotate: false
+  xy: 2, 143
+  size: 192, 149
+  orig: 451, 450
+  offset: 119, 266
+  index: -1
+hairc_01_tang
+  rotate: true
+  xy: 149, 6
+  size: 135, 119
+  orig: 448, 447
+  offset: 227, 68
+  index: -1

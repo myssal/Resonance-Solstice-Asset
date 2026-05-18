@@ -1,0 +1,76 @@
+
+Hair3_Hat.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+R_hairc_01
+  rotate: false
+  xy: 2, 13
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+fringe_01
+  rotate: false
+  xy: 2, 13
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+fringe_01_tang
+  rotate: false
+  xy: 2, 13
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hairc_01
+  rotate: false
+  xy: 2, 13
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hairc_01_tang
+  rotate: false
+  xy: 2, 13
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+R_hairc_02
+  rotate: false
+  xy: 2, 137
+  size: 202, 132
+  orig: 448, 447
+  offset: 114, 260
+  index: -1
+fringe_01_hat
+  rotate: true
+  xy: 134, 2
+  size: 133, 112
+  orig: 451, 450
+  offset: 157, 278
+  index: -1
+fringe_01_tang_hat
+  rotate: true
+  xy: 201, 271
+  size: 95, 84
+  orig: 448, 447
+  offset: 239, 89
+  index: -1
+hairc_02
+  rotate: false
+  xy: 2, 271
+  size: 197, 142
+  orig: 448, 447
+  offset: 112, 265
+  index: -1
+hairc_02_tang
+  rotate: false
+  xy: 2, 16
+  size: 130, 119
+  orig: 448, 447
+  offset: 221, 56
+  index: -1
