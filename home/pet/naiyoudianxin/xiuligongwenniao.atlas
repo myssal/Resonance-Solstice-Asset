@@ -1,0 +1,286 @@
+
+xiuligongwenniao.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bshenti
+  rotate: false
+  xy: 640, 258
+  size: 215, 192
+  orig: 758, 758
+  offset: 278, 250
+  index: -1
+Bshenti_1
+  rotate: false
+  xy: 402, 108
+  size: 222, 72
+  orig: 758, 758
+  offset: 280, 378
+  index: -1
+Bshenti_2
+  rotate: true
+  xy: 1893, 57
+  size: 127, 134
+  orig: 758, 758
+  offset: 424, 336
+  index: -1
+Btou
+  rotate: false
+  xy: 211, 103
+  size: 151, 105
+  orig: 758, 758
+  offset: 320, 396
+  index: -1
+Btou_2
+  rotate: true
+  xy: 1696, 218
+  size: 312, 232
+  orig: 758, 758
+  offset: 250, 369
+  index: -1
+Bweiba
+  rotate: false
+  xy: 953, 69
+  size: 115, 73
+  orig: 758, 758
+  offset: 233, 281
+  index: -1
+Byouchibang1
+  rotate: false
+  xy: 787, 121
+  size: 164, 135
+  orig: 758, 758
+  offset: 432, 312
+  index: -1
+Byouchibang2
+  rotate: true
+  xy: 1756, 92
+  size: 125, 135
+  orig: 758, 758
+  offset: 373, 278
+  index: -1
+Byoutui
+  rotate: true
+  xy: 626, 103
+  size: 155, 160
+  orig: 758, 758
+  offset: 347, 160
+  index: -1
+Bzuochibang1
+  rotate: false
+  xy: 1611, 124
+  size: 143, 130
+  orig: 758, 758
+  offset: 192, 315
+  index: -1
+Bzuochibang2
+  rotate: false
+  xy: 1320, 78
+  size: 126, 120
+  orig: 758, 758
+  offset: 258, 297
+  index: -1
+Bzuotui
+  rotate: true
+  xy: 1448, 120
+  size: 159, 162
+  orig: 758, 758
+  offset: 267, 164
+  index: -1
+Sshenti
+  rotate: false
+  xy: 211, 210
+  size: 238, 160
+  orig: 758, 758
+  offset: 254, 224
+  index: -1
+Sshenti_1
+  rotate: true
+  xy: 1919, 185
+  size: 211, 127
+  orig: 758, 758
+  offset: 269, 261
+  index: -1
+Stou
+  rotate: false
+  xy: 955, 144
+  size: 189, 139
+  orig: 758, 758
+  offset: 276, 337
+  index: -1
+Sweiba
+  rotate: false
+  xy: 291, 57
+  size: 64, 44
+  orig: 758, 758
+  offset: 213, 269
+  index: -1
+Syouchibang
+  rotate: 270
+  xy: 846, 502
+  size: 322, 303
+  orig: 758, 758
+  offset: 294, 164
+  index: -1
+Szuochibang
+  rotate: 270
+  xy: 1146, 197
+  size: 309, 304
+  orig: 758, 758
+  offset: 146, 172
+  index: -1
+face1
+  rotate: false
+  xy: 61, 44
+  size: 118, 65
+  orig: 758, 758
+  offset: 335, 394
+  index: -1
+face2
+  rotate: false
+  xy: 1610, 56
+  size: 118, 66
+  orig: 758, 758
+  offset: 329, 394
+  index: -1
+face3
+  rotate: false
+  xy: 364, 43
+  size: 118, 65
+  orig: 758, 758
+  offset: 335, 394
+  index: -1
+face4
+  rotate: false
+  xy: 1928, 412
+  size: 118, 73
+  orig: 758, 758
+  offset: 335, 386
+  index: -1
+face5
+  rotate: false
+  xy: 1200, 102
+  size: 118, 94
+  orig: 758, 758
+  offset: 335, 394
+  index: -1
+face6
+  rotate: false
+  xy: 484, 41
+  size: 118, 65
+  orig: 758, 758
+  offset: 335, 394
+  index: -1
+face7
+  rotate: false
+  xy: 786, 53
+  size: 118, 66
+  orig: 758, 758
+  offset: 335, 394
+  index: -1
+face8
+  rotate: false
+  xy: 181, 40
+  size: 108, 61
+  orig: 758, 758
+  offset: 339, 333
+  index: -1
+face9
+  rotate: false
+  xy: 1490, 52
+  size: 118, 66
+  orig: 758, 758
+  offset: 335, 394
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 372
+  size: 531, 452
+  orig: 758, 758
+  offset: 118, 123
+  index: -1
+shenti_1
+  rotate: false
+  xy: 18, 107
+  size: 192, 71
+  orig: 758, 758
+  offset: 292, 355
+  index: -1
+shenti_2
+  rotate: 270
+  xy: 680, 4
+  size: 99, 114
+  orig: 758, 758
+  offset: 259, 344
+  index: -1
+shenti_3
+  rotate: 180
+  xy: 1089, 54
+  size: 118, 92
+  orig: 758, 758
+  offset: 356, 307
+  index: -1
+tou
+  rotate: false
+  xy: 856, 273
+  size: 290, 230
+  orig: 758, 758
+  offset: 242, 335
+  index: -1
+tou_2
+  rotate: false
+  xy: 1460, 263
+  size: 266, 236
+  orig: 758, 758
+  offset: 251, 375
+  index: -1
+weiba
+  rotate: false
+  xy: 573, 395
+  size: 65, 54
+  orig: 758, 758
+  offset: 228, 300
+  index: -1
+youchibang1
+  rotate: 270
+  xy: 1745, 526
+  size: 298, 271
+  orig: 758, 758
+  offset: 356, 255
+  index: -1
+youchibang2
+  rotate: 270
+  xy: 1150, 503
+  size: 322, 302
+  orig: 758, 758
+  offset: 265, 222
+  index: -1
+youjiao
+  rotate: 180
+  xy: 2, 178
+  size: 209, 198
+  orig: 758, 758
+  offset: 313, 147
+  index: -1
+zuochibang1
+  rotate: true
+  xy: 533, 451
+  size: 374, 315
+  orig: 758, 758
+  offset: 63, 236
+  index: -1
+zuochibang2
+  rotate: 270
+  xy: 1451, 500
+  size: 325, 296
+  orig: 758, 758
+  offset: 141, 214
+  index: -1
+zuojiao
+  rotate: true
+  xy: 451, 180
+  size: 191, 177
+  orig: 758, 758
+  offset: 247, 143
+  index: -1

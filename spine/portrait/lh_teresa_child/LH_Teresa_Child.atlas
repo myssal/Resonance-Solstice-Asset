@@ -1,0 +1,398 @@
+
+LH_Teresa_Child.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dns_0
+  rotate: false
+  xy: 895, 865
+  size: 101, 93
+  orig: 101, 93
+  offset: 0, 0
+  index: -1
+dns_1
+  rotate: false
+  xy: 834, 1991
+  size: 49, 56
+  orig: 49, 56
+  offset: 0, 0
+  index: -1
+dns_10
+  rotate: true
+  xy: 932, 1216
+  size: 168, 40
+  orig: 168, 40
+  offset: 0, 0
+  index: -1
+dns_11
+  rotate: false
+  xy: 608, 1428
+  size: 339, 258
+  orig: 340, 258
+  offset: 0, 0
+  index: -1
+dns_12
+  rotate: false
+  xy: 721, 1762
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dns_13
+  rotate: false
+  xy: 856, 1920
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+dns_14
+  rotate: false
+  xy: 637, 1843
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+dns_15
+  rotate: false
+  xy: 880, 1370
+  size: 122, 127
+  orig: 132, 127
+  offset: 0, 0
+  index: -1
+dns_16
+  rotate: false
+  xy: 942, 634
+  size: 37, 105
+  orig: 37, 105
+  offset: 0, 0
+  index: -1
+dns_17
+  rotate: false
+  xy: 900, 623
+  size: 111, 188
+  orig: 111, 188
+  offset: 0, 0
+  index: -1
+dns_18
+  rotate: false
+  xy: 608, 1890
+  size: 90, 156
+  orig: 90, 156
+  offset: 0, 0
+  index: -1
+dns_19
+  rotate: false
+  xy: 608, 1807
+  size: 31, 55
+  orig: 31, 55
+  offset: 0, 0
+  index: -1
+dns_2
+  rotate: false
+  xy: 908, 493
+  size: 67, 141
+  orig: 67, 141
+  offset: 0, 0
+  index: -1
+dns_20
+  rotate: false
+  xy: 634, 1585
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+dns_21
+  rotate: false
+  xy: 608, 2001
+  size: 20, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+dns_22
+  rotate: false
+  xy: 608, 1883
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+dns_23
+  rotate: false
+  xy: 774, 1839
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+dns_24
+  rotate: false
+  xy: 924, 2
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+dns_25
+  rotate: false
+  xy: 748, 1944
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+dns_26
+  rotate: false
+  xy: 739, 1927
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+dns_27
+  rotate: false
+  xy: 608, 1693
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+dns_28
+  rotate: false
+  xy: 673, 1547
+  size: 56, 47
+  orig: 57, 47
+  offset: 0, 0
+  index: -1
+dns_29
+  rotate: false
+  xy: 740, 1405
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+dns_3
+  rotate: false
+  xy: 608, 1430
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
+dns_30
+  rotate: false
+  xy: 728, 1370
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+dns_31
+  rotate: false
+  xy: 916, 814
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+dns_32
+  rotate: false
+  xy: 910, 1860
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+dns_33
+  rotate: false
+  xy: 608, 2019
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+dns_34
+  rotate: false
+  xy: 827, 1721
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+dns_35
+  rotate: false
+  xy: 879, 1894
+  size: 103, 61
+  orig: 103, 61
+  offset: 0, 0
+  index: -1
+dns_36
+  rotate: false
+  xy: 783, 3
+  size: 197, 245
+  orig: 197, 245
+  offset: 0, 0
+  index: -1
+dns_37
+  rotate: false
+  xy: 898, 248
+  size: 76, 74
+  orig: 76, 74
+  offset: 0, 0
+  index: -1
+dns_38
+  rotate: true
+  xy: 608, 1395
+  size: 152, 132
+  orig: 152, 132
+  offset: 0, 0
+  index: -1
+dns_39
+  rotate: false
+  xy: 748, 1746
+  size: 190, 163
+  orig: 190, 163
+  offset: 0, 0
+  index: -1
+dns_4
+  rotate: false
+  xy: 803, 654
+  size: 112, 244
+  orig: 112, 244
+  offset: 0, 0
+  index: -1
+dns_40
+  rotate: false
+  xy: 880, 1749
+  size: 115, 91
+  orig: 115, 91
+  offset: 0, 0
+  index: -1
+dns_41
+  rotate: false
+  xy: 843, 1946
+  size: 130, 101
+  orig: 130, 101
+  offset: 0, 0
+  index: -1
+dns_42
+  rotate: false
+  xy: 608, 1377
+  size: 277, 230
+  orig: 277, 230
+  offset: 0, 0
+  index: -1
+dns_43
+  rotate: false
+  xy: 2, 1047
+  size: 604, 999
+  orig: 604, 999
+  offset: 0, 0
+  index: -1
+dns_43_2
+  rotate: false
+  xy: 608, 1114
+  size: 322, 254
+  orig: 322, 254
+  offset: 0, 0
+  index: -1
+dns_44
+  rotate: false
+  xy: 544, 653
+  size: 425, 459
+  orig: 425, 459
+  offset: 0, 0
+  index: -1
+dns_45
+  rotate: false
+  xy: 608, 1582
+  size: 305, 465
+  orig: 305, 465
+  offset: 0, 0
+  index: -1
+dns_46
+  rotate: true
+  xy: 604, 3
+  size: 488, 411
+  orig: 488, 411
+  offset: 0, 0
+  index: -1
+dns_47
+  rotate: false
+  xy: 544, 360
+  size: 355, 291
+  orig: 357, 292
+  offset: 2, 1
+  index: -1
+dns_48
+  rotate: false
+  xy: 608, 1378
+  size: 82, 52
+  orig: 82, 55
+  offset: 0, 3
+  index: -1
+dns_49
+  rotate: false
+  xy: 922, 1684
+  size: 50, 79
+  orig: 50, 79
+  offset: 0, 0
+  index: -1
+dns_5
+  rotate: false
+  xy: 766, 1823
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+dns_50
+  rotate: false
+  xy: 608, 1862
+  size: 137, 91
+  orig: 138, 91
+  offset: 0, 0
+  index: -1
+dns_51
+  rotate: false
+  xy: 873, 1531
+  size: 121, 15
+  orig: 121, 23
+  offset: 0, 8
+  index: -1
+dns_52
+  rotate: false
+  xy: 693, 1961
+  size: 85, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+dns_53
+  rotate: false
+  xy: 783, 1840
+  size: 64, 61
+  orig: 64, 61
+  offset: 0, 0
+  index: -1
+dns_54
+  rotate: false
+  xy: 2, 176
+  size: 540, 869
+  orig: 540, 870
+  offset: 0, 0
+  index: -1
+dns_6
+  rotate: false
+  xy: 927, 1073
+  size: 56, 151
+  orig: 56, 151
+  offset: 0, 0
+  index: -1
+dns_7
+  rotate: false
+  xy: 861, 1544
+  size: 125, 250
+  orig: 125, 250
+  offset: 0, 0
+  index: -1
+dns_8
+  rotate: false
+  xy: 608, 1615
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+dns_9
+  rotate: false
+  xy: 699, 1946
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
