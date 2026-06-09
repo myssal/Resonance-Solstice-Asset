@@ -1,0 +1,111 @@
+
+DorothyRosymorn_bot.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CT_01
+  rotate: false
+  xy: 5, 142
+  size: 304, 200
+  orig: 304, 200
+  offset: 0, 0
+  index: -1
+CT_01_02
+  rotate: false
+  xy: 765, 48
+  size: 83, 100
+  orig: 83, 100
+  offset: 0, 0
+  index: -1
+CT_02
+  rotate: false
+  xy: 313, 159
+  size: 180, 183
+  orig: 180, 183
+  offset: 0, 0
+  index: -1
+CT_QCG01
+  rotate: false
+  xy: 852, 83
+  size: 131, 50
+  orig: 131, 50
+  offset: 0, 0
+  index: -1
+CT_QCG02
+  rotate: false
+  xy: 852, 29
+  size: 98, 50
+  orig: 98, 50
+  offset: 0, 0
+  index: -1
+CT_QCL01
+  rotate: false
+  xy: 161, 46
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+CX_01
+  rotate: false
+  xy: 313, 35
+  size: 188, 120
+  orig: 188, 120
+  offset: 0, 0
+  index: -1
+CX_02
+  rotate: true
+  xy: 759, 152
+  size: 190, 122
+  orig: 190, 122
+  offset: 0, 0
+  index: -1
+CX_HCL01
+  rotate: false
+  xy: 670, 41
+  size: 91, 92
+  orig: 91, 92
+  offset: 0, 0
+  index: -1
+LCZ_01
+  rotate: true
+  xy: 5, 6
+  size: 132, 152
+  orig: 132, 152
+  offset: 0, 0
+  index: -1
+LCZ_02
+  rotate: true
+  xy: 954, 5
+  size: 74, 66
+  orig: 74, 66
+  offset: 0, 0
+  index: -1
+WO_01
+  rotate: true
+  xy: 505, 10
+  size: 123, 161
+  orig: 123, 161
+  offset: 0, 0
+  index: -1
+WO_02
+  rotate: false
+  xy: 885, 137
+  size: 112, 205
+  orig: 112, 205
+  offset: 0, 0
+  index: -1
+WO_03
+  rotate: false
+  xy: 497, 162
+  size: 139, 180
+  orig: 139, 180
+  offset: 0, 0
+  index: -1
+WO_04
+  rotate: false
+  xy: 640, 137
+  size: 115, 205
+  orig: 115, 205
+  offset: 0, 0
+  index: -1
