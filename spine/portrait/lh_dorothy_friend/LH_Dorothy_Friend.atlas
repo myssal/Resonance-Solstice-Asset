@@ -1,0 +1,13 @@
+
+LH_Dorothy_Friend.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cg
+  rotate: false
+  xy: 2, 2
+  size: 2337, 1080
+  orig: 2337, 1080
+  offset: 0, 0
+  index: -1

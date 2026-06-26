@@ -1,0 +1,153 @@
+
+DorothyRosymorn_Child_bot.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CT_01
+  rotate: false
+  xy: 5, 246
+  size: 279, 177
+  orig: 279, 177
+  offset: 0, 0
+  index: -1
+CT_01_02
+  rotate: false
+  xy: 596, 37
+  size: 62, 79
+  orig: 62, 79
+  offset: 0, 0
+  index: -1
+CT_01_02_hong
+  rotate: false
+  xy: 868, 28
+  size: 72, 52
+  orig: 72, 52
+  offset: 0, 0
+  index: -1
+CT_02
+  rotate: true
+  xy: 498, 120
+  size: 158, 162
+  orig: 158, 162
+  offset: 0, 0
+  index: -1
+CT_QCG01
+  rotate: false
+  xy: 521, 5
+  size: 109, 28
+  orig: 109, 28
+  offset: 0, 0
+  index: -1
+CT_QCG02
+  rotate: false
+  xy: 197, 137
+  size: 77, 29
+  orig: 77, 29
+  offset: 0, 0
+  index: -1
+CT_QCL01
+  rotate: false
+  xy: 521, 45
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+CX_01
+  rotate: false
+  xy: 197, 20
+  size: 168, 102
+  orig: 168, 102
+  offset: 0, 0
+  index: -1
+CX_01_guang
+  rotate: false
+  xy: 5, 122
+  size: 188, 120
+  orig: 188, 120
+  offset: 0, 0
+  index: -1
+CX_02
+  rotate: false
+  xy: 5, 16
+  size: 168, 102
+  orig: 168, 102
+  offset: 0, 0
+  index: -1
+CX_HCL01
+  rotate: false
+  xy: 197, 170
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+LCZ_01
+  rotate: false
+  xy: 664, 24
+  size: 120, 134
+  orig: 120, 134
+  offset: 0, 0
+  index: -1
+LCZ_02
+  rotate: false
+  xy: 788, 16
+  size: 76, 64
+  orig: 76, 64
+  offset: 0, 0
+  index: -1
+WO_01
+  rotate: true
+  xy: 369, 11
+  size: 105, 148
+  orig: 105, 148
+  offset: 0, 0
+  index: -1
+WO_01_guang
+  rotate: true
+  xy: 288, 126
+  size: 123, 166
+  orig: 123, 166
+  offset: 0, 0
+  index: -1
+WO_02
+  rotate: true
+  xy: 830, 84
+  size: 93, 189
+  orig: 93, 189
+  offset: 0, 0
+  index: -1
+WO_02_guang
+  rotate: true
+  xy: 498, 282
+  size: 141, 231
+  orig: 141, 231
+  offset: 0, 0
+  index: -1
+WO_03
+  rotate: true
+  xy: 664, 162
+  size: 116, 162
+  orig: 116, 162
+  offset: 0, 0
+  index: -1
+WO_03_guang
+  rotate: true
+  xy: 288, 253
+  size: 170, 206
+  orig: 170, 206
+  offset: 0, 0
+  index: -1
+WO_04
+  rotate: true
+  xy: 830, 181
+  size: 97, 188
+  orig: 97, 188
+  offset: 0, 0
+  index: -1
+WO_04_guang
+  rotate: true
+  xy: 733, 282
+  size: 141, 220
+  orig: 141, 220
+  offset: 0, 0
+  index: -1

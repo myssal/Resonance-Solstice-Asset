@@ -1,0 +1,356 @@
+
+IlonaTwilight.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HF_01
+  rotate: 180
+  xy: 826, 112
+  size: 169, 139
+  orig: 180, 150
+  offset: 6, 7
+  index: -1
+HF_02
+  rotate: true
+  xy: 337, 17
+  size: 49, 52
+  orig: 49, 52
+  offset: 0, 0
+  index: -1
+HF_03
+  rotate: false
+  xy: 651, 18
+  size: 51, 43
+  orig: 61, 55
+  offset: 5, 6
+  index: -1
+QF_01
+  rotate: 270
+  xy: 818, 57
+  size: 60, 84
+  orig: 70, 93
+  offset: 6, 5
+  index: -1
+QF_02
+  rotate: 270
+  xy: 233, 7
+  size: 62, 77
+  orig: 68, 84
+  offset: 2, 5
+  index: -1
+QF_03
+  rotate: 270
+  xy: 487, 24
+  size: 62, 87
+  orig: 70, 96
+  offset: 6, 5
+  index: -1
+QF_04
+  rotate: 270
+  xy: 822, 8
+  size: 54, 69
+  orig: 63, 80
+  offset: 5, 6
+  index: -1
+QF_05
+  rotate: false
+  xy: 107, 150
+  size: 70, 83
+  orig: 70, 83
+  offset: 0, 0
+  index: -1
+QF_06
+  rotate: false
+  xy: 579, 135
+  size: 42, 55
+  orig: 53, 63
+  offset: 5, 5
+  index: -1
+WQ_hua
+  rotate: false
+  xy: 579, 125
+  size: 151, 129
+  orig: 151, 129
+  offset: 0, 0
+  index: -1
+WQ_qiang01
+  rotate: false
+  xy: 5, 237
+  size: 307, 91
+  orig: 307, 91
+  offset: 0, 0
+  index: -1
+WQ_qiang02_01
+  rotate: false
+  xy: 870, 520
+  size: 122, 166
+  orig: 122, 166
+  offset: 0, 0
+  index: -1
+WQ_qiang02_02
+  rotate: false
+  xy: 624, 219
+  size: 229, 198
+  orig: 229, 198
+  offset: 0, 0
+  index: -1
+WQ_qiang02_03
+  rotate: true
+  xy: 857, 254
+  size: 163, 153
+  orig: 163, 153
+  offset: 0, 0
+  index: -1
+WQ_qiang02_04
+  rotate: false
+  xy: 369, 208
+  size: 206, 182
+  orig: 206, 182
+  offset: 0, 0
+  index: -1
+WQ_qiang03
+  rotate: false
+  xy: 5, 332
+  size: 360, 354
+  orig: 360, 354
+  offset: 0, 0
+  index: -1
+WQ_qiang04
+  rotate: true
+  xy: 624, 421
+  size: 265, 242
+  orig: 265, 242
+  offset: 0, 0
+  index: -1
+YS_01
+  rotate: true
+  xy: 711, 31
+  size: 47, 56
+  orig: 47, 56
+  offset: 0, 0
+  index: -1
+YS_02
+  rotate: false
+  xy: 503, 129
+  size: 72, 75
+  orig: 72, 75
+  offset: 0, 0
+  index: -1
+YS_03_01
+  rotate: true
+  xy: 905, 20
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+YT_01
+  rotate: true
+  xy: 727, 82
+  size: 52, 87
+  orig: 52, 87
+  offset: 0, 0
+  index: -1
+YT_02
+  rotate: true
+  xy: 353, 70
+  size: 50, 86
+  orig: 50, 86
+  offset: 0, 0
+  index: -1
+ZS_01
+  rotate: true
+  xy: 175, 20
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+ZS_02
+  rotate: false
+  xy: 734, 138
+  size: 72, 77
+  orig: 72, 77
+  offset: 0, 0
+  index: -1
+ZS_03_01
+  rotate: false
+  xy: 771, 23
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+ZT_01
+  rotate: true
+  xy: 107, 87
+  size: 59, 87
+  orig: 59, 87
+  offset: 0, 0
+  index: -1
+ZT_02
+  rotate: true
+  xy: 5, 86
+  size: 53, 89
+  orig: 53, 89
+  offset: 0, 0
+  index: -1
+biaoqing_01
+  rotate: false
+  xy: 941, 69
+  size: 79, 51
+  orig: 79, 51
+  offset: 0, 0
+  index: -1
+biaoqing_02
+  rotate: false
+  xy: 198, 72
+  size: 79, 52
+  orig: 79, 52
+  offset: 0, 0
+  index: -1
+biaoqing_03
+  rotate: true
+  xy: 316, 252
+  size: 76, 47
+  orig: 76, 47
+  offset: 0, 0
+  index: -1
+biaoqing_04
+  rotate: false
+  xy: 98, 41
+  size: 73, 42
+  orig: 73, 42
+  offset: 0, 0
+  index: -1
+biaoqing_05
+  rotate: true
+  xy: 181, 158
+  size: 75, 42
+  orig: 75, 42
+  offset: 0, 0
+  index: -1
+biaoqing_06
+  rotate: false
+  xy: 5, 45
+  size: 75, 37
+  orig: 75, 37
+  offset: 0, 0
+  index: -1
+gaoguang
+  rotate: false
+  xy: 464, 72
+  size: 85, 53
+  orig: 85, 53
+  offset: 0, 0
+  index: -1
+heiying
+  rotate: false
+  xy: 369, 394
+  size: 251, 292
+  orig: 251, 292
+  offset: 0, 0
+  index: -1
+huaibiao
+  rotate: false
+  xy: 281, 56
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+hudiejieda
+  rotate: true
+  xy: 232, 112
+  size: 124, 135
+  orig: 135, 145
+  offset: 5, 5
+  index: -1
+jian
+  rotate: false
+  xy: 957, 15
+  size: 55, 51
+  orig: 68, 61
+  offset: 6, 5
+  index: -1
+lian
+  rotate: false
+  xy: 5, 143
+  size: 98, 90
+  orig: 98, 90
+  offset: 0, 0
+  index: -1
+lingjie
+  rotate: false
+  xy: 579, 341
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 870, 435
+  size: 115, 81
+  orig: 115, 81
+  offset: 0, 0
+  index: -1
+meimao_01
+  rotate: false
+  xy: 573, 32
+  size: 74, 27
+  orig: 74, 27
+  offset: 0, 0
+  index: -1
+meimao_02
+  rotate: false
+  xy: 5, 12
+  size: 67, 29
+  orig: 67, 29
+  offset: 0, 0
+  index: -1
+meimao_03
+  rotate: false
+  xy: 76, 10
+  size: 71, 27
+  orig: 71, 27
+  offset: 0, 0
+  index: -1
+meimao_04
+  rotate: false
+  xy: 76, 10
+  size: 71, 27
+  orig: 71, 27
+  offset: 0, 0
+  index: -1
+meimao_05
+  rotate: false
+  xy: 76, 10
+  size: 71, 27
+  orig: 71, 27
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 364, 124
+  size: 134, 81
+  orig: 135, 92
+  offset: 0, 6
+  index: -1
+shenti
+  rotate: false
+  xy: 393, 18
+  size: 57, 50
+  orig: 69, 62
+  offset: 7, 7
+  index: -1
+toushi01
+  rotate: false
+  xy: 579, 63
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+toushi02
+  rotate: false
+  xy: 650, 64
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
