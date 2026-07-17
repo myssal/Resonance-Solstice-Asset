@@ -1,0 +1,48 @@
+
+TSheri_bot01.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fangzi_yanwu
+  rotate: false
+  xy: 1909, 267
+  size: 113, 118
+  orig: 128, 128
+  offset: 7, 5
+  index: -1
+huochetou02
+  rotate: false
+  xy: 2, 2
+  size: 1508, 1137
+  orig: 1531, 1157
+  offset: 13, 10
+  index: -1
+huochetou03
+  rotate: true
+  xy: 1512, 387
+  size: 752, 463
+  orig: 772, 483
+  offset: 10, 10
+  index: -1
+huochetou04
+  rotate: false
+  xy: 1798, 202
+  size: 109, 183
+  orig: 129, 203
+  offset: 10, 10
+  index: -1
+huochetou05
+  rotate: false
+  xy: 1512, 193
+  size: 169, 192
+  orig: 189, 212
+  offset: 10, 10
+  index: -1
+huochetou06
+  rotate: false
+  xy: 1683, 172
+  size: 113, 213
+  orig: 133, 234
+  offset: 10, 10
+  index: -1
