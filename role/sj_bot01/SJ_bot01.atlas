@@ -1,0 +1,167 @@
+
+SJ_bot01.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bot_ST_01
+  rotate: true
+  xy: 5, 5
+  size: 93, 98
+  orig: 93, 106
+  offset: 0, 8
+  index: -1
+Bot_ST_02
+  rotate: true
+  xy: 602, 17
+  size: 93, 56
+  orig: 105, 70
+  offset: 6, 7
+  index: -1
+Bot_T_01
+  rotate: false
+  xy: 383, 23
+  size: 154, 146
+  orig: 160, 149
+  offset: 0, 0
+  index: -1
+Bot_T_02
+  rotate: false
+  xy: 272, 29
+  size: 95, 53
+  orig: 95, 53
+  offset: 0, 0
+  index: -1
+Bot_YS_01
+  rotate: false
+  xy: 603, 321
+  size: 51, 75
+  orig: 51, 75
+  offset: 0, 0
+  index: -1
+Bot_YS_02
+  rotate: false
+  xy: 658, 321
+  size: 56, 67
+  orig: 56, 67
+  offset: 0, 0
+  index: -1
+Bot_YS_03
+  rotate: false
+  xy: 718, 307
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+Bot_YS_03_2
+  rotate: false
+  xy: 665, 239
+  size: 51, 64
+  orig: 51, 64
+  offset: 0, 0
+  index: -1
+Bot_YS_03_3
+  rotate: false
+  xy: 660, 96
+  size: 53, 69
+  orig: 53, 69
+  offset: 0, 0
+  index: -1
+Bot_YT_01
+  rotate: false
+  xy: 106, 6
+  size: 67, 92
+  orig: 67, 92
+  offset: 0, 0
+  index: -1
+Bot_YT_02
+  rotate: true
+  xy: 177, 23
+  size: 59, 91
+  orig: 59, 91
+  offset: 0, 0
+  index: -1
+Bot_ZS_01
+  rotate: false
+  xy: 665, 169
+  size: 50, 66
+  orig: 50, 66
+  offset: 0, 0
+  index: -1
+Bot_ZS_02
+  rotate: false
+  xy: 603, 248
+  size: 58, 69
+  orig: 58, 69
+  offset: 0, 0
+  index: -1
+Bot_ZS_02_02
+  rotate: false
+  xy: 724, 42
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+Bot_ZS_02_2
+  rotate: false
+  xy: 603, 171
+  size: 58, 73
+  orig: 58, 73
+  offset: 0, 0
+  index: -1
+Bot_ZS_03
+  rotate: false
+  xy: 719, 141
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+Bot_ZS_03_2
+  rotate: true
+  xy: 717, 85
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+Bot_ZS_03_3
+  rotate: true
+  xy: 661, 20
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+Bot_ZT_01
+  rotate: true
+  xy: 540, 109
+  size: 58, 87
+  orig: 58, 87
+  offset: 0, 0
+  index: -1
+Bot_ZT_02
+  rotate: false
+  xy: 540, 16
+  size: 58, 89
+  orig: 58, 89
+  offset: 0, 0
+  index: -1
+lanyin_1
+  rotate: false
+  xy: 383, 172
+  size: 216, 225
+  orig: 216, 225
+  offset: 0, 0
+  index: -1
+lanyin_3
+  rotate: false
+  xy: 5, 102
+  size: 194, 295
+  orig: 194, 295
+  offset: 0, 0
+  index: -1
+lanyin_5
+  rotate: false
+  xy: 203, 86
+  size: 176, 311
+  orig: 176, 311
+  offset: 0, 0
+  index: -1

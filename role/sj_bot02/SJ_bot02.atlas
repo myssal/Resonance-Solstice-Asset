@@ -1,0 +1,48 @@
+
+SJ_bot02.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+WYH_01
+  rotate: false
+  xy: 5, 575
+  size: 1075, 573
+  orig: 1075, 573
+  offset: 0, 0
+  index: -1
+WYH_02
+  rotate: false
+  xy: 5, 5
+  size: 653, 566
+  orig: 653, 566
+  offset: 0, 0
+  index: -1
+WYH_03
+  rotate: false
+  xy: 1084, 563
+  size: 832, 585
+  orig: 832, 585
+  offset: 0, 0
+  index: -1
+WYH_wuqi01
+  rotate: false
+  xy: 662, 440
+  size: 354, 131
+  orig: 354, 131
+  offset: 0, 0
+  index: -1
+WYH_wuqi02
+  rotate: false
+  xy: 662, 170
+  size: 353, 131
+  orig: 353, 131
+  offset: 0, 0
+  index: -1
+WYH_wuqi03
+  rotate: false
+  xy: 662, 305
+  size: 354, 131
+  orig: 354, 131
+  offset: 0, 0
+  index: -1
