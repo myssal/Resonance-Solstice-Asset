@@ -1,0 +1,20 @@
+
+BOSS_Nikita_bot02.png
+size: 512,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chushouC
+  rotate: false
+  xy: 5, 5
+  size: 199, 1280
+  orig: 312, 1280
+  offset: 46, 0
+  index: -1
+chushouC_tx
+  rotate: 180
+  xy: 169, 5
+  size: 199, 1280
+  orig: 312, 1280
+  offset: 46, 0
+  index: -1

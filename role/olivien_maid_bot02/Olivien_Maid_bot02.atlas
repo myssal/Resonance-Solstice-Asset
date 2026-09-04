@@ -1,0 +1,90 @@
+
+Olivien_Maid_bot02.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_1
+  rotate: true
+  xy: 352, 64
+  size: 66, 49
+  orig: 66, 49
+  offset: 0, 0
+  index: -1
+1_2
+  rotate: false
+  xy: 4, 134
+  size: 399, 64
+  orig: 399, 120
+  offset: 0, 0
+  index: -1
+1_3
+  rotate: true
+  xy: 215, 5
+  size: 45, 57
+  orig: 45, 57
+  offset: 0, 0
+  index: -1
+2_1
+  rotate: false
+  xy: 405, 73
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+2_2
+  rotate: false
+  xy: 67, 6
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+2_3
+  rotate: false
+  xy: 136, 51
+  size: 104, 84
+  orig: 108, 86
+  offset: 2, 0
+  index: -1
+2_3_1
+  rotate: false
+  xy: 244, 49
+  size: 104, 84
+  orig: 108, 86
+  offset: 2, 0
+  index: -1
+2_4
+  rotate: false
+  xy: 133, 9
+  size: 51, 45
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+2_5
+  rotate: false
+  xy: 407, 134
+  size: 39, 61
+  orig: 39, 61
+  offset: 0, 0
+  index: -1
+3_hu1
+  rotate: 180
+  xy: 376, 16
+  size: 79, 53
+  orig: 79, 53
+  offset: 0, 0
+  index: -1
+3_hu2
+  rotate: false
+  xy: 4, 51
+  size: 128, 83
+  orig: 128, 83
+  offset: 0, 0
+  index: -1
+3_hu3
+  rotate: false
+  xy: 4, 12
+  size: 59, 35
+  orig: 59, 35
+  offset: 0, 0
+  index: -1

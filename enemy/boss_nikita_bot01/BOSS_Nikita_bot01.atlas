@@ -1,0 +1,62 @@
+
+BOSS_Nikita_bot01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bowen_00000
+  rotate: true
+  xy: 231, 161
+  size: 187, 74
+  orig: 187, 74
+  offset: 0, 0
+  index: -1
+bowen_00001
+  rotate: true
+  xy: 309, 161
+  size: 187, 74
+  orig: 187, 74
+  offset: 0, 0
+  index: -1
+bowen_00002
+  rotate: false
+  xy: 79, 83
+  size: 187, 74
+  orig: 187, 74
+  offset: 0, 0
+  index: -1
+bowen_00003
+  rotate: false
+  xy: 270, 83
+  size: 187, 74
+  orig: 187, 74
+  offset: 0, 0
+  index: -1
+bowen_00004
+  rotate: false
+  xy: 65, 5
+  size: 187, 74
+  orig: 187, 74
+  offset: 0, 0
+  index: -1
+bowen_00005
+  rotate: false
+  xy: 256, 5
+  size: 187, 74
+  orig: 187, 74
+  offset: 0, 0
+  index: -1
+chushou
+  rotate: false
+  xy: 5, 42
+  size: 92, 306
+  orig: 108, 306
+  offset: 7, 0
+  index: -1
+dian
+  rotate: false
+  xy: 99, 220
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

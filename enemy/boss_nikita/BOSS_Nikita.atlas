@@ -1,0 +1,202 @@
+
+BOSS_Nikita.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chushou1
+  rotate: true
+  xy: 922, 147
+  size: 98, 73
+  orig: 112, 88
+  offset: 7, 7
+  index: -1
+chushou10
+  rotate: false
+  xy: 771, 10
+  size: 56, 48
+  orig: 71, 67
+  offset: 7, 9
+  index: -1
+chushou1B
+  rotate: true
+  xy: 347, 259
+  size: 100, 61
+  orig: 112, 88
+  offset: 7, 19
+  index: -1
+chushou2
+  rotate: true
+  xy: 308, 9
+  size: 63, 83
+  orig: 77, 98
+  offset: 7, 7
+  index: -1
+chushou2B
+  rotate: true
+  xy: 849, 7
+  size: 62, 70
+  orig: 77, 98
+  offset: 8, 21
+  index: -1
+chushou3
+  rotate: false
+  xy: 347, 362
+  size: 76, 75
+  orig: 76, 75
+  offset: 0, 0
+  index: -1
+chushou4
+  rotate: 270
+  xy: 125, 16
+  size: 63, 97
+  orig: 78, 112
+  offset: 8, 7
+  index: -1
+chushou4 B
+  rotate: 270
+  xy: 226, 10
+  size: 65, 79
+  orig: 78, 112
+  offset: 7, 25
+  index: -1
+chushou5
+  rotate: false
+  xy: 347, 212
+  size: 65, 43
+  orig: 65, 43
+  offset: 0, 0
+  index: -1
+chushou6
+  rotate: false
+  xy: 820, 172
+  size: 72, 124
+  orig: 87, 138
+  offset: 8, 7
+  index: -1
+chushou7
+  rotate: 180
+  xy: 699, 146
+  size: 91, 156
+  orig: 104, 168
+  offset: 6, 6
+  index: -1
+chushou8
+  rotate: false
+  xy: 768, 281
+  size: 88, 140
+  orig: 104, 154
+  offset: 8, 7
+  index: -1
+chushou9
+  rotate: false
+  xy: 889, 222
+  size: 70, 110
+  orig: 83, 124
+  offset: 7, 7
+  index: -1
+chushouC
+  rotate: true
+  xy: 5, 58
+  size: 115, 745
+  orig: 187, 768
+  offset: 36, 14
+  index: -1
+doumao1
+  rotate: 180
+  xy: 647, 302
+  size: 128, 135
+  orig: 142, 150
+  offset: 7, 7
+  index: -1
+doumao2
+  rotate: false
+  xy: 560, 176
+  size: 128, 138
+  orig: 128, 138
+  offset: 0, 0
+  index: -1
+heiying
+  rotate: false
+  xy: 5, 157
+  size: 338, 280
+  orig: 338, 280
+  offset: 0, 0
+  index: -1
+jiandai
+  rotate: false
+  xy: 5, 10
+  size: 35, 26
+  orig: 52, 42
+  offset: 8, 8
+  index: -1
+shenti
+  rotate: 180
+  xy: 770, 60
+  size: 86, 125
+  orig: 100, 141
+  offset: 8, 8
+  index: -1
+xchushou1
+  rotate: true
+  xy: 838, 295
+  size: 143, 70
+  orig: 179, 71
+  offset: 0, 1
+  index: -1
+xchushou2
+  rotate: true
+  xy: 5, 37
+  size: 56, 118
+  orig: 56, 149
+  offset: 0, 31
+  index: -1
+xchushou3
+  rotate: false
+  xy: 888, 60
+  size: 38, 159
+  orig: 38, 187
+  offset: 0, 28
+  index: -1
+youbi
+  rotate: true
+  xy: 673, 22
+  size: 56, 102
+  orig: 70, 114
+  offset: 7, 5
+  index: -1
+ytui1
+  rotate: true
+  xy: 545, 16
+  size: 41, 60
+  orig: 57, 77
+  offset: 8, 9
+  index: -1
+ytui2
+  rotate: true
+  xy: 394, 14
+  size: 43, 73
+  orig: 58, 90
+  offset: 7, 8
+  index: -1
+ztui1
+  rotate: true
+  xy: 608, 15
+  size: 40, 61
+  orig: 57, 78
+  offset: 9, 9
+  index: -1
+ztui2
+  rotate: true
+  xy: 470, 20
+  size: 41, 73
+  orig: 58, 90
+  offset: 8, 8
+  index: -1
+zuobi
+  rotate: false
+  xy: 930, 45
+  size: 61, 98
+  orig: 75, 111
+  offset: 7, 6
+  index: -1

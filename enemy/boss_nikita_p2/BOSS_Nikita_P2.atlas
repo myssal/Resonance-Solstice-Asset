@@ -1,0 +1,202 @@
+
+BOSS_Nikita_P2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+datui1
+  rotate: 270
+  xy: 622, 81
+  size: 116, 153
+  orig: 125, 162
+  offset: 6, 5
+  index: -1
+datui2
+  rotate: 270
+  xy: 1526, 70
+  size: 147, 149
+  orig: 156, 158
+  offset: 4, 6
+  index: -1
+datui3
+  rotate: true
+  xy: 340, 50
+  size: 147, 149
+  orig: 156, 158
+  offset: 4, 6
+  index: -1
+datui4
+  rotate: true
+  xy: 1893, 87
+  size: 116, 153
+  orig: 125, 162
+  offset: 6, 5
+  index: -1
+dead_25
+  rotate: false
+  xy: 2, 198
+  size: 858, 460
+  orig: 955, 744
+  offset: 47, 7
+  index: -1
+fa1
+  rotate: false
+  xy: 736, 10
+  size: 129, 119
+  orig: 138, 129
+  offset: 6, 4
+  index: -1
+fa2
+  rotate: false
+  xy: 976, 22
+  size: 159, 134
+  orig: 168, 143
+  offset: 5, 3
+  index: -1
+fa3
+  rotate: true
+  xy: 490, 27
+  size: 78, 152
+  orig: 88, 164
+  offset: 6, 6
+  index: -1
+fa4
+  rotate: true
+  xy: 1280, 29
+  size: 110, 162
+  orig: 122, 172
+  offset: 6, 4
+  index: -1
+gebo
+  rotate: 180
+  xy: 862, 133
+  size: 599, 211
+  orig: 602, 218
+  offset: 3, 2
+  index: -1
+pijian1
+  rotate: true
+  xy: 774, 119
+  size: 79, 272
+  orig: 89, 274
+  offset: 5, 0
+  index: -1
+pijian2
+  rotate: true
+  xy: 1912, 368
+  size: 76, 127
+  orig: 96, 147
+  offset: 10, 10
+  index: -1
+pijian3
+  rotate: false
+  xy: 472, 114
+  size: 148, 82
+  orig: 168, 102
+  offset: 10, 10
+  index: -1
+pijian4
+  rotate: true
+  xy: 895, 361
+  size: 105, 259
+  orig: 117, 265
+  offset: 4, 3
+  index: -1
+shenti
+  rotate: false
+  xy: 1863, 446
+  size: 140, 214
+  orig: 151, 225
+  offset: 6, 6
+  index: -1
+shenti2
+  rotate: true
+  xy: 1386, 432
+  size: 140, 214
+  orig: 151, 225
+  offset: 6, 6
+  index: -1
+tou
+  rotate: false
+  xy: 1189, 45
+  size: 89, 91
+  orig: 110, 111
+  offset: 11, 10
+  index: -1
+weiba1
+  rotate: false
+  xy: 862, 192
+  size: 505, 468
+  orig: 505, 470
+  offset: 0, 0
+  index: -1
+weiba2
+  rotate: 270
+  xy: 1708, 159
+  size: 500, 304
+  orig: 509, 313
+  offset: 5, 1
+  index: -1
+weiba3
+  rotate: false
+  xy: 1322, 232
+  size: 443, 427
+  orig: 449, 431
+  offset: 5, 4
+  index: -1
+weibab
+  rotate: 180
+  xy: 1149, 192
+  size: 505, 468
+  orig: 505, 470
+  offset: 0, 0
+  index: -1
+weijin
+  rotate: 180
+  xy: 1750, 4
+  size: 148, 137
+  orig: 156, 148
+  offset: 4, 5
+  index: -1
+weijin_h
+  rotate: false
+  xy: 1015, 598
+  size: 89, 62
+  orig: 99, 75
+  offset: 5, 6
+  index: -1
+xiaotui1
+  rotate: true
+  xy: 1657, 141
+  size: 148, 196
+  orig: 161, 210
+  offset: 8, 6
+  index: -1
+xiaotui11
+  rotate: true
+  xy: 1709, 83
+  size: 163, 192
+  orig: 163, 192
+  offset: 0, 0
+  index: -1
+xiaotui2
+  rotate: true
+  xy: 2, 57
+  size: 140, 183
+  orig: 154, 191
+  offset: 7, 4
+  index: -1
+xiaotui3
+  rotate: false
+  xy: 1408, 74
+  size: 148, 196
+  orig: 161, 210
+  offset: 8, 6
+  index: -1
+xiaotui4
+  rotate: true
+  xy: 169, 57
+  size: 140, 183
+  orig: 154, 191
+  offset: 7, 4
+  index: -1
